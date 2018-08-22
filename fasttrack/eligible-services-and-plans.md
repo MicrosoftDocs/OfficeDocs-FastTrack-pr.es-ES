@@ -3,7 +3,7 @@ title: Servicios y planes elegibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: Cuando adquiera cualquiera de los servicios de Office 365 (como se detalla a continuación en la sección Servicios válidos ), los especialistas de FastTrack le proporcionarán orientación para que se incorpore a Office 365 y comience a usarlos.
-ms.openlocfilehash: 7547cf5528086e287bd3f156e39a5f5532a8fefd
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 2ba931c6aad66cd21bbab140c3550cb4aae0e57d
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499077"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449146"
 ---
 # <a name="eligible-services-and-plans"></a>Servicios y planes elegibles
 
@@ -182,7 +182,7 @@ Los planes no válidos para los servicios de FastTrack son, entre otros, los sig
     
 - Office 365 operado por 21Vianet\*\*
     
-\* Para obtener más información sobre el FastTrack Beneficio para el Gobierno de EE. UU., vea [Office 365 US Government](https://go.microsoft.com/fwlink/?linkid=2005430).
+\* Para obtener más información sobre el FastTrack Beneficio para el Gobierno de EE. UU., vea [Office 365 US Government](https://aka.ms/aboutgovcloud).
   
 \*\* Para obtener más información sobre el beneficio de FastTrack para Office 365 ofrecido por 21Vianet, póngase en contacto con el [soporte técnico de 21Vianet](https://go.microsoft.com/fwlink/?linkid=852156).
   
