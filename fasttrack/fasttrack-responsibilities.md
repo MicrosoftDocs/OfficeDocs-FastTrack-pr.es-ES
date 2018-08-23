@@ -3,7 +3,7 @@ title: Responsabilidades de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 1d1b08663220411b681d79833306a8260dd84c15
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6a332cab1b2ea5bbbd55afa6f2dfa22792578a50
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498947"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449149"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
-Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
+Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.\*
   
 ## <a name="general"></a>General
 
@@ -348,5 +348,5 @@ Proporcionar orientación acerca de:
     
 - Ubicaciones de descarga de Microsoft StaffHub.
     
-
+\*Para obtener información sobre sus responsabilidades de FastTrack con Office 365 Administración Pública, vea [Sus responsabilidades de FastTrack con Office 365 Administración Pública](US-Gov-appendix-fasttrack-responsibilities.md).
 

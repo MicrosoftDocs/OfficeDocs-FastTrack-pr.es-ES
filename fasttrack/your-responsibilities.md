@@ -3,7 +3,7 @@ title: Sus responsabilidades
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: El usuario tiene las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 9d51fdf901d70c780dc3aa2a997e51cb1a0ad232
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6b572bb44edc1b4ae8312cfe1a59cbd005899a8f
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499107"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449143"
 ---
 # <a name="your-responsibilities"></a>Sus responsabilidades
 
-El usuario tiene las siguientes responsabilidades durante la incorporación.
+El usuario tiene las siguientes responsabilidades durante la incorporación.\*
   
 ## <a name="general"></a>General
 
@@ -91,7 +91,7 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
     
 - Participar en la reunión de lanzamiento de la contratación, administrar y liderar a los participantes de la organización, y confirmar las escalas de tiempo de corrección.
     
-- Indicar los objetivos en relación con los servicios de Office 365 (por ejemplo, SharePoint Online, Exchange Online, Yammer Enterprise) y las metas organizativas.
+- Indicar los objetivos en relación con los servicios de Office 365 (por ejemplo, SharePoint Online, Exchange Online, Microsoft Teams y Office 365 ProPlus) y las metas organizativas.
     
 ## <a name="assess-phase"></a>Fase de evaluación
 
@@ -163,6 +163,6 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
     
 - Actualice el certificado de Apple Push Notification Service (APNS).
     
-
+\*Para obtener información sobre sus responsabilidades con Office 365 Administración Pública, vea [Sus responsabilidades con Office 365 Administración Pública](US-Gov-appendix-your-responsibilities.md).
   
 
