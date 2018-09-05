@@ -3,7 +3,7 @@ title: Sus responsabilidades para Office 365 gobierno de Estados Unidos
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: El usuario tiene las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: c0ff252f3aeafcd866d8c506eb08f45c836b8025
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 6f9ec7c77829de607ec4b9bd019667dd2b7e7ef0
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329949"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827978"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Sus responsabilidades para Office 365 gobierno de Estados Unidos
 
@@ -95,7 +95,7 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
     
 - Participar en la reunión de lanzamiento de la contratación, administrar y liderar a los participantes de la organización, y confirmar las escalas de tiempo de corrección.
     
-- Proporcionar los objetivos para los servicios de Office 365 (por ejemplo, SharePoint Online, Exchange Online, Microsoft Teams y Office 365 ProPlus) y objetivos de la organización.
+- Indicar los objetivos en relación con los servicios de Office 365 (por ejemplo, SharePoint Online, Exchange Online, Microsoft Teams y Office 365 ProPlus) y las metas organizativas.
     
 ## <a name="assess-phase"></a>Fase de evaluación
 

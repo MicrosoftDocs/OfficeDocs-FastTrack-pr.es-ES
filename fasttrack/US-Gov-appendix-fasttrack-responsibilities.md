@@ -3,7 +3,7 @@ title: Responsabilidades FastTrack para Office 365 gobierno de Estados Unidos
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 753e8724c379fef5d19b0ffded3713699fd11136
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: c49dda8dafeca909cc183e0539335c0243712bff
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329969"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827998"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades FastTrack para Office 365 gobierno de Estados Unidos
 
@@ -178,7 +178,7 @@ Proporcionar orientación acerca de:
     
 - Configurar las características de SharePoint Online. 
     
-- Proporcionar la migración de datos si se usa el servicio de migración de datos de centro de FastTrack y si se cumplen los requisitos.
+- Proporcionar migración de datos si se usa el servicio de migración de datos del centro FastTrack y se cumplen los requisitos de elegibilidad.
     
 - Evaluar la configuración de infraestructura de granja de SharePoint local necesaria para Entorno híbrido de SharePoint Online. 
     
