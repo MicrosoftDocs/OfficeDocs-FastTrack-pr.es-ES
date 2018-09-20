@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: 'Incorporación de Office 365 para Office 365 gobierno de Estados Unidos tiene cuatro fases principales: iniciar, evaluar, Remediate y habilitar. Puede seguir estas fases con una fase de migración de datos opcional tal como se muestra en la ilustración siguiente.'
-ms.openlocfilehash: da634ef166b2ec2829bf886bf7e32e739f055ebb
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: e3e71d0b6fbb3b9db20f2d43aaf1f88d327dfe14
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828008"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021722"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Incorporación y migración fases para Office 365 gobierno de Estados Unidos
 
@@ -31,12 +31,9 @@ Para tareas detalladas para cada fase, vea [Your responsabilidades para el gobie
 Después de adquirir el número y los tipos de licencias adecuados, siga las instrucciones que se indican en el correo electrónico de confirmación de compra para asociar las licencias a la cuenta empresarial existente o nueva. 
   
 - Puede obtener ayuda en el Centro de administración de Office 365 o en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para obtener ayuda en el Centro de administración de Office 365, el administrador debe iniciar sesión en él y, a continuación, hacer clic en el widget **¿Necesita ayuda?** Para obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), inicie sesión, haga clic en **Servicios** y complete el formulario **Solicitar asistencia para Office 365**. 
-    
     > [!NOTE]
     >  Si un asociado aparece en su espacio empresarial de Office 365, no verá esta opción. Consulte a su asociado para obtener asistencia. 
-  
-- Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para ello, el partner debe iniciar sesión en el sitio, seleccionar el registro del cliente, hacer clic en **Servicios** y completar el formulario **Solicitar asistencia para Office 365**. 
-    
+- Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para ello, el partner debe iniciar sesión en el sitio, seleccionar el registro del cliente, hacer clic en **Servicios** y completar el formulario **Solicitar asistencia para Office 365**.    
 - También puede solicitar ayuda del Centro FastTrack en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en la lista de servicios disponibles para su cuenta empresarial. 
     
 Durante esta fase, analizaremos el proceso de incorporación, comprobaremos los datos y estableceremos una reunión inicial.
@@ -86,21 +83,14 @@ La incorporación de uno o más servicios elegibles puede empezar al finalizar l
 
 En cuanto a Exchange Online, le guiamos a lo largo del proceso para preparar la organización para usar el correo electrónico. Los pasos exactos dependen del entorno de origen y de sus planes de migración de correo electrónico. Pueden incluir instrucciones para:
   
-- Configuración de las características de Exchange Online Protection (EOP) para todos los dominios habilitados para correo que se han validado en Office 365.
-    
+- Configuración de las características de Exchange Online Protection (EOP) para todos los dominios habilitados para correo que se han validado en Office 365.   
     > [!NOTE]
-    > Sus registros de correo Exchange (MX) deben referirse a Office 365. 
-  
-- Configuración de la característica de Protección contra amenazas avanzada de Exchange Online (ATP) si forma parte de su servicio de suscripción una vez que sus registros MX apunten a Office 365. Esta característica está configurada como parte de la configuración antimalware de Protección de Exchange Online.
-    
-- Configuración de puertos del firewall.
-    
-- Configuración de DNS, incluida la detección automática necesaria, el marco de directivas de remitente (SPF) y los registros MX (si procede). 
-    
-- Configuración del flujo de correo electrónico entre su entorno de mensajería de origen y Exchange Online (si procede).
-    
-- Operación de migración de correo desde el entorno de mensajería de origen a Office 365.
-    
+    > Sus registros de correo Exchange (MX) deben referirse a Office 365.   
+- Configuración de la característica de Protección contra amenazas avanzada de Exchange Online (ATP) si forma parte de su servicio de suscripción una vez que sus registros MX apunten a Office 365. Esta característica está configurada como parte de la configuración antimalware de Protección de Exchange Online.   
+- Configuración de puertos del firewall.   
+- Configuración de DNS, incluida la detección automática necesaria, el marco de directivas de remitente (SPF) y los registros MX (si procede).     
+- Configuración del flujo de correo electrónico entre su entorno de mensajería de origen y Exchange Online (si procede).   
+- Operación de migración de correo desde el entorno de mensajería de origen a Office 365.   
     > [!NOTE]
     > Para obtener más información sobre la migración de datos y correo, consulte [Migración de datos](data-migration.md). 
   
@@ -108,14 +98,10 @@ En cuanto a Exchange Online, le guiamos a lo largo del proceso para preparar la 
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online y OneDrive para la Empresa
 
-En cuanto a SharePoint Online y OneDrive para la Empresa, se ofrecen instrucciones para:
-  
-- Configuración de DNS.
-    
-- Configuración de puertos del firewall.
-    
-- Aprovisionamiento de usuarios y licencias.
-    
+En cuanto a SharePoint Online y OneDrive para la Empresa, se ofrecen instrucciones para: 
+- Configuración de DNS.   
+- Configuración de puertos del firewall.   
+- Aprovisionamiento de usuarios y licencias.   
 - Configuración de las características de Entorno híbrido de SharePoint, como la búsqueda híbrida, los sitios híbridos, la taxonomía híbrida, los tipos de contenido, la creación híbrida de sitios sin intervención del administrador (solo SharePoint Server 2013), el iniciador de aplicaciones extendido, OneDrive para la Empresa híbrido y los sitios de extranet.
     
 Los especialistas de FastTrack ofrecen orientación sobre la migración de datos a Office 365 mediante una combinación de herramientas y documentación, además de realizar una serie de tareas de configuración cuando corresponda y sea factible.
@@ -130,18 +116,12 @@ En cuanto a OneDrive para la Empresa, los pasos dependen de si actualmente usa S
   
 ## <a name="skype-for-business-online"></a>Skype Empresarial Online
 
-En cuanto a Skype Empresarial Online, se ofrecen instrucciones para:
-  
-- Configuración de puertos del firewall.
-    
-- Configuración de DNS.
-    
-- Creación de cuentas para cualquier dispositivo del sistema de la sala.
-    
-- Implementación de un cliente de Skype Empresarial Online compatible.
-    
+En cuanto a Skype Empresarial Online, se ofrecen instrucciones para: 
+- Configuración de puertos del firewall.    
+- Configuración de DNS.    
+- Creación de cuentas para cualquier dispositivo del sistema de la sala.    
+- Implementación de un cliente de Skype Empresarial Online compatible.   
 - Establecer la configuración del servidor de dominio dividido entre su local Lync 2010, Lync 2013, o Skype para entorno de servidor empresarial 2015 y Skype para profesionales Online inquilino (si procede).
-
 - Habilitación de planes de llamada, Skype difusión de reunión y sistema telefónico y los planes de llamada (en mercados disponibles – no está disponibles en los planes de GCC alta o DoD). 
     
 ![Pasos de la incorporación de Lync durante la fase 1 de habilitación](media/O365-Onboarding-Enable-Lync.png)
@@ -153,38 +133,26 @@ En cuanto a Skype Empresarial Online, se ofrecen instrucciones para:
 > [!NOTE]
 > El siguiente no está disponible en los planes de GCC alta o DoD.
 
-En cuanto a Microsoft Teams, se ofrecen instrucciones para:
-  
-- Confirmación de requisitos mínimos.
-    
-- Configuración de puertos del firewall.
-    
-- Configuración de DNS.
-    
-- Confirmando que se ha habilitado Microsoft Teams en su espacio empresarial de Office 365.
-    
+En cuanto a Microsoft Teams, se ofrecen instrucciones para: 
+- Confirmación de requisitos mínimos.   
+- Configuración de puertos del firewall.   
+- Configuración de DNS.  
+- Confirmando que se ha habilitado Microsoft Teams en su espacio empresarial de Office 365.    
 - Habilitar o deshabilitar licencias de usuario.
     
 ![Diagrama de equipos de Microsoft FastTrack (fase de habilitación)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-En cuanto a Power BI, se ofrecen instrucciones para: 
-  
-- Asignación de licencias de Power BI.
-    
-- Implementación de la aplicación Power BI Desktop.
-    
+En cuanto a Power BI, se ofrecen instrucciones para:  
+- Asignación de licencias de Power BI.    
+- Implementación de la aplicación Power BI Desktop.   
 ## <a name="project-online"></a>Project Online
 
-En cuanto a Project Online, se ofrecen instrucciones para:
-  
-- Comprobación de la funcionalidad básica de SharePoint que se basa en Project Online.
-    
-- Adición del servicio de Project Online al espacio empresarial (incluida la adición de las suscripciones a los usuarios).
-    
-- Configuración del grupo de recursos de empresa (ERP).
-    
+En cuanto a Project Online, se ofrecen instrucciones para: 
+- Comprobación de la funcionalidad básica de SharePoint que se basa en Project Online.    
+- Adición del servicio de Project Online al espacio empresarial (incluida la adición de las suscripciones a los usuarios).    
+- Configuración del grupo de recursos de empresa (ERP).   
 - Creación del primer proyecto. 
     
 ![Pasos que se producen durante la fase de habilitación para Project Online](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
@@ -198,20 +166,13 @@ En cuanto a Yammer, se ofrecen instrucciones para habilitar el servicio de Yamme
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
-En cuanto a Office 365 ProPlus, se ofrecen instrucciones para:
-  
-- Solucionar los problemas de implementación.
-    
-- Asignar licencias de usuario final mediante el Centro de administración de Office 365 y Windows PowerShell.
-    
-- Instalar Office 365 ProPlus desde el Portal de Office 365 con la opción Hacer clic y ejecutar
-    
-- Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en sus dispositivos de iOS, Android, o Windows Mobile. 
-    
-- Configurar las opciones de actualización mediante la Herramienta de implementación de Office.
-    
-- Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office.
-    
+En cuanto a Office 365 ProPlus, se ofrecen instrucciones para: 
+- Solucionar los problemas de implementación.    
+- Asignar licencias de usuario final mediante el Centro de administración de Office 365 y Windows PowerShell.    
+- Instalar Office 365 ProPlus desde el Portal de Office 365 con la opción Hacer clic y ejecutar    
+- Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en sus dispositivos de iOS, Android, o Windows Mobile.   
+- Configurar las opciones de actualización mediante la Herramienta de implementación de Office.    
+- Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office.    
 - Implementar mediante Microsoft System Center Configuration Manager, incluida la ayuda con la creación del empaquetado de Administrador de configuración de System Center.
     
 ![Pasos de la incorporación de Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
