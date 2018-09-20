@@ -11,322 +11,201 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: c49dda8dafeca909cc183e0539335c0243712bff
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 7d1ed63bc4986238b649669788c6790c49b962be
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23827998"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021642"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a><span data-ttu-id="ad159-103">Responsabilidades FastTrack para Office 365 gobierno de Estados Unidos</span><span class="sxs-lookup"><span data-stu-id="ad159-103">FastTrack Responsibilities for Office 365 US Government</span></span>
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a><span data-ttu-id="c850a-103">Responsabilidades FastTrack para Office 365 gobierno de Estados Unidos</span><span class="sxs-lookup"><span data-stu-id="c850a-103">FastTrack Responsibilities for Office 365 US Government</span></span>
 
-<span data-ttu-id="ad159-104">Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.</span><span class="sxs-lookup"><span data-stu-id="ad159-104">FastTrack Specialists have the following responsibilities during onboarding.</span></span>
+<span data-ttu-id="c850a-104">Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.</span><span class="sxs-lookup"><span data-stu-id="c850a-104">FastTrack Specialists have the following responsibilities during onboarding.</span></span>
   
-## <a name="general"></a><span data-ttu-id="ad159-105">General</span><span class="sxs-lookup"><span data-stu-id="ad159-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="c850a-105">General</span><span class="sxs-lookup"><span data-stu-id="c850a-105">General</span></span>
 
-- <span data-ttu-id="ad159-106">Proporcionar soporte técnico remoto para que planee satisfactoriamente el desarrollo y la implementación, así como para las actividades de configuración necesarias, tal y como se detalla en las descripciones de las fases.</span><span class="sxs-lookup"><span data-stu-id="ad159-106">Provide remote support assistance to you in success planning development and implementation, and for the required configuration activities as detailed in the phase descriptions.</span></span>
+- <span data-ttu-id="c850a-106">Proporcionar soporte técnico remoto para que planee satisfactoriamente el desarrollo y la implementación, así como para las actividades de configuración necesarias, tal y como se detalla en las descripciones de las fases.</span><span class="sxs-lookup"><span data-stu-id="c850a-106">Provide remote support assistance to you in success planning development and implementation, and for the required configuration activities as detailed in the phase descriptions.</span></span>
+- <span data-ttu-id="c850a-107">Proporcione la documentación y las herramientas de software disponibles, consolas de administración y guiones para proporcionarle ayuda para reducir o eliminar las tareas de configuración y los recursos de planificación correctos.</span><span class="sxs-lookup"><span data-stu-id="c850a-107">Provide available documentation and software tools, admin consoles, and scripts to provide guidance for you to reduce or eliminate configuration tasks, and success planning resources.</span></span> 
     
-- <span data-ttu-id="ad159-107">Proporcione la documentación y las herramientas de software disponibles, consolas de administración y guiones para proporcionarle ayuda para reducir o eliminar las tareas de configuración y los recursos de planificación correctos.</span><span class="sxs-lookup"><span data-stu-id="ad159-107">Provide available documentation and software tools, admin consoles, and scripts to provide guidance for you to reduce or eliminate configuration tasks, and success planning resources.</span></span> 
-    
-## <a name="initiate-phase"></a><span data-ttu-id="ad159-108">Fase de inicio</span><span class="sxs-lookup"><span data-stu-id="ad159-108">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="c850a-108">Fase de inicio</span><span class="sxs-lookup"><span data-stu-id="c850a-108">Initiate phase</span></span>
 
-- <span data-ttu-id="ad159-109">Trabajar con usted para conocer su propósito, los objetivos de la organización y los planes de uso del servicio.</span><span class="sxs-lookup"><span data-stu-id="ad159-109">Work with you to understand your intent, organizational goals, and usage plans for the service.</span></span>
+- <span data-ttu-id="c850a-109">Trabajar con usted para conocer su propósito, los objetivos de la organización y los planes de uso del servicio.</span><span class="sxs-lookup"><span data-stu-id="c850a-109">Work with you to understand your intent, organizational goals, and usage plans for the service.</span></span> 
+- <span data-ttu-id="c850a-110">Trabajar con usted mediante los servicios de colaboración de Office 365 (como Microsoft Teams) para empezar la incorporación.</span><span class="sxs-lookup"><span data-stu-id="c850a-110">Work with you using Office 365 collaboration services (like Microsoft Teams) to begin onboarding.</span></span> 
+- <span data-ttu-id="c850a-111">Definir qué servicios elegibles desea incorporar.</span><span class="sxs-lookup"><span data-stu-id="c850a-111">Define which eligible services you want to onboard.</span></span> 
     
-- <span data-ttu-id="ad159-110">Trabajar con usted mediante los servicios de colaboración de Office 365 (como Microsoft Teams) para empezar la incorporación.</span><span class="sxs-lookup"><span data-stu-id="ad159-110">Work with you using Office 365 collaboration services (like Microsoft Teams) to begin onboarding.</span></span> 
-    
-- <span data-ttu-id="ad159-111">Definir qué servicios elegibles desea incorporar.</span><span class="sxs-lookup"><span data-stu-id="ad159-111">Define which eligible services you want to onboard.</span></span> 
-    
-## <a name="assess-phase"></a><span data-ttu-id="ad159-112">Fase de evaluación</span><span class="sxs-lookup"><span data-stu-id="ad159-112">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="c850a-112">Fase de evaluación</span><span class="sxs-lookup"><span data-stu-id="c850a-112">Assess phase</span></span>
 
-- <span data-ttu-id="ad159-113">Mantener una llamada sobre la correcta planificación para ayudar a mejorar para la aceptación por parte de los usuarios.</span><span class="sxs-lookup"><span data-stu-id="ad159-113">Hold a success planning call to provide guidance with you for successful user adoption.</span></span>
+- <span data-ttu-id="c850a-113">Mantener una llamada sobre la correcta planificación para ayudar a mejorar para la aceptación por parte de los usuarios.</span><span class="sxs-lookup"><span data-stu-id="c850a-113">Hold a success planning call to provide guidance with you for successful user adoption.</span></span>  
+- <span data-ttu-id="c850a-114">Proporcionar información general administrativa.</span><span class="sxs-lookup"><span data-stu-id="c850a-114">Provide an administrative overview.</span></span>  
+- <span data-ttu-id="c850a-115">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="c850a-115">Provide guidance about:</span></span> 
+  - <span data-ttu-id="c850a-116">Necesidades de sistema de nombres de dominio (DNS), red e infraestructura.</span><span class="sxs-lookup"><span data-stu-id="c850a-116">Domain Name System (DNS), network, and infrastructure needs.</span></span>  
+  - <span data-ttu-id="c850a-117">Necesidades del cliente (explorador de Internet, sistema operativo de cliente, dispositivo móvil y necesidades de servicios).</span><span class="sxs-lookup"><span data-stu-id="c850a-117">Client needs (internet browser, client operating system, mobile device, and services' needs).</span></span>
+  - <span data-ttu-id="c850a-118">Identidad y aprovisionamiento de usuarios.</span><span class="sxs-lookup"><span data-stu-id="c850a-118">User identity and provisioning.</span></span> 
+  - <span data-ttu-id="c850a-119">Habilitar los servicios elegibles adquiridos y definidos como parte de la incorporación.</span><span class="sxs-lookup"><span data-stu-id="c850a-119">Enabling eligible services that are purchased and defined as a part of onboarding.</span></span>
+  - <span data-ttu-id="c850a-120">Impulsar el valor y la adopción de servicios correctos.</span><span class="sxs-lookup"><span data-stu-id="c850a-120">Driving successful service adoption and value.</span></span>   
+- <span data-ttu-id="c850a-121">Establecer la escala de tiempo para las actividades de corrección.</span><span class="sxs-lookup"><span data-stu-id="c850a-121">Establish the timeline for remediation activities.</span></span>
+- <span data-ttu-id="c850a-122">Proporcionar una lista de comprobación de corrección.</span><span class="sxs-lookup"><span data-stu-id="c850a-122">Provide a remediation checklist.</span></span>   
+- <span data-ttu-id="c850a-123">Evaluar la infraestructura existente SharePoint Server 2013 o SharePoint Server 2016 la infraestructura incluido:</span><span class="sxs-lookup"><span data-stu-id="c850a-123">Assess the existing SharePoint Server 2013 or SharePoint Server 2016 infrastructure including:</span></span>  
+  - <span data-ttu-id="c850a-124">Requisitos previos para Entorno híbrido de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="c850a-124">Prerequisites for SharePoint Online Hybrid.</span></span>  
+  - <span data-ttu-id="c850a-125">Preparación de la infraestructura local para características de Entorno híbrido de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="c850a-125">On-premises infrastructure readiness for SharePoint Online Hybrid features.</span></span>  
+  - <span data-ttu-id="c850a-126">Acceso a los extremos requeridos de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="c850a-126">Access to required SharePoint Online endpoints.</span></span> 
+  - <span data-ttu-id="c850a-127">Audiencias para OneDrive para la Empresa híbrido.</span><span class="sxs-lookup"><span data-stu-id="c850a-127">Audiences for OneDrive for Business Hybrid.</span></span>    
+- <span data-ttu-id="c850a-128">Evaluar la infraestructura existente de Lync o Skype Empresarial Online, que incluye:</span><span class="sxs-lookup"><span data-stu-id="c850a-128">Assess the existing Lync or Skype for Business Online infrastructure including:</span></span>  
+  - <span data-ttu-id="c850a-129">Estrategia de implementación de un cliente de Skype Empresarial compatible.</span><span class="sxs-lookup"><span data-stu-id="c850a-129">Supported Skype for Business client deployment strategy.</span></span>  
+  - <span data-ttu-id="c850a-130">Acceso a los puntos de conexión.</span><span class="sxs-lookup"><span data-stu-id="c850a-130">Access to endpoints.</span></span>  
+  - <span data-ttu-id="c850a-131">Calidad de la conexión.</span><span class="sxs-lookup"><span data-stu-id="c850a-131">Connection quality.</span></span>  
+  - <span data-ttu-id="c850a-132">Estimaciones de ancho de banda.</span><span class="sxs-lookup"><span data-stu-id="c850a-132">Bandwidth estimates.</span></span>  
+  - <span data-ttu-id="c850a-133">Requisitos previos para admitir la configuración del servidor de dominio dividido.</span><span class="sxs-lookup"><span data-stu-id="c850a-133">Prerequisites to support split domain server configuration.</span></span>  
+  - <span data-ttu-id="c850a-134">Preparación de los usuarios identificados para mover a Skype Empresarial Online.</span><span class="sxs-lookup"><span data-stu-id="c850a-134">Readiness of identified users to move onto Skype for Business Online.</span></span>  
+- <span data-ttu-id="c850a-135">Evaluar la infraestructura de mensajería, incluidos:</span><span class="sxs-lookup"><span data-stu-id="c850a-135">Assess the messaging infrastructure, including:</span></span>   
+  - <span data-ttu-id="c850a-136">Flujo de correo y principios de enrutamiento generales.</span><span class="sxs-lookup"><span data-stu-id="c850a-136">Overall mail flow and routing principles.</span></span>  
+  - <span data-ttu-id="c850a-137">Acceso de clientes (incluidos los extremos existentes de acceso de cliente publicados).</span><span class="sxs-lookup"><span data-stu-id="c850a-137">Client access (including existing published client-access endpoints).</span></span>  
+  - <span data-ttu-id="c850a-138">Entorno de mensajería de origen para las necesidades de integración.</span><span class="sxs-lookup"><span data-stu-id="c850a-138">Source messaging environment for integration needs.</span></span> 
+- <span data-ttu-id="c850a-139">Proporcionar migración de datos si se usa el servicio de migración de datos del centro FastTrack y se cumplen los requisitos de elegibilidad.</span><span class="sxs-lookup"><span data-stu-id="c850a-139">Provide data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
     
-- <span data-ttu-id="ad159-114">Proporcionar información general administrativa.</span><span class="sxs-lookup"><span data-stu-id="ad159-114">Provide an administrative overview.</span></span>
-    
-- <span data-ttu-id="ad159-115">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="ad159-115">Provide guidance about:</span></span> 
-    
-  - <span data-ttu-id="ad159-116">Necesidades de sistema de nombres de dominio (DNS), red e infraestructura.</span><span class="sxs-lookup"><span data-stu-id="ad159-116">Domain Name System (DNS), network, and infrastructure needs.</span></span>
-    
-  - <span data-ttu-id="ad159-117">Necesidades del cliente (explorador de Internet, sistema operativo de cliente, dispositivo móvil y necesidades de servicios).</span><span class="sxs-lookup"><span data-stu-id="ad159-117">Client needs (internet browser, client operating system, mobile device, and services' needs).</span></span>
-    
-  - <span data-ttu-id="ad159-118">Identidad y aprovisionamiento de usuarios.</span><span class="sxs-lookup"><span data-stu-id="ad159-118">User identity and provisioning.</span></span>
-    
-  - <span data-ttu-id="ad159-119">Habilitar los servicios elegibles adquiridos y definidos como parte de la incorporación.</span><span class="sxs-lookup"><span data-stu-id="ad159-119">Enabling eligible services that are purchased and defined as a part of onboarding.</span></span>
-    
-  - <span data-ttu-id="ad159-120">Impulsar el valor y la adopción de servicios correctos.</span><span class="sxs-lookup"><span data-stu-id="ad159-120">Driving successful service adoption and value.</span></span>
-    
-- <span data-ttu-id="ad159-121">Establecer la escala de tiempo para las actividades de corrección.</span><span class="sxs-lookup"><span data-stu-id="ad159-121">Establish the timeline for remediation activities.</span></span>
-    
-- <span data-ttu-id="ad159-122">Proporcionar una lista de comprobación de corrección.</span><span class="sxs-lookup"><span data-stu-id="ad159-122">Provide a remediation checklist.</span></span> 
-    
-- <span data-ttu-id="ad159-123">Evaluar la infraestructura existente SharePoint Server 2013 o SharePoint Server 2016 la infraestructura incluido:</span><span class="sxs-lookup"><span data-stu-id="ad159-123">Assess the existing SharePoint Server 2013 or SharePoint Server 2016 infrastructure including:</span></span>
-    
-  - <span data-ttu-id="ad159-124">Requisitos previos para Entorno híbrido de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="ad159-124">Prerequisites for SharePoint Online Hybrid.</span></span> 
-    
-  - <span data-ttu-id="ad159-125">Preparación de la infraestructura local para características de Entorno híbrido de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="ad159-125">On-premises infrastructure readiness for SharePoint Online Hybrid features.</span></span>
-    
-  - <span data-ttu-id="ad159-126">Acceso a los extremos requeridos de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="ad159-126">Access to required SharePoint Online endpoints.</span></span>
-    
-  - <span data-ttu-id="ad159-127">Audiencias para OneDrive para la Empresa híbrido.</span><span class="sxs-lookup"><span data-stu-id="ad159-127">Audiences for OneDrive for Business Hybrid.</span></span> 
-    
-- <span data-ttu-id="ad159-128">Evaluar la infraestructura existente de Lync o Skype Empresarial Online, que incluye:</span><span class="sxs-lookup"><span data-stu-id="ad159-128">Assess the existing Lync or Skype for Business Online infrastructure including:</span></span>
-    
-  - <span data-ttu-id="ad159-129">Estrategia de implementación de un cliente de Skype Empresarial compatible.</span><span class="sxs-lookup"><span data-stu-id="ad159-129">Supported Skype for Business client deployment strategy.</span></span>
-    
-  - <span data-ttu-id="ad159-130">Acceso a los puntos de conexión.</span><span class="sxs-lookup"><span data-stu-id="ad159-130">Access to endpoints.</span></span>
-    
-  - <span data-ttu-id="ad159-131">Calidad de la conexión.</span><span class="sxs-lookup"><span data-stu-id="ad159-131">Connection quality.</span></span>
-    
-  - <span data-ttu-id="ad159-132">Estimaciones de ancho de banda.</span><span class="sxs-lookup"><span data-stu-id="ad159-132">Bandwidth estimates.</span></span>
-    
-  - <span data-ttu-id="ad159-133">Requisitos previos para admitir la configuración del servidor de dominio dividido.</span><span class="sxs-lookup"><span data-stu-id="ad159-133">Prerequisites to support split domain server configuration.</span></span>
-    
-  - <span data-ttu-id="ad159-134">Preparación de los usuarios identificados para mover a Skype Empresarial Online.</span><span class="sxs-lookup"><span data-stu-id="ad159-134">Readiness of identified users to move onto Skype for Business Online.</span></span>
-    
-- <span data-ttu-id="ad159-135">Evaluar la infraestructura de mensajería, incluidos:</span><span class="sxs-lookup"><span data-stu-id="ad159-135">Assess the messaging infrastructure, including:</span></span> 
-    
-  - <span data-ttu-id="ad159-136">Flujo de correo y principios de enrutamiento generales.</span><span class="sxs-lookup"><span data-stu-id="ad159-136">Overall mail flow and routing principles.</span></span>
-    
-  - <span data-ttu-id="ad159-137">Acceso de clientes (incluidos los extremos existentes de acceso de cliente publicados).</span><span class="sxs-lookup"><span data-stu-id="ad159-137">Client access (including existing published client-access endpoints).</span></span>
-    
-  - <span data-ttu-id="ad159-138">Entorno de mensajería de origen para las necesidades de integración.</span><span class="sxs-lookup"><span data-stu-id="ad159-138">Source messaging environment for integration needs.</span></span>
-    
-- <span data-ttu-id="ad159-139">Proporcionar migración de datos si se usa el servicio de migración de datos del centro FastTrack y se cumplen los requisitos de elegibilidad.</span><span class="sxs-lookup"><span data-stu-id="ad159-139">Provide data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
-    
-## <a name="remediate-phase"></a><span data-ttu-id="ad159-140">Fase de corrección</span><span class="sxs-lookup"><span data-stu-id="ad159-140">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="c850a-140">Fase de corrección</span><span class="sxs-lookup"><span data-stu-id="c850a-140">Remediate phase</span></span>
 
-- <span data-ttu-id="ad159-141">Mantener llamadas de conferencia con usted según la planificación acordada para revisar el progreso de las actividades de corrección y la correcta planeación.</span><span class="sxs-lookup"><span data-stu-id="ad159-141">Hold conference calls with you according to the agreed schedule to review the progress of the remediation activities and success planning.</span></span> 
+- <span data-ttu-id="c850a-141">Mantener llamadas de conferencia con usted según la planificación acordada para revisar el progreso de las actividades de corrección y la correcta planeación.</span><span class="sxs-lookup"><span data-stu-id="c850a-141">Hold conference calls with you according to the agreed schedule to review the progress of the remediation activities and success planning.</span></span>   
+- <span data-ttu-id="c850a-142">Guiarle en la ejecución de las herramientas de evaluación para identificar y corregir problemas e interpretar los resultados.</span><span class="sxs-lookup"><span data-stu-id="c850a-142">Guide you through running assessment tools to identify and remediate issues and interpret the results.</span></span>
     
-- <span data-ttu-id="ad159-142">Guiarle en la ejecución de las herramientas de evaluación para identificar y corregir problemas e interpretar los resultados.</span><span class="sxs-lookup"><span data-stu-id="ad159-142">Guide you through running assessment tools to identify and remediate issues and interpret the results.</span></span>
-    
-## <a name="enable-phase"></a><span data-ttu-id="ad159-143">Fase de habilitación</span><span class="sxs-lookup"><span data-stu-id="ad159-143">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="c850a-143">Fase de habilitación</span><span class="sxs-lookup"><span data-stu-id="c850a-143">Enable phase</span></span>
 
-<span data-ttu-id="ad159-144">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="ad159-144">Provide guidance about:</span></span> 
-  
-- <span data-ttu-id="ad159-145">Evaluar el progreso del éxito de la planeación y averiguar si necesita más ayuda.</span><span class="sxs-lookup"><span data-stu-id="ad159-145">Evaluating progress on success planning and determining what further assistance you need.</span></span>
-    
-- <span data-ttu-id="ad159-146">Activar el espacio empresarial de Office 365.</span><span class="sxs-lookup"><span data-stu-id="ad159-146">Activating your Office 365 tenant.</span></span>
-    
-- <span data-ttu-id="ad159-147">Configurar los protocolos TCP/IP y puertos del firewall.</span><span class="sxs-lookup"><span data-stu-id="ad159-147">Configuring TCP/IP protocols and firewall ports.</span></span>
-    
-- <span data-ttu-id="ad159-148">Configurar el DNS para los servicios pertinentes.</span><span class="sxs-lookup"><span data-stu-id="ad159-148">Configuring DNS for eligible services.</span></span>
-    
-- <span data-ttu-id="ad159-149">Validar la conectividad con Office 365.</span><span class="sxs-lookup"><span data-stu-id="ad159-149">Validating connectivity to Office 365.</span></span>
-    
-- <span data-ttu-id="ad159-150">Conectar Active Directory local con Azure Active Directory:</span><span class="sxs-lookup"><span data-stu-id="ad159-150">Connecting your on-premises Active Directory with Azure Active Directory:</span></span>
-    
-  - <span data-ttu-id="ad159-151">Instalar un servidor de sincronización de directorios entre los Servicios de dominio de Active Directory (AD DS) y Office 365 (en caso necesario).</span><span class="sxs-lookup"><span data-stu-id="ad159-151">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and Office 365, if required.</span></span> 
-    
-  - <span data-ttu-id="ad159-152">Configurar la sincronización de contraseña (hash de contraseña) a Office 365 (Azure Active Directory) con la herramienta Azure Active Directory Connect, si es necesario.</span><span class="sxs-lookup"><span data-stu-id="ad159-152">Configuring password synchronization (password hash) to Office 365 (Azure Active Directory) with the Azure Active Directory Connect tool, if required.</span></span>
-    
-  - <span data-ttu-id="ad159-153">Para los entornos de uno y varios bosques:</span><span class="sxs-lookup"><span data-stu-id="ad159-153">For single- and multiple-forest environments:</span></span>
-    
-      - <span data-ttu-id="ad159-154">Configuración de autenticación de paso a través de Active Directory activo Azure, si necesita (no está disponible en los planes de GCC alta o DoD).</span><span class="sxs-lookup"><span data-stu-id="ad159-154">Configuring Azure Active Directory Pass-through Authentication, if required (not available in GCC High or DoD plans).</span></span>
-    
-      - <span data-ttu-id="ad159-155">Configurar Azure Active Directory perfecta único Sign-On (SSO), si requiere (no disponible en los planes de GCC alta o DoD).</span><span class="sxs-lookup"><span data-stu-id="ad159-155">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required (not available in GCC High or DoD plans).</span></span>
-    
+<span data-ttu-id="c850a-144">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="c850a-144">Provide guidance about:</span></span> 
+- <span data-ttu-id="c850a-145">Evaluar el progreso del éxito de la planeación y averiguar si necesita más ayuda.</span><span class="sxs-lookup"><span data-stu-id="c850a-145">Evaluating progress on success planning and determining what further assistance you need.</span></span>    
+- <span data-ttu-id="c850a-146">Activar el espacio empresarial de Office 365.</span><span class="sxs-lookup"><span data-stu-id="c850a-146">Activating your Office 365 tenant.</span></span>
+- <span data-ttu-id="c850a-147">Configurar los protocolos TCP/IP y puertos del firewall.</span><span class="sxs-lookup"><span data-stu-id="c850a-147">Configuring TCP/IP protocols and firewall ports.</span></span>   
+- <span data-ttu-id="c850a-148">Configurar el DNS para los servicios pertinentes.</span><span class="sxs-lookup"><span data-stu-id="c850a-148">Configuring DNS for eligible services.</span></span>   
+- <span data-ttu-id="c850a-149">Validar la conectividad con Office 365.</span><span class="sxs-lookup"><span data-stu-id="c850a-149">Validating connectivity to Office 365.</span></span>   
+- <span data-ttu-id="c850a-150">Conectar Active Directory local con Azure Active Directory:</span><span class="sxs-lookup"><span data-stu-id="c850a-150">Connecting your on-premises Active Directory with Azure Active Directory:</span></span>   
+  - <span data-ttu-id="c850a-151">Instalar un servidor de sincronización de directorios entre los Servicios de dominio de Active Directory (AD DS) y Office 365 (en caso necesario).</span><span class="sxs-lookup"><span data-stu-id="c850a-151">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and Office 365, if required.</span></span>   
+  - <span data-ttu-id="c850a-152">Configurar la sincronización de contraseña (hash de contraseña) a Office 365 (Azure Active Directory) con la herramienta Azure Active Directory Connect, si es necesario.</span><span class="sxs-lookup"><span data-stu-id="c850a-152">Configuring password synchronization (password hash) to Office 365 (Azure Active Directory) with the Azure Active Directory Connect tool, if required.</span></span>  
+  - <span data-ttu-id="c850a-153">Para los entornos de uno y varios bosques:</span><span class="sxs-lookup"><span data-stu-id="c850a-153">For single- and multiple-forest environments:</span></span>
+      - <span data-ttu-id="c850a-154">Configuración de autenticación de paso a través de Active Directory activo Azure, si necesita (no está disponible en los planes de GCC alta o DoD).</span><span class="sxs-lookup"><span data-stu-id="c850a-154">Configuring Azure Active Directory Pass-through Authentication, if required (not available in GCC High or DoD plans).</span></span>
+      - <span data-ttu-id="c850a-155">Configurar Azure Active Directory perfecta único Sign-On (SSO), si requiere (no disponible en los planes de GCC alta o DoD).</span><span class="sxs-lookup"><span data-stu-id="c850a-155">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required (not available in GCC High or DoD plans).</span></span>
     > [!NOTE]
-    > <span data-ttu-id="ad159-p101">La autenticación de paso a través de Azure Active Directory para entornos de varios bosques se admite si hay confianzas entre sus bosques de Active Directory y si el enrutamiento de sufijo de nombre se ha configurado correctamente. Con el objetivo de poder proporcionar una disponibilidad alta para las solicitudes de inicio de sesión, pueden instalarse agentes adicionales en varios servidores locales. Para obtener más información, vea [Autenticación de paso a través de Azure Active Directory: inicio rápido](https://go.microsoft.com/fwlink/?linkid=860094) y [Inicio de sesión único de conexión directa de Azure Active Directory: Guía de inicio rápido](https://go.microsoft.com/fwlink/?linkid=860095).</span><span class="sxs-lookup"><span data-stu-id="ad159-p101">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095).</span></span> 
-  
+    > <span data-ttu-id="c850a-p101">La autenticación de paso a través de Azure Active Directory para entornos de varios bosques se admite si hay confianzas entre sus bosques de Active Directory y si el enrutamiento de sufijo de nombre se ha configurado correctamente. Con el objetivo de poder proporcionar una disponibilidad alta para las solicitudes de inicio de sesión, pueden instalarse agentes adicionales en varios servidores locales. Para obtener más información, vea [Autenticación de paso a través de Azure Active Directory: inicio rápido](https://go.microsoft.com/fwlink/?linkid=860094) y [Inicio de sesión único de conexión directa de Azure Active Directory: Guía de inicio rápido](https://go.microsoft.com/fwlink/?linkid=860095).</span><span class="sxs-lookup"><span data-stu-id="c850a-p101">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). </span></span>[!NOTE]
+    > <span data-ttu-id="c850a-p102">Para más información sobre los límites de la autenticación de paso a través, vea [Autenticación de paso a través de Azure Active Directory: Limitaciones actuales](https://go.microsoft.com/fwlink/?linkid=860356).</span><span class="sxs-lookup"><span data-stu-id="c850a-p102">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). </span></span>[!NOTE]
+    > <span data-ttu-id="c850a-160">Para obtener más información sobre los problemas del inicio de sesión único de conexión directa, vea [Solución de problemas de inicio de sesión único de conexión directa de Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=841926).</span><span class="sxs-lookup"><span data-stu-id="c850a-160">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://go.microsoft.com/fwlink/?linkid=841926).</span></span> 
+- <span data-ttu-id="c850a-161">Para un único bosque cuando las identidades federadas son el destino:</span><span class="sxs-lookup"><span data-stu-id="c850a-161">For a single forest when federated identities is the target:</span></span> 
+  - <span data-ttu-id="c850a-162">Instalar y configurar AD FS para la autenticación de dominios local con Office 365 en una configuración de sitio único y tolerante a errores, si es necesario.</span><span class="sxs-lookup"><span data-stu-id="c850a-162">Installing and configuring AD FS for local domain authentication with Office 365 in a single-site, fault-tolerant configuration, if required.</span></span>  
+  - <span data-ttu-id="c850a-163">Instalar y configurar WAP para publicar la infraestructura de AD FS en Internet, cuando sea necesario.</span><span class="sxs-lookup"><span data-stu-id="c850a-163">Installing and configuring WAP for publishing your AD FS infrastructure to the internet, when necessary.</span></span> 
     > [!NOTE]
-    > <span data-ttu-id="ad159-159">Para más información sobre los límites de la autenticación de paso a través, vea [Autenticación de paso a través de Azure Active Directory: Limitaciones actuales](https://go.microsoft.com/fwlink/?linkid=860356).</span><span class="sxs-lookup"><span data-stu-id="ad159-159">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356).</span></span> 
-  
-    > [!NOTE]
-    > <span data-ttu-id="ad159-160">Para obtener más información sobre los problemas del inicio de sesión único de conexión directa, vea [Solución de problemas de inicio de sesión único de conexión directa de Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=841926).</span><span class="sxs-lookup"><span data-stu-id="ad159-160">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://go.microsoft.com/fwlink/?linkid=841926).</span></span> 
-  
-- <span data-ttu-id="ad159-161">Para un único bosque cuando las identidades federadas son el destino:</span><span class="sxs-lookup"><span data-stu-id="ad159-161">For a single forest when federated identities is the target:</span></span> 
+    > <span data-ttu-id="c850a-164">En todas las configuraciones de varios bosques, las implementaciones de AD FS quedan fuera del ámbito.</span><span class="sxs-lookup"><span data-stu-id="c850a-164">For all multiple forests configurations, AD FS deployments are out-of-scope.</span></span> 
+- <span data-ttu-id="c850a-165">Probar la funcionalidad de SSO si se ha implementado.</span><span class="sxs-lookup"><span data-stu-id="c850a-165">Testing SSO functionality if deployed.</span></span>   
+- <span data-ttu-id="c850a-166">Impulsar el valor y la adopción de servicios correctos.</span><span class="sxs-lookup"><span data-stu-id="c850a-166">Driving successful service adoption and value.</span></span>
     
-  - <span data-ttu-id="ad159-162">Instalar y configurar AD FS para la autenticación de dominios local con Office 365 en una configuración de sitio único y tolerante a errores, si es necesario.</span><span class="sxs-lookup"><span data-stu-id="ad159-162">Installing and configuring AD FS for local domain authentication with Office 365 in a single-site, fault-tolerant configuration, if required.</span></span>
-    
-  - <span data-ttu-id="ad159-163">Instalar y configurar WAP para publicar la infraestructura de AD FS en Internet, cuando sea necesario.</span><span class="sxs-lookup"><span data-stu-id="ad159-163">Installing and configuring WAP for publishing your AD FS infrastructure to the internet, when necessary.</span></span>
-    
-    > [!NOTE]
-    > <span data-ttu-id="ad159-164">En todas las configuraciones de varios bosques, las implementaciones de AD FS quedan fuera del ámbito.</span><span class="sxs-lookup"><span data-stu-id="ad159-164">For all multiple forests configurations, AD FS deployments are out-of-scope.</span></span> 
-  
-- <span data-ttu-id="ad159-165">Probar la funcionalidad de SSO si se ha implementado.</span><span class="sxs-lookup"><span data-stu-id="ad159-165">Testing SSO functionality if deployed.</span></span>
-    
-- <span data-ttu-id="ad159-166">Impulsar el valor y la adopción de servicios correctos.</span><span class="sxs-lookup"><span data-stu-id="ad159-166">Driving successful service adoption and value.</span></span>
-    
-## <a name="exchange-online"></a><span data-ttu-id="ad159-167">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="ad159-167">Exchange Online</span></span>
+## <a name="exchange-online"></a><span data-ttu-id="c850a-167">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="c850a-167">Exchange Online</span></span>
 
-<span data-ttu-id="ad159-168">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="ad159-168">Provide guidance about:</span></span>
+<span data-ttu-id="c850a-168">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="c850a-168">Provide guidance about:</span></span> 
+- <span data-ttu-id="c850a-169">Crear o actualizar los registros DNS.</span><span class="sxs-lookup"><span data-stu-id="c850a-169">Creating or updating DNS records.</span></span>    
+- <span data-ttu-id="c850a-170">Habilitar el enrutamiento de correo electrónico entre el sistema de mensajería de origen y los entornos de Office 365.</span><span class="sxs-lookup"><span data-stu-id="c850a-170">Enabling email routing between the source messaging system and Office 365 environments.</span></span>    
+- <span data-ttu-id="c850a-171">Configurar las características de Protección de Exchange Online (incluidas las características de Protección contra amenazas avanzada de Exchange Online si están disponibles en su suscripción) y comprobar que los registros MX se refieren a Office 365 para todos los dominios habilitados para correo que se han validado.</span><span class="sxs-lookup"><span data-stu-id="c850a-171">Configuring Exchange Online Protection features (including Exchange Online Advanced Threat Protection features if available in your subscription) and verifying your MX records point to Office 365 for all validated mail-enabled domains.</span></span>   
+- <span data-ttu-id="c850a-172">Configurar una instalación híbrida entre una sola organización de Exchange local y Office 365 *o* entre varias organizaciones de Exchange local y Office 365.</span><span class="sxs-lookup"><span data-stu-id="c850a-172">Configuring hybrid setup either between a single on-premises Exchange organization and Office 365  *or*  between multiple on-premises Exchange organizations and Office 365.</span></span> 
+- <span data-ttu-id="c850a-173">Configuración de seguridad de mensajería unificada (UM) con Exchange Online (mensajería unificada no está disponible en los planes de GCC DoD).</span><span class="sxs-lookup"><span data-stu-id="c850a-173">Setting up Unified Messaging (UM) with Exchange Online (UM is not available in GCC DoD plans).</span></span> 
+    
+<span data-ttu-id="c850a-174">Para más información sobre las responsabilidades relativas a la migración de datos, vea [Migración de datos](data-migration.md).</span><span class="sxs-lookup"><span data-stu-id="c850a-174">For more information about data migration responsibilities, see [Data Migration](data-migration.md).</span></span>
   
-- <span data-ttu-id="ad159-169">Crear o actualizar los registros DNS.</span><span class="sxs-lookup"><span data-stu-id="ad159-169">Creating or updating DNS records.</span></span> 
-    
-- <span data-ttu-id="ad159-170">Habilitar el enrutamiento de correo electrónico entre el sistema de mensajería de origen y los entornos de Office 365.</span><span class="sxs-lookup"><span data-stu-id="ad159-170">Enabling email routing between the source messaging system and Office 365 environments.</span></span> 
-    
-- <span data-ttu-id="ad159-171">Configurar las características de Protección de Exchange Online (incluidas las características de Protección contra amenazas avanzada de Exchange Online si están disponibles en su suscripción) y comprobar que los registros MX se refieren a Office 365 para todos los dominios habilitados para correo que se han validado.</span><span class="sxs-lookup"><span data-stu-id="ad159-171">Configuring Exchange Online Protection features (including Exchange Online Advanced Threat Protection features if available in your subscription) and verifying your MX records point to Office 365 for all validated mail-enabled domains.</span></span>
-    
-- <span data-ttu-id="ad159-172">Configurar una instalación híbrida entre una sola organización de Exchange local y Office 365 *o* entre varias organizaciones de Exchange local y Office 365.</span><span class="sxs-lookup"><span data-stu-id="ad159-172">Configuring hybrid setup either between a single on-premises Exchange organization and Office 365  *or*  between multiple on-premises Exchange organizations and Office 365.</span></span> 
+## <a name="sharepoint-online"></a><span data-ttu-id="c850a-175">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="c850a-175">SharePoint Online</span></span>
 
-- <span data-ttu-id="ad159-173">Configuración de seguridad de mensajería unificada (UM) con Exchange Online (mensajería unificada no está disponible en los planes de GCC DoD).</span><span class="sxs-lookup"><span data-stu-id="ad159-173">Setting up Unified Messaging (UM) with Exchange Online (UM is not available in GCC DoD plans).</span></span> 
+<span data-ttu-id="c850a-176">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="c850a-176">Provide guidance about:</span></span>
+- <span data-ttu-id="c850a-177">Configurar el aprovisionamiento de usuarios, incluidas las licencias.</span><span class="sxs-lookup"><span data-stu-id="c850a-177">Setting up user provisioning including licensing.</span></span>   
+- <span data-ttu-id="c850a-178">Habilitar la creación de sitios para el administrador de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="c850a-178">Enabling site creation for your SharePoint Online admin.</span></span>   
+- <span data-ttu-id="c850a-179">Planificar las colecciones de sitios.</span><span class="sxs-lookup"><span data-stu-id="c850a-179">Planning site collections.</span></span>   
+- <span data-ttu-id="c850a-180">Proteger el contenido y administrar los permisos.</span><span class="sxs-lookup"><span data-stu-id="c850a-180">Securing content and managing permissions.</span></span>   
+- <span data-ttu-id="c850a-181">Habilitar sitios personales y características sociales.</span><span class="sxs-lookup"><span data-stu-id="c850a-181">Enabling personal sites and social features.</span></span>   
+- <span data-ttu-id="c850a-182">Configurar las características de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="c850a-182">Configuring SharePoint Online features.</span></span>    
+- <span data-ttu-id="c850a-183">Proporcionar migración de datos si se usa el servicio de migración de datos del centro FastTrack y se cumplen los requisitos de elegibilidad.</span><span class="sxs-lookup"><span data-stu-id="c850a-183">Providing data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>  
+- <span data-ttu-id="c850a-184">Evaluar la configuración de infraestructura de granja de SharePoint local necesaria para Entorno híbrido de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="c850a-184">Evaluating the on-premises SharePoint farm infrastructure configuration needed for SharePoint Online Hybrid.</span></span>    
+- <span data-ttu-id="c850a-185">Utilizar herramientas y automatización para:</span><span class="sxs-lookup"><span data-stu-id="c850a-185">Using tools and automation to:</span></span> 
+  - <span data-ttu-id="c850a-186">Configurar aplicaciones de servicio de búsqueda en la nube local.</span><span class="sxs-lookup"><span data-stu-id="c850a-186">Configure on-premises cloud search service applications.</span></span>    
+  - <span data-ttu-id="c850a-187">Configurar la confianza entre SharePoint local y los entornos de la nube.</span><span class="sxs-lookup"><span data-stu-id="c850a-187">Configure trust between SharePoint on-premises and cloud environments.</span></span>   
+- <span data-ttu-id="c850a-188">Configurar sitios de SharePoint local para usar características de Entorno híbrido de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="c850a-188">Configuring on-premises SharePoint sites to use SharePoint Online Hybrid features.</span></span>
     
-<span data-ttu-id="ad159-174">Para más información sobre las responsabilidades relativas a la migración de datos, vea [Migración de datos](data-migration.md).</span><span class="sxs-lookup"><span data-stu-id="ad159-174">For more information about data migration responsibilities, see [Data Migration](data-migration.md).</span></span>
-  
-## <a name="sharepoint-online"></a><span data-ttu-id="ad159-175">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="ad159-175">SharePoint Online</span></span>
+## <a name="onedrive-for-business"></a><span data-ttu-id="c850a-189">OneDrive para la Empresa</span><span class="sxs-lookup"><span data-stu-id="c850a-189">OneDrive for Business</span></span>
 
-<span data-ttu-id="ad159-176">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="ad159-176">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="ad159-177">Configurar el aprovisionamiento de usuarios, incluidas las licencias.</span><span class="sxs-lookup"><span data-stu-id="ad159-177">Setting up user provisioning including licensing.</span></span>
+<span data-ttu-id="c850a-190">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="c850a-190">Provide guidance about:</span></span> 
+- <span data-ttu-id="c850a-191">Identificar la versión de SharePoint local y las opciones de integración.</span><span class="sxs-lookup"><span data-stu-id="c850a-191">Identifying the on-premises SharePoint version and integration options.</span></span>    
+- <span data-ttu-id="c850a-192">Identificar las opciones de sincronización y de identidad.</span><span class="sxs-lookup"><span data-stu-id="c850a-192">Identifying synchronization and identity options.</span></span>   
+- <span data-ttu-id="c850a-193">Seleccionar una opción de lanzamiento:</span><span class="sxs-lookup"><span data-stu-id="c850a-193">Selecting a rollout option:</span></span>   
+  - <span data-ttu-id="c850a-194">Lanzamiento en el momento.</span><span class="sxs-lookup"><span data-stu-id="c850a-194">Just-in-time rollout.</span></span>  
+  - <span data-ttu-id="c850a-195">Lanzamiento preconfigurado (secuencial y en fases).</span><span class="sxs-lookup"><span data-stu-id="c850a-195">Staged rollout (sequenced and phased).</span></span>   
+- <span data-ttu-id="c850a-196">Preparar el entorno local para la implementación de OneDrive para la Empresa:</span><span class="sxs-lookup"><span data-stu-id="c850a-196">Preparing the on-premises environment for OneDrive for Business deployment:</span></span>  
+  - <span data-ttu-id="c850a-197">Identificar el cliente de sincronización de OneDrive para la Empresa correcto.</span><span class="sxs-lookup"><span data-stu-id="c850a-197">Identifying the correct OneDrive for Business sync client.</span></span> 
+  - <span data-ttu-id="c850a-198">Configurar el DNS, los puertos de red y el firewall.</span><span class="sxs-lookup"><span data-stu-id="c850a-198">Configuration of DNS, network ports, and firewall.</span></span>   
+- <span data-ttu-id="c850a-199">Asignar licencias de usuario final.</span><span class="sxs-lookup"><span data-stu-id="c850a-199">Assigning end-user licenses.</span></span>   
+- <span data-ttu-id="c850a-200">Configurar las audiencias de SharePoint Online para controlar y regir quién obtiene OneDrive para la Empresa.</span><span class="sxs-lookup"><span data-stu-id="c850a-200">Setting up SharePoint Online audiences to control and govern who gets OneDrive for Business.</span></span>    
+- <span data-ttu-id="c850a-201">Implementar el cliente de sincronización de OneDrive para la Empresa en equipos de escritorio.</span><span class="sxs-lookup"><span data-stu-id="c850a-201">Deploying the OneDrive for Business sync client to desktops.</span></span>   
+- <span data-ttu-id="c850a-202">Cómo configurar el redireccionamiento de OneDrive para la Empresa en el Entorno híbrido de SharePoint Online (solo SharePoint 2013 y SharePoint 2016).</span><span class="sxs-lookup"><span data-stu-id="c850a-202">How to configure SharePoint Online Hybrid OneDrive for Business redirection (SharePoint 2013 and SharePoint 2016 only).</span></span>  
+- <span data-ttu-id="c850a-203">Realizar la migración de datos si se usa el servicio de migración de datos del Centro de FastTrack y se cumplen los requisitos de elegibilidad.</span><span class="sxs-lookup"><span data-stu-id="c850a-203">Data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
     
-- <span data-ttu-id="ad159-178">Habilitar la creación de sitios para el administrador de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="ad159-178">Enabling site creation for your SharePoint Online admin.</span></span>
-    
-- <span data-ttu-id="ad159-179">Planificar las colecciones de sitios.</span><span class="sxs-lookup"><span data-stu-id="ad159-179">Planning site collections.</span></span> 
-    
-- <span data-ttu-id="ad159-180">Proteger el contenido y administrar los permisos.</span><span class="sxs-lookup"><span data-stu-id="ad159-180">Securing content and managing permissions.</span></span>
-    
-- <span data-ttu-id="ad159-181">Habilitar sitios personales y características sociales.</span><span class="sxs-lookup"><span data-stu-id="ad159-181">Enabling personal sites and social features.</span></span>
-    
-- <span data-ttu-id="ad159-182">Configurar las características de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="ad159-182">Configuring SharePoint Online features.</span></span> 
-    
-- <span data-ttu-id="ad159-183">Proporcionar migración de datos si se usa el servicio de migración de datos del centro FastTrack y se cumplen los requisitos de elegibilidad.</span><span class="sxs-lookup"><span data-stu-id="ad159-183">Providing data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
-    
-- <span data-ttu-id="ad159-184">Evaluar la configuración de infraestructura de granja de SharePoint local necesaria para Entorno híbrido de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="ad159-184">Evaluating the on-premises SharePoint farm infrastructure configuration needed for SharePoint Online Hybrid.</span></span> 
-    
-- <span data-ttu-id="ad159-185">Utilizar herramientas y automatización para:</span><span class="sxs-lookup"><span data-stu-id="ad159-185">Using tools and automation to:</span></span>
-    
-  - <span data-ttu-id="ad159-186">Configurar aplicaciones de servicio de búsqueda en la nube local.</span><span class="sxs-lookup"><span data-stu-id="ad159-186">Configure on-premises cloud search service applications.</span></span> 
-    
-  - <span data-ttu-id="ad159-187">Configurar la confianza entre SharePoint local y los entornos de la nube.</span><span class="sxs-lookup"><span data-stu-id="ad159-187">Configure trust between SharePoint on-premises and cloud environments.</span></span>
-    
-- <span data-ttu-id="ad159-188">Configurar sitios de SharePoint local para usar características de Entorno híbrido de SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="ad159-188">Configuring on-premises SharePoint sites to use SharePoint Online Hybrid features.</span></span>
-    
-## <a name="onedrive-for-business"></a><span data-ttu-id="ad159-189">OneDrive para la Empresa</span><span class="sxs-lookup"><span data-stu-id="ad159-189">OneDrive for Business</span></span>
+## <a name="skype-for-business-online"></a><span data-ttu-id="c850a-204">Skype Empresarial Online</span><span class="sxs-lookup"><span data-stu-id="c850a-204">Skype for Business Online</span></span>
 
-<span data-ttu-id="ad159-190">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="ad159-190">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="ad159-191">Identificar la versión de SharePoint local y las opciones de integración.</span><span class="sxs-lookup"><span data-stu-id="ad159-191">Identifying the on-premises SharePoint version and integration options.</span></span> 
+<span data-ttu-id="c850a-205">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="c850a-205">Provide guidance about:</span></span>
+- <span data-ttu-id="c850a-206">Aprovisionar identidades de Skype Empresarial para Office 365.</span><span class="sxs-lookup"><span data-stu-id="c850a-206">Provisioning Skype for Business identities for Office 365.</span></span>   
+- <span data-ttu-id="c850a-207">Habilitar conferencias en línea, mensajería instantánea (MI) y características de presencia de Office 365.</span><span class="sxs-lookup"><span data-stu-id="c850a-207">Enabling online conferencing, instant messaging (IM), and presence features for Office 365.</span></span>  
+- <span data-ttu-id="c850a-208">Creación de cuentas para asociar a los dispositivos de sistema de salas de reuniones compatibles (hasta 10 cuentas).</span><span class="sxs-lookup"><span data-stu-id="c850a-208">Creating accounts to associate to supported room system devices (up to 10 accounts).</span></span>    
+- <span data-ttu-id="c850a-209">Configurar un entorno de servidores de dominio dividido para admitir escenarios híbridos de Lync o Skype Empresarial Online (si corresponde).</span><span class="sxs-lookup"><span data-stu-id="c850a-209">Configuring a split domain server environment to support Lync hybrid or Skype for Business Online hybrid scenarios (if applicable).</span></span>   
+- <span data-ttu-id="c850a-210">Habilitar audioconferencia:</span><span class="sxs-lookup"><span data-stu-id="c850a-210">Enabling Audio Conferencing:</span></span>   
+  - <span data-ttu-id="c850a-211">Parámetros predeterminados de la configuración de la organización para puente de conferencia.</span><span class="sxs-lookup"><span data-stu-id="c850a-211">Organization setup for conference bridge default settings.</span></span>   
+  - <span data-ttu-id="c850a-212">Asignación de puente de conferencia a usuarios con licencia.</span><span class="sxs-lookup"><span data-stu-id="c850a-212">Assignment of a conference bridge to licensed users.</span></span> 
+- <span data-ttu-id="c850a-213">Habilitar sistema telefónico (no está disponible en los planes de GCC alta o DoD):</span><span class="sxs-lookup"><span data-stu-id="c850a-213">Enabling Phone System (not available in GCC High or DoD plans):</span></span>  
+  - <span data-ttu-id="c850a-214">Habilitar la incorporación de sistema telefónico y planes de llamada (en los mercados disponibles).</span><span class="sxs-lookup"><span data-stu-id="c850a-214">Enabling Phone System and Calling Plans onboarding (in available markets).</span></span> 
+  - <span data-ttu-id="c850a-215">Asignación de números a usuarios con licencia.</span><span class="sxs-lookup"><span data-stu-id="c850a-215">Assignment of numbers to licensed users.</span></span>  
+  - <span data-ttu-id="c850a-216">Instrucciones para la migración de números locales a través de la interfaz de usuario hasta 999.</span><span class="sxs-lookup"><span data-stu-id="c850a-216">Local number porting guidance through UI up to 999.</span></span>  
+  - <span data-ttu-id="c850a-217">Soporte técnico de solicitudes de servicio de migración de números locales a partir de 999.</span><span class="sxs-lookup"><span data-stu-id="c850a-217">Local number porting SR support over 999.</span></span>  
+- <span data-ttu-id="c850a-218">Habilitación de Skype para profesionales de reunión difusión (no está disponible en los planes de GCC alta o DoD):</span><span class="sxs-lookup"><span data-stu-id="c850a-218">Enabling Skype for Business Meeting Broadcast (not available in GCC High or DoD plans):</span></span>  
+  - <span data-ttu-id="c850a-219">Incorporación de instrucciones para la habilitación de la Difusión de reunión de Skype Empresarial.</span><span class="sxs-lookup"><span data-stu-id="c850a-219">Enabling Skype for Business Meeting Broadcast onboarding guidance.</span></span>  
+  - <span data-ttu-id="c850a-220">Configuración de la organización para la federación con el servicio de Difusión de reunión.</span><span class="sxs-lookup"><span data-stu-id="c850a-220">Organization setup for federation with Meeting Broadcast service.</span></span>
     
-- <span data-ttu-id="ad159-192">Identificar las opciones de sincronización y de identidad.</span><span class="sxs-lookup"><span data-stu-id="ad159-192">Identifying synchronization and identity options.</span></span>
-    
-- <span data-ttu-id="ad159-193">Seleccionar una opción de lanzamiento:</span><span class="sxs-lookup"><span data-stu-id="ad159-193">Selecting a rollout option:</span></span> 
-    
-  - <span data-ttu-id="ad159-194">Lanzamiento en el momento.</span><span class="sxs-lookup"><span data-stu-id="ad159-194">Just-in-time rollout.</span></span>
-    
-  - <span data-ttu-id="ad159-195">Lanzamiento preconfigurado (secuencial y en fases).</span><span class="sxs-lookup"><span data-stu-id="ad159-195">Staged rollout (sequenced and phased).</span></span>
-    
-- <span data-ttu-id="ad159-196">Preparar el entorno local para la implementación de OneDrive para la Empresa:</span><span class="sxs-lookup"><span data-stu-id="ad159-196">Preparing the on-premises environment for OneDrive for Business deployment:</span></span>
-    
-  - <span data-ttu-id="ad159-197">Identificar el cliente de sincronización de OneDrive para la Empresa correcto.</span><span class="sxs-lookup"><span data-stu-id="ad159-197">Identifying the correct OneDrive for Business sync client.</span></span>
-    
-  - <span data-ttu-id="ad159-198">Configurar el DNS, los puertos de red y el firewall.</span><span class="sxs-lookup"><span data-stu-id="ad159-198">Configuration of DNS, network ports, and firewall.</span></span>
-    
-- <span data-ttu-id="ad159-199">Asignar licencias de usuario final.</span><span class="sxs-lookup"><span data-stu-id="ad159-199">Assigning end-user licenses.</span></span> 
-    
-- <span data-ttu-id="ad159-200">Configurar las audiencias de SharePoint Online para controlar y regir quién obtiene OneDrive para la Empresa.</span><span class="sxs-lookup"><span data-stu-id="ad159-200">Setting up SharePoint Online audiences to control and govern who gets OneDrive for Business.</span></span> 
-    
-- <span data-ttu-id="ad159-201">Implementar el cliente de sincronización de OneDrive para la Empresa en equipos de escritorio.</span><span class="sxs-lookup"><span data-stu-id="ad159-201">Deploying the OneDrive for Business sync client to desktops.</span></span> 
-    
-- <span data-ttu-id="ad159-202">Cómo configurar el redireccionamiento de OneDrive para la Empresa en el Entorno híbrido de SharePoint Online (solo SharePoint 2013 y SharePoint 2016).</span><span class="sxs-lookup"><span data-stu-id="ad159-202">How to configure SharePoint Online Hybrid OneDrive for Business redirection (SharePoint 2013 and SharePoint 2016 only).</span></span>
-    
-- <span data-ttu-id="ad159-203">Realizar la migración de datos si se usa el servicio de migración de datos del Centro de FastTrack y se cumplen los requisitos de elegibilidad.</span><span class="sxs-lookup"><span data-stu-id="ad159-203">Data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
-    
-## <a name="skype-for-business-online"></a><span data-ttu-id="ad159-204">Skype Empresarial Online</span><span class="sxs-lookup"><span data-stu-id="ad159-204">Skype for Business Online</span></span>
-
-<span data-ttu-id="ad159-205">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="ad159-205">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="ad159-206">Aprovisionar identidades de Skype Empresarial para Office 365.</span><span class="sxs-lookup"><span data-stu-id="ad159-206">Provisioning Skype for Business identities for Office 365.</span></span> 
-    
-- <span data-ttu-id="ad159-207">Habilitar conferencias en línea, mensajería instantánea (MI) y características de presencia de Office 365.</span><span class="sxs-lookup"><span data-stu-id="ad159-207">Enabling online conferencing, instant messaging (IM), and presence features for Office 365.</span></span> 
-    
-- <span data-ttu-id="ad159-208">Creación de cuentas para asociar a los dispositivos de sistema de salas de reuniones compatibles (hasta 10 cuentas).</span><span class="sxs-lookup"><span data-stu-id="ad159-208">Creating accounts to associate to supported room system devices (up to 10 accounts).</span></span>
-    
-- <span data-ttu-id="ad159-209">Configurar un entorno de servidores de dominio dividido para admitir escenarios híbridos de Lync o Skype Empresarial Online (si corresponde).</span><span class="sxs-lookup"><span data-stu-id="ad159-209">Configuring a split domain server environment to support Lync hybrid or Skype for Business Online hybrid scenarios (if applicable).</span></span>
-    
-- <span data-ttu-id="ad159-210">Habilitar audioconferencia:</span><span class="sxs-lookup"><span data-stu-id="ad159-210">Enabling Audio Conferencing:</span></span>
-    
-  - <span data-ttu-id="ad159-211">Parámetros predeterminados de la configuración de la organización para puente de conferencia.</span><span class="sxs-lookup"><span data-stu-id="ad159-211">Organization setup for conference bridge default settings.</span></span>
-    
-  - <span data-ttu-id="ad159-212">Asignación de puente de conferencia a usuarios con licencia.</span><span class="sxs-lookup"><span data-stu-id="ad159-212">Assignment of a conference bridge to licensed users.</span></span>
-    
-- <span data-ttu-id="ad159-213">Habilitar sistema telefónico (no está disponible en los planes de GCC alta o DoD):</span><span class="sxs-lookup"><span data-stu-id="ad159-213">Enabling Phone System (not available in GCC High or DoD plans):</span></span>
-    
-  - <span data-ttu-id="ad159-214">Habilitar la incorporación de sistema telefónico y planes de llamada (en los mercados disponibles).</span><span class="sxs-lookup"><span data-stu-id="ad159-214">Enabling Phone System and Calling Plans onboarding (in available markets).</span></span>
-    
-  - <span data-ttu-id="ad159-215">Asignación de números a usuarios con licencia.</span><span class="sxs-lookup"><span data-stu-id="ad159-215">Assignment of numbers to licensed users.</span></span>
-    
-  - <span data-ttu-id="ad159-216">Instrucciones para la migración de números locales a través de la interfaz de usuario hasta 999.</span><span class="sxs-lookup"><span data-stu-id="ad159-216">Local number porting guidance through UI up to 999.</span></span>
-    
-  - <span data-ttu-id="ad159-217">Soporte técnico de solicitudes de servicio de migración de números locales a partir de 999.</span><span class="sxs-lookup"><span data-stu-id="ad159-217">Local number porting SR support over 999.</span></span>
-    
-- <span data-ttu-id="ad159-218">Habilitación de Skype para profesionales de reunión difusión (no está disponible en los planes de GCC alta o DoD):</span><span class="sxs-lookup"><span data-stu-id="ad159-218">Enabling Skype for Business Meeting Broadcast (not available in GCC High or DoD plans):</span></span>
-    
-  - <span data-ttu-id="ad159-219">Incorporación de instrucciones para la habilitación de la Difusión de reunión de Skype Empresarial.</span><span class="sxs-lookup"><span data-stu-id="ad159-219">Enabling Skype for Business Meeting Broadcast onboarding guidance.</span></span>
-    
-  - <span data-ttu-id="ad159-220">Configuración de la organización para la federación con el servicio de Difusión de reunión.</span><span class="sxs-lookup"><span data-stu-id="ad159-220">Organization setup for federation with Meeting Broadcast service.</span></span>
-    
-## <a name="microsoft-teams"></a><span data-ttu-id="ad159-221">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="ad159-221">Microsoft Teams</span></span>
+## <a name="microsoft-teams"></a><span data-ttu-id="c850a-221">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="c850a-221">Microsoft Teams</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="ad159-222">El siguiente no está disponible en los planes de GCC alta o DoD.</span><span class="sxs-lookup"><span data-stu-id="ad159-222">The following isn’t available in GCC High or DoD plans.</span></span>
+> <span data-ttu-id="c850a-222">El siguiente no está disponible en los planes de GCC alta o DoD.</span><span class="sxs-lookup"><span data-stu-id="c850a-222">The following isn’t available in GCC High or DoD plans.</span></span>
 
-<span data-ttu-id="ad159-223">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="ad159-223">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="ad159-224">Confirmación de requisitos mínimos.</span><span class="sxs-lookup"><span data-stu-id="ad159-224">Confirming minimum requirements.</span></span>
+<span data-ttu-id="c850a-223">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="c850a-223">Provide guidance about:</span></span>
+- <span data-ttu-id="c850a-224">Confirmación de requisitos mínimos.</span><span class="sxs-lookup"><span data-stu-id="c850a-224">Confirming minimum requirements.</span></span>   
+- <span data-ttu-id="c850a-225">Configuración de puertos del firewall.</span><span class="sxs-lookup"><span data-stu-id="c850a-225">Configuring firewall ports.</span></span>  
+- <span data-ttu-id="c850a-226">Configuración de DNS.</span><span class="sxs-lookup"><span data-stu-id="c850a-226">Setting up DNS.</span></span>  
+- <span data-ttu-id="c850a-227">Confirmando que se ha habilitado Microsoft Teams en su espacio empresarial de Office 365.</span><span class="sxs-lookup"><span data-stu-id="c850a-227">Confirming Microsoft Teams is enabled on your Office 365 tenant.</span></span>   
+- <span data-ttu-id="c850a-228">Habilitar o deshabilitar licencias de usuario.</span><span class="sxs-lookup"><span data-stu-id="c850a-228">Enabling or disabling user licenses.</span></span>  
+- <span data-ttu-id="c850a-229">Distribución de clientes de Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="c850a-229">Microsoft Teams client distribution.</span></span>    
+- <span data-ttu-id="c850a-230">Características para profesionales de TI y administradores.</span><span class="sxs-lookup"><span data-stu-id="c850a-230">IT Pro and admin features.</span></span> 
+- <span data-ttu-id="c850a-231">Características de productos principales.</span><span class="sxs-lookup"><span data-stu-id="c850a-231">Core product features.</span></span>  
+- <span data-ttu-id="c850a-232">Plantillas de éxito de clientes.</span><span class="sxs-lookup"><span data-stu-id="c850a-232">Customer success templates.</span></span>
     
-- <span data-ttu-id="ad159-225">Configuración de puertos del firewall.</span><span class="sxs-lookup"><span data-stu-id="ad159-225">Configuring firewall ports.</span></span>
-    
-- <span data-ttu-id="ad159-226">Configuración de DNS.</span><span class="sxs-lookup"><span data-stu-id="ad159-226">Setting up DNS.</span></span>
-    
-- <span data-ttu-id="ad159-227">Confirmando que se ha habilitado Microsoft Teams en su espacio empresarial de Office 365.</span><span class="sxs-lookup"><span data-stu-id="ad159-227">Confirming Microsoft Teams is enabled on your Office 365 tenant.</span></span>
-    
-- <span data-ttu-id="ad159-228">Habilitar o deshabilitar licencias de usuario.</span><span class="sxs-lookup"><span data-stu-id="ad159-228">Enabling or disabling user licenses.</span></span>
-    
-- <span data-ttu-id="ad159-229">Distribución de clientes de Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="ad159-229">Microsoft Teams client distribution.</span></span>
-    
-- <span data-ttu-id="ad159-230">Características para profesionales de TI y administradores.</span><span class="sxs-lookup"><span data-stu-id="ad159-230">IT Pro and admin features.</span></span>
-    
-- <span data-ttu-id="ad159-231">Características de productos principales.</span><span class="sxs-lookup"><span data-stu-id="ad159-231">Core product features.</span></span>
-    
-- <span data-ttu-id="ad159-232">Plantillas de éxito de clientes.</span><span class="sxs-lookup"><span data-stu-id="ad159-232">Customer success templates.</span></span>
-    
-## <a name="power-bi"></a><span data-ttu-id="ad159-233">Power BI</span><span class="sxs-lookup"><span data-stu-id="ad159-233">Power BI</span></span>
+## <a name="power-bi"></a><span data-ttu-id="c850a-233">Power BI</span><span class="sxs-lookup"><span data-stu-id="c850a-233">Power BI</span></span>
 
-<span data-ttu-id="ad159-234">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="ad159-234">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="ad159-235">Revisar los planes de suscripción de Power BI.</span><span class="sxs-lookup"><span data-stu-id="ad159-235">Reviewing the Power BI subscription plans.</span></span> 
+<span data-ttu-id="c850a-234">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="c850a-234">Provide guidance about:</span></span>
+- <span data-ttu-id="c850a-235">Revisar los planes de suscripción de Power BI.</span><span class="sxs-lookup"><span data-stu-id="c850a-235">Reviewing the Power BI subscription plans.</span></span>    
+- <span data-ttu-id="c850a-236">Agregar el servicio de Power BI.</span><span class="sxs-lookup"><span data-stu-id="c850a-236">Adding the Power BI service.</span></span>    
+- <span data-ttu-id="c850a-237">Descargar la aplicación Power BI Desktop.</span><span class="sxs-lookup"><span data-stu-id="c850a-237">Downloading the Power BI Desktop app.</span></span>
     
-- <span data-ttu-id="ad159-236">Agregar el servicio de Power BI.</span><span class="sxs-lookup"><span data-stu-id="ad159-236">Adding the Power BI service.</span></span> 
-    
-- <span data-ttu-id="ad159-237">Descargar la aplicación Power BI Desktop.</span><span class="sxs-lookup"><span data-stu-id="ad159-237">Downloading the Power BI Desktop app.</span></span>
-    
-## <a name="project-online"></a><span data-ttu-id="ad159-238">Project Online</span><span class="sxs-lookup"><span data-stu-id="ad159-238">Project Online</span></span>
+## <a name="project-online"></a><span data-ttu-id="c850a-238">Project Online</span><span class="sxs-lookup"><span data-stu-id="c850a-238">Project Online</span></span>
 
-<span data-ttu-id="ad159-239">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="ad159-239">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="ad159-240">Revisar los planes de suscripción.</span><span class="sxs-lookup"><span data-stu-id="ad159-240">Reviewing subscription plans.</span></span>
+<span data-ttu-id="c850a-239">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="c850a-239">Provide guidance about:</span></span>  
+- <span data-ttu-id="c850a-240">Revisar los planes de suscripción.</span><span class="sxs-lookup"><span data-stu-id="c850a-240">Reviewing subscription plans.</span></span>  
+- <span data-ttu-id="c850a-241">Comprobar la funcionalidad básica de SharePoint.</span><span class="sxs-lookup"><span data-stu-id="c850a-241">Verifying basic SharePoint functionality.</span></span>    
+- <span data-ttu-id="c850a-242">Agregar el servicio de Project Online.</span><span class="sxs-lookup"><span data-stu-id="c850a-242">Adding the Project Online service.</span></span>  
+- <span data-ttu-id="c850a-243">Agregar usuarios a Project Online, incluida la sincronización de ERP.</span><span class="sxs-lookup"><span data-stu-id="c850a-243">Adding users to Project Online including ERP Sync.</span></span>  
+- <span data-ttu-id="c850a-244">Comprobar la funcionalidad básica de Project Online mediante la creación de un proyecto.</span><span class="sxs-lookup"><span data-stu-id="c850a-244">Verifying basic Project Online functionality by creating a project.</span></span>
     
-- <span data-ttu-id="ad159-241">Comprobar la funcionalidad básica de SharePoint.</span><span class="sxs-lookup"><span data-stu-id="ad159-241">Verifying basic SharePoint functionality.</span></span>
-    
-- <span data-ttu-id="ad159-242">Agregar el servicio de Project Online.</span><span class="sxs-lookup"><span data-stu-id="ad159-242">Adding the Project Online service.</span></span>
-    
-- <span data-ttu-id="ad159-243">Agregar usuarios a Project Online, incluida la sincronización de ERP.</span><span class="sxs-lookup"><span data-stu-id="ad159-243">Adding users to Project Online including ERP Sync.</span></span>
-    
-- <span data-ttu-id="ad159-244">Comprobar la funcionalidad básica de Project Online mediante la creación de un proyecto.</span><span class="sxs-lookup"><span data-stu-id="ad159-244">Verifying basic Project Online functionality by creating a project.</span></span>
-    
-## <a name="yammer-enterprise"></a><span data-ttu-id="ad159-245">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="ad159-245">Yammer Enterprise</span></span>
+## <a name="yammer-enterprise"></a><span data-ttu-id="c850a-245">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="c850a-245">Yammer Enterprise</span></span>
 
-<span data-ttu-id="ad159-246">Proporcionar instrucciones sobre cómo convertir la red única de Yammer Basic en una red única de Yammer Enterprise.</span><span class="sxs-lookup"><span data-stu-id="ad159-246">Provide guidance about converting your single Yammer Basic network into a single Yammer Enterprise network.</span></span>
+<span data-ttu-id="c850a-246">Proporcionar instrucciones sobre cómo convertir la red única de Yammer Basic en una red única de Yammer Enterprise.</span><span class="sxs-lookup"><span data-stu-id="c850a-246">Provide guidance about converting your single Yammer Basic network into a single Yammer Enterprise network.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="ad159-p102">Yammer Enterprise no es un componente de Office 365 gobierno de Estados Unidos, pero se puede comprar sin costo como una oferta independiente para cada usuario con licencia para Office 365 GCC en. Esta oferta está actualmente limitada a los clientes que Office 365 GCC en acuerdos de empresa y Enterprise Agreements de suscripción de compra. Yammer no está disponible en los planes de GCC alta o DoD.</span><span class="sxs-lookup"><span data-stu-id="ad159-p102">Yammer Enterprise isn’t a component of Office 365 US Government but can be acquired at no cost as a standalone offer for each user licensed for Office 365 in GCC. This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer isn’t available in GCC High or DoD plans.</span></span>
+> <span data-ttu-id="c850a-p103">Yammer Enterprise no es un componente de Office 365 gobierno de Estados Unidos, pero se puede comprar sin costo como una oferta independiente para cada usuario con licencia para Office 365 GCC en. Esta oferta está actualmente limitada a los clientes que Office 365 GCC en acuerdos de empresa y Enterprise Agreements de suscripción de compra. Yammer no está disponible en los planes de GCC alta o DoD.</span><span class="sxs-lookup"><span data-stu-id="c850a-p103">Yammer Enterprise isn’t a component of Office 365 US Government but can be acquired at no cost as a standalone offer for each user licensed for Office 365 in GCC. This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer isn’t available in GCC High or DoD plans.</span></span>
   
-## <a name="office-365-proplus"></a><span data-ttu-id="ad159-250">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="ad159-250">Office 365 ProPlus</span></span>
+## <a name="office-365-proplus"></a><span data-ttu-id="c850a-250">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="c850a-250">Office 365 ProPlus</span></span>
 
-<span data-ttu-id="ad159-251">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="ad159-251">Provide guidance about:</span></span>
-  
-- <span data-ttu-id="ad159-252">Solucionar los problemas de implementación.</span><span class="sxs-lookup"><span data-stu-id="ad159-252">Addressing deployment issues.</span></span>
-    
-- <span data-ttu-id="ad159-253">Asignar licencias de usuario final mediante el Centro de administración de Office 365 y Windows PowerShell.</span><span class="sxs-lookup"><span data-stu-id="ad159-253">Assigning end-user licenses using the Office 365 admin center and Windows PowerShell.</span></span>
-    
-- <span data-ttu-id="ad159-254">Instalar Office 365 ProPlus desde el Portal de Office 365 con la opción Hacer clic y ejecutar</span><span class="sxs-lookup"><span data-stu-id="ad159-254">Installing Office 365 ProPlus from the Office 365 portal using Click-to-Run.</span></span>
-    
-- <span data-ttu-id="ad159-255">Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en sus dispositivos de iOS, Android, o Windows Mobile.</span><span class="sxs-lookup"><span data-stu-id="ad159-255">Installing Office Mobile apps (like Outlook Mobile, Word Mobile, Excel Mobile, and PowerPoint Mobile) on your iOS, Android, or Windows Mobile devices.</span></span> 
-    
-- <span data-ttu-id="ad159-256">Configurar las opciones de actualización mediante la Herramienta de implementación de Office 2016 o las plantillas de directiva de grupo.</span><span class="sxs-lookup"><span data-stu-id="ad159-256">Configuring update settings using the Office 2016 Deployment Tool or Group Policy templates.</span></span>
-    
-- <span data-ttu-id="ad159-257">Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office.</span><span class="sxs-lookup"><span data-stu-id="ad159-257">Setting up a single on-site distribution server for Office 365 ProPlus, including assistance with the creation of a configuration.xml file for use with the Office Deployment Tool.</span></span>
-    
-- <span data-ttu-id="ad159-258">Implementar mediante Administrador de configuración de System Center, incluida la ayuda con la creación del empaquetado de Administrador de configuración de System Center.</span><span class="sxs-lookup"><span data-stu-id="ad159-258">Deployment using System Center Configuration Manager, including assistance with the creation of System Center Configuration Manager packaging.</span></span>
+<span data-ttu-id="c850a-251">Proporcionar orientación acerca de:</span><span class="sxs-lookup"><span data-stu-id="c850a-251">Provide guidance about:</span></span>
+- <span data-ttu-id="c850a-252">Solucionar los problemas de implementación.</span><span class="sxs-lookup"><span data-stu-id="c850a-252">Addressing deployment issues.</span></span>   
+- <span data-ttu-id="c850a-253">Asignar licencias de usuario final mediante el Centro de administración de Office 365 y Windows PowerShell.</span><span class="sxs-lookup"><span data-stu-id="c850a-253">Assigning end-user licenses using the Office 365 admin center and Windows PowerShell.</span></span>  
+- <span data-ttu-id="c850a-254">Instalar Office 365 ProPlus desde el Portal de Office 365 con la opción Hacer clic y ejecutar</span><span class="sxs-lookup"><span data-stu-id="c850a-254">Installing Office 365 ProPlus from the Office 365 portal using Click-to-Run.</span></span>   
+- <span data-ttu-id="c850a-255">Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en sus dispositivos de iOS, Android, o Windows Mobile.</span><span class="sxs-lookup"><span data-stu-id="c850a-255">Installing Office Mobile apps (like Outlook Mobile, Word Mobile, Excel Mobile, and PowerPoint Mobile) on your iOS, Android, or Windows Mobile devices.</span></span>   
+- <span data-ttu-id="c850a-256">Configurar las opciones de actualización mediante la Herramienta de implementación de Office 2016 o las plantillas de directiva de grupo.</span><span class="sxs-lookup"><span data-stu-id="c850a-256">Configuring update settings using the Office 2016 Deployment Tool or Group Policy templates.</span></span>   
+- <span data-ttu-id="c850a-257">Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office.</span><span class="sxs-lookup"><span data-stu-id="c850a-257">Setting up a single on-site distribution server for Office 365 ProPlus, including assistance with the creation of a configuration.xml file for use with the Office Deployment Tool.</span></span>   
+- <span data-ttu-id="c850a-258">Implementar mediante Administrador de configuración de System Center, incluida la ayuda con la creación del empaquetado de Administrador de configuración de System Center.</span><span class="sxs-lookup"><span data-stu-id="c850a-258">Deployment using System Center Configuration Manager, including assistance with the creation of System Center Configuration Manager packaging.</span></span>
 
     
 
