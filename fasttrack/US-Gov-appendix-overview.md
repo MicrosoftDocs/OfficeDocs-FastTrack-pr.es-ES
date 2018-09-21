@@ -1,5 +1,5 @@
 ---
-title: 'Apéndice D: Información general de las Ventajas del Centro de FastTrack para Office 365 Administración pública de EE. UU.'
+title: Apéndice D - información general de la ventaja de centro de FastTrack para Office 365 gobierno de Estados Unidos
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -10,14 +10,14 @@ ms.service: o365-administration
 localization_priority: None
 ms.assetid: 5c619c4e-2ac5-4c2f-8d8c-acccff3b9b20
 description: Con la ventaja de centro de FastTrack para Office 365, trabaja de forma remota con especialistas de FastTrack para que el entorno de Office 365 está listo para usar y plan de implantación y uso dentro de la organización.
-ms.openlocfilehash: b2776280dab424dec995c63c9673b5fdb32e15bf
-ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
+ms.openlocfilehash: 8e866c57ebf4b9a8fededad0f307435f2445e3cc
+ms.sourcegitcommit: 04c086418a97082a88b7ab85b284e4741c1c9139
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24021522"
+ms.lasthandoff: 09/20/2018
+ms.locfileid: "24057754"
 ---
-# <a name="appendix-d-fasttrack-center-benefit-overview-for-office-365-us-government"></a>Apéndice D: Información general de las Ventajas del Centro de FastTrack para Office 365 Administración pública de EE. UU.
+# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Apéndice D - información general de la ventaja de centro de FastTrack para Office 365 gobierno de Estados Unidos
 
 Con la ventaja de centro de FastTrack para Office 365, trabaja de forma remota con especialistas de FastTrack para que el entorno de Office 365 está listo para usar y plan de implantación y uso dentro de la organización. 
   
