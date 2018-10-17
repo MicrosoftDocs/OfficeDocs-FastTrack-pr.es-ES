@@ -1,5 +1,5 @@
 ---
-title: Beneficio del centro FastTrack para Office 365
+title: Ventajas del Centro de FastTrack para Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -12,36 +12,35 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
-description: Puede usar Beneficio del centro FastTrack para Office 365 si adquiere al menos 50 licencias para un servicio elegible o un plan para el espacio empresarial de Office 365. A continuación, trabajará con especialistas de FastTrack para evaluar, corregir, habilitar e impulsar el uso de esos servicios. Estos especialistas también proporcionan orientación para la migración.
-ms.openlocfilehash: 6b4f9bd60ba11b4f1c6667478097110ad6e39084
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+description: Puede usar Ventajas del Centro de FastTrack para Office 365 si adquiere al menos 150 licencias de un plan o servicio elegible para el espacio empresarial de Office 365. Luego trabajará con especialistas de FastTrack para evaluar, corregir, habilitar e impulsar el uso de esos servicios. Estos especialistas también ofrecen orientación sobre la migración.
+ms.openlocfilehash: 576fd847f4f1cff1c7c6fab8f4bb987ac1b9ed68
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353817"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565600"
 ---
-# <a name="fasttrack-center-benefit-for-office-365"></a><span data-ttu-id="5553d-105">Beneficio del centro FastTrack para Office 365</span><span class="sxs-lookup"><span data-stu-id="5553d-105">FastTrack Center Benefit for Office 365</span></span>
+# <a name="fasttrack-center-benefit-for-office-365"></a><span data-ttu-id="0c066-105">Ventajas del Centro de FastTrack para Office 365</span><span class="sxs-lookup"><span data-stu-id="0c066-105">FastTrack Center Benefit for Office 365</span></span>
 
-<span data-ttu-id="5553d-p102">Puede usar Ventajas del Centro de FastTrack para Office 365 si adquiere *al menos* 50 licencias de un plan o servicio elegible para el espacio empresarial de Office 365. Luego trabajará con especialistas de FastTrack para evaluar, corregir, habilitar e impulsar el uso de esos servicios. Estos especialistas también ofrecen orientación sobre la migración.</span><span class="sxs-lookup"><span data-stu-id="5553d-p102">You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  50 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.</span></span> 
+<span data-ttu-id="0c066-p102">Puede usar Ventajas del Centro de FastTrack para Office 365 si adquiere *al menos* 150 licencias de un plan o servicio elegible para el espacio empresarial de Office 365. Luego trabajará con especialistas de FastTrack para evaluar, corregir, habilitar e impulsar el uso de esos servicios. Estos especialistas también ofrecen orientación sobre la migración.</span><span class="sxs-lookup"><span data-stu-id="0c066-p102">You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  50 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="5553d-109">A efectos de este documento, los especialistas de FastTrack pueden incluir a los empleados de Microsoft, así como a los proveedores y partners aprobados por Microsoft.</span><span class="sxs-lookup"><span data-stu-id="5553d-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="0c066-109">A efectos de este documento, los especialistas de FastTrack pueden incluir a los empleados de Microsoft, así como a los proveedores y partners aprobados por Microsoft.</span><span class="sxs-lookup"><span data-stu-id="0c066-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
   
-<span data-ttu-id="5553d-110">Para poder optar a los servicios de migración de Centro FastTrack, su espacio empresarial de Office 365 debe contar al menos con 500 licencias\*. Para obtener más información, vea [Migración de datos](O365-data-migration.md).</span><span class="sxs-lookup"><span data-stu-id="5553d-110">To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses.\* For more information, see [Data Migration](O365-data-migration.md).</span></span>
+<span data-ttu-id="0c066-p103">Para poder optar a los servicios de migración de Centro FastTrack, su espacio empresarial de Office 365 debe contar al menos con 500 licencias. Para obtener más información, vea [Migración de datos](O365-data-migration.md).</span><span class="sxs-lookup"><span data-stu-id="0c066-p103">To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).</span></span>
   
-<span data-ttu-id="5553d-111">Para obtener más información sobre los servicios y planes pertinentes, vea [Servicios y planes elegibles](O365-eligible-services-and-plans.md).</span><span class="sxs-lookup"><span data-stu-id="5553d-111">To learn more about eligible services and plans, see [Eligible Services and Plans](O365-eligible-services-and-plans.md).</span></span>
+<span data-ttu-id="0c066-112">Para obtener más información sobre los servicios y planes elegibles, vea [Servicios y planes elegibles](O365-eligible-services-and-plans.md).</span><span class="sxs-lookup"><span data-stu-id="0c066-112">To learn more about eligible services and plans, see [Eligible Services and Plans](O365-eligible-services-and-plans.md).</span></span>
   
-<span data-ttu-id="5553d-112">Para más información sobre el proceso del Centro de FastTrack y quién está a cargo de qué, vea [Información general sobre las ventajas del Centro de FastTrack](O365-fasttrack-benefit-overview.md).</span><span class="sxs-lookup"><span data-stu-id="5553d-112">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Overview](O365-fasttrack-benefit-overview.md).</span></span>
+<span data-ttu-id="0c066-113">Para más información sobre el proceso del Centro de FastTrack y quién está a cargo de qué, vea [Información general sobre las ventajas del Centro de FastTrack](O365-fasttrack-benefit-overview.md).</span><span class="sxs-lookup"><span data-stu-id="0c066-113">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Overview](O365-fasttrack-benefit-overview.md).</span></span>
   
-<span data-ttu-id="5553d-p103">¿Busca [Beneficio de incorporación y migración a Microsoft FastTrack para Enterprise Mobility + Security](https://go.microsoft.com/fwlink/?linkid=2005312)? Incluye información sobre:</span><span class="sxs-lookup"><span data-stu-id="5553d-p103">Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](https://go.microsoft.com/fwlink/?linkid=2005312)? It includes information about:</span></span>
+<span data-ttu-id="0c066-p104">¿Busca [Beneficio de incorporación y migración a Microsoft FastTrack para Enterprise Mobility + Security](https://go.microsoft.com/fwlink/?linkid=2005312)? Incluye información sobre:</span><span class="sxs-lookup"><span data-stu-id="0c066-p104">Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](https://go.microsoft.com/fwlink/?linkid=2005312)? It includes information about:</span></span>
   
-- <span data-ttu-id="5553d-115">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="5553d-115">Microsoft Intune</span></span>    
-- <span data-ttu-id="5553d-116">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="5553d-116">Azure Active Directory Premium</span></span> 
+- <span data-ttu-id="0c066-116">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="0c066-116">Microsoft Intune</span></span>    
+- <span data-ttu-id="0c066-117">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="0c066-117">Azure Active Directory Premium</span></span> 
     
 > [!NOTE]
-> <span data-ttu-id="5553d-117">Solo para fines informativos.</span><span class="sxs-lookup"><span data-stu-id="5553d-117">For informational purposes only.</span></span> 
+> <span data-ttu-id="0c066-118">Solo para fines informativos.</span><span class="sxs-lookup"><span data-stu-id="0c066-118">For informational purposes only.</span></span> 
   
-<span data-ttu-id="5553d-118">\* Si ha adquirido o renovado antes del 1 de septiembre de 2017, es necesario que cuente con 150 puestos como mínimo durante todo el período de la suscripción actual para beneficiarse del servicio de migración.</span><span class="sxs-lookup"><span data-stu-id="5553d-118">\*If you purchased or renewed prior to 9/1/2017, 150 seats is the minimum seat requirement throughout your current subscription period in order to receive the migration benefit.</span></span>
   
 
  
