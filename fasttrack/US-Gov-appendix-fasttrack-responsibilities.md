@@ -3,7 +3,7 @@ title: Responsabilidades FastTrack para Office 365 gobierno de Estados Unidos
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 7d1ed63bc4986238b649669788c6790c49b962be
-ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
+ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24021642"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895551"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades FastTrack para Office 365 gobierno de Estados Unidos
 
@@ -103,7 +103,7 @@ Proporcionar orientación acerca de:
 - Configurar una instalación híbrida entre una sola organización de Exchange local y Office 365 *o* entre varias organizaciones de Exchange local y Office 365. 
 - Configuración de seguridad de mensajería unificada (UM) con Exchange Online (mensajería unificada no está disponible en los planes de GCC DoD). 
     
-Para más información sobre las responsabilidades relativas a la migración de datos, vea [Migración de datos](data-migration.md).
+Para más información sobre las responsabilidades relativas a la migración de datos, vea [Migración de datos](O365-data-migration.md).
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -200,7 +200,7 @@ Proporcionar instrucciones sobre cómo convertir la red única de Yammer Basic e
 
 Proporcionar orientación acerca de:
 - Solucionar los problemas de implementación.   
-- Asignar licencias de usuario final mediante el Centro de administración de Office 365 y Windows PowerShell.  
+- Asignación de licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.  
 - Instalar Office 365 ProPlus desde el Portal de Office 365 con la opción Hacer clic y ejecutar   
 - Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en sus dispositivos de iOS, Android, o Windows Mobile.   
 - Configurar las opciones de actualización mediante la Herramienta de implementación de Office 2016 o las plantillas de directiva de grupo.   
