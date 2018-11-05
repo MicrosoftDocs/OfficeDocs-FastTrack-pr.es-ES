@@ -3,7 +3,7 @@ title: Ventajas del Centro de FastTrack para Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: Puede usar las ventajas del Centro de FastTrack para Windows 10 si adquiere *al menos* 150 licencias para un plan o un servicio elegible.
-ms.openlocfilehash: 5226f73f5f31e087d045f4caf0c3013e8bdc43d3
-ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
+ms.openlocfilehash: 756cb9c7e91cb9f3317e1fa89f23d48c514fe367
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "25565576"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895731"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Ventajas del Centro de FastTrack para Windows 10
 
-Puede usar las ventajas del Centro de FastTrack para Windows 10 si adquiere *al menos* 150 licencias para un plan o un servicio elegible.  A continuación, trabajará con especialistas de FastTrack que proporcionarán instrucciones de asesoramiento y corrección para ayudar a los clientes durante la implementación en Windows 10 y Office 365 ProPlus y a mantenerse al día sin costo adicional (con una suscripción válida). 
+Puede usar las ventajas del Centro de FastTrack para Windows 10 si compra *al menos* 150 licencias para un plan o un servicio válido. Después, trabajará con especialistas de FastTrack que proporcionarán instrucciones de asesoramiento y corrección si tiene problemas de compatibilidad de aplicaciones durante la implementación en Windows 10 y Office 365 ProPlus, y a mantenerse al día sin costo adicional (con una suscripción válida). 
   
 > [!NOTE]
 > A efectos de este documento, los especialistas de FastTrack pueden incluir a los empleados de Microsoft, así como a los proveedores y partners aprobados por Microsoft. 

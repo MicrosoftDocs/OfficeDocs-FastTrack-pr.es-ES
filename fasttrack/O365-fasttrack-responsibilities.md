@@ -3,7 +3,7 @@ title: Responsabilidades de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 813fc4c1f4fdb48bdae8184b9afc0528dcb4feb7
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2c02450376b3a64e1e7e63b966d284f3223567f9
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353737"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895647"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
@@ -103,8 +103,9 @@ Proporcionar orientación acerca de:
 - Habilitar el enrutamiento de correo electrónico entre el sistema de mensajería de origen y los entornos de Office 365. 
 - Configurar las características de Protección de Exchange Online (incluidas las características de Protección contra amenazas avanzada de Exchange Online si están disponibles en su suscripción) y comprobar que los registros MX se refieren a Office 365 para todos los dominios habilitados para correo que se han validado.
 - Configurar una instalación híbrida entre una sola organización de Exchange local y Office 365 *o* entre varias organizaciones de Exchange local y Office 365. 
+- Configuración de clientes de buzón (Outlook para Windows, Outlook en la web y Outlook para iOS y Android).
     
-Para más información sobre las responsabilidades relativas a la migración de datos, vea [Migración de datos](O365-data-migration.md).
+Para obtener más información sobre las responsabilidades relativas a la migración de datos, vea [Migración de datos](O365-data-migration.md).
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -191,7 +192,7 @@ Proporcionar orientación acerca de:
 
 Proporcionar orientación acerca de:
 - Solucionar los problemas de implementación.
-- Asignar licencias de usuario final mediante el Centro de administración de Office 365 y Windows PowerShell.
+- Asignar licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.
 - Descargar e instalar Cliente de escritorio de Project Online desde el portal.   
 - Configurar las opciones de actualización mediante la Herramienta de implementación de Office o las plantillas de directiva de grupo.
 - Configurar un servidor de distribución in situ único para Cliente de escritorio de Project Online, incluidas las instrucciones para crear un archivo configuration.xml para la Herramienta de implementación de Office 2016. 
@@ -205,9 +206,9 @@ Proporcionar instrucciones sobre cómo convertir la red única de Yammer Basic e
 
 Proporcionar orientación acerca de:
 - Solucionar los problemas de implementación.
-- Asignar licencias de usuario final mediante el Centro de administración de Office 365 y Windows PowerShell.
+- Asignar licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.
 - Instalar Office 365 ProPlus desde el Portal de Office 365 con la opción Hacer clic y ejecutar
-- Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en sus dispositivos de iOS, Android, o Windows Mobile. 
+- Instalar aplicaciones de Office Mobile (como Outlook para iOS y Android, Word Mobile, Excel Mobile y PowerPoint Mobile) en los dispositivos iOS, Android o Windows Mobile. 
 - Configurar las opciones de actualización mediante la Herramienta de implementación de Office 2016 o las plantillas de directiva de grupo.
 - Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office.
 - Implementar mediante Administrador de configuración de System Center, incluida la ayuda con la creación del empaquetado de Administrador de configuración de System Center.
@@ -220,5 +221,11 @@ Proporcionar orientación acerca de:
 - Características de productos principales.
 - Ubicaciones de descarga de Microsoft StaffHub.
     
-\*Para obtener información sobre sus responsabilidades de FastTrack con Office 365 Administración Pública, vea [Sus responsabilidades de FastTrack con Office 365 Administración Pública](US-Gov-appendix-fasttrack-responsibilities.md).
+## <a name="outlook-for-ios-and-android"></a>Outlook para iOS y Android
+
+Proporcionar instrucciones sobre:
+- Descarga de Outlook en dispositivos iOS y Android.
+- Configuración de cuentas de correo electrónico en Outlook.
+
+\*Para obtener información sobre las responsabilidades de FastTrack con Office 365 Administración Pública, vea [Responsabilidades de FastTrack para Office 365 Administración Pública](US-Gov-appendix-fasttrack-responsibilities.md).
 
