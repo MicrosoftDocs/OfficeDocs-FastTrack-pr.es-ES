@@ -3,7 +3,7 @@ title: Introducción al beneficio del centro FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10, los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y Office 365 ProPlus y mantenerse al día sin costo adicional (con una suscripción válida).
-ms.openlocfilehash: 493e38ad0e091c77eec78bd2e388f8429fe223c0
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353677"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895623"
 ---
 # <a name="assistance-offered-and-eligible-plans"></a>Asistencia ofrecida y planes elegibles   
 
-Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10 (como se describe en la siguiente sección **Planes elegibles**), los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y Office 365 ProPlus y mantenerse al día sin costo adicional (con una suscripción válida).
+Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10 (como se describe en la siguiente sección **Planes válidos**), los especialistas de FastTrack le proporcionarán instrucciones de asesoramiento y corrección si tiene problemas de compatibilidad de aplicaciones al implementar en Windows 10 y Office 365 ProPlus, y mantenerse al día sin costo adicional (con una suscripción válida).
 
 Para obtener ayuda, complete la [Solicitud de servicio Desktop App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 
