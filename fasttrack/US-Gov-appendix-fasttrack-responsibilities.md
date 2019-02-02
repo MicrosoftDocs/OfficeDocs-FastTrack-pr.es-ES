@@ -3,20 +3,19 @@ title: Responsabilidades FastTrack para Office 365 gobierno de Estados Unidos
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133126"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696787"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades FastTrack para Office 365 gobierno de Estados Unidos
 
@@ -37,7 +36,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
 
 - Mantener una llamada sobre la correcta planificación para ayudar a mejorar para la aceptación por parte de los usuarios.  
 - Proporcionar información general administrativa.  
-- Proporcionar orientación acerca de: 
+- Proporcionar instrucciones sobre: 
   - Necesidades de sistema de nombres de dominio (DNS), red e infraestructura.  
   - Necesidades del cliente (explorador de Internet, sistema operativo de cliente, dispositivo móvil y necesidades de servicios).
   - Identidad y aprovisionamiento de usuarios. 
@@ -46,10 +45,10 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
 - Establecer la escala de tiempo para las actividades de corrección.
 - Proporcionar una lista de comprobación de corrección.   
 - Evaluar la infraestructura existente SharePoint Server 2013 o SharePoint Server 2016 la infraestructura incluido:  
-  - Requisitos previos para Entorno híbrido de SharePoint Online.  
-  - Preparación de la infraestructura local para características de Entorno híbrido de SharePoint Online.  
+  - Requisitos previos para la implementación híbrida de SharePoint Online.  
+  - Preparación de la infraestructura local para características de SharePoint Online híbrido.  
   - Acceso a los extremos requeridos de SharePoint Online. 
-  - Audiencias para OneDrive para la Empresa híbrido.    
+  - Audiencias de OneDrive para la implementación híbrida de negocio.    
 - Evaluar la infraestructura existente de Lync o Skype Empresarial Online, que incluye:  
   - Estrategia de implementación de un cliente de Skype Empresarial compatible.  
   - Acceso a los puntos de conexión.  
@@ -70,7 +69,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
     
 ## <a name="enable-phase"></a>Fase de habilitación
 
-Proporcionar orientación acerca de: 
+Proporcionar instrucciones sobre: 
 - Evaluar el progreso del éxito de la planeación y averiguar si necesita más ayuda.    
 - Activar el espacio empresarial de Office 365.
 - Configurar los protocolos TCP/IP y puertos del firewall.   
@@ -96,7 +95,7 @@ Proporcionar orientación acerca de:
     
 ## <a name="exchange-online"></a>Exchange Online
 
-Proporcionar orientación acerca de: 
+Proporcionar instrucciones sobre: 
 - Crear o actualizar los registros DNS.    
 - Habilitar el enrutamiento de correo electrónico entre el sistema de mensajería de origen y los entornos de Office 365.    
 - Configurar las características de Protección de Exchange Online (incluidas las características de Protección contra amenazas avanzada de Exchange Online si están disponibles en su suscripción) y comprobar que los registros MX se refieren a Office 365 para todos los dominios habilitados para correo que se han validado.   
@@ -107,7 +106,7 @@ Para obtener más información sobre las responsabilidades relativas a la migrac
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones sobre:
 - Configurar el aprovisionamiento de usuarios, incluidas las licencias.   
 - Habilitar la creación de sitios para el administrador de SharePoint Online.   
 - Planificar las colecciones de sitios.   
@@ -115,11 +114,11 @@ Proporcionar orientación acerca de:
 - Habilitar sitios personales y características sociales.   
 - Configurar las características de SharePoint Online.    
 - Proporcionar migración de datos si se usa el servicio de migración de datos del centro FastTrack y se cumplen los requisitos de elegibilidad.  
-- Evaluar la configuración de infraestructura de granja de SharePoint local necesaria para Entorno híbrido de SharePoint Online.    
+- Evaluar la configuración de infraestructura de granja de servidores de SharePoint local necesaria para entornos híbridos de SharePoint Online.    
 - Utilizar herramientas y automatización para: 
   - Configurar aplicaciones de servicio de búsqueda en la nube local.    
   - Configurar la confianza entre SharePoint local y los entornos de la nube.   
-- Configurar sitios de SharePoint local para usar características de Entorno híbrido de SharePoint Online.
+- Configuración de sitios de SharePoint locales para utilizar las características de SharePoint Online híbrido.
     
 ## <a name="onedrive-for-business"></a>OneDrive para la Empresa
 
@@ -135,12 +134,12 @@ Proporcionar orientación acerca de:
 - Asignar licencias de usuario final.   
 - Configurar las audiencias de SharePoint Online para controlar y regir quién obtiene OneDrive para la Empresa.    
 - Implementar el cliente de sincronización de OneDrive para la Empresa en equipos de escritorio.   
-- Cómo configurar el redireccionamiento de OneDrive para la Empresa en el Entorno híbrido de SharePoint Online (solo SharePoint 2013 y SharePoint 2016).  
+- Procedimiento para configurar SharePoint Online híbrida OneDrive para la redirección de negocio (SharePoint 2013 y SharePoint 2016 sólo).  
 - Realizar la migración de datos si se usa el servicio de migración de datos del Centro de FastTrack y se cumplen los requisitos de elegibilidad.
     
 ## <a name="skype-for-business-online"></a>Skype Empresarial Online
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones sobre:
 - Aprovisionar identidades de Skype Empresarial para Office 365.   
 - Habilitar conferencias en línea, mensajería instantánea (MI) y características de presencia de Office 365.  
 - Creación de cuentas para asociar a los dispositivos de sistema de salas de reuniones compatibles (hasta 10 cuentas).    
@@ -162,7 +161,7 @@ Proporcionar orientación acerca de:
 > [!NOTE]
 > El siguiente no está disponible en los planes de GCC alta o DoD.
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones sobre:
 - Confirmación de requisitos mínimos.   
 - Configuración de puertos del firewall.  
 - Configuración de DNS.  
@@ -175,7 +174,7 @@ Proporcionar orientación acerca de:
     
 ## <a name="power-bi"></a>Power BI
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones sobre:
 - Revisar los planes de suscripción de Power BI.    
 - Agregar el servicio de Power BI.    
 - Descargar la aplicación Power BI Desktop.
@@ -204,7 +203,7 @@ Proporcionar orientación acerca de:
 - Instalar Office 365 ProPlus desde el Portal de Office 365 con la opción Hacer clic y ejecutar   
 - Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en sus dispositivos de iOS, Android, o Windows Mobile.   
 - Configurar las opciones de actualización mediante la Herramienta de implementación de Office 2016 o las plantillas de directiva de grupo.   
-- Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office.   
+- Configuración de un servidor de distribución en el sitio único para Office 365 ProPlus, incluida la asistencia con la creación de un archivo configuration.xml para utilizarlo con la herramienta de implementación de Office 365.   
 - Implementar mediante Administrador de configuración de System Center, incluida la ayuda con la creación del empaquetado de Administrador de configuración de System Center.
 
     

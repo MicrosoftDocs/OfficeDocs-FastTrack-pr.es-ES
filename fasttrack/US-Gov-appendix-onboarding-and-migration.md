@@ -3,20 +3,19 @@ title: Incorporación y migración fases para Office 365 gobierno de Estados Uni
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: 'Incorporación de Office 365 para Office 365 gobierno de Estados Unidos tiene cuatro fases principales: iniciar, evaluar, Remediate y habilitar. Puede seguir estas fases con una fase de migración de datos opcional tal como se muestra en la ilustración siguiente.'
-ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133078"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696775"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Incorporación y migración fases para Office 365 gobierno de Estados Unidos
 
@@ -118,7 +117,7 @@ En cuanto a SharePoint Online y OneDrive para la Empresa, se ofrecen instruccion
 - Configuración de DNS.   
 - Configuración de puertos del firewall.   
 - Aprovisionamiento de usuarios y licencias.   
-- Configuración de las características de Entorno híbrido de SharePoint, como la búsqueda híbrida, los sitios híbridos, la taxonomía híbrida, los tipos de contenido, la creación híbrida de sitios sin intervención del administrador (solo SharePoint Server 2013), el iniciador de aplicaciones extendido, OneDrive para la Empresa híbrido y los sitios de extranet.
+- Configuración de características de híbrido de SharePoint, como búsqueda híbrida, sitios híbrida, taxonomía híbrida, tipos de contenido, creación de sitios sin intervención del híbrido (SharePoint Server 2013 sólo), ampliado del iniciador de la aplicación, híbrida OneDrive para la empresa y los sitios de extranet.
     
 Los especialistas de FastTrack ofrecen orientación sobre la migración de datos a Office 365 mediante una combinación de herramientas y documentación, además de realizar una serie de tareas de configuración cuando corresponda y sea factible.
   
@@ -187,8 +186,8 @@ En cuanto a Office 365 ProPlus, se ofrecen instrucciones para:
 - Asignar licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.    
 - Instalar Office 365 ProPlus desde el Portal de Office 365 con la opción Hacer clic y ejecutar    
 - Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en sus dispositivos de iOS, Android, o Windows Mobile.   
-- Configurar las opciones de actualización mediante la Herramienta de implementación de Office.    
-- Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office.    
+- Configuración de opciones de actualización con la herramienta de implementación de Office 365.    
+- Configuración de un servidor de distribución en el sitio único para Office 365 ProPlus, incluida la asistencia con la creación de un archivo configuration.xml para utilizarlo con la herramienta de implementación de Office 365.    
 - Implementar mediante Microsoft System Center Configuration Manager, incluida la ayuda con la creación del empaquetado de Administrador de configuración de System Center.
     
 ![Pasos de la incorporación de Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)

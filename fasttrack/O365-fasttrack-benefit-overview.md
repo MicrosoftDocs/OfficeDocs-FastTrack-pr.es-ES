@@ -3,7 +3,7 @@ title: Información general sobre las ventajas del Centro de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,14 +11,13 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Con Ventajas del Centro de FastTrack para Office 365, puede trabajar de forma remota con especialistas de FastTrack para dejar el entorno de Office 365 listo para su uso, así como para planear el lanzamiento y el uso en la organización. Para más información sobre la elegibilidad, vea Ventajas del Centro de FastTrack para Office 365.
-ms.openlocfilehash: bd793ea54d8ac36522e574a139e3841b1df760b6
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: e97523c9205344b8f5e6ee77be9db0bc2c950e0a
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133030"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696715"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Información general sobre las ventajas del Centro de FastTrack
 
@@ -51,7 +50,7 @@ El espacio empresarial de Office 365 se crea cuando se completa la incorporació
     > [!NOTE]
     > La implementación y configuración de AD FS se realiza usando el [Asistente de configuración de Azure AD Connect](https://go.microsoft.com/fwlink/?linkid=844794) en su entorno local. 
   
-- Los usuarios con licencia ahora tienen acceso a los [Servicios y planes elegibles](O365-eligible-services-and-plans.md).
+- Los usuarios con licencia ahora tienen acceso a los [Servicios y planes elegibles](M365-eligible-services-and-plans.md).
     
 
  
