@@ -3,23 +3,22 @@ title: Apéndice B Beneficio adicional del Centro de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-ms.assetid: 880b4cf1-e778-4725-af25-7fb6fe10c504
 description: Los clientes que compren al menos 20 000 licencias para un espacio empresarial de Exchange Online son elegibles para los servicios adicionales del Centro de FastTrack. Para más información, vea Servicios y planes elegibles.
-ms.openlocfilehash: 73307846da4c45bcee64c5e9a9c21d1a3e806fe6
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: abdb722bdb69945a1a90d8cae3fe71a5259e9dc9
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133090"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696727"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Apéndice B: Ventaja adicional del Centro de FastTrack
 
-Los clientes que compren al menos 20 000 licencias para un espacio empresarial de Exchange Online son elegibles para los servicios adicionales del Centro de FastTrack. Para más información, vea [Servicios y planes elegibles](O365-eligible-services-and-plans.md). 
+Los clientes que compren al menos 20 000 licencias para un espacio empresarial de Exchange Online son elegibles para los servicios adicionales del Centro de FastTrack. Para más información, vea [Servicios y planes elegibles](M365-eligible-services-and-plans.md). 
   
 ## <a name="onboarding-and-migration-phases"></a>Fases de incorporación y migración
 
@@ -43,7 +42,7 @@ Para Skype Empresarial Online, proporcionamos instrucciones para la migración d
 
 Para Office 365 ProPlus, proporcionamos instrucciones para las siguientes opciones: 
 - Evaluación y planeación centradas en la preparación del entorno para la implementación inicial y la administración de actualizaciones de acuerdo con los procedimientos recomendados de Microsoft. 
-- Desarrollar configuraciones de implementación y de actualización mediante la Herramienta de implementación de Office. 
+- Desarrollar configuraciones de implementación y de actualización mediante la Herramienta de implementación de Office 365. 
 - Empaquetado de implementación mediante el Administrador de configuración de System Center.  
 - Implementar y configurar la telemetría de Office para ayudarle a evaluar el uso de documentos y soluciones cruciales para la empresa de Office para la compatibilidad de aplicaciones.
     

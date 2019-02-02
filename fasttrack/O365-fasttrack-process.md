@@ -3,20 +3,19 @@ title: Proceso de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: 'El proceso de FastTrack presta servicios relacionados con la incorporación y aceptación por parte de los usuarios. '
-ms.openlocfilehash: d4e090f6a9e692ae3de2238b9626a78bc806ccfe
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 401faec69b6d33cd4f07814c6e598cc5e5ccf359
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133018"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696739"
 ---
 # <a name="the-fasttrack-process"></a>Proceso de FastTrack
 
@@ -44,9 +43,8 @@ Para obtener ayuda en el [Centro de administración de Office 365](https://go.mi
 
 Para obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Seleccione **FastTrack**.
-3.  Haga clic en **Servicios**.
-4.  Complete el formulario **Solicitar asistencia para Microsoft 365**. 
+2.  Haga clic en **Servicios**.
+3.  Complete el formulario **Solicitar asistencia para Microsoft 365**. 
 > [!NOTE]
 >  Si un partner aparece en su espacio empresarial de Office 365, no verá esta opción. Consulte a su partner para obtener asistencia. 
   
@@ -56,11 +54,10 @@ Para obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/f
     
 Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para hacerlo:
 1.  Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Seleccione **FastTrack**.
-3.  Haga clic en **Mis clientes**.
-4.  Busque el cliente o selecciónelo en la lista de clientes.
-5.  Haga clic en **Servicios**.
-6.  Complete el formulario **Solicitar asistencia para Microsoft 365**. 
+2.  Haga clic en **Mis clientes**.
+3.  Busque el cliente o selecciónelo en la lista de clientes.
+4.  Haga clic en **Servicios**.
+5.  Complete el formulario **Solicitar asistencia para Microsoft 365**. 
 
 En la tabla siguiente se incluyen los roles y las responsabilidades para el proceso.
     
