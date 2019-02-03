@@ -3,20 +3,19 @@ title: Responsabilidades de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 27961b81a4add1342ba194c2e3d04c93aca32ca5
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: e90c9e54b62f57c27ba1424f5d2fb84d7b56626e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133102"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696835"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
@@ -46,17 +45,17 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
 - Establecer la escala de tiempo para las actividades de corrección.
 - Proporcionar una lista de comprobación de corrección. 
 - Evaluar la infraestructura existente SharePoint Server 2013 o SharePoint Server 2016 la infraestructura incluido:
-  - Requisitos previos para Entorno híbrido de SharePoint Online. 
+  - Requisitos previos para el Entorno híbrido de SharePoint Online. 
   - Preparación de la infraestructura local para características de Entorno híbrido de SharePoint Online.
   - Acceso a los extremos requeridos de SharePoint Online.
   - Audiencias para OneDrive para la Empresa híbrido. 
-- Evaluar la infraestructura existente de Lync o Skype Empresarial Online, que incluye:
-  - Estrategia de implementación de un cliente de Skype Empresarial compatible.
+- Evaluar la infraestructura existente de Lync, Skype Empresarial Online o Microsoft Teams, que incluye:
+  - Estrategia de implementación de un cliente de Skype Empresarial o Teams compatible.
   - Acceso a los puntos de conexión.
   - Calidad de la conexión.
   - Estimaciones de ancho de banda.
   - Requisitos previos para admitir la configuración del servidor de dominio dividido.
-  - Preparación de los usuarios identificados para mover a Skype Empresarial Online.
+  - Preparación de los usuarios identificados para mover a Skype Empresarial Online o Teams.
 - Evaluar la infraestructura de mensajería, incluidos: 
   - Flujo de correo y principios de enrutamiento generales.
   - Acceso de clientes (incluidos los extremos existentes de acceso de cliente publicados).
@@ -101,7 +100,7 @@ Proporcionar orientación acerca de:
 Proporcionar orientación acerca de:
 - Crear o actualizar los registros DNS. 
 - Habilitar el enrutamiento de correo electrónico entre el sistema de mensajería de origen y los entornos de Office 365. 
-- Configurar las características de Protección de Exchange Online (incluidas las características de Protección contra amenazas avanzada de Exchange Online si están disponibles en su suscripción) y comprobar que los registros MX se refieren a Office 365 para todos los dominios habilitados para correo que se han validado.
+- Configurar las características de Exchange Online Protection, Protección ante la pérdida de datos (DLP) y el Cifrado de mensajes de Office 365 (incluidas las características de Protección contra amenazas avanzada de Exchange Online si están disponibles en su suscripción) y comprobar que los registros MX se refieren a Office 365 para todos los dominios habilitados para correo que se han validado.
 - Configurar una instalación híbrida entre una sola organización de Exchange local y Office 365 *o* entre varias organizaciones de Exchange local y Office 365. 
 - Configuración de clientes de buzón (Outlook para Windows, Outlook en la web y Outlook para iOS y Android).
     
@@ -140,6 +139,32 @@ Proporcionar orientación acerca de:
 - Cómo configurar el redireccionamiento de OneDrive para la Empresa en el Entorno híbrido de SharePoint Online (solo SharePoint 2013 y SharePoint 2016).
 - Realizar la migración de datos si se usa el servicio de migración de datos del Centro de FastTrack y se cumplen los requisitos de elegibilidad.
     
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+Proporcionar orientación acerca de:
+- Confirmación de requisitos mínimos.
+- Configuración de puertos del firewall.
+- Configuración de DNS.  
+- Confirmar que se ha habilitado Teams en su espacio empresarial de Office 365.
+- Habilitar o deshabilitar licencias de usuario.
+- Distribución de clientes de Teams.
+- Características para profesionales de TI y administradores.
+- Características de productos principales.
+- Plantillas de éxito de clientes.
+- Creación de cuentas para asociar a los dispositivos de sistema de salas de reuniones compatibles (hasta 10 cuentas). 
+- Habilitar enrutamiento directo.
+- Habilitar audioconferencia
+- Configuración de la organización para los parámetros predeterminados de puente de conferencia.
+- Asignación de puente de conferencia a usuarios con licencia.
+- Habilitar sistema telefónico:
+- Habilitar la incorporación de sistema telefónico y planes de llamada (en los mercados disponibles).
+- Asignación de números a usuarios con licencia.
+- Instrucciones para la migración de números locales a través de la interfaz de usuario hasta 999.
+- Soporte técnico de solicitudes de servicio de migración de números locales a partir de 999. 
+- Habilitar eventos en directo en Teams 
+- Configuración e integración de la organización en Microsoft Stream.
+
+
 ## <a name="skype-for-business-online"></a>Skype Empresarial Online
 
 Proporcionar orientación acerca de:
@@ -157,20 +182,7 @@ Proporcionar orientación acerca de:
   - Soporte técnico de solicitudes de servicio de migración de números locales a partir de 999.
 - Habilitar la Difusión de reunión de Skype Empresarial:
   - Incorporación de instrucciones para la habilitación de la Difusión de reunión de Skype Empresarial.
-  - Configuración de la organización para la federación con el servicio de Difusión de reunión.
-    
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-Proporcionar orientación acerca de:
-- Confirmación de requisitos mínimos.
-- Configuración de puertos del firewall.
-- Configuración de DNS.  
-- Confirmando que se ha habilitado Microsoft Teams en su espacio empresarial de Office 365.
-- Habilitar o deshabilitar licencias de usuario.
-- Distribución de clientes de Microsoft Teams.
-- Características para profesionales de TI y administradores.
-- Características de productos principales.
-- Plantillas de éxito de clientes.
+  - Configuración de la organización para los parámetros predeterminados de federación con el servicio de difusión de reunión.
     
 ## <a name="power-bi"></a>Power BI
 
@@ -193,8 +205,8 @@ Proporcionar orientación acerca de:
 Proporcionar orientación acerca de:
 - Solucionar los problemas de implementación.
 - Asignar licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.
-- Descargar e instalar Cliente de escritorio de Project Online desde el portal.   
-- Configurar las opciones de actualización mediante la Herramienta de implementación de Office o las plantillas de directiva de grupo.
+- Descargar e instalar el Cliente de escritorio de Project Online desde el portal.   
+- Configurar las opciones de actualización mediante la Herramienta de implementación de Office 365 o las plantillas de directiva de grupo.
 - Configurar un servidor de distribución in situ único para Cliente de escritorio de Project Online, incluidas las instrucciones para crear un archivo configuration.xml para la Herramienta de implementación de Office 2016. 
 - Conectar Cliente de escritorio de Project Online a Project Online.
     
@@ -210,8 +222,8 @@ Proporcionar orientación acerca de:
 - Instalar Office 365 ProPlus desde el Portal de Office 365 con la opción Hacer clic y ejecutar
 - Instalar aplicaciones de Office Mobile (como Outlook para iOS y Android, Word Mobile, Excel Mobile y PowerPoint Mobile) en los dispositivos iOS, Android o Windows Mobile. 
 - Configurar las opciones de actualización mediante la Herramienta de implementación de Office 2016 o las plantillas de directiva de grupo.
-- Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office.
-- Implementar mediante Administrador de configuración de System Center, incluida la ayuda con la creación del empaquetado de Administrador de configuración de System Center.
+- Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office 365.
+- Implementar mediante el Administrador de configuración de System Center, incluida la ayuda con la creación del empaquetado del Administrador de configuración de System Center.
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 

@@ -3,19 +3,19 @@ title: Planes y servicios elegibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Cuando compre cualquier servicio de Office 365, los especialistas de FastTrack le ofrecerán instrucciones para que se incorpore a Microsoft 365 y comience a usarlo.
-ms.openlocfilehash: 167568338d4d4a9e1132761c821fcaa63868bc0a
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472808"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696811"
 ---
 # <a name="eligible-services-and-plans"></a>Planes y servicios elegibles
 
@@ -30,19 +30,17 @@ Para obtener ayuda en el [Centro de administración de Office 365](https://go.mi
 
 Para obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Seleccione **FastTrack**.
-3.  Haga clic en **Servicios**.
-4.  Complete el formulario **Solicitar asistencia para Microsoft 365**.
+2.  Haga clic en **Servicios**.
+3.  Complete el formulario **Solicitar asistencia para Microsoft 365**.
     > [!NOTE]
     >  Si un partner aparece en su espacio empresarial de Office 365, no verá esta opción. Consulte a su partner para obtener asistencia. 
 
 Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para hacerlo:
 1.  Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Seleccione **FastTrack**.
-3.  Haga clic en **Mis clientes**.
-4.  Busque el cliente o selecciónelo en la lista de clientes.
-5.  Haga clic en **Servicios**.
-6.  Complete el formulario **Solicitar asistencia para Microsoft 365**.
+2.  Haga clic en **Mis clientes**.
+3.  Busque el cliente o selecciónelo en la lista de clientes.
+4.  Haga clic en **Servicios**.
+5.  Complete el formulario **Solicitar asistencia para Microsoft 365**.
 
 También puede solicitar ayuda del Centro FastTrack en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en la lista de servicios disponibles para su espacio empresarial. 
 
@@ -56,8 +54,8 @@ El Centro de FastTrack ofrece asistencia para los servicios siguientes:
 - Exchange Online
 - SharePoint Online
 - OneDrive para la Empresa
-- Skype Empresarial Online
 - Microsoft Teams
+- Skype Empresarial Online
 - Power BI
 - Project Online
 - Yammer Enterprise 
@@ -71,9 +69,9 @@ El Centro de FastTrack ofrece asistencia para los servicios siguientes:
   
  **Microsoft 365 Enterprise**
 
-- Microsoft 365 E3
-- Microsoft 365 E5
-- Microsoft 365 Empresa
+- Microsoft 365 E3\*
+- Microsoft 365 E5\*
+- Microsoft 365 Empresa\*
     
  **Microsoft 365 Educación**
 
@@ -134,9 +132,9 @@ El Centro de FastTrack ofrece asistencia para los servicios siguientes:
     
  **Skype Empresarial Online**
   
--  Sistema telefónico 
--  Plan de llamadas 
--  Audioconferencia 
+-  Sistema telefónico\*\*\* 
+-  Plan de llamadas\*\*\* 
+-  Audioconferencia\*\*\*
 -  Skype Empresarial Online plan 1  
 -  Skype Empresarial Online Plan 2
     
@@ -147,6 +145,8 @@ El Centro de FastTrack ofrece asistencia para los servicios siguientes:
 \*Disponible solo para las características y los servicios en la nube elegibles para FastTrack descritos en esta descripción de ventajas.
 
 \*\*Para obtener más información sobre las Ventajas de FastTrack para el Gobierno de Estados Unidos, vea [Office 365 para el gobierno de Estados Unidos](https://aka.ms/aboutgovcloud).
+
+\*\*\*Puede usarse para usuarios con licencia de Skype Empresarial Online y de Microsoft Teams.
 
 > [!NOTE]
 > La elegibilidad para Ventajas del Centro de FastTrack se basa en la compra de licencias pagadas para los planes elegibles mencionados anteriormente. 
