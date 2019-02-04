@@ -3,20 +3,19 @@ title: Fases de incorporación y migración
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: 'La incorporación de Office 365 consta de cuatro fases principales: inicio, evaluación, corrección y habilitación. Puede seguir estas fases con una fase opcional de migración de datos.'
-ms.openlocfilehash: 4f5f089a05def67e3b7bee9d4ace5cbce636c4c3
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: b77b4f02256c4b443c41f4740036e4a88519202d
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133186"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696847"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de incorporación y migración
 
@@ -39,19 +38,17 @@ Para obtener ayuda en el [Centro de administración de Office 365](https://go.mi
 
 Para obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Seleccione **FastTrack**.
-3.  Haga clic en **Servicios**.
-4.  Complete el formulario **Solicitar asistencia para Microsoft 365**. 
+2.  Haga clic en **Servicios**.
+3.  Complete el formulario **Solicitar asistencia para Microsoft 365**. 
 > [!NOTE]
 >  Si un partner aparece en su espacio empresarial de Office 365, no verá esta opción. Consulte a su partner para obtener asistencia. 
   
 Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para hacerlo:
 1.  Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Seleccione **FastTrack**.
-3.  Haga clic en **Mis clientes**.
-4.  Busque el cliente o selecciónelo en la lista de clientes.
-5.  Haga clic en **Servicios**.
-6.  Complete el formulario **Solicitar asistencia para Microsoft 365**.
+2.  Haga clic en **Mis clientes**.
+3.  Busque el cliente o selecciónelo en la lista de clientes.
+4.  Haga clic en **Servicios**.
+5.  Complete el formulario **Solicitar asistencia para Microsoft 365**.
 
 También puede solicitar ayuda del Centro FastTrack en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en la lista de servicios disponibles para su espacio empresarial. 
     
@@ -102,7 +99,9 @@ En cuanto a Exchange Online, le guiamos a lo largo del proceso para preparar la 
 - Configuración de las características de Exchange Online Protection (EOP) para todos los dominios habilitados para correo que se han validado en Office 365.
     > [!NOTE]
     > Sus registros de correo Exchange (MX) deben referirse a Office 365. 
-- Configuración de la característica de Protección contra amenazas avanzada de Exchange Online (ATP) si forma parte de su servicio de suscripción una vez que sus registros MX apunten a Office 365. Esta característica está configurada como parte de la configuración antimalware de Protección de Exchange Online.
+- Configuración de la característica de Protección contra amenazas avanzada de Exchange Online (ATP) si forma parte de su servicio de suscripción. Esto se completa una vez que sus registros MX apunten a Office 365. Esta característica está configurada como parte de la configuración antimalware de Exchange Online Protection.
+- Configuración de la característica de prevención de pérdida de datos (DLP) para todos los dominios habilitados para correo validados en Office 365 como parte de su servicio de suscripción. Esto se realiza una vez que los registros MX apunten a Office 365.
+- Configuración del cifrado de mensajes de Office 365 (OME) para todos los dominios habilitados para correo validados en Office 365 como parte de su servicio de suscripción. Esto se realiza una vez que los registros MX apunten a Office 365.
 - Configuración de puertos del firewall.
 - Configuración de DNS, incluida la detección automática necesaria, el marco de directivas de remitente (SPF) y los registros MX (si procede). 
 - Configuración del flujo de correo electrónico entre su entorno de mensajería de origen y Exchange Online (si procede).
@@ -131,6 +130,19 @@ En cuanto a OneDrive para la Empresa, los pasos dependen de si actualmente usa S
   
 ![Pasos de la incorporación de OneDrive durante la fase de habilitación](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+En cuanto a Microsoft Teams, se ofrecen instrucciones para:
+- Confirmación de requisitos mínimos.  
+- Configuración de puertos del firewall.   
+- Configuración de DNS. 
+- Confirmando que se ha habilitado Microsoft Teams en su espacio empresarial de Office 365.  
+- Habilitar o deshabilitar licencias de usuario.
+    
+![Diagrama de Microsoft Teams de FastTrack (fase de habilitación)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+
+![Características de Skype compartidas de Microsoft Teams](media/Teams-Skype-features.png)
+
 ## <a name="skype-for-business-online"></a>Skype Empresarial Online
 
 En cuanto a Skype Empresarial Online, se ofrecen instrucciones para:
@@ -143,17 +155,6 @@ En cuanto a Skype Empresarial Online, se ofrecen instrucciones para:
 ![Pasos de la incorporación de Lync durante la fase 1 de habilitación](media/O365-Onboarding-Enable-Lync.png)
   
 ![Pasos de la incorporación de Skype Empresarial durante la fase 2 de habilitación](media/SfBOifappborderupdate.png)
-  
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-En cuanto a Microsoft Teams, se ofrecen instrucciones para:
-- Confirmación de requisitos mínimos.  
-- Configuración de puertos del firewall.   
-- Configuración de DNS. 
-- Confirmando que se ha habilitado Microsoft Teams en su espacio empresarial de Office 365.  
-- Habilitar o deshabilitar licencias de usuario.
-    
-![Diagrama de equipos de Microsoft FastTrack (fase de habilitación)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
@@ -178,8 +179,8 @@ En cuanto a Project Online Professional y Project Online Premium, se ofrecen ins
 - Solucionar los problemas de implementación.
 - Asignar licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.  
 - Instalar Cliente de escritorio de Project Online desde el Portal de Office 365 con la opción Hacer clic y ejecutar.
-- Configurar las opciones de actualización mediante la Herramienta de implementación de Office.  
-- Configurar un servidor de distribución in situ único para Cliente de escritorio de Project Online, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office.  
+- Configurar las opciones de actualización mediante la Herramienta de implementación de Office 365.  
+- Configurar un servidor de distribución in situ único para Cliente de escritorio de Project Online, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office 365.  
 - Conectar Cliente de escritorio de Project Online a Project Online Professional o Project Online Premium.
     
 ![Pasos que se producen durante la fase de habilitación de Project para Office 365](media/f0133291-7c12-4db0-af61-75ec5e71451c.png)
@@ -195,8 +196,8 @@ En cuanto a Office 365 ProPlus, se ofrecen instrucciones para:
 - Asignar licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell. 
 - Instalar Office 365 ProPlus desde el Portal de Office 365 con la opción Hacer clic y ejecutar   
 - Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en sus dispositivos de iOS, Android, o Windows Mobile.   
-- Configurar las opciones de actualización mediante la Herramienta de implementación de Office.   
-- Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office.  
+- Configurar las opciones de actualización mediante la Herramienta de implementación de Office 365.   
+- Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office 365.  
 - Implementar mediante Microsoft System Center Configuration Manager, incluida la ayuda con la creación del empaquetado de Administrador de configuración de System Center.
     
 ![Pasos de la incorporación de Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)

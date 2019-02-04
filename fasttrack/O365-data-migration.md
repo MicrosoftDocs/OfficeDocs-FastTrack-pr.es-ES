@@ -3,20 +3,19 @@ title: Migración de datos
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: Los especialistas de FastTrack ofrecen instrucciones sobre los pasos para la migración de datos a Office 365. Esto está disponible para todos los clientes aptos con servicios de Office 365 para Exchange Online, OneDrive para la Empresa y SharePoint Online.
-ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 6c14e9177d4630a0a7ba5c33c9405b660d08cd26
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133162"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696883"
 ---
 # <a name="data-migration"></a>Migración de datos
 
@@ -49,20 +48,30 @@ En la siguiente tabla se describe lo que se espera para la migración en el ento
    
 ## <a name="migration-to-exchange-online"></a>Migración a Exchange Online
 
- **Habilitar la migración**
+### <a name="enable-to-migrate"></a>Habilitar la migración
   
 Si usa Microsoft para migrar su correo electrónico, le proporcionaremos ayuda para habilitar Exchange Online y el entorno de origen para la migración. Según el origen, podemos llevar a cabo varios pasos de habilitación. Proporcionamos ayuda mediante el uso de una combinación de herramientas y documentación y realizando tareas de configuración donde sea pertinente y viable. Según los parámetros aplicables, migramos los buzones, los trabajos de monitor y proporcionamos informes de estado.
   
 Puede que Microsoft requiera el acceso y los permisos adecuados en su sistema de correo con el fin de realizar actividades de migración.
   
- **Pasos y directiva de migración**
+### <a name="migration-policy-and-steps"></a>Pasos y directiva de migración
   
-- Las migraciones se realizan con una regularidad programada y normalizada las 24 horas al día y durante cinco (5) días laborables a la semana (24 x 5) en franjas temporales de migración predefinidas. Una "franja temporal de migración" también se denomina "lote de migración".    
-- Hay tres lotes de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 2:00 de la hora universal coordinada (UTC) al viernes a la medianoche UTC, lo que significa que la última migración programada es el viernes a las 20:00 UTC.
-- Todas las migraciones usan herramientas de migración basadas en la nube.
-- Microsoft puede requerir el acceso y los permisos adecuados para su sistema de correo con el fin de realizar actividades de migración.
+> [!NOTE]
+> Una franja temporal de migración también se denomina lote de migración.
+
+#### <a name="commercial-and-uk-government"></a>Comercial y organismos gubernamentales del Reino Unido
+
+Las migraciones se realizan con una regularidad programada y normalizada las 24 horas al día y durante siete (7) días laborables a la semana (24x7) en franjas temporales de migración predefinidas. Hay tres lotes de migración por día de migración.
+
+#### <a name="us-governmentdod"></a>Gobierno de Estados Unidos o DOD
+
+Las migraciones se realizan con una regularidad programada y normalizada las 24 horas al día y durante cinco (5) días laborables a la semana (24x5) en franjas temporales de migración predefinidas. Hay tres lotes de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 2:00 de la hora universal coordinada (UTC) al viernes a la medianoche UTC, lo que significa que la última migración programada es el viernes a las 20:00 UTC.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Germany Microsoft Cloud Deutschland (MCD)
+
+Las migraciones se realizan con una regularidad programada y normalizada 9 horas al día y durante cinco (5) días laborables a la semana (9x5) en franjas temporales de migración predefinidas. Hay un lote de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 12:00 de la hora universal coordinada (UTC) al viernes a las 21:00 UTC.
     
- **Estado final**
+ ### <a name="end-state"></a>Estado final
   
 El estado final esperado después de un lote de migración incluye lo siguiente:
 - Los datos de los buzones de origen elegibles y programados adecuadamente en el entorno de origen se migran a Office 365. 
@@ -108,8 +117,7 @@ Durante las migraciones, el usuario realiza las siguientes operaciones:
 - Controlar las comunicaciones con los usuarios finales.  
 - Instalar el nivel adecuado de software cliente según las directrices de Office 365. Para más información, vea [Office 365 para empresas](https://go.microsoft.com/fwlink/?linkid=2005429). 
 - Validar la coexistencia de enrutamiento de correo SMTP entre el entorno de mensajería de origen y Office 365 Exchange Online si procede.
-- Proporcionar una programación en un método definido y una lista de buzones de correo específicos para migrar por cada evento de migración con al menos 14 días de antelación. Para migraciones de Notes, deberá proporcionar la programación con 21 días de antelación.
-- Agregar a la programación buzones nuevos o reprogramados que son hasta un 10 % de los buzones de correo ya programados hasta tres días antes del lote de migración. Esto debe corresponderse con el lote de migración final.  
+- Proporcionar una programación en un método definido y una lista de buzones de correo específicos para migrar por cada evento de migración con al menos 3 días de antelación. Para migraciones de Notes, deberá proporcionar la programación con 21 días de antelación.
 - Quitar los buzones de correo de la programación hasta 24 horas antes del lote de migración. Esto debe corresponderse con el lote de migración final.
 - Programar un promedio de destino de buzones de correo en un período de 24 horas, tal como se muestra en la tabla siguiente.
     
@@ -145,30 +153,33 @@ Debe seguir el proceso de migración estándar y colaborar con Microsoft adecuad
   
 ## <a name="migration-to-sharepoint-online"></a>Migración a SharePoint Online
 
- **Habilitar la migración**
+### <a name="enable-to-migrate"></a>Habilitar la migración
   
 Si usa Microsoft para migrar datos, le proporcionamos ayuda para habilitar SharePoint Online y el entorno de origen para la migración. Según el origen, podemos llevar a cabo varios pasos de habilitación. Le ayudamos usando una combinación de herramientas y documentación, y realizando tareas de configuración cuando corresponda y sea viable.
   
 Necesita proporcionar a Microsoft el acceso y los permisos adecuados para que lleve a cabo algunas actividades.
   
- **Pasos y directiva de migración**
+### <a name="migration-policy-and-steps"></a>Pasos y directiva de migración
   
-- Las migraciones están dirigidas\* para completar programaciones estandarizadas según el origen de la migración, tal como se muestra en la siguiente tabla: 
-    
-|||
-|:-----|:-----|
-|**Origen** <br/> |**Directiva de programación** <br/> |
-|**Recurso compartido de archivos, Box**  <br/> | 24 x 5 según lotes de migración predefinidos.  <br/>  Tres lotes de migración por día de migración.  <br/>  Hay cinco días de migración en una semana del lunes a las 2:00 UTC al viernes a la medianoche UTC.  <br/>  La última ventana de migración programada es el viernes a las 20:00 UTC.  <br/> |
-   
-* La programación se basa en un tamaño supuesto del conjunto de datos y en factores del entorno. Es posible que parte del contenido programado no se pueda migrar dentro de una sola ventana de migración.
-    
-- Las migraciones se realizan con una regularidad preprogramada y normalizada de 24 x 5 en lotes de migración predefinidos.
-- Hay tres lotes de migración por día de migración. Hay cinco días de migración en una semana de lunes a las 2:00 UTC a viernes a la medianoche UTC, lo que significa que la última migración programada es el viernes a las 20:00 UTC.  
-- Todas las migraciones requieren el acceso y los permisos adecuados en el entorno de origen.  
+> [!NOTE]
+> Una franja temporal de migración también se denomina lote de migración.
+
+#### <a name="commercial-and-uk-government"></a>Comercial y organismos gubernamentales del Reino Unido
+
+Las migraciones se realizan con una regularidad programada y normalizada las 24 horas al día y durante siete (7) días laborables a la semana (24x7) en franjas temporales de migración predefinidas. Hay tres lotes de migración por día de migración.
+
+#### <a name="us-governmentdod"></a>Gobierno de Estados Unidos o DOD
+
+Las migraciones se realizan con una regularidad programada y normalizada las 24 horas al día y durante cinco (5) días laborables a la semana (24x5) en franjas temporales de migración predefinidas. Hay tres lotes de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 2:00 de la hora universal coordinada (UTC) al viernes a la medianoche UTC, lo que significa que la última migración programada es el viernes a las 20:00 UTC.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Germany Microsoft Cloud Deutschland (MCD)
+
+Las migraciones se realizan con una regularidad programada y normalizada 9 horas al día y durante cinco (5) días laborables a la semana (9x5) en franjas temporales de migración predefinidas. Hay un lote de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 12:00 de la hora universal coordinada (UTC) al viernes a las 21:00 UTC.
+
 - Todas las migraciones están sujetas a las cuotas de SharePoint Online indicadas en [SharePoint Online y OneDrive para la Empresa: restricciones y límites del software](https://go.microsoft.com/fwlink/?LinkID=616612).   
 - La cantidad general de datos migrados se limitará al 75% de la cuota de almacenamiento general de SharePoint Online a la que tiene derecho (incluido el almacenamiento adicional que haya adquirido por separado).
     
- **Estado final**
+ ### <a name="end-state"></a>Estado final
   
 El estado final esperado después de un lote de migración incluye lo siguiente: 
 - Los datos de los orígenes elegibles y programados adecuadamente en el entorno de origen se migran a SharePoint Online.   
@@ -189,12 +200,14 @@ Durante las migraciones, los especialistas de FastTrack realizan las siguientes 
 - Proporcionar los requisitos previos de las herramientas de evaluación y migración que correspondan al escenario.   
 - Proporcionar los requisitos previos para el acceso del equipo de migración al entorno de origen y destino a efectos de evaluación y migración.   
 - Ofrecer herramientas de evaluación para realizar evaluaciones del entorno de origen y destino o proporcionar instrucciones sobre cómo usar las funciones de plataforma de origen nativas para crear informes de evaluación.   
+- Proporcionar una programación en un método definido y una lista de datos de usuario específicos para migrar por cada evento de migración con al menos 7 días de antelación.
+- Quitar los datos de usuarios de la programación hasta 24 horas antes del lote de migración. Esto debe corresponderse con el lote de migración final.
 - Ayudar a implementar y ejecutar las herramientas de evaluación y migración (si es el caso).   
 - Configurar la infraestructura de migración en preparación para la migración de contenido (si es aplicable).    
 - Realizar una migración de prueba limitada para validar la infraestructura de migración y los requisitos previos necesarios.   
 - Aprovisionar sitios de destino de SharePoint Online listos para su uso como parte de la migración.    
 - Realizar una migración piloto antes de la migración de velocidad.   
-- Proporcionar instrucciones sobre la programación de la migración para el escenario seleccionado.   
+- Proporcionar instrucciones sobre la programación de la migración para el escenario seleccionado. 
 - Llevar a cabo ondas de migración de velocidad de contenido de acuerdo con la programación de migración que proporcione el cliente y que los recursos FastTrack hayan validado.   
 - Proporcionar resultados de migración después de cada ventana de migración.   
 - Participar en la clasificación de los problemas de migración de velocidad y proporcionar instrucciones sobre las posibles opciones de corrección.   
@@ -213,7 +226,7 @@ Durante las migraciones, el usuario realiza las siguientes operaciones:
 - Proporcionar los requisitos previos y realizar actividades necesarias para admitir la evaluación y la migración.   
 - Instalar las herramientas de evaluación que proporciona FastTrack y completar las actividades de recopilación de datos de evaluación (si es aplicable).   
 - Instalar localmente el software de migración que proporciona FastTrack (si es el caso).   
-- Completar las actividades de corrección indicadas en el informe de corrección de FastTrack (si corresponde).    
+- Completar las actividades de corrección indicadas en el informe de corrección de FastTrack (si corresponde).  
 - Proporcionar una programación de migración mediante las plantillas y las instrucciones de FastTrack.   
 - Realizar un control de calidad de migración y pruebas de aceptación de usuario.   
 - Realizar correcciones posteriores a la migración (si corresponde).
@@ -225,27 +238,33 @@ Durante las migraciones, el usuario realiza las siguientes operaciones:
     
 ## <a name="migration-to-onedrive-for-business"></a>Migración a OneDrive para la Empresa
 
- **Habilitar la migración**
+ ### <a name="enable-to-migrate"></a>Habilitar la migración
   
 Si usa Microsoft para migrar datos, le proporcionaremos instrucciones para habilitar OneDrive para la Empresa y el entorno de origen para la migración. Según el origen, podemos llevar a cabo varios pasos de habilitación. Le ayudaremos con algunas actividades usando una combinación de herramientas, documentación y orientación, y realizando tareas de configuración cuando corresponda y sea viable.
   
 Podría tener que proporcionar acceso adecuado y permisos a Microsoft para realizar ciertas actividades. Si no le proporciona acceso o permisos, usted mismo deberá realizar ciertas tareas definidas con instrucciones de Microsoft. 
   
- **Pasos y directiva de migración**
+### <a name="migration-policy-and-steps"></a>Pasos y directiva de migración
   
-- Las migraciones están dirigidas\* para completar programaciones estandarizadas según el origen de la migración, tal como se muestra en la siguiente tabla: 
-    
-|||
-|:-----|:-----|
-|**Origen** <br/> |**Directiva de programación** <br/> |
-|**Recurso compartido de archivos, Box, Google Drive**  <br/> | 24 x 5 según lotes de migración predefinidos.  <br/>  Tres lotes de migración por día de migración.  <br/>  Hay cinco días de migración en una semana del lunes a las 2:00 UTC al viernes a la medianoche UTC.  <br/>  La última ventana de migración programada es el viernes a las 20:00 UTC.  <br/> |
-   
-* La programación se basa en un tamaño supuesto del conjunto de datos y en factores del entorno. Es posible que parte del contenido programado no se pueda migrar dentro de una sola ventana de migración.
+> [!NOTE]
+> Una franja temporal de migración también se denomina lote de migración.
+
+#### <a name="commercial-and-uk-government"></a>Comercial y organismos gubernamentales del Reino Unido
+
+Las migraciones se realizan con una regularidad programada y normalizada las 24 horas al día y durante siete (7) días laborables a la semana (24x7) en franjas temporales de migración predefinidas. Hay tres lotes de migración por día de migración.
+
+#### <a name="us-governmentdod"></a>Gobierno de Estados Unidos o DOD
+
+Las migraciones se realizan con una regularidad programada y normalizada las 24 horas al día y durante cinco (5) días laborables a la semana (24x5) en franjas temporales de migración predefinidas. Hay tres lotes de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 2:00 de la hora universal coordinada (UTC) al viernes a la medianoche UTC, lo que significa que la última migración programada es el viernes a las 20:00 UTC.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Germany Microsoft Cloud Deutschland (MCD)
+
+Las migraciones se realizan con una regularidad programada y normalizada 9 horas al día y durante cinco (5) días laborables a la semana (9x5) en franjas temporales de migración predefinidas. Hay un lote de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 12:00 de la hora universal coordinada (UTC) al viernes a las 21:00 UTC.
     
 - Todas las migraciones requieren el acceso y los permisos adecuados en el entorno de origen.   
 - Todas las migraciones están sujetas a las cuotas de OneDrive para la Empresa indicadas en [SharePoint Online y OneDrive para la Empresa: restricciones y límites del software](https://go.microsoft.com/fwlink/?LinkId=698855).
     
- **Estado final**
+ ### <a name="end-state"></a>Estado final
   
 El estado final esperado después de un lote de migración incluye lo siguiente:  
 - Los datos de orígenes adecuadamente programados y pertinentes del entorno de origen se migran a OneDrive para la Empresa.  
@@ -267,6 +286,8 @@ Durante las migraciones, los especialistas de FastTrack realizan las siguientes 
 - Proporcionar los requisitos previos de las herramientas de evaluación y migración que correspondan al escenario.  
 - Proporcionar los requisitos previos para el acceso del equipo de migración al entorno de origen y destino a efectos de evaluación y migración.   
 - Ofrecer herramientas de evaluación para realizar evaluaciones del entorno de origen y destino o proporcionar instrucciones sobre cómo usar las funciones de plataforma de origen nativas para crear informes de evaluación.    
+- Proporcionar una programación en un método definido y una lista de datos de usuario específicos para migrar por cada evento de migración con al menos 7 días de antelación.
+- Quitar los datos de usuarios de la programación hasta 24 horas antes del lote de migración. Esto debe corresponderse con el lote de migración final.
 - Ayudar a implementar y ejecutar las herramientas de evaluación y migración (si es el caso).   
 - Configurar la infraestructura de migración en preparación para la migración de contenido (si es aplicable).    
 - Realizar una migración de prueba limitada para validar la infraestructura de migración y los requisitos previos necesarios.    
