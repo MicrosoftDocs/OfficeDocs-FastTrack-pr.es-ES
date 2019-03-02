@@ -3,7 +3,7 @@ title: Ventajas del Centro de FastTrack para Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Puede usar Ventajas del Centro de FastTrack para Office 365 si adquiere al menos 150 licencias de un plan o servicio elegible para el espacio empresarial de Office 365. Luego trabajará con especialistas de FastTrack para evaluar, corregir, habilitar e impulsar el uso de esos servicios. Estos especialistas también ofrecen orientación sobre la migración.
-ms.openlocfilehash: 73363c63590545b7ede05b068a7bbd38fbc9cb0d
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 4b3cd472783781342265797ebf3b71cc9debc8cf
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696643"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355144"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Ventajas del Centro de FastTrack para Office 365
 
@@ -32,7 +32,7 @@ Para obtener más información sobre los servicios y planes elegibles, vea [Serv
   
 Para más información sobre el proceso del Centro de FastTrack y quién está a cargo de qué, vea [Información general sobre las ventajas del Centro de FastTrack](O365-fasttrack-benefit-overview.md).
   
-¿Busca [Beneficio de incorporación y migración a Microsoft FastTrack para Enterprise Mobility + Security](https://go.microsoft.com/fwlink/?linkid=2005312)? Incluye información sobre:
+¿Busca [Beneficio de incorporación y migración a Microsoft FastTrack para Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? Incluye información sobre:
   
 - Microsoft Intune    
 - Azure Active Directory Premium 
