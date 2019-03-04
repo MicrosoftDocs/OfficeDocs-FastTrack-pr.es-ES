@@ -3,7 +3,7 @@ title: Ventajas del Centro de FastTrack para Microsoft 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack de Microsoft 365 proporciona orientación para la planeación, implementación y adopción, incluyendo el acceso remoto a los conocimientos de ingeniería de Microsoft, procedimientos recomendados, herramientas y recursos. FastTrack de Microsoft 365 ayuda a las organizaciones y sus partners a acelerar la implementación y obtener la adopción del usuario final de Office 365, Windows 10 y Enterprise Mobility + Security.
-ms.openlocfilehash: 272b2aab2900f8d9febd24b22a9a2642d7b24ff8
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: e0ac93c1debcffe644117054c6fda2d8ac2d5b60
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696619"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355120"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Ventajas del Centro de FastTrack para Microsoft 365
 
@@ -29,11 +29,9 @@ Las ventajas del centro FastTrack de Microsoft 365 proporcionan orientación par
   
 Para más información, consulte:
 
-- [Ventajas del Centro de FastTrack para Office 365](https://go.microsoft.com/fwlink/?linkid=2044752) 
-- [Ventajas del centro de FastTrack para Enterprise Mobility + Security](https://go.microsoft.com/fwlink/?linkid=2005312)
-- [Ventajas del Centro de FastTrack para Windows 10](https://go.microsoft.com/fwlink/?linkid=2044661) 
-
-También puede explorar los servicios de FastTrack y [solicitar ayuda](https://go.microsoft.com/fwlink/p/?LinkId=2003903) de FastTrack.
+- [Ventajas del Centro de FastTrack para Office 365](O365-fasttrack-benefit-for-office-365.md) 
+- [Ventajas del centro de FastTrack para Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)
+- [Beneficio del centro FastTrack para Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) También puede explorar los servicios de FastTrack y [solicitar ayuda](https://go.microsoft.com/fwlink/p/?LinkId=2003903) de FastTrack.
 
 FastTrack es su compañero para sacar todo el partido a Microsoft 365.
   
