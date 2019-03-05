@@ -3,7 +3,7 @@ title: Asistencia ofrecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10, los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y Office 365 ProPlus y mantenerse al día sin costo adicional (con una suscripción válida).
-ms.openlocfilehash: d7d79c78102d229d15e0b55dfc18d1063371ef17
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 071d1bdc76f2d450f7c9dde88f1e07858c3af36d
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696631"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355192"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 
@@ -26,6 +26,9 @@ Al comprar cualquier servicio de Microsoft 365 o de Windows 10 (como se describe
 Para obtener ayuda, complete la [Solicitud de servicio Desktop App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 
 Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para ello, el partner debe iniciar sesión en el sitio, seleccionar el registro del cliente, hacer clic en **Servicios** y completar el formulario **Solicitar asistencia para Desktop App Assure**.
+
+> [!NOTE]
+> La asistencia se presta en chino tradicional y simplificado (el personal solo habla mandarín), inglés, francés, alemán, italiano, japonés, coreano, portugués (Brasil) y español. 
 
 ## <a name="assistance"></a>Asistencia
 
@@ -40,19 +43,17 @@ FastTrack proporciona asistencia para lo siguiente:
 > [!NOTE]
 > FastTrack hace todo lo posible para resolver problemas de compatibilidad. 
 
-> [!NOTE]
-> FastTrack no puede corregir versiones anteriores de una aplicación ISV si hay una versión más reciente que sea compatible con Windows 10.
-
-> [!NOTE]
-> FastTrack no puede corregir versiones anteriores de software de complementos de terceros si el proveedor de software tiene una versión más reciente que sea compatible con Office 365 ProPlus.
-
 ## <a name="out-of-scope"></a>Fuera de ámbito
 
 FastTrack no proporciona asistencia para lo siguiente:
-- Pruebas e inventario de aplicaciones para determinar lo que funciona y no funciona en Windows 10. Para obtener más información, vea [Solicitud de cliente para la evaluación del escritorio moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
+- Inventario y pruebas de aplicaciones para determinar lo que funciona y lo que no en Windows 10 y Office 365 ProPlus. Para obtener más información sobre este proceso, visite el [Centro de implementación de escritorios modernos](https://go.microsoft.com/fwlink/?linkid=2080140). Si está interesado en una evaluación detallada de la preparación para la actualización, complete el formulario [Solicitud de cliente para la evaluación del escritorio moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Buscar instrucciones de compatibilidad y soporte técnico de aplicaciones ISV de terceros para Windows 10. Para obtener más información, vea [Ready for Windows](https://go.microsoft.com/fwlink/?linkid=2054580).
 - Servicios de solo empaquetado de aplicaciones. Sin embargo, el equipo de Desktop App Assure crea paquetes de aplicaciones que hemos corregido para Windows 10 para asegurarse de que se pueden implementar en el entorno del cliente.
-    > [!NOTE]
-    > Microsoft no puede realizar cambios en su código fuente. Sin embargo, el equipo de Desktop App Assure puede proporcionar instrucciones a los desarrolladores de aplicaciones si el código fuente está disponible para sus aplicaciones.
 
-
+Las responsabilidades del cliente son:
+- Creación de un inventario de aplicaciones.
+- Validación de esas aplicaciones en Windows 10 y Office 365 ProPlus.
+> [!NOTE]
+> Microsoft no puede realizar cambios en su código fuente. Sin embargo, el equipo de Desktop App Assure puede proporcionar instrucciones a los desarrolladores de aplicaciones si el código fuente está disponible para sus aplicaciones. [!NOTE]
+> FastTrack no puede corregir versiones anteriores de macros, complementos o aplicaciones ISV si hay una versión más reciente que sea compatible con Windows 10 y Office 365 ProPlus.[!NOTE]
+> Póngase en contacto con un [partner de Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) para obtener asistencia con servicios identificados como fuera del ámbito.
