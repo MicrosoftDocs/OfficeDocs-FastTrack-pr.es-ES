@@ -3,19 +3,19 @@ title: Apéndice A Migración de IBM Domino a Exchange Online
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'La migración de IBM Domino a Exchange Online tiene varios aspectos importantes, incluido lo que sucede durante las fases siguientes:'
-ms.openlocfilehash: e2a4a06dd37c9a8eb5c04330cbde7f9dfff830b2
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2b8bad92665f92abaa718b78151ad49b3920bac3
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696823"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355240"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Apéndice A: Migración de IBM Domino a Exchange Online
 
@@ -28,7 +28,7 @@ La migración de IBM Domino a Exchange Online tiene varios aspectos importantes,
     
 ## <a name="identities"></a>Identidades
 
-Usted es responsable de crear y administrar las identidades (solo en nube, sincronizadas o federadas con Active Directory local). Debe completar la asignación de identidades (si todavía no está presente) entre Domino y Active Directory local o Azure AD durante las primeras etapas de la incorporación.
+Usted es responsable de crear y administrar las identidades (solo en nube, sincronizadas o federadas con Active Directory local). Debe completar la asignación de identidades (si todavía no está presente) entre Domino y Active Directory local o Azure Active Directory durante las primeras etapas de la incorporación.
   
 ## <a name="coexistence"></a>Coexistencia
 
@@ -90,7 +90,7 @@ El proceso estándar de Centro FastTrack para la migración de Domino a Exchange
     >  Aunque FastTrack migra buzones de hasta el 85 % del tamaño de destino total permitido, el intento de migrar buzones de más de 2 GB conlleva riesgos adicionales como los siguientes:    <br/> Duración más prolongada de las migraciones.    <br/> Uso de recursos que en otras circunstancias se usarían para migrar otros buzones.    <br/> Aumento considerable de las tasas de error. 
 - Preparar las bases de datos de correo y sus listas de control de acceso (ACL) para la migración. Debe llevar a cabo algunos pasos de corrección para migrar correctamente las bases de datos de correo y sus permisos a un buzón compartido en Exchange Online. Entre estos pasos se incluyen los siguientes: 
   - Quitar las entradas existentes de la base de datos de correo en el directorio de Domino y crear nuevos registros personales.
-  - Crear grupos de seguridad universal habilitados para correo en Active Directory local que se sincronicen con Azure AD para Office 365 y se usen para configurar los permisos en el buzón compartido en Exchange Online. Así se transfieren los permisos establecidos en la base de datos de correo al buzón compartido en Exchange Online.
+  - Crear grupos de seguridad universal habilitados para correo en Active Directory local que se sincronicen con Office 365 Azure Active Directory y se usen para configurar los permisos en el buzón compartido en Exchange Online. Esto transfiere los permisos establecidos en la base de datos de correo al buzón compartido en Exchange Online.
     
 > [!NOTE]
 > Ahora puede empezar a preparar y a formar al usuario final sobre el nuevo sistema de mensajería y el cliente. 

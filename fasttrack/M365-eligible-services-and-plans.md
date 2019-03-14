@@ -3,19 +3,19 @@ title: Planes y servicios elegibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Cuando compre cualquier servicio de Office 365, los especialistas de FastTrack le ofrecerán instrucciones para que se incorpore a Microsoft 365 y comience a usarlo.
-ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696811"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355300"
 ---
 # <a name="eligible-services-and-plans"></a>Planes y servicios elegibles
 
@@ -71,6 +71,7 @@ El Centro de FastTrack ofrece asistencia para los servicios siguientes:
 
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
+- Seguridad de Microsoft 365 E5\*
 - Microsoft 365 Empresa\*
     
  **Microsoft 365 Educación**
@@ -163,11 +164,11 @@ Para obtener más información, vea [Ventajas del Centro de FastTrack para Offic
 |**Microsoft Intune**    |   Elegible si se ha comprado como plan independiente o como parte de E3 o E5.      |
 |**Cloud Attach**     |    Elegible si se ha comprado como plan independiente o como parte de E3 o E5.     |
 |**Microsoft Intune for Education**     |  Elegible si se ha comprado como plan independiente o como parte de A3 o A5.       |
-|**Protección avanzada contra amenazas de Microsoft**     |    Limitada. Elegible si se ha comprado como plan independiente. Para ello, vaya al [portal de Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
-|**Microsoft Advanced Threat Analytics**   |        Limitada. Elegible si se ha comprado como plan independiente. Para ello, vaya al [portal de Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
+|**Protección avanzada contra amenazas de Microsoft**     |    Limitada. Elegible si se ha comprado como plan independiente.  Para ello, vaya al [portal de Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
+|**Microsoft Advanced Threat Analytics**   |        Limitada. Elegible si se ha comprado como plan independiente.  Para ello, vaya al [portal de Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 |**Microsoft Cloud App Security**    |       Limitada. Elegible si se ha comprado como plan independiente. Para ello, vaya al [portal de Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
-Para obtener más información, vea [Ventajas del Centro de FastTrack para Enterprise Mobility + Security](https://go.microsoft.com/fwlink/?linkid=2005312)
+Para obtener más información, vea [Ventajas del Centro de FastTrack para Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)
 
 ## <a name="eligible-windows-10-plans"></a>Planes elegibles para Windows 10
 
