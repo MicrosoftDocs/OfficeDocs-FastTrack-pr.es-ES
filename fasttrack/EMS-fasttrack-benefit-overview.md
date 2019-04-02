@@ -5,25 +5,25 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1d11b2898176df059633cfb3fc2c6bb3f851c0b5
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: c1750da451d0d6714ef8363d943614f80ae685e3
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359916"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016904"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Información general sobre las ventajas del Centro de FastTrack
 
 Con el beneficio del centro FastTrack para Microsoft Azure Active Directory Premium y Microsoft Intune, trabajará de forma remota con los especialistas de FastTrack para preparar el entorno para su uso y para planear la implementación y el uso en la organización. Para obtener más información sobre la idoneidad, vea el [proceso del beneficio del centro de FastTrack para Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
 
-La incorporación consta de dos componentes principales:
+La incorporación tiene dos componentes principales:
 
 -   **Incorporación principal** : tareas necesarias para la configuración de los inquilinos y la integración con Azure Active Directory, si es necesario. La incorporación principal también proporciona la línea base para incorporar otros servicios pertinentes de Microsoft online.
 

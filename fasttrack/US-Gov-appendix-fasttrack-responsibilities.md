@@ -3,19 +3,19 @@ title: Responsabilidades de FastTrack para Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 2989b841d247ec1e05f8e033a7000e2b2a756e24
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 04fe6d448afa6b54bbc8f31b1001f2835f039e0f
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355288"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016976"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades de FastTrack para Office 365 US Government
 
@@ -154,7 +154,7 @@ Proporcionar instrucciones sobre:
   - Soporte técnico de solicitudes de servicio de migración de números locales a partir de 999.  
 - Habilitación de la difusión de reunión de Skype empresarial (no disponible en los planes de GCC altos o DoD):  
   - Incorporación de instrucciones para la habilitación de la Difusión de reunión de Skype Empresarial.  
-  - Configuración de la organización para la federación con el servicio de Difusión de reunión.
+  - Configuración de la organización para los parámetros predeterminados de federación con el servicio de difusión de reunión.
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
@@ -181,7 +181,7 @@ Proporcionar orientación acerca de:
     
 ## <a name="project-online"></a>Project Online
 
-Proporcionar instrucciones sobre:  
+Proporcionar orientación acerca de:  
 - Revisar los planes de suscripción.  
 - Comprobar la funcionalidad básica de SharePoint.    
 - Agregar el servicio de Project Online.  

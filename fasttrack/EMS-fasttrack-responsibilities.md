@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 25602322bc92823cd50f4674a683762d9eeae10b
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359964"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016916"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
@@ -43,11 +43,11 @@ FastTrack tiene las siguientes responsabilidades durante la incorporación.
 
     -   Necesidades de DNS, red e infraestructura.
 
-    -   Necesidades del cliente (explorador de Internet, sistema operativo de cliente y necesidades de servicios).
+    -   Necesidades de cliente (explorador de Internet, sistema operativo de cliente y necesidades de servicios).
 
     -   Identidad y aprovisionamiento de usuarios.
 
-    -   Habilitar los servicios elegibles que se han adquirido y definido como parte de la incorporación.
+    -   Habilitación de los servicios elegibles que se han comprado y definido como parte de la incorporación.
 
 -   Establecer la escala de tiempo para las actividades de corrección.
 
@@ -68,7 +68,7 @@ Proporcionar orientación acerca de:
 
 -   Validando la conectividad a Microsoft Online Services.
 
--   En un entorno de un solo bosque:
+-   Para un entorno de un solo bosque:
 
     -   Instalar un servidor de sincronización de directorios entre los servicios de dominio de Active Directory (AD DS) y los servicios de Microsoft online elegibles (solo la guía si es necesario).
 
@@ -96,7 +96,7 @@ Proporcionar instrucciones sobre:
 
 - Validando la conectividad con los servicios de Azure AD Premium.
 
-- En un entorno de un solo bosque:
+- Para un entorno de un solo bosque:
 
   -   Instalar una sincronización de directorios entre los servicios de dominio de Active Directory (AD DS) y Azure AD Connect, si es necesario.
 
@@ -109,7 +109,7 @@ Proporcionar instrucciones sobre:
   - Configurar la autenticación de paso a través de Azure Active Directory, si es necesario.
   - Configurar el inicio de sesión único de conexión directa (SSO) de Azure Active Directory, si es necesario.
     > [!NOTE]
-    > La autenticación de paso a través de Azure Active Directory para entornos de varios bosques es compatible Si hay confianzas de bosque entre los bosques de Active Directory y si el enrutamiento de sufijo de nombre está configurado correctamente. Se pueden instalar agentes adicionales en varios servidores locales para proporcionar alta disponibilidad para las solicitudes de inicio de sesión.
+    > La autenticación de paso a través de Azure Active Directory para entornos de varios bosques se admite si hay confianzas entre sus bosques de Active Directory y si el enrutamiento de sufijo de nombre se ha configurado correctamente. Con el objetivo de poder proporcionar una disponibilidad alta para las solicitudes de inicio de sesión, pueden instalarse agentes adicionales en varios servidores locales.
 
   - Para obtener más información, vea [Autenticación de paso a través de Azure Active Directory: inicio rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) y [Inicio de sesión único de conexión directa de Azure Active Directory: Guía de inicio rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).
   - Para obtener más información acerca de los límites de la autenticación de paso a través, vea [Autenticación de paso a través de Azure Active Directory: limitaciones actuales](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).

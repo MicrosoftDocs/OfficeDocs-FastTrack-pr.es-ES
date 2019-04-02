@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0516035e55bc791645b32ad1819839b6c73f1772
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: a2d3f601c1395b908d2ad8fd7a6a0dde38502784
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359844"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016784"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Proceso del programa Beneficio de incorporación y migración a Microsoft FastTrack para Enterprise Mobility + Security (EMS)
 Si su organización es elegible para el beneficio del centro FastTrack para EMS, puede trabajar de forma remota con los especialistas de FastTrack para obtener Microsoft Azure Active Directory Premium y Microsoft Intune listos para usarlos. También puede solicitar ayuda a través del [sitio de FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) para Azure Information Protection, Microsoft Cloud App Security y Microsoft Advanced Threat Analytics. Para saber si su organización es elegible, consulte [servicios y planes elegibles](M365-eligible-services-and-plans.md).
@@ -35,7 +35,7 @@ Esto es lo que tratamos sobre el proceso de incorporación:
 
 -   [Responsabilidades del cliente](EMS-your-responsibilities.md) para cada fase
 
-A continuación, encontrará lo que puede esperar al finalizar la incorporación:
+Esto es lo que puede esperar al finalizar la incorporación:
 
 -   Se crean los inquilinos de EMS para los servicios seleccionados.
 

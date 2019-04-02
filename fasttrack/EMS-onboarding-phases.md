@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 86d69ec9ff9ef26646496d1b9fb443befdd76327
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 9f41ee105af4ff7d0a250d69a56756577d47b0a7
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30360012"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017024"
 ---
 # <a name="onboarding-phases"></a>Fases de la incorporación
 
@@ -42,12 +42,12 @@ Después de comprar el número de licencias adecuado, siga las instrucciones del
 3. Haga clic en **Servicios**.
 4. Complete la **solicitud de asistencia con el formulario de Microsoft 365**.
 
-Una vez iniciado el soporte técnico de incorporación, programaremos una serie de reuniones en línea.
+Una vez iniciado el soporte técnico de incorporación, configuraremos una programación de reuniones en línea.
 
 > [!NOTE]
 > Si tiene un socio de Microsoft que aparece en su inquilino de Office 365, no verá esta opción. Consulte a su partner de Microsoft para obtener ayuda.
 
-Los socios de Microsoft también pueden obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para hacerlo:
+Los socios de Microsoft también pueden obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. To do so:
 
 1. Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Seleccione **FastTrack**.
@@ -82,7 +82,7 @@ Una vez completadas todas las actividades de corrección, el proyecto se desplaz
 
 **Habilitar capacidades de fase principal**
 
-La incorporación principal implica el aprovisionamiento de servicios y la integración de inquilinos e identidades. También incluye los pasos para ofrecer una base para los servicios en línea de incorporación, como Azure AD Premium y Intune.
+La incorporación principal implica el aprovisionamiento de servicios y la integración de espacios empresariales e identidades. También incluye los pasos para ofrecer una base para los servicios en línea de incorporación, como Azure AD Premium y Intune.
 
 ![Fase de habilitación de incorporación: capacidades principales](./media/ft-enable-phase-core-01.png)
 

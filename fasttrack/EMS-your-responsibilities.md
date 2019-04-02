@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 614f8b31cfd4a49ce01520efb2315a5e7237dcda
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359808"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016939"
 ---
 # <a name="your-responsibilities"></a>Sus responsabilidades
 
@@ -79,11 +79,11 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
 
 -   Trabaje con el equipo de FastTrack para iniciar la incorporación de los servicios elegibles.
 
--   Participar en la reunión de lanzamiento contratación, administrar y liderar a los participantes de su organización, y confirmar las escalas de tiempo de corrección.
+-   Participar en la reunión de lanzamiento de la contratación, administrar y liderar a los participantes de la organización, y confirmar las escalas de tiempo de corrección.
 
 ## <a name="assess-phase"></a>Fase de evaluación
 
--   Identificar a las partes interesadas adecuadas (incluido un gestor de proyecto) para finalizar las actividades de evaluación necesarias.
+-   Identificar a las partes interesadas adecuadas (incluido un jefe de proyecto) para completar las actividades de evaluación necesarias.
 
 -   Comparta su pantalla con el equipo de FastTrack si se necesita una guía al ejecutar herramientas de evaluación en su entorno, EMS o sus suscripciones de servicio de nube individuales (si lo decide).
 
@@ -99,7 +99,7 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
 
 -   Llevar a cabo los pasos necesarios para completar las actividades de corrección identificadas en la fase de evaluación.
 
--   Participar en las reuniones de los puntos de comprobación.
+-   Participar en las reuniones de punto de control.
 
 ## <a name="enable-phase"></a>Fase de habilitación
 

@@ -3,19 +3,19 @@ title: Fases de incorporación y migración de Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'La incorporación de Office 365 para Office 365 el gobierno de Estados Unidos tiene cuatro fases principales: Inicio, evaluación, corrección y habilitación. Puede seguir estas fases de una fase opcional de migración de datos, como se muestra en la figura siguiente.'
-ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355264"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016988"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de incorporación y migración de Office 365 US Government
 
@@ -107,7 +107,7 @@ En cuanto a Exchange Online, le guiamos a lo largo del proceso para preparar la 
 - Configuración del flujo de correo electrónico entre su entorno de mensajería de origen y Exchange Online (si procede).   
 - Operación de migración de correo desde el entorno de mensajería de origen a Office 365.   
     > [!NOTE]
-    > Para obtener más información sobre la migración de datos y correo, consulte [Migración de datos](O365-data-migration.md). 
+    > Para obtener más información sobre la migración de datos y correo, vea [Migración de datos](O365-data-migration.md). 
   
 ![Pasos de la incorporación de Exchange durante la fase de habilitación](media/O365-Onboarding-Enable-Exchange.png)
   
@@ -155,7 +155,7 @@ En cuanto a Microsoft Teams, se ofrecen instrucciones para:
 - Confirmando que se ha habilitado Microsoft Teams en su espacio empresarial de Office 365.    
 - Habilitar o deshabilitar licencias de usuario.
     
-![Diagrama de equipos de Microsoft FastTrack (fase de habilitación)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![Diagrama de Microsoft Teams de FastTrack (fase de habilitación)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
