@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016916"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513839"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
@@ -150,7 +150,7 @@ Proporcionar instrucciones sobre la configuración de:
 
   - Pantalla de inicio de sesión personalizada, que incluye logotipos, texto e imágenes.
 
-  - Grupos dinámicos y de autoServicio (grupos).
+  - Grupos dinámicos y de autoservicio (grupos).
 
   - Proxy de aplicación de Azure Active Directory.
 
@@ -193,7 +193,7 @@ Proporcionar **instrucciones** sobre:
 
         -   Implementación de aplicaciones para cada plataforma admitida a través de vínculos Web, MSI o vínculos profundos.
 
-        -   Implementar Office proPlus en dispositivos con Windows 10.
+        -   Implementar Office ProPlus en dispositivos con Windows 10.
 
         -   Programas de compras por volumen para la implementación de aplicaciones, incluidos el PCV de Apple, la tienda Windows para empresas y la función reproducir para el almacén de trabajo de Google.
 
@@ -280,6 +280,22 @@ Proporcionar instrucciones sobre:
 - Cambie las cargas de trabajo a Intune.
 
 - Supervisar la actividad de co-administración en el entorno.
+
+### <a name="enable-phase--azure-information-protection"></a>Fase de habilitación: Azure Information Protection
+
+Proporcionar soporte técnico para: 
+
+- Los clientes pueden clasificar y etiquetar automáticamente la información de las aplicaciones de Office (como Word, PowerPoint, Excel y Outlook) que se ejecutan en Windows y que usan el cliente de Azure Information Protection. 
+- Archivos en reposo con el escáner de Azure Information Protection.
+- Mensajes de correo electrónico en tránsito con reglas de flujo de correo de Exchange Online. 
+
+También se proporciona soporte técnico a los clientes que quieren aplicar la protección con Microsoft Azure Rights Management Services (Azure RMS), el cifrado de mensajes de Office 365 (OME) y la prevención de pérdida de datos (DLP). 
+
+A los clientes se les proporciona orientación sobre cómo: 
+
+- Activar y configurar su inquilino.
+- Cree y configure etiquetas y directivas.
+- Aplicar protección de la información a los documentos. 
 
 > [!NOTE]
 > **¿Desea obtener más información?** consulte [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).

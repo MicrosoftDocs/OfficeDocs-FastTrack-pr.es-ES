@@ -3,19 +3,19 @@ title: Sus responsabilidades para Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: El usuario tiene las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: a7053abfaf0a47023e031b1d400f0e9c1ff6187c
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 9f20f365868e506ffa2beda8306919e32ce3f3f8
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016873"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513047"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Sus responsabilidades para Office 365 US Government
 

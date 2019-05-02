@@ -5,22 +5,22 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: a2d3f601c1395b908d2ad8fd7a6a0dde38502784
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 1e3f34284cb4b6300a50116ad2bb1df3cb6ab0fe
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016784"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513779"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Proceso del programa Beneficio de incorporación y migración a Microsoft FastTrack para Enterprise Mobility + Security (EMS)
-Si su organización es elegible para el beneficio del centro FastTrack para EMS, puede trabajar de forma remota con los especialistas de FastTrack para obtener Microsoft Azure Active Directory Premium y Microsoft Intune listos para usarlos. También puede solicitar ayuda a través del [sitio de FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) para Azure Information Protection, Microsoft Cloud App Security y Microsoft Advanced Threat Analytics. Para saber si su organización es elegible, consulte [servicios y planes elegibles](M365-eligible-services-and-plans.md).
+Si su organización cumple con los beneficios del centro FastTrack para EMS, puede trabajar de forma remota con los especialistas de FastTrack para obtener Microsoft Azure Active Directory Premium, Microsoft Intune y Azure Information Protection Ready for use. También puede solicitar ayuda a través del [sitio de FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) para Azure Information Protection, Microsoft Cloud App Security y Microsoft Advanced Threat Analytics. Para saber si su organización es elegible, consulte [servicios y planes elegibles](M365-eligible-services-and-plans.md).
 
 
 Esto es lo que tratamos sobre el proceso de incorporación:
@@ -50,3 +50,9 @@ Esto es lo que puede esperar al finalizar la incorporación:
         -   Sincronizado desde Active Directory con la herramienta de Azure AD Connect. Esta opción es para los clientes con una sola configuración de bosque de Active Directory.
 
         -   Federado con los servicios de Federación de Active Directory de Windows Server 2012 R2 (AD FS) 2,0 o posterior desde su implementación local de Active Directory.
+
+        -   La capacidad de clasificar y proteger la información de forma automática tanto en reposo como en tránsito con Azure Information Protection. 
+
+        -   La capacidad de descubrir información dentro de los recursos compartidos de archivos locales y los servidores de SharePoint con el escáner de Azure Information Protection. 
+
+        -   La capacidad de administrar las claves de inquilino de Azure Information Protection en el almacén de claves de Azure. 

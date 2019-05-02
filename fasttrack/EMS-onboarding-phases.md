@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/09/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1e849f562316f3b8854dacf199889a2a8486b5bc
-ms.sourcegitcommit: 48d77313a4f035c81b9ad10bc2a415e1c7db23c5
+ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31767299"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513543"
 ---
 # <a name="onboarding-phases"></a>Fases de la incorporación
 
-Al usar los [servicios elegibles y los planes](M365-eligible-services-and-plans.md) para obtener Microsoft Azure Active Directory Premium y Microsoft Intune listos para usar, hay varias fases implicadas en el proceso. En las secciones siguientes se describe cada fase del proceso de incorporación.
+Al usar los [servicios elegibles y los planes](M365-eligible-services-and-plans.md) para obtener Microsoft Azure Active Directory Premium, Microsoft Intune y Azure Information Protection Ready for use, hay varias fases implicadas en el proceso. En las secciones siguientes se describe cada fase del proceso de incorporación.
 
 La incorporación tiene cuatro fases principales:
 
@@ -82,7 +82,7 @@ Una vez completadas todas las actividades de corrección, el proyecto se desplaz
 
 **Habilitar capacidades de fase principal**
 
-La incorporación principal implica el aprovisionamiento de servicios y la integración de espacios empresariales e identidades. También incluye los pasos para ofrecer una base para los servicios en línea de incorporación, como Azure AD Premium y Intune.
+La incorporación principal implica el aprovisionamiento de servicios y la integración de espacios empresariales e identidades. También incluye los pasos necesarios para ofrecer una base para la incorporación de servicios en línea como Azure AD Premium, Intune y Azure Information Protection.
 
 ![Fase de habilitación de incorporación: capacidades principales](./media/ft-enable-phase-core-01.png)
 
@@ -101,7 +101,7 @@ Para los escenarios de Azure AD Premium que incluyan la sincronización de ident
 
 La configuración de Azure AD Premium incluye la habilitación de las siguientes características:
 
--   Restablecimiento de contraseña de autoServicio de Azure Active Directory (SSPR).
+-   Restablecimiento de contraseña de autoservicio de Azure Active Directory (SSPR).
 
 -   Azure multi-factor Authentication (Azure MFA).
 
@@ -111,7 +111,7 @@ La configuración de Azure AD Premium incluye la habilitación de las siguientes
 
 -   Pantalla de inicio de sesión personalizada, que incluye logotipos, texto e imágenes.
 
--   Grupos dinámicos y de autoServicio (grupos).
+-   Grupos dinámicos y de autoservicio (grupos).
 
 -   Proxy de aplicación de Azure Active Directory.
 
@@ -269,6 +269,23 @@ FastTrack también proporciona orientación sobre cómo impulsar la adopción sa
 ![Fase de habilitación de la incorporación: Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
 ![Fase de habilitación de la incorporación: Co-administración](./media/ft-9-enable-phase-comanagement.png)
+
+#### <a name="enable-phase--azure-information-protection"></a>Fase de habilitación: Azure Information Protection
+
+Azure Information Protection proporciona soporte técnico para: 
+
+- Los clientes pueden clasificar y etiquetar automáticamente la información de las aplicaciones de Office (como Word, PowerPoint, Excel y Outlook) que se ejecutan en Windows y que usan el cliente de Azure Information Protection. 
+- Archivos en reposo con el escáner de Azure Information Protection.
+- Mensajes de correo electrónico en tránsito con reglas de flujo de correo de Exchange Online. 
+
+También se proporciona soporte técnico a los clientes que quieren aplicar la protección con Microsoft Azure Rights Management Services (Azure RMS), el cifrado de mensajes de Office 365 (OME) y la prevención de pérdida de datos (DLP). 
+
+A los clientes se les proporciona orientación sobre cómo: 
+
+- Activar y configurar su inquilino.
+- Cree y configure etiquetas y directivas.
+- Aplicar protección de la información a los documentos. 
+
 
 > [!NOTE]
 > **¿Desea obtener más información?** consulte [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).

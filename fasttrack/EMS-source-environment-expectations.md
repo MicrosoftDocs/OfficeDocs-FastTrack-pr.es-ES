@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0d0fa0415bc27013d7e035b75a5e5d9d9f9919c3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: a512e97f48df7fc3040478f4e35fe0c357ef7ce3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016772"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513155"
 ---
 # <a name="source-environment-expectations"></a>Expectativas del entorno de origen
 
-Cuando se usan las [ventajas del centro de FastTrack para Enterprise Mobility + Security (EMS)](EMS-fasttrack-benefit-for-EMS.md) para obtener Microsoft Azure Active Directory Premium y Microsoft Intune listos para su uso, el entorno debe cumplir con las expectativas descritas en las siguientes secciones.
+Cuando se usan las [ventajas del centro de FastTrack para Enterprise Mobility + Security (EMS)](EMS-fasttrack-benefit-for-EMS.md) para obtener Microsoft Azure Active Directory Premium, Microsoft Intune y Azure Information Protection Ready for use, el entorno debe cumplir con las expectativas. se describe en las secciones siguientes.
 
 Es posible que ya tenga Active Directory local en su organización y quiera integrarse con Enterprise Mobility + Security (EMS) o con cualquiera de sus servicios individuales que use la administración de identidades enriquecida desde una única consola. Las ventajas del centro de FastTrack para Enterprise Mobility + Security (EMS) incluyen ayudarle a integrar Azure Active Directory con su entorno local de Active Directory existente.
 
@@ -36,6 +36,8 @@ En la siguiente tabla se muestran las expectativas del entorno de origen existen
 |Intune integrado con la protección contra amenazas avanzada de Windows Defender (ATP de Windows Defender)|La suscripción ATP de Windows Defender se ha activado y configurado en función de los requisitos de seguridad de la compañía.<br /><br />**Nota**: el beneficio del servicio FastTrack proporciona asistencia sobre la integración de Intune con Windows Defender ATP y la creación de directivas de cumplimiento de dispositivos basadas en su evaluación del nivel de riesgo de Windows 10. La ventaja del servicio FastTrack no proporciona asistencia sobre la compra, concesión de licencias, activación o el uso de ATP de Windows Defender y su consola del centro de seguridad. |
 |Windows Autopilot|Los administradores de TI son responsables de registrar sus dispositivos en su organización, ya sea para que el proveedor de hardware cargue sus identificadores de hardware en su nombre o al cargarlos en el servicio de Windows AutoPilot. |
 |Implementación de Outlook para iOS y Android de manera segura con Intune|<br /><br />-Identidades de usuario habilitadas en Azure AD para Office 365.<br />-Exchange online o Exchange híbrido configurado con licencias de usuario asignadas.<br />|
+|Azure Information Protection (P2 o EMS E5)|<br /><br />Los clientes ya deben: <br /> -Usar Azure AD.<br />-Use Windows o iOS (otros sistemas operativos están fuera del ámbito).<br /> -Use clientes de Office más recientes que Office 2010 SP2 que no confíen en Office online como cliente principal. <br /> -Tener sus ubicaciones principales de recursos compartidos de archivos.  <br /> -Se ha actualizado desde Active Directory Rights Management Services (AD RMS). <br /> -Tener una taxonomía de clasificación aprobada. <br /> -Comprenda las restricciones regulatorias para su administración de claves protegida. <br />|
+|Escáner de Azure Information Protection|<br /><br /> Los clientes ya deben: <br /> -Use Windows Server 2012 R2 o Windows Server 2016.<br /> -Tener una conexión a Internet. <br /> -Tener Microsoft SQL Server 2012 en adelante en una instancia local o remota.  <br /> -Tener una cuenta de servicio creada para su Active Directory local y sincronizada con Azure AD.  <br /> -Haber descargado AzInfoProtection. exe. <br /> -Tener etiquetas configuradas para la clasificación/protección automática.<br />|
 
 > [!NOTE]
 > **¿Desea obtener más información?** 
