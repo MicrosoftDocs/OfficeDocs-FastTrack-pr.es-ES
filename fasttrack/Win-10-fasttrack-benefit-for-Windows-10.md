@@ -3,7 +3,7 @@ title: Ventajas del Centro de FastTrack para Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,22 +12,22 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Puede usar las ventajas del Centro de FastTrack para Windows 10 si adquiere *al menos* 150 licencias para un plan o un servicio elegible.
-ms.openlocfilehash: 1f7544709fe8b176a42e17efa035afef73d69c8f
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 51a59fdf6833f7d0315eb37c3545a10efe7eb41b
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016808"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513371"
 ---
-# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="0c91d-103">Ventajas del Centro de FastTrack para Windows 10</span><span class="sxs-lookup"><span data-stu-id="0c91d-103">FastTrack Center Benefit for Windows 10</span></span>
+# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="0d917-103">Ventajas del Centro de FastTrack para Windows 10</span><span class="sxs-lookup"><span data-stu-id="0d917-103">FastTrack Center Benefit for Windows 10</span></span>
 
-<span data-ttu-id="0c91d-p101">Puede usar las ventajas del Centro de FastTrack para Windows 10 si compra *al menos* 150 licencias para un plan o un servicio válido. Después, trabajará con especialistas de FastTrack que proporcionarán instrucciones de asesoramiento y corrección si tiene problemas de compatibilidad de aplicaciones durante la implementación en Windows 10 y Office 365 ProPlus, y a mantenerse al día sin costo adicional (con una suscripción válida).</span><span class="sxs-lookup"><span data-stu-id="0c91d-p101">You use the FastTrack Center Benefit for Windows 10 when you purchase  *at least*  150 licenses for an eligible service or plan. You then work with FastTrack Specialists who provide advisory and remediation guidance if you encounter app compatibility issues as you deploy to Windows 10 and Office 365 ProPlus and stay up-to-date at no additional cost (with an eligible subscription).</span></span> 
+<span data-ttu-id="0d917-p101">Puede usar las ventajas del Centro de FastTrack para Windows 10 si compra *al menos* 150 licencias para un plan o un servicio válido. Después, trabajará con especialistas de FastTrack que proporcionarán instrucciones de asesoramiento y corrección si tiene problemas de compatibilidad de aplicaciones durante la implementación en Windows 10 y Office 365 ProPlus, y a mantenerse al día sin costo adicional (con una suscripción válida).</span><span class="sxs-lookup"><span data-stu-id="0d917-p101">You use the FastTrack Center Benefit for Windows 10 when you purchase  *at least*  150 licenses for an eligible service or plan. You then work with FastTrack Specialists who provide advisory and remediation guidance if you encounter app compatibility issues as you deploy to Windows 10 and Office 365 ProPlus and stay up-to-date at no additional cost (with an eligible subscription).</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="0c91d-106">A efectos de este documento, los especialistas de FastTrack pueden incluir a los empleados de Microsoft, así como a los proveedores y partners aprobados por Microsoft.</span><span class="sxs-lookup"><span data-stu-id="0c91d-106">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="0d917-106">A efectos de este documento, los especialistas de FastTrack pueden incluir a los empleados de Microsoft, así como a los proveedores y partners aprobados por Microsoft.</span><span class="sxs-lookup"><span data-stu-id="0d917-106">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
     
 > [!NOTE]
-> <span data-ttu-id="0c91d-107">Solo para fines informativos.</span><span class="sxs-lookup"><span data-stu-id="0c91d-107">For informational purposes only.</span></span> 
+> <span data-ttu-id="0d917-107">Solo para fines informativos.</span><span class="sxs-lookup"><span data-stu-id="0d917-107">For informational purposes only.</span></span> 
   
 
   
