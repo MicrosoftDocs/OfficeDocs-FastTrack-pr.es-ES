@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0fc6dc613c152f1050437535397f33cd1e8fa069
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ecd03448901c62acf4b131ce83748216fdf5f7
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513383"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967977"
 ---
 # <a name="your-responsibilities"></a>Sus responsabilidades
 
@@ -47,7 +47,7 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
 
 -   Administrar la configuración de red, el análisis, la validación, las pruebas y la supervisión del ancho de banda.
 
--   Administrar un proceso de aprobación de administración de cambios técnicos y crear documentación complementaria.
+-   Administrar un proceso de aprobación de administración de cambios técnicos y crear documentación basada en la orientación.
 
 -   Modificar el modelo operativo y las guías de funcionamiento.
 
@@ -122,7 +122,7 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
 > [!NOTE]
 > **¿Desea obtener más información?** Consulte [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
-## <a name="see-also"></a>Ver también
+## <a name="see-also"></a>Vea también
 
 - [Ventajas de FastTrack para EMS](EMS-fasttrack-benefit-for-EMS.md)
 - [Ventajas de FastTrack para Office 365](O365-fasttrack-benefit-for-office-365.md)

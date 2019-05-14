@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513543"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967989"
 ---
 # <a name="onboarding-phases"></a>Fases de la incorporación
 
@@ -47,7 +47,7 @@ Una vez iniciado el soporte técnico de incorporación, configuraremos una progr
 > [!NOTE]
 > Si tiene un socio de Microsoft que aparece en su inquilino de Office 365, no verá esta opción. Consulte a su partner de Microsoft para obtener ayuda.
 
-Los socios de Microsoft también pueden obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. To do so:
+Los socios de Microsoft también pueden obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para ello:
 
 1. Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Seleccione **FastTrack**.
@@ -272,7 +272,7 @@ FastTrack también proporciona orientación sobre cómo impulsar la adopción sa
 
 #### <a name="enable-phase--azure-information-protection"></a>Fase de habilitación: Azure Information Protection
 
-Azure Information Protection proporciona soporte técnico para: 
+Azure Information Protection proporciona orientación sobre: 
 
 - Los clientes pueden clasificar y etiquetar automáticamente la información de las aplicaciones de Office (como Word, PowerPoint, Excel y Outlook) que se ejecutan en Windows y que usan el cliente de Azure Information Protection. 
 - Archivos en reposo con el escáner de Azure Information Protection.

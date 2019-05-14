@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 42d6c23dd4da1ed8071092ccf4cc045c5128d856
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 46d9720545a2b92fbe4318f676308504c53ec315
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513177"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967941"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Información general sobre las ventajas del Centro de FastTrack
 
@@ -35,17 +35,17 @@ El siguiente diagrama describe las fases de incorporación de alto nivel para el
 
 Así es como funciona el proceso:
 
-- El centro FastTrack intenta ponerse en contacto con usted para ofrecer asistencia de incorporación después de comprar licencias de un servicio elegible. También puede solicitar ayuda del [Centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) si está listo para implementar estos servicios para su organización. Para solicitar asistencia, inicie sesión en el [Centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) con su cuenta profesional o educativa, vaya al panel, expanda el vínculo **¿necesita ayuda?** en la esquina inferior derecha de la página y, a continuación, siga las instrucciones para completar la solicitud. Una vez iniciado el soporte técnico de incorporación, configuraremos una programación de reuniones en línea.
+- El centro FastTrack intenta ponerse en contacto con usted para ofrecer asistencia de incorporación después de comprar licencias de un servicio elegible. También puede solicitar ayuda del [Centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) si está listo para implementar estos servicios para su organización. Para solicitar asistencia, inicie sesión en el [Centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) con su cuenta profesional o educativa, vaya al panel, expanda el vínculo **¿necesita ayuda?** en la esquina inferior derecha de la página y, a continuación, siga las instrucciones para completar la solicitud. Una vez iniciada la incorporación, vamos a configurar una programación de reuniones en línea.
 
 -   El equipo de FastTrack le ayuda primero con las capacidades principales (comunes para todos los servicios en línea de Microsoft) y, a continuación, con la incorporación de cada servicio pertinente.
 
-El personal de FastTrack asignado de forma remota proporciona toda la compatibilidad con la incorporación:
+El personal de FastTrack asignado de forma remota proporciona todas las instrucciones de incorporación:
 
 -   El equipo de FastTrack le ayudará de forma remota con diversas actividades de incorporación mediante una combinación de herramientas, documentación y orientación.
 
--   El centro FastTrack proporciona compatibilidad con la incorporación y está disponible durante el horario laboral normal de una región determinada.
+-   El centro FastTrack proporciona instrucciones de incorporación y está disponible durante el horario laboral normal de una región determinada.
 
--   El soporte técnico de incorporación está disponible en chino tradicional, Chino simplificado (sólo para los recursos hablar mandarín), Inglés, Francés, alemán, Italiano, Japonés, Coreano, Portugués (Brasil), español, tailandés y vietnamita.
+-   La asistencia para la incorporación está disponible en chino tradicional, Chino simplificado (sólo para los recursos hablar mandarín), Inglés, Francés, alemán, Italiano, Japonés, Coreano, Portugués (Brasil), español, tailandés y vietnamita.
 
 -   El equipo de FastTrack puede trabajar directamente con usted o su representante.
 
