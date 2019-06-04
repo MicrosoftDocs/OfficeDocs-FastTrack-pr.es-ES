@@ -3,7 +3,7 @@ title: Desktop App Assure
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,18 +12,18 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Las ventajas del centro FastTrack para Windows 10 proporcionan acceso a Desktop App Assure: un servicio diseñado para solucionar los problemas de compatibilidad con aplicaciones de Office 365 ProPlus y Windows 10.'
-ms.openlocfilehash: 60e1220a6be319144313e7ee9d0a548ed7fef402
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 7ec206d65523e9a0a969f72113e16596b97e27e8
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33512975"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673743"
 ---
-# <a name="desktop-app-assure"></a><span data-ttu-id="d4990-103">Desktop App Assure</span><span class="sxs-lookup"><span data-stu-id="d4990-103">Desktop App Assure</span></span>
+# <a name="desktop-app-assure"></a><span data-ttu-id="6b144-103">Desktop App Assure</span><span class="sxs-lookup"><span data-stu-id="6b144-103">Desktop App Assure</span></span>
 
-<span data-ttu-id="d4990-p101">Las ventajas de centro FastTrack para Windows 10 proporcionan acceso a Desktop App Assure: un nuevo servicio diseñado para solucionar los problemas de compatibilidad con aplicaciones de Office 365 ProPlus y Windows 10. Cuando solicita el servicio Desktop App Assure, un especialista de FastTrack le ayudará a lo largo de la migración a Windows 10 y Office 365 ProPlus y cuando instale actualizaciones de características.</span><span class="sxs-lookup"><span data-stu-id="d4990-p101">The FastTrack Center Benefit for Windows 10 provides access to Desktop App Assure – a new service designed to address issues with Windows 10 and Office 365 ProPlus app compatibility. When you request the Desktop App Assure service, a FastTrack Specialist works with you throughout your migration to Windows 10 and Office 365 ProPlus and when you consume feature updates.</span></span> 
+<span data-ttu-id="6b144-p101">Las ventajas de centro FastTrack para Windows 10 proporcionan acceso a Desktop App Assure: un nuevo servicio diseñado para solucionar los problemas de compatibilidad con aplicaciones de Office 365 ProPlus y Windows 10. Cuando solicita el servicio Desktop App Assure, un especialista de FastTrack le ayudará a lo largo de la migración a Windows 10 y Office 365 ProPlus y cuando instale actualizaciones de características.</span><span class="sxs-lookup"><span data-stu-id="6b144-p101">The FastTrack Center Benefit for Windows 10 provides access to Desktop App Assure – a new service designed to address issues with Windows 10 and Office 365 ProPlus app compatibility. When you request the Desktop App Assure service, a FastTrack Specialist works with you throughout your migration to Windows 10 and Office 365 ProPlus and when you consume feature updates.</span></span> 
 
-<span data-ttu-id="d4990-p102">Un ingeniero de Microsoft le ayudará a solucionar los problemas de aplicaciones válidas sin coste adicional para usted, si tiene una suscripción válida. También se proporcionan instrucciones para los clientes que se enfrentan a problemas de compatibilidad con la transición de clientes de Office a Office 365 ProPlus. Este es un servicio proporcionado por FastTrack y no un paquete de software.</span><span class="sxs-lookup"><span data-stu-id="d4990-p102">A Microsoft engineer works with you to address valid app issues at no additional cost to you with an eligible subscription. We also provide guidance to customers who face compatibility issues transitioning from Office clients to Office 365 ProPlus. This is a service provided by FastTrack and not a software package.</span></span>
+<span data-ttu-id="6b144-p102">Un ingeniero de Microsoft le ayudará a solucionar los problemas de aplicaciones válidas sin coste adicional para usted, si tiene una suscripción válida. También se proporcionan instrucciones para los clientes que se enfrentan a problemas de compatibilidad con la transición de clientes de Office a Office 365 ProPlus. Este es un servicio proporcionado por FastTrack y no un paquete de software.</span><span class="sxs-lookup"><span data-stu-id="6b144-p102">A Microsoft engineer works with you to address valid app issues at no additional cost to you with an eligible subscription. We also provide guidance to customers who face compatibility issues transitioning from Office clients to Office 365 ProPlus. This is a service provided by FastTrack and not a software package.</span></span>
 
   
 
