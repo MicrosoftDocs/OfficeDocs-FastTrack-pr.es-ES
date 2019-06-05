@@ -5,53 +5,55 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 46d9720545a2b92fbe4318f676308504c53ec315
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
-ms.translationtype: MT
+ms.openlocfilehash: ba29357695855236dbe0583e7667998fdf940bd0
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967941"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673325"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Información general sobre las ventajas del Centro de FastTrack
 
-Con el beneficio del centro FastTrack para Microsoft Azure Active Directory Premium, Microsoft Intune y Azure Information Protection, trabajará de forma remota con los especialistas de FastTrack para preparar el entorno para su uso y para planear la implementación y el uso en el Organization. Para obtener más información sobre la idoneidad, vea el [proceso del beneficio del centro de FastTrack para Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
+Con las ventajas del Centro de FastTrack para Microsoft Azure Active Directory Premium, Microsoft Intune y Azure Information Protection, trabajará de forma remota con especialistas de FastTrack para preparar su entorno y planear su implementación y uso en la organización. Para obtener más información sobre la idoneidad, vea el [Proceso de las ventajas del Centro de FastTrack para Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
 
-La incorporación tiene dos componentes principales:
+La incorporación consta de dos componentes principales:
 
--   **Incorporación principal** : tareas necesarias para la configuración de los inquilinos y la integración con Azure Active Directory, si es necesario. La incorporación principal también proporciona la línea base para incorporar otros servicios pertinentes de Microsoft online.
+-   **Incorporación principal**: tareas necesarias para la configuración de espacios empresariales y la integración con Azure Active Directory, si es necesario. La incorporación principal también proporciona la base de referencia para incorporar otros servicios pertinentes de Microsoft Online.
 
--   **Incorporación de servicios** : tareas necesarias para configurar cualquiera de las variantes independientes de la carga de trabajo de EMS (Azure ad Premium, Intune y Azure Information Protection).
+-   **Incorporación de servicio**: tareas necesarias para configurar cualquiera de las variantes independientes de la carga de trabajo de EMS (Azure AD Premium, Intune y Azure Information Protection).
 
-El siguiente diagrama describe las fases de incorporación de alto nivel para el beneficio del centro FastTrack.
+En el siguiente diagrama se describen las fases de incorporación de alto nivel de las ventajas del Centro de FastTrack.
 
-![Fases de incorporación de alto nivel del uso del beneficio del centro FastTrack](./media/ft-onboarding-process.png)
+![Las fases de incorporación de alto nivel del uso de las ventajas del Centro de FastTrack](./media/ft-onboarding-process.png)
 
-Así es como funciona el proceso:
+A continuación, se muestra cómo funciona el proceso:
 
-- El centro FastTrack intenta ponerse en contacto con usted para ofrecer asistencia de incorporación después de comprar licencias de un servicio elegible. También puede solicitar ayuda del [Centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) si está listo para implementar estos servicios para su organización. Para solicitar asistencia, inicie sesión en el [Centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) con su cuenta profesional o educativa, vaya al panel, expanda el vínculo **¿necesita ayuda?** en la esquina inferior derecha de la página y, a continuación, siga las instrucciones para completar la solicitud. Una vez iniciada la incorporación, vamos a configurar una programación de reuniones en línea.
+- El Centro de FastTrack intentará ponerse en contacto con usted para ofrecer asistencia en la incorporación, después de que compre las licencias de un servicio pertinente. También puede solicitar ayuda al [Centro de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) si está listo para implementar estos servicios en la organización. Para solicitar asistencia, inicie sesión en el [Centro de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) con su cuenta profesional o educativa, vaya al panel, expanda el vínculo **¿Necesita ayuda?** en la esquina inferior derecha de la página y, después, siga las indicaciones para completar la solicitud. Una vez empezada la incorporación, programaremos una serie de reuniones en línea.
 
--   El equipo de FastTrack le ayuda primero con las capacidades principales (comunes para todos los servicios en línea de Microsoft) y, a continuación, con la incorporación de cada servicio pertinente.
+-   El equipo de FastTrack le ayudará en primer lugar con las funciones básicas (comunes para todos los Microsoft Online Services) y, después, con la incorporación de cada uno de los servicios pertinentes.
 
-El personal de FastTrack asignado de forma remota proporciona todas las instrucciones de incorporación:
+El personal asignado de FastTrack proporciona todas las instrucciones de incorporación:
 
--   El equipo de FastTrack le ayudará de forma remota con diversas actividades de incorporación mediante una combinación de herramientas, documentación y orientación.
+-   El equipo de FastTrack le ayudará de forma remota con distintas actividades de incorporación mediante una combinación de herramientas, documentación e instrucciones.
 
--   El centro FastTrack proporciona instrucciones de incorporación y está disponible durante el horario laboral normal de una región determinada.
+-   El Centro de FastTrack proporciona las instrucciones de incorporación que están disponibles durante el horario laboral normal de una región determinada.
 
--   La asistencia para la incorporación está disponible en chino tradicional, Chino simplificado (sólo para los recursos hablar mandarín), Inglés, Francés, alemán, Italiano, Japonés, Coreano, Portugués (Brasil), español, tailandés y vietnamita.
+-   La asistencia para la incorporación está disponible en chino tradicional y simplificado (el personal solo habla mandarín), inglés, francés, alemán, italiano, japonés, coreano, portugués (Brasil), español, tailandés y vietnamita.
 
--   El equipo de FastTrack puede trabajar directamente con usted o su representante.
+-   El equipo de FastTrack trabajará directamente con usted o con su representante.
 
 > [!NOTE]
-> **¿Desea obtener más información?** consulte [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).
+> **¿Quiere obtener más información?** vea [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).  
 
 ## <a name="next-steps"></a>Pasos siguientes
 
-[Beneficio del centro FastTrack para las expectativas del entorno de origen de EMS](EMS-source-environment-expectations.md)
+[Ventajas del Centro de FastTrack para EMS: expectativas del entorno de origen](EMS-source-environment-expectations.md)

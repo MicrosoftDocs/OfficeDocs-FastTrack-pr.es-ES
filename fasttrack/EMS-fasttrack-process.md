@@ -1,29 +1,31 @@
 ---
-title: Proceso de FastTrack
-description: Información general sobre el proceso de incorporación de beneficios del centro FastTrack
+title: El proceso de FastTrack
+description: Información general sobre el proceso de incorporación de ventajas del Centro de FastTrack
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1e3f34284cb4b6300a50116ad2bb1df3cb6ab0fe
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
-ms.translationtype: MT
+ms.openlocfilehash: 0b24a3d1b339836fb07137a7ad2138f85ed7709b
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513779"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673251"
 ---
-# <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Proceso del programa Beneficio de incorporación y migración a Microsoft FastTrack para Enterprise Mobility + Security (EMS)
-Si su organización cumple con los beneficios del centro FastTrack para EMS, puede trabajar de forma remota con los especialistas de FastTrack para obtener Microsoft Azure Active Directory Premium, Microsoft Intune y Azure Information Protection Ready for use. También puede solicitar ayuda a través del [sitio de FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) para Azure Information Protection, Microsoft Cloud App Security y Microsoft Advanced Threat Analytics. Para saber si su organización es elegible, consulte [servicios y planes elegibles](M365-eligible-services-and-plans.md).
+# <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Proceso de ventajas del Centro de FastTrack para Enterprise Mobility + Security (EMS)
+Si su organización es idónea para las ventajas del Centro de FastTrack para EMS, puede trabajar de forma remota con especialistas de FastTrack para obtener Microsoft Azure Active Directory Premium, Microsoft Intune y Azure Information Protection listos para usarse. También puede solicitar ayuda a través del [sitio de FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) para Azure Information Protection, Microsoft Cloud App Security y Microsoft Advanced Threat Analytics. Para saber si su organización es idónea, vea [Servicios y planes pertinentes](M365-eligible-services-and-plans.md).
 
 
-Esto es lo que tratamos sobre el proceso de incorporación:
+Esto es lo que se trata sobre el proceso de incorporación:
 
 -   [Información general sobre el proceso de incorporación](EMS-fasttrack-benefit-overview.md)
 
@@ -31,28 +33,28 @@ Esto es lo que tratamos sobre el proceso de incorporación:
 
 -   [Fases del proceso de incorporación](EMS-onboarding-phases.md)
 
--   [Responsabilidades de FastTrack](EMS-fasttrack-responsibilities.md) para cada fase
+-   [Responsabilidades de FastTrack](EMS-fasttrack-responsibilities.md) en cada fase
 
--   [Responsabilidades del cliente](EMS-your-responsibilities.md) para cada fase
+-   [Responsabilidades del cliente](EMS-your-responsibilities.md) en cada fase
 
-Esto es lo que puede esperar al finalizar la incorporación:
+A continuación, encontrará lo que puede esperar al finalizar la incorporación:
 
--   Se crean los inquilinos de EMS para los servicios seleccionados.
+-   Se han creado los espacios empresariales de EMS de los servicios seleccionados.
 
 -   Los usuarios con licencia pueden acceder a los servicios de EMS mediante una de las siguientes opciones de identidad:
 
-    -   Identidades de nube (cuentas EMS únicas).
+    -   Identidades de la nube (cuentas únicas de EMS).
 
-    -   Identidades sincronizadas: cuentas de EMS sincronizadas desde su Active Directory local mediante la herramienta Azure Active Directory Connect (autenticación de hash de contraseña o autenticación de paso a través). Esta opción es para los clientes con un solo bosque o varios bosques de Active Directory.
+    -   Identidades sincronizadas: cuentas de EMS sincronizadas desde Active Directory local con la herramienta Azure Active Directory Connect (sincronización de hash de contraseña y autenticación de paso a través). Esta opción es para los clientes con un solo bosque o varios bosques de Active Directory.
 
-    -   Identidades federadas: con cuentas de Microsoft EMS que son:
+    -   Identidades federadas con cuentas de Microsoft EMS que:
 
-        -   Sincronizado desde Active Directory con la herramienta de Azure AD Connect. Esta opción es para los clientes con una sola configuración de bosque de Active Directory.
+        -   Se han sincronizado desde Active Directory con la herramienta Azure AD Connect. Esta opción es para los clientes con una sola configuración de bosque de Active Directory.
 
-        -   Federado con los servicios de Federación de Active Directory de Windows Server 2012 R2 (AD FS) 2,0 o posterior desde su implementación local de Active Directory.
+        -   Se han federado con los Servicios de federación de Active Directory (AD FS) 2.0 o posterior de Windows Server 2012 R2 de su Active Directory local.
 
-        -   La capacidad de clasificar y proteger la información de forma automática tanto en reposo como en tránsito con Azure Information Protection. 
+        -   La capacidad de proteger la información y clasificarla de forma automática, tanto en reposo como en tránsito con Azure Information Protection. 
 
-        -   La capacidad de descubrir información dentro de los recursos compartidos de archivos locales y los servidores de SharePoint con el escáner de Azure Information Protection. 
+        -   La capacidad de detectar información en los recursos compartidos de archivos locales y los servidores de SharePoint con el escáner de Azure Information Protection. 
 
-        -   La capacidad de administrar las claves de inquilino de Azure Information Protection en el almacén de claves de Azure. 
+        -   La capacidad de administrar las claves del espacio empresarial de Azure Information Protection en Azure Key Vault. 
