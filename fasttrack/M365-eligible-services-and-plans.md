@@ -3,19 +3,19 @@ title: Planes y servicios elegibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Cuando compre cualquier servicio de Office 365, los especialistas de FastTrack le ofrecerán instrucciones para que se incorpore a Microsoft 365 y comience a usarlo.
-ms.openlocfilehash: 58ab0f1cccc88720cc8c323d8a083c9a9ff1f67e
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 5ed941e536a548aadc20117e45f66c141e81e4c7
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673611"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410831"
 ---
 # <a name="eligible-services-and-plans"></a>Planes y servicios elegibles
 
@@ -128,7 +128,7 @@ El Centro de FastTrack ofrece asistencia para los servicios siguientes:
     
  **OneDrive para la Empresa**
   
-- OneDrive para la Empresa con Office Online 
+- OneDrive para la Empresa con Office
 - OneDrive para la Empresa Plan 1
 - OneDrive para la Empresa Plan 2
     

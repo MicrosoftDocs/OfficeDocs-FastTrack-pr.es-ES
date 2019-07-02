@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c3cbc52811bfdbb6780fefce58e8a58f7ad78c14
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 2b4a24dad8319abd723ce32d1cefa6eb3b440cfa
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673569"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410819"
 ---
 # <a name="source-environment-expectations"></a>Expectativas del entorno de origen
 
@@ -38,7 +38,7 @@ En la siguiente tabla se muestran las expectativas del entorno de origen existen
 |Intune integrado con la protección contra amenazas avanzada de Windows Defender (ATP de Windows Defender)|La suscripción a la ATP de Windows Defender se ha activado y configurado en función de los requisitos de seguridad de su empresa.<br /><br />**Nota**: las ventajas del servicio de FastTrack ofrecen asistencia para la integración de Intune con la ATP de Windows Defender y la creación de directivas de cumplimiento de dispositivos en función de la evaluación de nivel de riesgo de Windows 10. Las ventajas del servicio de FastTrack no ofrecen asistencia para la compra, concesión de licencias, activación o uso de la ATP de Windows Defender y de la consola del centro de seguridad. |
 |Windows Autopilot|Los administradores de TI son responsables del registro de sus dispositivos en la organización, haciendo que el proveedor de hardware cargue sus id. de hardware en su nombre o cargándolos ellos mismos en el servicio de Windows Autopilot. |
 |Implementar Outlook para iOS y Android de forma segura con Intune|<br /><br />- Identidades de usuario habilitadas en Azure AD para Office 365.<br />- Exchange Online o Exchange híbrido configurado con las licencias de usuario asignadas.<br />|
-|Azure Information Protection (P2 o EMS E5)|<br /><br />Los clientes ya deben: <br /> - Usar Azure AD.<br />- Usar Windows o iOS (otros SO están fuera del ámbito).<br /> - Usar clientes de Office más recientes que Office 2010 SP2 que no se basan en Office Online como cliente principal. <br /> - Tener las principales ubicaciones de uso compartido de archivos.  <br /> - Haber actualizado Active Directory Rights Management Services (AD RMS). <br /> - Tener una taxonomía de clasificación aprobada. <br /> - Comprender las restricciones reglamentarias para la administración de claves protegida. <br />|
+|Azure Information Protection (P2 o EMS E5)|<br /><br />Los clientes ya deben: <br /> - Usar Azure AD.<br />- Usar Windows o iOS (otros SO están fuera del ámbito).<br /> - Usar clientes de Office más recientes que Office 2010 SP2 que no se basan en Office como cliente principal. <br /> - Tener las principales ubicaciones de uso compartido de archivos.  <br /> - Haber actualizado Active Directory Rights Management Services (AD RMS). <br /> - Tener una taxonomía de clasificación aprobada. <br /> - Comprender las restricciones reglamentarias para la administración de claves protegida. <br />|
 |Escáner de Azure Information Protection|<br /><br /> Los clientes ya deben: <br /> - Usar Windows Server 2012 R2 o Windows Server 2016.<br /> - Tener conexión a Internet. <br /> - Tener Microsoft SQL Server 2012 en adelante en una instancia local o remota.  <br /> - Tener una cuenta de servicio creada para su Active Directory local y sincronizada con Azure AD.  <br /> - Haber descargado AzInfoProtection.exe. <br /> - Tener etiquetas configuradas para la clasificación y protección automática.<br />|
 
 > [!NOTE]
