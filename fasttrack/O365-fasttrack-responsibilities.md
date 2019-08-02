@@ -3,19 +3,19 @@ title: Responsabilidades de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 93d88be1b3279b19d1136f96968bb9f2c39713ea
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: c1121c804b547401c18050be6013f62c5bbc8fe1
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673599"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053959"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
@@ -221,8 +221,9 @@ Proporcionar orientación acerca de:
 - Asignar licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.
 - Instalar Office 365 ProPlus desde el Portal de Office 365 con la opción Hacer clic y ejecutar
 - Instalar aplicaciones de Office Mobile (como Outlook para iOS y Android, Word Mobile, Excel Mobile y PowerPoint Mobile) en los dispositivos iOS, Android o Windows Mobile. 
-- Configurar las opciones de actualización mediante la Herramienta de implementación de Office 2016 o las plantillas de directiva de grupo.
-- Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office 365.
+- Configurar las opciones de actualización mediante la Herramienta de implementación de Office 365.
+- Seleccionar y configurar una instalación local o en la nube.
+- Crear la configuración XML de la Herramienta de implementación de Office con la Herramienta de personalización de Office o XML nativo para configurar el paquete de implementación.
 - Implementar mediante el Administrador de configuración de System Center, incluida la ayuda con la creación del empaquetado del Administrador de configuración de System Center.
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
