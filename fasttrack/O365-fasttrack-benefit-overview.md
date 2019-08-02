@@ -3,7 +3,7 @@ title: Información general sobre las ventajas del Centro de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 07/02/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Con Ventajas del Centro de FastTrack para Office 365, puede trabajar de forma remota con especialistas de FastTrack para dejar el entorno de Office 365 listo para su uso, así como para planear el lanzamiento y el uso en la organización. Para más información sobre la elegibilidad, vea Ventajas del Centro de FastTrack para Office 365.
-ms.openlocfilehash: 6975bacbf9648ba0143870a2de4a14d6c64ba31f
-ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.openlocfilehash: 8a49ba3c197aa50032272c1b0a8758c67d0dd4db
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35410843"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053947"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Información general sobre las ventajas del Centro de FastTrack
 

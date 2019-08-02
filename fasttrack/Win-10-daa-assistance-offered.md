@@ -3,21 +3,19 @@ title: Asistencia ofrecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 07/02/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: overview
-f1_keywords:
-- windows-10-microsoft-365-onboarding-benefit-process-assistance
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10, los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y Office 365 ProPlus y mantenerse al día sin costo adicional (con una suscripción válida).
-ms.openlocfilehash: ef083d2d9f57821414f97f8f7aed1cfbdcc676b3
-ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.openlocfilehash: 52ef57fc9bcda58652bf817552a881c0acdfe75e
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35410867"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054151"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 
