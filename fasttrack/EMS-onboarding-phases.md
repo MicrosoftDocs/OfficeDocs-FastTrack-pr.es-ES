@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 30b0f1eae559bbc32eb80f89d4f177be0178079b
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0ea242b03fc0d7cdfc3241c6d2f023213c2fa383
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053827"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294306"
 ---
 # <a name="onboarding-phases"></a>Fases de incorporación
 
@@ -45,9 +45,6 @@ Después de adquirir el número de licencias adecuado, siga las instrucciones qu
 4. Complete el **Formulario de solicitud de asistencia para Microsoft 365**.
 
 Una vez iniciado el soporte técnico de incorporación, programaremos una serie de reuniones en línea.
-
-> [!NOTE]
-> Si tiene un asociado de Microsoft en su espacio empresarial de Office 365, no verá esta opción. Consulte a su asociado de Microsoft para obtener asistencia.
 
 Los asociados de Microsoft también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para ello:
 
