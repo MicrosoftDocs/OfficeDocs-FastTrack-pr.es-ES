@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,29 +14,29 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 088612aceefddac6349c5785491e5923578755fc
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 682c765a6241cb06867239e8f925fe55dfbad591
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711400"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342131"
 ---
-# <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a><span data-ttu-id="e0568-103">Ventajas del Centro de FastTrack para Enterprise Mobility + Security (EMS)</span><span class="sxs-lookup"><span data-stu-id="e0568-103">FastTrack Center Benefit for Enterprise Mobility + Security (EMS)</span></span>
+# <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a><span data-ttu-id="75966-103">Ventajas del Centro de FastTrack para Enterprise Mobility + Security (EMS)</span><span class="sxs-lookup"><span data-stu-id="75966-103">FastTrack Center Benefit for Enterprise Mobility + Security (EMS)</span></span>
 
-<span data-ttu-id="e0568-104">Puede usar las ventajas del Centro de FastTrack para Enterprise Mobility + Security (EMS) para comprar, como mínimo, 150 licencias para EMS o cualquiera de los servicios en la nube individuales en un plan válido.</span><span class="sxs-lookup"><span data-stu-id="e0568-104">You use the Enterprise Mobility + Security (EMS) FastTrack Center Benefit when you purchase at least 150 licenses for EMS or any of its individual cloud services in an eligible plan.</span></span> <span data-ttu-id="e0568-105">A continuación, trabajará con especialistas de FastTrack para evaluar, corregir, habilitar e impulsar el uso de esos servicios.</span><span class="sxs-lookup"><span data-stu-id="e0568-105">You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services.</span></span> <span data-ttu-id="e0568-106">Estos especialistas también le proporcionarán directrices de migración.</span><span class="sxs-lookup"><span data-stu-id="e0568-106">These specialists also provide migration guidance.</span></span> 
+<span data-ttu-id="75966-104">Puede usar las ventajas del Centro de FastTrack para Enterprise Mobility + Security (EMS) para comprar, como mínimo, 150 licencias para EMS o cualquiera de los servicios en la nube individuales en un plan válido.</span><span class="sxs-lookup"><span data-stu-id="75966-104">You use the Enterprise Mobility + Security (EMS) FastTrack Center Benefit when you purchase at least 150 licenses for EMS or any of its individual cloud services in an eligible plan.</span></span> <span data-ttu-id="75966-105">A continuación, trabajará con especialistas de FastTrack para evaluar, corregir, habilitar e impulsar el uso de esos servicios.</span><span class="sxs-lookup"><span data-stu-id="75966-105">You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services.</span></span> <span data-ttu-id="75966-106">Estos especialistas también le proporcionarán directrices de migración.</span><span class="sxs-lookup"><span data-stu-id="75966-106">These specialists also provide migration guidance.</span></span> 
 
 > [!IMPORTANT]
-> <span data-ttu-id="e0568-107">A efectos de este documento, los especialistas de FastTrack pueden incluir a los empleados de Microsoft, así como a los proveedores y partners aprobados por Microsoft.</span><span class="sxs-lookup"><span data-stu-id="e0568-107">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span>
+> <span data-ttu-id="75966-107">A efectos de este documento, los especialistas de FastTrack pueden incluir a los empleados de Microsoft, así como a los proveedores y partners aprobados por Microsoft.</span><span class="sxs-lookup"><span data-stu-id="75966-107">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span>
 
-- <span data-ttu-id="e0568-108">Para obtener más información sobre los servicios y planes pertinentes, vea [Servicios y planes pertinentes](M365-eligible-services-and-plans.md).</span><span class="sxs-lookup"><span data-stu-id="e0568-108">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+- <span data-ttu-id="75966-108">Para obtener más información sobre los servicios y planes pertinentes, vea [Servicios y planes pertinentes](M365-eligible-services-and-plans.md).</span><span class="sxs-lookup"><span data-stu-id="75966-108">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
 
-- <span data-ttu-id="e0568-109">Para obtener información sobre el proceso del Centro de FastTrack y los que están a cargo, vea [Proceso de ventajas del Centro de FastTrack para Enterprise Mobility + Security](EMS-fasttrack-process.md).</span><span class="sxs-lookup"><span data-stu-id="e0568-109">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Process](EMS-fasttrack-process.md).</span></span>
+- <span data-ttu-id="75966-109">Para obtener información sobre el proceso del Centro de FastTrack y los que están a cargo, vea [Proceso de ventajas del Centro de FastTrack para Enterprise Mobility + Security](EMS-fasttrack-process.md).</span><span class="sxs-lookup"><span data-stu-id="75966-109">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Process](EMS-fasttrack-process.md).</span></span>
 
     > [!TIP]
-    > <span data-ttu-id="e0568-110">Si quiere descargar un archivo .zip que contenga **guías paso a paso** de Enterprise Mobility + Security y mensajes de correo electrónico que se pueden personalizar con el logotipo de su organización para promover la adopción de EMS en la misma, vea [Guías paso a paso de FastTrack para EMS y mensajes de correo electrónico para personalizar](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c).</span><span class="sxs-lookup"><span data-stu-id="e0568-110">If you want to download a .zip file containing Enterprise Mobility + Security **how-to guides** and emails that can be customized with your organization’s logo to help promote adoption of EMS within your organization, see [FastTrack for EMS How To Guides & Emails to Customize](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c).</span></span>
+    > <span data-ttu-id="75966-110">Si quiere descargar un archivo .zip que contenga **guías paso a paso** de Enterprise Mobility + Security y mensajes de correo electrónico que se pueden personalizar con el logotipo de su organización para promover la adopción de EMS en la misma, vea [Guías paso a paso de FastTrack para EMS y mensajes de correo electrónico para personalizar](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c).</span><span class="sxs-lookup"><span data-stu-id="75966-110">If you want to download a .zip file containing Enterprise Mobility + Security **how-to guides** and emails that can be customized with your organization’s logo to help promote adoption of EMS within your organization, see [FastTrack for EMS How To Guides & Emails to Customize](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c).</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="e0568-111">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="e0568-111">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="75966-111">Pasos siguientes</span><span class="sxs-lookup"><span data-stu-id="75966-111">Next steps</span></span>
 
-[<span data-ttu-id="e0568-112">Planes y servicios pertinentes de las ventajas del Centro de FastTrack para EMS</span><span class="sxs-lookup"><span data-stu-id="e0568-112">Eligible services and plans for FastTrack Center benefit for EMS</span></span>](M365-eligible-services-and-plans.md)
+[<span data-ttu-id="75966-112">Planes y servicios pertinentes de las ventajas del Centro de FastTrack para EMS</span><span class="sxs-lookup"><span data-stu-id="75966-112">Eligible services and plans for FastTrack Center benefit for EMS</span></span>](M365-eligible-services-and-plans.md)
 
 
