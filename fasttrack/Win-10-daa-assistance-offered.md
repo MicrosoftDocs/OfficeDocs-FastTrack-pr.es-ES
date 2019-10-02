@@ -3,19 +3,19 @@ title: Asistencia ofrecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10, los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y Office 365 ProPlus y mantenerse al día sin costo adicional (con una suscripción válida).
-ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712252"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342575"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 
@@ -51,7 +51,9 @@ FastTrack no proporciona asistencia para lo siguiente:
 Las responsabilidades del cliente son:
 - Creación de un inventario de aplicaciones.
 - Validación de esas aplicaciones en Windows 10 y Office 365 ProPlus.
+
 > [!NOTE]
-> Microsoft no puede realizar cambios en su código fuente. Sin embargo, el equipo de Desktop App Assure puede proporcionar instrucciones a los desarrolladores de aplicaciones si el código fuente está disponible para sus aplicaciones. [!NOTE]
-> FastTrack no puede corregir versiones anteriores de macros, complementos o aplicaciones ISV si hay una versión más reciente que sea compatible con Windows 10 y Office 365 ProPlus.[!NOTE]
+> Microsoft no puede realizar cambios en su código fuente. Sin embargo, el equipo de Desktop App Assure puede proporcionar instrucciones a los desarrolladores de aplicaciones si el código fuente está disponible para sus aplicaciones.
+
+> [!NOTE]
 > Póngase en contacto con un [partner de Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) para obtener asistencia con servicios identificados como fuera del ámbito.

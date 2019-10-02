@@ -3,19 +3,19 @@ title: Fases de incorporación y migración
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'La incorporación de Office 365 consta de cuatro fases principales: inicio, evaluación, corrección y habilitación. Puede seguir estas fases con una fase opcional de migración de datos.'
-ms.openlocfilehash: c254b95ae5227d07dc646b9db2ffc670ee9ece9a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712240"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342419"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de incorporación y migración
 
@@ -200,16 +200,6 @@ En cuanto a Office 365 ProPlus, se ofrecen instrucciones para:
 - Implementar mediante Microsoft System Center Configuration Manager, incluida la ayuda con la creación del empaquetado de Administrador de configuración de System Center.
     
 ![Pasos de la incorporación de Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
-  
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-En cuanto a Microsoft StaffHub, se ofrecen instrucciones para:
-- Confirmar que se ha habilitado Microsoft StaffHub en su espacio empresarial de Office 365.
-- Habilitar o deshabilitar licencias de usuario.
-- Características de productos principales. 
-- Ubicaciones de descarga de Microsoft StaffHub.
-    
-![Pasos de la incorporación de Microsoft StaffHub](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook para iOS y Android
 
