@@ -3,19 +3,19 @@ title: Sus responsabilidades
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: El usuario tiene las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 60bdfd0ba6a9d9840a8cdaaa64506c0aba8b1716
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 30e23a54e511e978c58fd3654ee160c1c7b74c1b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712108"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342155"
 ---
 # <a name="your-responsibilities"></a>Sus responsabilidades
 
@@ -99,8 +99,6 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.\*
 - Implementar la infraestructura de cliente adecuada.  
 - Implementar un enfoque de aprovisionamiento de usuarios según las instrucciones de Microsoft.  
 - Habilitar los distintos servicios según las instrucciones de Microsoft.  
-- Obtener un identificador de Apple si está configurando la administración de dispositivos móviles (MDM).   
-- Actualice el certificado de Apple Push Notification Service (APNS).
     
 \*Para obtener información sobre sus responsabilidades con Office 365 Administración Pública, vea [Sus responsabilidades con Office 365 Administración Pública](US-Gov-appendix-your-responsibilities.md).
   
