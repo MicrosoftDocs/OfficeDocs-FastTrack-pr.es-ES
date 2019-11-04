@@ -3,36 +3,36 @@ title: 'Apéndice D: Información general de las Ventajas del Centro de FastTrac
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Con el beneficio del centro FastTrack para Office 365, trabaja de forma remota con los especialistas de FastTrack para obtener el entorno de Office 365 listo para su uso y planear la implementación y el uso en la organización.
-ms.openlocfilehash: 38ebcef1d10b72daede766a54220a90c837aae65
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: a269bede3f469e257268bd822c19c23a6f85423a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342719"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921966"
 ---
-# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a><span data-ttu-id="6fa11-103">Apéndice D: Información general de las Ventajas del Centro de FastTrack para Office 365 Administración pública de EE. UU.</span><span class="sxs-lookup"><span data-stu-id="6fa11-103">Appendix D - FastTrack Center Benefit Overview for Office 365 US Government</span></span>
+# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a><span data-ttu-id="9f96d-103">Apéndice D: Información general de las Ventajas del Centro de FastTrack para Office 365 Administración pública de EE. UU.</span><span class="sxs-lookup"><span data-stu-id="9f96d-103">Appendix D - FastTrack Center Benefit Overview for Office 365 US Government</span></span>
 
-<span data-ttu-id="6fa11-104">Con el beneficio del centro FastTrack para Office 365, trabaja de forma remota con los especialistas de FastTrack para obtener el entorno de Office 365 listo para su uso y planear la implementación y el uso en la organización.</span><span class="sxs-lookup"><span data-stu-id="6fa11-104">With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization.</span></span> 
+<span data-ttu-id="9f96d-104">Con el beneficio del centro FastTrack para Office 365, trabaja de forma remota con los especialistas de FastTrack para obtener el entorno de Office 365 listo para su uso y planear la implementación y el uso en la organización.</span><span class="sxs-lookup"><span data-stu-id="9f96d-104">With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization.</span></span> 
   
-<span data-ttu-id="6fa11-105">Aunque la mayoría de los productos y características son los mismos entre Office 365 Suite y Office 365 el gobierno de Estados Unidos, no todas las características están actualmente disponibles en todos los planes.</span><span class="sxs-lookup"><span data-stu-id="6fa11-105">Although most products and features are the same between Office 365 Suite and Office 365 U.S. Government, not all features are currently available in all plans.</span></span> <span data-ttu-id="6fa11-106">Revise la descripción del servicio [Office 365 US Government](https://aka.ms/aboutgovcloud) para obtener una lista de las características más actualizadas.</span><span class="sxs-lookup"><span data-stu-id="6fa11-106">Review the [Office 365 US Government](https://aka.ms/aboutgovcloud) service description for the most up-to-date list of features.</span></span>
+<span data-ttu-id="9f96d-105">Aunque la mayoría de los productos y características son los mismos entre Office 365 Suite y Office 365 el gobierno de Estados Unidos, no todas las características están actualmente disponibles en todos los planes.</span><span class="sxs-lookup"><span data-stu-id="9f96d-105">Although most products and features are the same between Office 365 Suite and Office 365 U.S. Government, not all features are currently available in all plans.</span></span> <span data-ttu-id="9f96d-106">Revise la descripción del servicio [Office 365 US Government](https://aka.ms/aboutgovcloud) para obtener una lista de las características más actualizadas.</span><span class="sxs-lookup"><span data-stu-id="9f96d-106">Review the [Office 365 US Government](https://aka.ms/aboutgovcloud) service description for the most up-to-date list of features.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="6fa11-107">Para recibir los servicios de FastTrack, vaya al [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) y solicite asistencia.</span><span class="sxs-lookup"><span data-stu-id="6fa11-107">To receive FastTrack services, go to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) and request assistance.</span></span>  
+> <span data-ttu-id="9f96d-107">Para recibir los servicios de FastTrack, vaya al [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) y solicite asistencia.</span><span class="sxs-lookup"><span data-stu-id="9f96d-107">To receive FastTrack services, go to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) and request assistance.</span></span>  
 
-<span data-ttu-id="6fa11-108">Tratamos los siguientes temas:</span><span class="sxs-lookup"><span data-stu-id="6fa11-108">We cover the following topics:</span></span>
-- [<span data-ttu-id="6fa11-109">Proceso de FastTrack</span><span class="sxs-lookup"><span data-stu-id="6fa11-109">The FastTrack Process</span></span>](O365-fasttrack-process.md) 
-- [<span data-ttu-id="6fa11-110">Expectativas del entorno de origen para Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="6fa11-110">Source Environment Expectations for Office 365 US Government</span></span>](US-Gov-appendix-source-environment-expectations.md)   
-- [<span data-ttu-id="6fa11-111">Fases de incorporación y migración de Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="6fa11-111">Onboarding and Migration Phases for Office 365 US Government</span></span>](US-Gov-appendix-onboarding-and-migration.md)
-- [<span data-ttu-id="6fa11-112">Migración de datos</span><span class="sxs-lookup"><span data-stu-id="6fa11-112">Data Migration</span></span>](O365-data-migration.md)    
-- [<span data-ttu-id="6fa11-113">Responsabilidades de FastTrack para Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="6fa11-113">FastTrack Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [<span data-ttu-id="6fa11-114">Sus responsabilidades para Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="6fa11-114">Your Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-your-responsibilities.md) 
-- [<span data-ttu-id="6fa11-115">Apéndice A: Migración de IBM Domino a Exchange Online</span><span class="sxs-lookup"><span data-stu-id="6fa11-115">Appendix A - Migration from IBM Domino to Exchange Online</span></span>](O365-from-ibm-domino-to-exchange-online.md)   
-- [<span data-ttu-id="6fa11-116">Apéndice B: Beneficio adicional del Centro de FastTrack</span><span class="sxs-lookup"><span data-stu-id="6fa11-116">Appendix B - FastTrack Center Additional Benefit</span></span>](O365-fasttrack-additional-benefits.md)
+<span data-ttu-id="9f96d-108">Tratamos los siguientes temas:</span><span class="sxs-lookup"><span data-stu-id="9f96d-108">We cover the following topics:</span></span>
+- [<span data-ttu-id="9f96d-109">Proceso de FastTrack</span><span class="sxs-lookup"><span data-stu-id="9f96d-109">The FastTrack Process</span></span>](O365-fasttrack-process.md) 
+- [<span data-ttu-id="9f96d-110">Expectativas del entorno de origen para Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="9f96d-110">Source Environment Expectations for Office 365 US Government</span></span>](US-Gov-appendix-source-environment-expectations.md)   
+- [<span data-ttu-id="9f96d-111">Fases de incorporación y migración de Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="9f96d-111">Onboarding and Migration Phases for Office 365 US Government</span></span>](US-Gov-appendix-onboarding-and-migration.md)
+- [<span data-ttu-id="9f96d-112">Migración de datos</span><span class="sxs-lookup"><span data-stu-id="9f96d-112">Data Migration</span></span>](O365-data-migration.md)    
+- [<span data-ttu-id="9f96d-113">Responsabilidades de FastTrack para Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="9f96d-113">FastTrack Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-fasttrack-responsibilities.md)   
+- [<span data-ttu-id="9f96d-114">Sus responsabilidades para Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="9f96d-114">Your Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-your-responsibilities.md) 
+- [<span data-ttu-id="9f96d-115">Apéndice A: Migración de IBM Domino a Exchange Online</span><span class="sxs-lookup"><span data-stu-id="9f96d-115">Appendix A - Migration from IBM Domino to Exchange Online</span></span>](O365-from-ibm-domino-to-exchange-online.md)   
+- [<span data-ttu-id="9f96d-116">Apéndice B: Beneficio adicional del Centro de FastTrack</span><span class="sxs-lookup"><span data-stu-id="9f96d-116">Appendix B - FastTrack Center Additional Benefit</span></span>](O365-fasttrack-additional-benefits.md)
 
 
