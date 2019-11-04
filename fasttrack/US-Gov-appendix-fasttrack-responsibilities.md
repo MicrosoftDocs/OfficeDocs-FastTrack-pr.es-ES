@@ -3,19 +3,19 @@ title: Responsabilidades de FastTrack para Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 006ab382d74cca8850a8d7542d39a09f133cb6ff
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 5f37774e11197e549e0c34f6c8f660c584bfd751
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342167"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922619"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades de FastTrack para Office 365 US Government
 
@@ -83,7 +83,7 @@ Proporcionar instrucciones sobre:
       - Configurar el inicio de sesión único (SSO) de Azure Active Directory, si es necesario (no está disponible en los planes de GCC High o DoD).
     > [!NOTE]
     > La autenticación de paso a través de Azure Active Directory para entornos de varios bosques se admite si hay confianzas entre sus bosques de Active Directory y si el enrutamiento de sufijo de nombre se ha configurado correctamente. Con el objetivo de poder proporcionar una disponibilidad alta para las solicitudes de inicio de sesión, pueden instalarse agentes adicionales en varios servidores locales. Para obtener más información, vea [Autenticación de paso a través de Azure Active Directory: inicio rápido](https://go.microsoft.com/fwlink/?linkid=860094) y [Inicio de sesión único de conexión directa de Azure Active Directory: Guía de inicio rápido](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
-    > Para obtener más información acerca de los límites de la autenticación de paso a través, vea [Autenticación de paso a través de Azure Active Directory: limitaciones actuales](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
+    > Para más información sobre los límites de la autenticación de paso a través, vea [Autenticación de paso a través de Azure Active Directory: Limitaciones actuales](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
     > Para obtener más información sobre los problemas del inicio de sesión único de conexión directa, vea [Solución de problemas de inicio de sesión único de conexión directa de Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=841926). 
 - Para un único bosque cuando las identidades federadas son el destino: 
   - Instalar y configurar AD FS para la autenticación de dominios local con Office 365 en una configuración de sitio único y tolerante a errores, si es necesario.  

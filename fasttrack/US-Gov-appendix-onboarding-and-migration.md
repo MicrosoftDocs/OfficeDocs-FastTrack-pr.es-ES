@@ -3,19 +3,19 @@ title: Fases de incorporación y migración de Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'La incorporación de Office 365 para Office 365 el gobierno de Estados Unidos tiene cuatro fases principales: Inicio, evaluación, corrección y habilitación. Puede seguir estas fases de una fase opcional de migración de datos, como se muestra en la figura siguiente.'
-ms.openlocfilehash: 05e14c08148a5b02df9c175882a2853f0a39301c
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: fc6f89d64ee78089c584014a080d8739e94239eb
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342731"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921978"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de incorporación y migración de Office 365 US Government
 
@@ -59,7 +59,7 @@ Esto incluye trabajar con usted para comprender cómo quiere usar el servicio y 
 
 El administrador de FastTrack realiza con usted y con su equipo de adopción una llamada interactiva del plan de éxito. De este modo, tiene acceso a las funciones de los servicios pertinentes que adquirió, los puntos clave que necesita para lograr el éxito, la metodología para impulsar el uso del servicio y los escenarios que puede usar para aprovechar los servicios. Le ofrecemos asistencia para que diseñe un plan de éxito y le enviamos comentarios sobre las áreas fundamentales (según sea necesario).
   
-Los especialistas de FastTrack trabajan con usted para evaluar su entorno de origen y los requisitos. Le proporcionamos herramientas para recopilar datos sobre su entorno y guiarle a través de la estimación de los requisitos de ancho de banda y la evaluación de los exploradores de Internet, los sistemas operativos de cliente, el sistema de nombres de dominio (DNS), la red, la infraestructura y el sistema de identidad para Determine si es necesario realizar cambios para la incorporación. 
+Los especialistas FastTrack trabajan con usted para evaluar el entorno de origen y los requisitos. Le proporcionamos herramientas para recopilar datos sobre su entorno y guiarle a través de la estimación de los requisitos de ancho de banda y la evaluación de los exploradores de Internet, los sistemas operativos de cliente, el sistema de nombres de dominio (DNS), la red, la infraestructura y el sistema de identidad para Determine si es necesario realizar cambios para la incorporación. 
   
 Según la configuración actual, le ofrecemos un plan de corrección que lleva el entorno de origen a los requisitos mínimos para efectuar una incorporación correcta a Office 365 y, en caso necesario, para llevar a cabo una migración correcta del buzón de correo o de los datos. Le proporcionamos una serie de actividades sugeridas para aumentar el valor y la aceptación por parte de los usuarios finales. Asimismo, configuramos llamadas al punto de control para la fase de corrección.
   
