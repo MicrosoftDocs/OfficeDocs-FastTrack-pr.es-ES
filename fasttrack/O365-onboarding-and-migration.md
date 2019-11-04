@@ -3,19 +3,19 @@ title: Fases de incorporación y migración
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'La incorporación de Office 365 consta de cuatro fases principales: inicio, evaluación, corrección y habilitación. Puede seguir estas fases con una fase opcional de migración de datos.'
-ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 21b201c4c9d88c3b92c815beeef3e6ae46c3b73a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342419"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922646"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de incorporación y migración
 
@@ -97,10 +97,14 @@ En cuanto a Exchange Online, le guiamos a lo largo del proceso para preparar la 
 - Configuración de las características de Exchange Online Protection (EOP) para todos los dominios habilitados para correo que se han validado en Office 365.
     > [!NOTE]
     > Sus registros de correo Exchange (MX) deben referirse a Office 365. 
-- Configuración de la característica de Protección contra amenazas avanzada de Exchange Online (ATP) si forma parte de su servicio de suscripción. Esto se completa una vez que sus registros MX apunten a Office 365. Esta característica está configurada como parte de la configuración antimalware de Exchange Online Protection.
+- Configurar la característica de Protección contra amenazas avanzada de Office 365 (ATP) si forma parte de su servicio de suscripción. Para obtener más información, vea la [Protección contra amenazas avanzada de Office 365](#office-365-advanced-threat-protection).
 - Configuración de la característica de prevención de pérdida de datos (DLP) para todos los dominios habilitados para correo validados en Office 365 como parte de su servicio de suscripción. Esto se realiza una vez que los registros MX apunten a Office 365.
 - Configuración del cifrado de mensajes de Office 365 (OME) para todos los dominios habilitados para correo validados en Office 365 como parte de su servicio de suscripción. Esto se realiza una vez que los registros MX apunten a Office 365.
-- Configuración de puertos del firewall.
+
+> [!NOTE]
+> El servicio de replicación de buzón (MRS) intenta migrar los mensajes de correo electrónico administrados por Information Rights Management (IRM) desde el buzón local hasta el buzón de Exchange Online correspondiente. La capacidad de leer el contenido protegido posterior a la migración dependerá de la asignación de clientes y la copia de las plantillas de Active Directory Rights Management Services (AD RMS) en el servicio Azure Rights Management (Azure RMS).
+
+- Configurar puertos del firewall.
 - Configuración de DNS, incluida la detección automática necesaria, el marco de directivas de remitente (SPF) y los registros MX (si procede). 
 - Configuración del flujo de correo electrónico entre su entorno de mensajería de origen y Exchange Online (si procede).
 - Operación de migración de correo desde el entorno de mensajería de origen a Office 365.
@@ -128,6 +132,14 @@ En cuanto a OneDrive para la Empresa, los pasos dependen de si actualmente usa S
   
 ![Pasos de la incorporación de OneDrive durante la fase de habilitación](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="office-365-advanced-threat-protection"></a>Protección contra amenazas avanzada de Office 365
+
+Para la ATP de Office 365, proporcionamos instrucciones para:
+- Habilitar vínculos seguros, datos adjuntos seguros y protección contra suplantación de identidad (anti-phishing). 
+- Configurar la automatización, la investigación y la respuesta.
+- Usar el Simulador de ataques.
+- Elaborar informes y análisis de amenazas.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 En cuanto a Microsoft Teams, se ofrecen instrucciones para:
