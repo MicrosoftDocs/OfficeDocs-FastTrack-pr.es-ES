@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c5cb280c3ac2280f0f32fda39258b68ee144e508
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 3163294fc53913a125beb560a0ec21f7aac96e22
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342371"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921190"
 ---
 # <a name="source-environment-expectations"></a>Expectativas del entorno de origen
 
@@ -35,7 +35,7 @@ En la siguiente tabla se muestran las expectativas del entorno de origen existen
 |Incorporación de Azure AD Premium|Active Directory local y su entorno se han preparado para Azure AD Premium que incluye la corrección de problemas identificados que impiden la integración con las características de Azure AD y Azure AD Premium.|
 |Incorporación de Intune| Los administradores de TI deben disponer de infraestructuras de VPN, WiFi o una entidad de certificación que ya funcionan en sus entornos de producción al planear la implementación de perfiles WiFi y VPN con Intune.<br /><br /> **Nota**: la ventaja del servicio no incluye la asistencia para configurar entidades de certificación, WiFi, infraestructuras de VPN o certificados de inserción MDM de Apple para  |
 |Administración conjunta|Con la administración conjunta, los administradores de TI son responsables de la preparación del entorno local, lo que podría incluir la corrección de problemas que impiden la administración simultánea de dispositivos con Windows 10 mediante Configuration Manager e Intune.<br /><br />**Nota**: las ventajas del servicio de FastTrack no incluyen asistencia para configurar o actualizar el servidor de sitio de Configuration Manager o el cliente de Configuration Manager con los requisitos mínimos necesarios para admitir la administración conjunta en dispositivos con Windows 10. |
-|Intune integrado con la protección contra amenazas avanzada de Windows Defender (ATP de Windows Defender)|La suscripción a la ATP de Windows Defender se ha activado y configurado en función de los requisitos de seguridad de su empresa.<br /><br />**Nota**: las ventajas del servicio de FastTrack ofrecen asistencia para la integración de Intune con la ATP de Windows Defender y la creación de directivas de cumplimiento de dispositivos en función de la evaluación de nivel de riesgo de Windows 10. Las ventajas del servicio de FastTrack no ofrecen asistencia para la compra, concesión de licencias, activación o uso de la ATP de Windows Defender y de la consola del centro de seguridad. |
+|Intune integrado con la Protección contra amenazas avanzada de Microsoft Defender (ATP)|**Nota**: las ventajas del servicio de FastTrack ofrecen asistencia para la integración de Intune con la ATP de Microsoft Defender y la creación de directivas de cumplimiento de dispositivos en función de la evaluación de nivel de riesgo de Windows 10. Las ventajas del servicio no ofrecen asistencia para la compra, la concesión de licencias o la activación. |
 |Windows Autopilot|Los administradores de TI son responsables del registro de sus dispositivos en la organización, haciendo que el proveedor de hardware cargue sus id. de hardware en su nombre o cargándolos ellos mismos en el servicio de Windows Autopilot. |
 |Implementar Outlook para iOS y Android de forma segura con Intune|<br /><br />- Identidades de usuario habilitadas en Azure AD para Office 365.<br />- Exchange Online o Exchange híbrido configurado con las licencias de usuario asignadas.<br />|
 |Azure Information Protection (P2 o EMS E5)|<br /><br />Los clientes ya deben: <br /> - Usar Azure AD.<br />- Usar Windows o iOS (otros SO están fuera del ámbito).<br /> - Usar clientes de Office más recientes que Office 2010 SP2 que no se basan en Office como cliente principal. <br /> - Tener las principales ubicaciones de uso compartido de archivos.  <br /> - Haber actualizado Active Directory Rights Management Services (AD RMS). <br /> - Tener una taxonomía de clasificación aprobada. <br /> - Comprender las restricciones reglamentarias para la administración de claves protegida. <br />|
