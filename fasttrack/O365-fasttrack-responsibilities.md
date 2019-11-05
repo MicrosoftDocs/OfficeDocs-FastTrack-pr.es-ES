@@ -3,19 +3,19 @@ title: Responsabilidades de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342299"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921586"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
@@ -88,7 +88,7 @@ Proporcionar orientación acerca de:
   - Instalar y configurar WAP para publicar la infraestructura de AD FS en Internet, cuando sea necesario.
     > [!NOTE]
     > En todas las configuraciones de varios bosques, las implementaciones de AD FS quedan fuera del ámbito. 
-- Probar la funcionalidad de SSO si se ha implementado.
+- Probar la funcionalidad de SSO de conexión directa, si está implementada.
 - Impulsar el valor y la adopción de servicios correctos.
     
 \*\*Para más información sobre los límites de la autenticación de paso a través, vea Autenticación de paso a través de [Azure Active Directory: Limitaciones actuales](https://go.microsoft.com/fwlink/?linkid=860356). 
@@ -100,9 +100,10 @@ Proporcionar orientación acerca de:
 Proporcionar orientación acerca de:
 - Crear o actualizar los registros DNS. 
 - Habilitar el enrutamiento de correo electrónico entre el sistema de mensajería de origen y los entornos de Office 365. 
-- Configurar las características de Exchange Online Protection, Protección ante la pérdida de datos (DLP) y el Cifrado de mensajes de Office 365 (incluidas las características de Protección contra amenazas avanzada de Exchange Online si están disponibles en su suscripción) y comprobar que los registros MX se refieren a Office 365 para todos los dominios habilitados para correo que se han validado.
+- Configurar Exchange Online Protection, la Protección contra la pérdida de datos (DLP), el Cifrado de mensajes de Office 365 (OME) y la Protección contra amenazas avanzada de Office 365 (ATP), y comprobar que los registros MX apuntan a Office 365 en todos los dominios habilitados para correo validados.
 - Configurar una instalación híbrida entre una sola organización de Exchange local y Office 365 *o* entre varias organizaciones de Exchange local y Office 365. 
 - Configuración de clientes de buzón (Outlook para Windows, Outlook en la web y Outlook para iOS y Android).
+- Configurar la automatización, la investigación y la respuesta de ATP de Office 365 (si está disponible en su suscripción).
     
 Para obtener más información sobre las responsabilidades relativas a la migración de datos, vea [Migración de datos](O365-data-migration.md).
   
@@ -139,6 +140,16 @@ Proporcionar orientación acerca de:
 - Cómo configurar el redireccionamiento de OneDrive para la Empresa en el Entorno híbrido de SharePoint Online (solo SharePoint 2013 y SharePoint 2016).
 - Realizar la migración de datos si se usa el servicio de migración de datos del Centro de FastTrack y se cumplen los requisitos de elegibilidad.
     
+## <a name="office-365-advanced-threat-protection"></a>Protección contra amenazas avanzada de Office 365
+
+Proporcionar orientación acerca de:
+- Habilitar vínculos seguros.
+- Habilitar datos adjuntos seguros.
+- Habilitar directivas de protección contra suplantación de identidad (anti-phishing).
+- Configurar la automatización, la investigación y la respuesta.
+- Usar el Simulador de ataques.
+- Elaborar informes y análisis de amenazas.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Proporcionar orientación acerca de:

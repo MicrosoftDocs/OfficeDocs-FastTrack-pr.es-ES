@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack proporciona instrucciones de implementación para Windows 10 para ayudarle a actualizar de Windows 7 Professional y Windows 8,1 Professional a Windows 10 Enterprise.
-ms.openlocfilehash: ffbbde094e77bfc5ddf6155a318e7534e2a1c666
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e9999306b8ac1a6916562eb7ac0f422622c834da
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342659"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921574"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -24,6 +24,7 @@ FastTrack proporciona instrucciones de implementación para Windows 10 para ayud
 - Implemente Windows 10 Enterprise usando el Centro administrativo de configuración de sistema o Microsoft 365.
 - Implementar Office 365 ProPlus 
 - Actualizar Windows 10 Enterprise y Office 365 ProPlus usando el Centro administrativo de configuración de sistema o Microsoft 365.
+- Conectar Configuration Manager con Microsoft Intune en la nube o implementar Intune como única solución de administración en la nube.
   
 > [!NOTE]
 > FastTrack proporciona a los clientes los procedimientos, la ayuda y el enfoque recomendados diseñados para entregar resultados rápidos y previsibles. Si decide implementar sin tener en cuenta esta orientación, su experiencia puede verse afectada. La guía se define como una combinación de asistencia verbal y escrita. Cuando los especialistas de FastTrack proporcionan orientación, el personal de FastTrack no puede actuar en su nombre. Puede usar los servicios de FastTrack para los planes válidos siempre y cuando la suscripción esté actualizada.  

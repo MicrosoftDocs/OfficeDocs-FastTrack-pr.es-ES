@@ -3,18 +3,18 @@ title: Apéndice B Beneficio adicional del Centro de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Los clientes que compren al menos 20 000 licencias para un espacio empresarial de Exchange Online son elegibles para los servicios adicionales del Centro de FastTrack. Para más información, vea Servicios y planes elegibles.
-ms.openlocfilehash: c2f25e63d1e6d7d8b870a191136aad29e52fcfa3
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 8da19cd3922e1e37eb382716039dc6a96166191e
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342503"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921298"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Apéndice B: Ventaja adicional del Centro de FastTrack
 
@@ -42,9 +42,9 @@ Para Skype Empresarial Online, proporcionamos instrucciones para la migración d
 
 Para Office 365 ProPlus, proporcionamos instrucciones para las siguientes opciones: 
 - Evaluación y planeación centradas en la preparación del entorno para la implementación inicial y la administración de actualizaciones de acuerdo con los procedimientos recomendados de Microsoft. 
-- Desarrollar configuraciones de implementación y de actualización mediante la Herramienta de implementación de Office 365. 
+- Desarrollo de configuraciones de implementación y de actualización mediante la Herramienta de implementación de Office 365 y la Herramienta de personalización de Office. 
 - Empaquetado de implementación mediante el Administrador de configuración de System Center.  
-- Implementar y configurar la telemetría de Office para ayudarle a evaluar el uso de documentos y soluciones cruciales para la empresa de Office para la compatibilidad de aplicaciones.
+- Habilitar el uso del Kit de herramientas de preparación para Office para identificar posibles problemas de compatibilidad con las macros de Microsoft Visual Basics for Applications (VBA) y los complementos instalados que se usan junto con Office.
     
 ## <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
@@ -132,12 +132,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
 
 - Proporcionar instrucciones y asistencia para:  
   - Evaluación y planeación de acuerdo con los procedimientos recomendados de Microsoft para la implementación inicial y la administración de actualizaciones.
-  - Implementación y configuración de la telemetría de Office. 
-  - Habilitación del registro de telemetría para clientes de Office 2013 y posterior mediante la directiva de grupo. 
-  - Implementación de agentes de telemetría de Office para clientes anteriores de Office (Office 2003, Office 2007 y Office 2010). 
-  - Implementación del procesador de telemetría. 
-    > [!NOTE]
-    > Esto requiere una ubicación de recurso compartido de archivos para almacenar los datos de telemetría y un servidor con SQL Server 2005 y posterior al cual poder enviar los datos procesados. 
+  - Habilitar el uso del Kit de herramientas de preparación para Office para identificar posibles problemas de compatibilidad con las macros de Microsoft VBA y los complementos instalados que se usan junto con Office.
   
 ## <a name="your-responsibilities"></a>Sus responsabilidades
 

@@ -3,23 +3,23 @@ title: Asistencia ofrecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10, los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y Office 365 ProPlus y mantenerse al día sin costo adicional (con una suscripción válida).
-ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e114794d06b4c5aa7f3fd28bfe14ea4132780c16
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342575"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921930"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 
-Al comprar cualquier servicio de Microsoft 365 o de Windows 10 (como se describe en [Planes y servicios elegibles](M365-eligible-services-and-plans.md)), los especialistas de FastTrack le proporcionarán instrucciones de asesoramiento y corrección si tiene problemas de compatibilidad de aplicaciones al implementar en Windows 10 y Office 365 ProPlus, y podrá mantenerse al día sin coste adicional (con una suscripción válida).
+Al comprar cualquier servicio de Microsoft 365 o de Windows 10 (como se describe en [Planes y servicios elegibles](M365-eligible-services-and-plans.md)), los especialistas de FastTrack le proporcionarán instrucciones de asesoramiento y corrección si tiene problemas de compatibilidad de aplicaciones al implementar en Windows 10 y Office 365 ProPlus, y podrá mantenerse al día sin coste adicional (con una suscripción válida). Además, ahora ofrecemos asistencia a los clientes que implementen la característica de multisesión de Windows 10 Enterprise.
 
 Para obtener ayuda, complete la [Solicitud de servicio Desktop App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 
@@ -38,6 +38,8 @@ FastTrack proporciona asistencia para lo siguiente:
     - Aplicaciones de Office 365 ProPlus que tienen como objetivo una versión compatible de Windows 10, incluyendo macros y complementos.
     - Productos y servicios Microsoft que tienen como objetivo una versión compatible de Windows 10.
     - Aplicaciones de escritorio y web de Windows 10.
+    - Aplicaciones virtualizadas en ejecución en el host de sesión de Escritorio remoto (RDSH) de Windows Server que se implementan en multisesión de Windows 10 Enterprise.
+
 > [!NOTE]
 > FastTrack hace todo lo posible para resolver problemas de compatibilidad. 
 
@@ -45,7 +47,7 @@ FastTrack proporciona asistencia para lo siguiente:
 
 FastTrack no proporciona asistencia para lo siguiente:
 - Inventario y pruebas de aplicaciones para determinar lo que funciona y lo que no en Windows 10 y Office 365 ProPlus. Para obtener más información sobre este proceso, visite el [Centro de implementación de escritorios](https://go.microsoft.com/fwlink/?linkid=2080140). Si está interesado en una evaluación detallada de la preparación para la actualización, complete el formulario [Solicitud de cliente para la evaluación del escritorio moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
-- Buscar instrucciones de compatibilidad y soporte técnico de aplicaciones ISV de terceros para Windows 10. Para obtener más información, vea [Ready for Windows](https://go.microsoft.com/fwlink/?linkid=2054580).
+- Buscar instrucciones de compatibilidad y soporte técnico de Windows 10 en aplicaciones ISV de terceros. Para más información, vea [Análisis de escritorio](https://docs.microsoft.com/es-ES/sccm/desktop-analytics/overview).
 - Servicios de solo empaquetado de aplicaciones. Sin embargo, el equipo de Desktop App Assure crea paquetes de aplicaciones que hemos corregido para Windows 10 para asegurarse de que se pueden implementar en el entorno del cliente.
 
 Las responsabilidades del cliente son:
