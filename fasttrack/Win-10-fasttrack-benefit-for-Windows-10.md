@@ -3,19 +3,19 @@ title: Ventajas del Centro de FastTrack para Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Puede usar las ventajas del Centro de FastTrack para Windows 10 si adquiere *al menos* 150 licencias para un plan o un servicio elegible.
-ms.openlocfilehash: 6cea55294624df24437ef509e33a27d946675ef5
-ms.sourcegitcommit: bcb004732e9198bddea721c98b3221a7d9c0ddd6
+ms.openlocfilehash: ed3ceae775f014a771efc1a1b134825b4135c9d8
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37992378"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663413"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Ventajas del Centro de FastTrack para Windows 10
 

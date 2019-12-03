@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 8f850c133d18ea42b50f3c4333092d5358d8b1c8
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 858294224aa18dc3f2aae927630498f49afeb872
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921598"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662921"
 ---
 # <a name="onboarding-phases"></a>Fases de incorporación
 
@@ -103,7 +103,7 @@ La configuración de Azure AD Premium incluye habilitar las características sig
 
 -   Hasta tres (3) o más integraciones de aplicaciones de Software como servicio (SaaS) con el inicio de sesión único (SSO) desde [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
--   El aprovisionamiento automático de usuarios para aplicaciones SaaS previamente integradas que se muestran en la [lista de tutoriales de integración de aplicaciones](https://docs.microsoft.com/es-ES/azure/active-directory/saas-apps/tutorial-list) limitada solo al aprovisionamiento saliente.
+-   El aprovisionamiento automático de usuarios para aplicaciones SaaS previamente integradas que se muestran en la [lista de tutoriales de integración de aplicaciones](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) limitada solo al aprovisionamiento saliente.
 
 -   Pantalla de inicio de sesión personalizada, incluido el logotipo, el texto y las imágenes.
 
@@ -280,7 +280,7 @@ Se proporcionan a los clientes instrucciones para:
 También se proporcionan instrucciones para los clientes que quieran aplicar la protección con Microsoft Azure Rights Management Services (Azure RMS), el cifrado de mensajes de Office 365 (OME) y la prevención de pérdida de datos (DLP).
 
 > [!NOTE]
-> **¿Quiere obtener más información?** vea [Enterprise Mobility + Security](https://www.microsoft.com/es-ES/cloud-platform/enterprise-mobility).  
+> **¿Quiere obtener más información?** vea [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).  
 
 ## <a name="next-steps"></a>Siguientes pasos
 
