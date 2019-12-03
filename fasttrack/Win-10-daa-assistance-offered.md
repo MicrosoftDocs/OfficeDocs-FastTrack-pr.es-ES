@@ -3,23 +3,23 @@ title: Asistencia ofrecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10, los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y Office 365 ProPlus y mantenerse al día sin costo adicional (con una suscripción válida).
-ms.openlocfilehash: e114794d06b4c5aa7f3fd28bfe14ea4132780c16
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: d89f3576e225748568452a65b063c7aba55dd58c
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921930"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663437"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 
-Al comprar cualquier servicio de Microsoft 365 o de Windows 10 (como se describe en [Planes y servicios elegibles](M365-eligible-services-and-plans.md)), los especialistas de FastTrack le proporcionarán instrucciones de asesoramiento y corrección si tiene problemas de compatibilidad de aplicaciones al implementar en Windows 10 y Office 365 ProPlus, y podrá mantenerse al día sin coste adicional (con una suscripción válida). Además, ahora ofrecemos asistencia a los clientes que implementen la característica de multisesión de Windows 10 Enterprise.
+Al comprar cualquiera de los servicios de Windows 10 o de Microsoft 365 (como se indica en los [Planes y servicios aptos](M365-eligible-services-and-plans.md)), los especialistas de FastTrack proporcionan instrucciones de asistencia y asesoría si tiene problemas de compatibilidad de aplicaciones al implementar nuevos productos de Microsoft, como se indica en [Productos de Microsoft compatibles](#supported-microsoft-products).
 
 Para obtener ayuda, complete la [Solicitud de servicio Desktop App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 
@@ -28,17 +28,30 @@ Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go
 > [!NOTE]
 > La asistencia se presta en chino tradicional y simplificado (el personal solo habla mandarín), inglés, francés, alemán, italiano, japonés, coreano, portugués (Brasil) y español. 
 
-## <a name="assistance"></a>Asistencia
+## <a name="supported-microsoft-products"></a>Productos de Microsoft compatibles
 
-FastTrack proporciona asistencia para lo siguiente:
-- Habilitar aplicaciones que funcionan en Windows 7 para funcionar también en Windows 10.
-- Soporte para:
-    - Aplicaciones desarrolladas por el cliente que tienen como objetivo una versión compatible de Windows 10.
-    - Aplicaciones de proveedores de software independientes (ISV) de otros fabricantes que tienen como objetivo una versión compatible de Windows 10.
-    - Aplicaciones de Office 365 ProPlus que tienen como objetivo una versión compatible de Windows 10, incluyendo macros y complementos.
-    - Productos y servicios Microsoft que tienen como objetivo una versión compatible de Windows 10.
-    - Aplicaciones de escritorio y web de Windows 10.
-    - Aplicaciones virtualizadas en ejecución en el host de sesión de Escritorio remoto (RDSH) de Windows Server que se implementan en multisesión de Windows 10 Enterprise.
+FastTrack ofrece asistencia para las aplicaciones implementadas en los siguientes productos de Microsoft:
+
+### <a name="windows-10-and-office-365-proplus"></a>Windows 10 y Office 365 ProPlus
+
+- Las aplicaciones que funcionaban en Windows 7, Windows 8.1, Office 2010 y Office 2013 también funcionan en Windows 10 y Office 365 ProPlus.
+
+### <a name="the-new-microsoft-edge"></a>El nuevo Microsoft Edge
+
+- Si las aplicaciones web o sitios funcionan en Internet Explorer 11, Google Chrome o Microsoft Edge Legacy, también funcionarán con el nuevo Microsoft Edge.
+
+### <a name="windows-virtual-desktop"></a>Windows Virtual Desktop
+
+- Las aplicaciones virtualizadas que se ejecutan en el host de sesión de Escritorio remoto (RDSH) de Windows Server también se ejecutan en Windows 10 Enterprise multisesión como parte de Windows Virtual Desktop.
+- Las aplicaciones que se ejecutan en cualquier entorno de infraestructura de escritorio virtual (VDI) de Windows 7 o Windows 10 también se ejecutan en Windows 7 Enterprise y Windows 10 Enterprise como parte de Windows Virtual Desktop.*
+- Las aplicaciones que se ejecutan en dispositivos cliente con Windows 7 o Windows 10 también se ejecutan en Windows 7 Enterprise y Windows 10 Enterprise como parte de Windows Virtual Desktop.\*
+
+\*Las limitaciones y exclusiones de compatibilidad multisesión de Windows 10 Enterprise incluyen lo siguiente:
+- Redirección limitada del hardware.
+- Las aplicaciones que hacen un uso intensivo de A/V pueden tener una capacidad reducida.
+- Las aplicaciones de 16 bits no son compatibles con Windows Virtual Desktop de 64 bits.
+
+Para obtener más información, vea [¿Qué es Windows Virtual Desktop?](https://docs.microsoft.com/azure/virtual-desktop/overview) y [Preguntas más frecuentes sobre Windows 10 Enterprise multisesión](https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq).
 
 > [!NOTE]
 > FastTrack hace todo lo posible para resolver problemas de compatibilidad. 
@@ -47,7 +60,7 @@ FastTrack proporciona asistencia para lo siguiente:
 
 FastTrack no proporciona asistencia para lo siguiente:
 - Inventario y pruebas de aplicaciones para determinar lo que funciona y lo que no en Windows 10 y Office 365 ProPlus. Para obtener más información sobre este proceso, visite el [Centro de implementación de escritorios](https://go.microsoft.com/fwlink/?linkid=2080140). Si está interesado en una evaluación detallada de la preparación para la actualización, complete el formulario [Solicitud de cliente para la evaluación del escritorio moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
-- Buscar instrucciones de compatibilidad y soporte técnico de Windows 10 en aplicaciones ISV de terceros. Para más información, vea [Análisis de escritorio](https://docs.microsoft.com/es-ES/sccm/desktop-analytics/overview).
+- Buscar instrucciones de compatibilidad y soporte técnico de Windows 10 en aplicaciones ISV de terceros. Para más información, vea [Análisis de escritorio](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Servicios de solo empaquetado de aplicaciones. Sin embargo, el equipo de Desktop App Assure crea paquetes de aplicaciones que hemos corregido para Windows 10 para asegurarse de que se pueden implementar en el entorno del cliente.
 
 Las responsabilidades del cliente son:

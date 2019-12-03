@@ -3,19 +3,19 @@ title: Migración de datos
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Los especialistas de FastTrack ofrecen instrucciones sobre los pasos para la migración de datos a Office 365. Esto está disponible para todos los clientes aptos con servicios de Office 365 para Exchange Online, OneDrive para la Empresa y SharePoint Online.
-ms.openlocfilehash: 011ac6cd7a6f53872bf9545cb837700418415566
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 7f779d058fa8bfc916f6fffae06595595c660e81
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921250"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662933"
 ---
 # <a name="data-migration"></a>Migración de datos
 
@@ -66,10 +66,6 @@ Las migraciones se realizan con una regularidad programada y normalizada las 24 
 #### <a name="us-governmentdod"></a>Gobierno de Estados Unidos o DOD
 
 Las migraciones se realizan con una regularidad programada y normalizada las 24 horas al día y durante cinco (5) días laborables a la semana (24x5) en franjas temporales de migración predefinidas. Hay tres lotes de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 2:00 de la hora universal coordinada (UTC) al viernes a la medianoche UTC, lo que significa que la última migración programada es el viernes a las 20:00 UTC.
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Germany Microsoft Cloud Deutschland (MCD)
-
-Las migraciones se realizan con una regularidad programada y normalizada 9 horas al día y durante cinco (5) días laborables a la semana (9x5) en franjas temporales de migración predefinidas. Hay un lote de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 12:00 de la hora universal coordinada (UTC) al viernes a las 21:00 UTC.
     
  ### <a name="end-state"></a>Estado final
   
@@ -172,10 +168,6 @@ Las migraciones se realizan con una regularidad programada y normalizada las 24 
 
 Las migraciones se realizan con una regularidad programada y normalizada las 24 horas al día y durante cinco (5) días laborables a la semana (24x5) en franjas temporales de migración predefinidas. Hay tres lotes de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 2:00 de la hora universal coordinada (UTC) al viernes a la medianoche UTC, lo que significa que la última migración programada es el viernes a las 20:00 UTC.
 
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Germany Microsoft Cloud Deutschland (MCD)
-
-Las migraciones se realizan con una regularidad programada y normalizada 9 horas al día y durante cinco (5) días laborables a la semana (9x5) en franjas temporales de migración predefinidas. Hay un lote de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 12:00 de la hora universal coordinada (UTC) al viernes a las 21:00 UTC.
-
 - Todas las migraciones están sujetas a las cuotas de SharePoint Online indicadas en [SharePoint Online y OneDrive para la Empresa: restricciones y límites del software](https://go.microsoft.com/fwlink/?LinkID=616612).   
 - La cantidad general de datos migrados se limitará al 75% de la cuota de almacenamiento general de SharePoint Online a la que tiene derecho (incluido el almacenamiento adicional que haya adquirido por separado).
     
@@ -230,8 +222,8 @@ Durante las migraciones, el usuario realiza las siguientes operaciones:
 - Realizar correcciones posteriores a la migración (si corresponde).
 - Planear e implementar la administración de cambios y las comunicaciones del usuario final (si es el caso).   
 - Administrar y configurar los cambios en el sistema de origen y los dispositivos necesarios para la correcta finalización de las actividades de evaluación y migración.
-- Proporcionar una programación en un método definido y una lista de datos de usuario específicos para migrar por cada evento de migración con al menos 7 días de antelación.
-- Quitar los datos de usuarios de la programación hasta 24 horas antes del lote de migración. Esto debe corresponderse con el lote de migración final.
+- Proporcionar una programación en un método definido y una lista de datos de usuario específicos para migrar en cada evento de migración con al menos 3 días de antelación.
+- Quitar los datos de usuario de la programación hasta 24 horas antes del lote de migración. Esto debe corresponderse con el lote de migración final.
 > [!NOTE]
 > Microsoft no garantiza la velocidad de la migración de archivos.
     
@@ -255,10 +247,6 @@ Las migraciones se realizan con una regularidad programada y normalizada las 24 
 #### <a name="us-governmentdod"></a>Gobierno de Estados Unidos o DOD
 
 Las migraciones se realizan con una regularidad programada y normalizada las 24 horas al día y durante cinco (5) días laborables a la semana (24x5) en franjas temporales de migración predefinidas. Hay tres lotes de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 2:00 de la hora universal coordinada (UTC) al viernes a la medianoche UTC, lo que significa que la última migración programada es el viernes a las 20:00 UTC.
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Germany Microsoft Cloud Deutschland (MCD)
-
-Las migraciones se realizan con una regularidad programada y normalizada 9 horas al día y durante cinco (5) días laborables a la semana (9x5) en franjas temporales de migración predefinidas. Hay un lote de migración por día de migración. Hay cinco días de migración en una semana del lunes a las 12:00 de la hora universal coordinada (UTC) al viernes a las 21:00 UTC.
     
 - Todas las migraciones requieren el acceso y los permisos adecuados en el entorno de origen.   
 - Todas las migraciones están sujetas a las cuotas de OneDrive para la Empresa indicadas en [SharePoint Online y OneDrive para la Empresa: restricciones y límites del software](https://go.microsoft.com/fwlink/?LinkId=698855).
@@ -285,7 +273,7 @@ Durante las migraciones, los especialistas de FastTrack realizan las siguientes 
 - Proporcionar los requisitos previos de las herramientas de evaluación y migración que correspondan al escenario.  
 - Proporcionar los requisitos previos para el acceso del equipo de migración al entorno de origen y destino a efectos de evaluación y migración.   
 - Ofrecer herramientas de evaluación para realizar evaluaciones del entorno de origen y destino o proporcionar instrucciones sobre cómo usar las funciones de plataforma de origen nativas para crear informes de evaluación.    
-- Proporcionar una programación en un método definido y una lista de datos de usuario específicos para migrar por cada evento de migración con al menos 7 días de antelación.
+- Proporcionar una programación en un método definido y una lista de datos de usuario específicos para migrar en cada evento de migración con al menos 3 días de antelación.
 - Quitar los datos de usuarios de la programación hasta 24 horas antes del lote de migración. Esto debe corresponderse con el lote de migración final.
 - Ayudar a implementar y ejecutar las herramientas de evaluación y migración (si es el caso).   
 - Configurar la infraestructura de migración en preparación para la migración de contenido (si es aplicable).    
