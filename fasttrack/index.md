@@ -3,12 +3,12 @@ layout: HubPage
 hide_bc: true
 title: Documentación y recursos de Microsoft FastTrack
 description: Obtenga información sobre cómo Microsoft FastTrack puede ayudar a los clientes a implementar soluciones en la nube de Microsoft. Los clientes con suscripciones elegibles para Microsoft 365, Azure o Dynamics 365 pueden usar FastTrack sin costo adicional durante la vida de su suscripción.
-ms.openlocfilehash: ae5a62824b074863bf2649fd8aa5e2c88d33c932
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: de1da643e333f3f4a85580c51f2f721f739256cc
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513347"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663497"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -29,7 +29,7 @@ ms.locfileid: "33513347"
                                                 <div class="cardText">
                                                 <h3>FastTrack para Microsoft 365</h3>
                                                 <p><a
-                                                href="https://docs.microsoft.com/en-us/fasttrack/m365-fasttrack-benefit-overview">Generales</a></p>
+                                                href="https://docs.microsoft.com/fasttrack/m365-fasttrack-benefit-overview">Generales</a></p>
                                                 <p><a href="https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365">Office 365</a></p>
                                                 <p><a href="https://docs.microsoft.com/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program">Enterprise Mobility + Security</a></p>
                                                 <p><a href="https://docs.microsoft.com/fasttrack/win-10-fasttrack-benefit-for-windows-10">Windows 10</a></p>
@@ -58,7 +58,7 @@ ms.locfileid: "33513347"
                                             <div class="cardText">
                                                 <h3>FastTrack para Dynamics 365</h3>
                                                 <p><a href="https://docs.microsoft.com/dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365">Información general sobre el compromiso del cliente</a></p>
-                                                <p><a href="https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview">Operaciones de Dynamics para finanzas &</a></p>
+                                                <p><a href="https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview">Operaciones de Dynamics para & financieras</a></p>
                                             </div>
                                         </div>
                                     </div>

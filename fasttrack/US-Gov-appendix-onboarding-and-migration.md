@@ -3,19 +3,19 @@ title: Fases de incorporación y migración de Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'La incorporación de Office 365 para Office 365 el gobierno de Estados Unidos tiene cuatro fases principales: Inicio, evaluación, corrección y habilitación. Puede seguir estas fases de una fase opcional de migración de datos, como se muestra en la figura siguiente.'
-ms.openlocfilehash: fc6f89d64ee78089c584014a080d8739e94239eb
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: f1c208654cf85e7c9f5211a0275d43153185e2e2
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921978"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663485"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de incorporación y migración de Office 365 US Government
 
@@ -100,7 +100,7 @@ En cuanto a Exchange Online, le guiamos a lo largo del proceso para preparar la 
     > [!NOTE]
     > Sus registros de correo Exchange (MX) deben referirse a Office 365.   
 - Configuración de la característica de Protección contra amenazas avanzada de Exchange Online (ATP) si forma parte de su servicio de suscripción una vez que sus registros MX apunten a Office 365. Esta característica está configurada como parte de la configuración antimalware de Protección de Exchange Online.   
-- Configuración de puertos del firewall.   
+- Configurar puertos del firewall.   
 - Configuración de DNS, incluida la detección automática necesaria, el marco de directivas de remitente (SPF) y los registros MX (si procede).     
 - Configuración del flujo de correo electrónico entre su entorno de mensajería de origen y Exchange Online (si procede).   
 - Operación de migración de correo desde el entorno de mensajería de origen a Office 365.   
