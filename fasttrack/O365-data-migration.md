@@ -3,19 +3,19 @@ title: Migración de datos
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Los especialistas de FastTrack ofrecen instrucciones sobre los pasos para la migración de datos a Office 365. Esto está disponible para todos los clientes aptos con servicios de Office 365 para Exchange Online, OneDrive para la Empresa y SharePoint Online.
-ms.openlocfilehash: 7f779d058fa8bfc916f6fffae06595595c660e81
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662933"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929226"
 ---
 # <a name="data-migration"></a>Migración de datos
 
@@ -83,9 +83,9 @@ El estado final esperado una vez finalizadas todas las migraciones incluye lo si
 |||||
 |:-----|:-----|:-----|:-----|
 |**Entorno de origen**|**Tipo de migración**|**¿Qué se migrará desde el buzón de origen?**|**¿Qué no se migrará?**|
-|**Exchange 2003 o superior**|Total| Mensajes de correo electrónico <br/> Reglas de buzón <br/> Delegados <br/> Contactos de buzón de correo <br/> Calendario <br/> Tareas <br/> Correos electrónicos con derechos administrados| Carpetas públicas <br/> Contactos personales <br/> Usuarios habilitados para correo <br/> Usuarios bloqueados o inactivos <br/> Firmas <br/> Contenedor del buzón <br/>  Cualquier correo electrónico que supere el límite de tamaño de mensaje <br/> Datos de archivo <br/> Correos electrónicos cifrados <br/> Elementos dañados <br/>  Buzones de correo inactivos |
-|**Exchange 2003 y Exchange 2007**|Preconfigurada| Mensajes de correo electrónico <br/> Reglas de buzón <br/> Delegados <br/> Contactos de buzón de correo <br/> Calendario <br/> Tareas <br/> Correos electrónicos con derechos administrados| Carpetas públicas <br/> Contactos personales <br/> Usuarios habilitados para correo <br/> Usuarios bloqueados o inactivos <br/> Firmas <br/> Contenedor del buzón <br/> Cualquier correo electrónico que supere el límite de tamaño de mensaje <br/> Datos de archivo <br/> Correos electrónicos cifrados <br/> Elementos dañados <br/> Buzones de correo inactivos |
-|**Exchange 2010, Exchange 2013 y Exchange 2016** <br/><br/> **Nota** *Para conocer las dependencias de Exchange local, vea [Requisitos previos de implementación híbrida](https://go.microsoft.com/fwlink/?LinkId=787528).*           |Migración con implementación híbrida| Mensajes de correo electrónico <br/> Reglas de buzón <br/> Delegados <br/> Contactos de buzón de correo <br/> Calendario <br/> Tareas <br/> Firmas <br/> Archivo personal migrado con el buzón del usuario <br/> Elementos recuperables <br/> Correos electrónicos con derechos administrados| Carpetas públicas <br/> Cualquier correo electrónico que supere el límite de tamaño de mensaje <br/> Archivo de registro en diario o cualquier solución de archivo de terceros <br/> Usuarios bloqueados o inactivos <br/> Datos de archivo procedentes de archivos PST (Personal Storage Table) <br/> Correos electrónicos cifrados <br/> Elementos dañados <br/> Buzones de correo inactivos |
+|**Exchange 2003 o superior**|Total| Mensajes de correo electrónico <br/> Reglas de buzón <br/> Delegados <br/> Contactos de buzón de correo <br/> Calendario <br/> Tareas <br/> Correos electrónicos con derechos administrados <br/> Correos electrónicos cifrados| Carpetas públicas <br/> Contactos personales <br/> Usuarios habilitados para correo <br/> Usuarios bloqueados o inactivos <br/> Firmas <br/> Contenedor del buzón <br/>  Cualquier correo electrónico que supere el límite de tamaño de mensaje <br/> Datos de archivo <br/> Elementos dañados <br/>  Buzones de correo inactivos |
+|**Exchange 2003 y Exchange 2007**|Preconfigurada| Mensajes de correo electrónico <br/> Reglas de buzón <br/> Delegados <br/> Contactos de buzón de correo <br/> Calendario <br/> Tareas <br/> Correos electrónicos con derechos administrados <br/> Correos electrónicos cifrados| Carpetas públicas <br/> Contactos personales <br/> Usuarios habilitados para correo <br/> Usuarios bloqueados o inactivos <br/> Firmas <br/> Contenedor del buzón <br/> Cualquier correo electrónico que supere el límite de tamaño de mensaje <br/> Datos de archivo <br/> Elementos dañados <br/> Buzones de correo inactivos |
+|**Exchange 2010, Exchange 2013 y Exchange 2016** <br/><br/> **Nota** *Para conocer las dependencias de Exchange local, vea [Requisitos previos de implementación híbrida](https://go.microsoft.com/fwlink/?LinkId=787528).*           |Migración con implementación híbrida| Mensajes de correo electrónico <br/> Reglas de buzón <br/> Delegados <br/> Contactos de buzón de correo <br/> Calendario <br/> Tareas <br/> Firmas <br/> Archivo personal migrado con el buzón del usuario <br/> Elementos recuperables <br/> Correos electrónicos con derechos administrados <br/> Correos electrónicos cifrados| Carpetas públicas <br/> Cualquier correo electrónico que supere el límite de tamaño de mensaje <br/> Archivo de registro en diario o cualquier solución de archivo de terceros <br/> Usuarios bloqueados o inactivos <br/> Datos de archivo procedentes de archivos PST (Personal Storage Table) <br/> Elementos dañados <br/> Buzones de correo inactivos |
 |**Entorno de G Suite (solo Gmail, Contactos y Calendario)** <br/> <br/> **Nota** *Su entorno de G Suite debe tener la API de Google y el SDK del administrador de Google habilitados para ampliar la funcionalidad.* <br/> <br/> **Nota** *Ubicación de los datos: FastTrack puede transferir, almacenar y procesar datos migrados según la ubicación del espacio empresarial del cliente en Estados Unidos o allí donde Microsoft o sus proveedores de terceros dispongan de instalaciones. FastTrack elimina los datos almacenados en un plazo de 30 días desde la finalización de los servicios aplicables.*           |Total o preconfigurada| Mensajes de correo electrónico <br/> Contactos de correo <br/> Calendario <br/> Etiquetas | Reglas <br/> Delegados <br/> Firmas <br/> Tareas <br/> Cualquier correo electrónico o archivo adjunto superior a 35 MB <br/> Usuarios bloqueados o inactivos <br/> Datos de archivo procedentes de archivos PST o de soluciones de archivo de terceros (por ejemplo, Google Vault) <br/> Mensajes de correo electrónico cifrados o con derechos administrados <br/> Elementos dañados <br/> Google Hangouts <br/> Grupos de Google <br/> Buzones de recursos <br/> Buzones de correo inactivos |
 |**A partir de IBM Domino 7.0.3** ([Apéndice A: Migración de IBM Domino a Exchange Online](O365-from-ibm-domino-to-exchange-online.md))|Preconfigurada| Mensajes de correo electrónico: últimos 90 días <br/> Calendario: últimos 90 días y elementos futuros <br/> Contactos de buzón de correo: todos <br/> Tareas: todas <br/> Salas y recursos: siempre y cuando se implementen con la plantilla estándar <br/> Los archivos de correo, incluidos los archivos de correo compartido, deben usar la plantilla estándar de correo | Firmas <br/> Reglas de buzón <br/> Delegados <br/> Elementos cifrados <br/> Vínculos de documentos <br/> Diseño de fondo del usuario <br/> Cualquier correo electrónico que supere el límite de tamaño de mensaje <br/> Usuarios bloqueados o inactivos <br/> Datos de archivo <br/> Elementos dañados <br/> Coexistencia de Calendario <br/> Buzones de correo inactivos |
 |**A partir de Novell GroupWise 7.0.4** <br/><br/> **Nota** *Ubicación de los datos: FastTrack puede transferir, almacenar y procesar datos migrados según la ubicación del espacio empresarial del cliente en Estados Unidos o allí donde Microsoft o sus proveedores de terceros dispongan de instalaciones. FastTrack elimina los datos almacenados en un plazo de 30 días desde la finalización de los servicios aplicables.*           |Preconfigurada| Mensajes de correo electrónico <br/> Calendario <br/> Contactos de buzón de correo <br/> Grupos personales <br/> Tareas (con limitaciones) <br/> Documentos | Rules <br/> Proxies/delegados/conversión de lista de control de acceso (ACL) <br/> Firmas <br/> Categorías de contactos <br/> Correo electrónico cifrado <br/> Carpetas de búsqueda <br/> Cualquier correo electrónico o archivo adjunto superior a 35 MB <br/> Usuarios bloqueados o inactivos <br/> Datos de archivo <br/> Elementos cifrados o con derechos administrados <br/> Elementos dañados <br/> Coexistencia de Calendario <br/> Buzones de correo inactivos |
@@ -223,7 +223,7 @@ Durante las migraciones, el usuario realiza las siguientes operaciones:
 - Planear e implementar la administración de cambios y las comunicaciones del usuario final (si es el caso).   
 - Administrar y configurar los cambios en el sistema de origen y los dispositivos necesarios para la correcta finalización de las actividades de evaluación y migración.
 - Proporcionar una programación en un método definido y una lista de datos de usuario específicos para migrar en cada evento de migración con al menos 3 días de antelación.
-- Quitar los datos de usuario de la programación hasta 24 horas antes del lote de migración. Esto debe corresponderse con el lote de migración final.
+- Quitar los datos de usuarios de la programación hasta 24 horas antes del lote de migración. Esto debe corresponderse con el lote de migración final.
 > [!NOTE]
 > Microsoft no garantiza la velocidad de la migración de archivos.
     
@@ -273,8 +273,6 @@ Durante las migraciones, los especialistas de FastTrack realizan las siguientes 
 - Proporcionar los requisitos previos de las herramientas de evaluación y migración que correspondan al escenario.  
 - Proporcionar los requisitos previos para el acceso del equipo de migración al entorno de origen y destino a efectos de evaluación y migración.   
 - Ofrecer herramientas de evaluación para realizar evaluaciones del entorno de origen y destino o proporcionar instrucciones sobre cómo usar las funciones de plataforma de origen nativas para crear informes de evaluación.    
-- Proporcionar una programación en un método definido y una lista de datos de usuario específicos para migrar en cada evento de migración con al menos 3 días de antelación.
-- Quitar los datos de usuarios de la programación hasta 24 horas antes del lote de migración. Esto debe corresponderse con el lote de migración final.
 - Ayudar a implementar y ejecutar las herramientas de evaluación y migración (si es el caso).   
 - Configurar la infraestructura de migración en preparación para la migración de contenido (si es aplicable).    
 - Realizar una migración de prueba limitada para validar la infraestructura de migración y los requisitos previos necesarios.    
@@ -300,6 +298,8 @@ Durante las migraciones, el usuario realiza las siguientes operaciones:
 - Instalar localmente el software de migración que proporciona FastTrack (si es el caso).  
 - Completar las actividades de corrección indicadas en el informe de corrección de FastTrack (si corresponde).   
 - Proporcionar una programación de migración mediante las plantillas y las instrucciones de FastTrack. 
+- Proporcionar una programación en un método definido y una lista de datos de usuario específicos para migrar en cada evento de migración con al menos 3 días de antelación.
+- Quitar los datos de usuarios de la programación hasta 24 horas antes del lote de migración. Esto debe corresponderse con el lote de migración final.
 - Realizar un control de calidad de migración y pruebas de aceptación de usuario.   
 - Realizar correcciones posteriores a la migración (si corresponde).  
 - Planear e implementar la administración de cambios y las comunicaciones del usuario final (si es el caso).  
