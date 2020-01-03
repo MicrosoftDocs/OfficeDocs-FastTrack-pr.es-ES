@@ -3,7 +3,7 @@ title: Ventajas del Centro de FastTrack para Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Puede usar Ventajas del Centro de FastTrack para Office 365 si adquiere al menos 150 licencias de un plan o servicio elegible para el espacio empresarial de Office 365. Luego trabajará con especialistas de FastTrack para evaluar, corregir, habilitar e impulsar el uso de esos servicios. Estos especialistas también ofrecen orientación sobre la migración.
-ms.openlocfilehash: 1d427811f2d9f3763c288f43275653379599ff23
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 65efeb4ed8d21e9ed6a95aa04475579a398ede61
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663017"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929238"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Ventajas del Centro de FastTrack para Office 365
 

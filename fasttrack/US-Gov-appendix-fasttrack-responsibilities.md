@@ -3,19 +3,19 @@ title: Responsabilidades de FastTrack para Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: fd1ff8f660ec5b9a808ef0b30b347fee62d4363c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 6ac727d55ba8d5653fb9ebffa95b7c3c4a104f70
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662945"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929298"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades de FastTrack para Office 365 US Government
 
@@ -24,7 +24,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
 ## <a name="general"></a>General
 
 - Proporcionar soporte técnico remoto para que planee satisfactoriamente el desarrollo y la implementación, así como para las actividades de configuración necesarias, tal y como se detalla en las descripciones de las fases.
-- Proporcione la documentación y las herramientas de software disponibles, consolas de administración y guiones para proporcionarle ayuda para reducir o eliminar las tareas de configuración y los recursos de planificación correctos. 
+- Proporcione la documentación y las herramientas de software disponibles, consolas de administración y guiones para proporcionarle ayuda para reducir o eliminar las tareas de configuración y los recursos de planificación correctos.   
     
 ## <a name="initiate-phase"></a>Fase de inicio
 
@@ -36,7 +36,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
 
 - Mantener una llamada sobre la correcta planificación para ayudar a mejorar para la aceptación por parte de los usuarios.  
 - Proporcionar información general administrativa.  
-- Proporcionar instrucciones sobre: 
+- Proporcionar instrucciones acerca de: 
   - Necesidades de sistema de nombres de dominio (DNS), red e infraestructura.  
   - Necesidades del cliente (explorador de Internet, sistema operativo de cliente, dispositivo móvil y necesidades de servicios).
   - Identidad y aprovisionamiento de usuarios. 
@@ -69,7 +69,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
     
 ## <a name="enable-phase"></a>Fase de habilitación
 
-Proporcionar instrucciones sobre: 
+Proporcionar instrucciones acerca de: 
 - Evaluar el progreso del éxito de la planeación y averiguar si necesita más ayuda.    
 - Activar el espacio empresarial de Office 365.
 - Configurar los protocolos TCP/IP y puertos del firewall.   
@@ -95,7 +95,7 @@ Proporcionar instrucciones sobre:
     
 ## <a name="exchange-online"></a>Exchange Online
 
-Proporcionar instrucciones sobre: 
+Proporcionar instrucciones acerca de: 
 - Crear o actualizar los registros DNS.    
 - Habilitar el enrutamiento de correo electrónico entre el sistema de mensajería de origen y los entornos de Office 365.    
 - Configurar las características de Protección de Exchange Online (incluidas las características de Protección contra amenazas avanzada de Exchange Online si están disponibles en su suscripción) y comprobar que los registros MX se refieren a Office 365 para todos los dominios habilitados para correo que se han validado.   
@@ -106,7 +106,7 @@ Para obtener más información sobre las responsabilidades relativas a la migrac
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
-Proporcionar instrucciones sobre:
+Proporcionar instrucciones acerca de:
 - Configurar el aprovisionamiento de usuarios, incluidas las licencias.   
 - Habilitar la creación de sitios para el administrador de SharePoint Online.   
 - Planificar las colecciones de sitios.   
@@ -139,7 +139,7 @@ Proporcionar orientación acerca de:
     
 ## <a name="skype-for-business-online"></a>Skype Empresarial Online
 
-Proporcionar instrucciones sobre:
+Proporcionar instrucciones acerca de:
 - Aprovisionar identidades de Skype Empresarial para Office 365.   
 - Habilitar conferencias en línea, mensajería instantánea (MI) y características de presencia de Office 365.  
 - Creación de cuentas para asociar a los dispositivos de sistema de salas de reuniones compatibles (hasta 10 cuentas).    
@@ -158,7 +158,7 @@ Proporcionar instrucciones sobre:
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Proporcionar instrucciones sobre:
+Proporcionar instrucciones acerca de:
 - Confirmación de requisitos mínimos.   
 - Configuración de puertos del firewall.  
 - Configuración de DNS.  

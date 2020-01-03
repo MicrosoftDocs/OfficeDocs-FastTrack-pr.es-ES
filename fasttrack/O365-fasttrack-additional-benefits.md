@@ -3,18 +3,18 @@ title: Apéndice B Beneficio adicional del Centro de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Los clientes que compren al menos 20 000 licencias para un espacio empresarial de Exchange Online son elegibles para los servicios adicionales del Centro de FastTrack. Para más información, vea Servicios y planes elegibles.
-ms.openlocfilehash: 45665010bf9e7f59a6afc0a9761155a3a841248c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662873"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929214"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Apéndice B: Ventaja adicional del Centro de FastTrack
 
@@ -102,7 +102,6 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
 
 - Proporcionar instrucciones sobre la coexistencia única de árbol de carpetas públicas, que incluyen:  
   - Preparación de carpetas públicas en Exchange 2007, Exchange 2010 y Exchange 2013. 
-  - Los cmdlets de Windows PowerShell necesitaban sincronizar la jerarquía de carpetas públicas de Exchange 2007, Exchange 2010 y Exchange 2013 con Exchange Online.  
   - La configuración de Exchange Online para redirigir el acceso de las carpetas públicas a las carpetas públicas locales.  
   - Configuración de acceso a las carpetas públicas de Exchange Online a un entorno local único de Exchange 2007, Exchange 2010 o Exchange 2013.  
   - Asistencia en la validación de acceso al entorno de la carpeta pública para hasta 10 usuarios en Exchange Online.

@@ -3,19 +3,19 @@ title: Fases de incorporación y migración
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'La incorporación de Office 365 consta de cuatro fases principales: inicio, evaluación, corrección y habilitación. Puede seguir estas fases con una fase opcional de migración de datos.'
-ms.openlocfilehash: 0d24ac751aa27a05431e5326b7de1cae25e77a2a
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: d40e0733bf0257faa7c5c39195377cd5872652c4
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662969"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40928782"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de incorporación y migración
 

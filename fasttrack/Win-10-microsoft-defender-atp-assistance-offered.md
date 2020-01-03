@@ -3,19 +3,19 @@ title: Asistencia ofrecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al adquirir uno de los servicios de Windows 10 o de Microsoft 365, los especialistas de FastTrack proporcionan instrucciones remotas de implementación para proteger los puntos de conexión. Nuestro servicio se adapta al entorno y a las necesidades de cada cliente.
-ms.openlocfilehash: 16b4eadc6b9b92c025aaf020bbd452bcf7e5fffe
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: d9ac7129a10e59198c5c60e131ae019598a2a4db
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663401"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929190"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 
