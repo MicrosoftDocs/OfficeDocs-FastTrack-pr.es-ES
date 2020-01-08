@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Los especialistas de FastTrack ofrecen instrucciones sobre los pasos para la migración de datos a Office 365. Esto está disponible para todos los clientes aptos con servicios de Office 365 para Exchange Online, OneDrive para la Empresa y SharePoint Online.
-ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 3e7ceca2b222425d3a679bb3dcd0ee94ef76c5b7
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929226"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959204"
 ---
 # <a name="data-migration"></a>Migración de datos
 
@@ -98,7 +98,6 @@ Durante las migraciones, los especialistas de FastTrack realizan las siguientes 
 - Proporcionar una plantilla estándar para la programación de migraciones de buzones.
 - Proporcionar información sobre los permisos necesarios para los especialistas de FastTrack. 
 - Recopilar la programación de migración de buzones de correo predeterminados en el formato predeterminado.
-- Compartir con usted las herramientas previas al lanzamiento para que luego pueda ejecutarlas y corregir los errores previos al lanzamiento antes de migrar los buzones de correo que tienen errores.
 - Intentar realizar la migración de un único buzón hasta dos veces en un lote de migración antes de generar un informe sobre dicho buzón como una migración errónea.
 - Para los entornos de origen basados en Exchange e IMAP4, se puede migrar contenido hasta el 85 % del límite de almacenamiento del buzón de usuario (por ejemplo, si el límite de almacenamiento del buzón es de 50 GB, Microsoft migra hasta el 85 % de 50 GB). 
 - Habilitar la coexistencia de enrutamiento de correo SMTP entre el entorno de mensajería de origen y Office 365 Exchange Online a menos que se esté usando la migración total.
