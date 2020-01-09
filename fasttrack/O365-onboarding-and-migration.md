@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'La incorporación de Office 365 consta de cuatro fases principales: inicio, evaluación, corrección y habilitación. Puede seguir estas fases con una fase opcional de migración de datos.'
-ms.openlocfilehash: d40e0733bf0257faa7c5c39195377cd5872652c4
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 919908648177a45a9544d8980c11344064d4c4bd
+ms.sourcegitcommit: b5a887ad5e592a469476af3716634ec64a1afe4a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928782"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40988441"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de incorporación y migración
 
@@ -139,6 +139,8 @@ Para la ATP de Office 365, proporcionamos instrucciones para:
 - Configurar la automatización, la investigación y la respuesta.
 - Usar el Simulador de ataques.
 - Elaborar informes y análisis de amenazas.
+
+![Diagrama de ATP de Office 365 (incorporación)](media/Office-365-Advanced-Threat-Protector-orange-3.png)
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
