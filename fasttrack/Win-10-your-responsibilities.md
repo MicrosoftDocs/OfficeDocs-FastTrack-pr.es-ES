@@ -3,19 +3,19 @@ title: Sus responsabilidades
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: El usuario tiene las siguientes responsabilidades durante la incorporación a Windows 10.
-ms.openlocfilehash: 5d5950bafecd468870b562578367f37dd57da6fd
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: d2214a280d1cb35cf4149fb0cc9679cca623915e
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929346"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677228"
 ---
 # <a name="your-responsibilities"></a>Sus responsabilidades
 
