@@ -1,0 +1,52 @@
+### YamlMime:Hub
+title: Documentación y recursos de Microsoft FastTrack
+summary: Obtenga información sobre cómo Microsoft FastTrack puede ayudar a los clientes a implementar soluciones en la nube de Microsoft. Los clientes con suscripciones elegibles para Microsoft 365, Azure o Dynamics 365 pueden usar FastTrack sin costo adicional durante la vida de su suscripción.
+brand: m365
+metadata:
+  title: Documentación y recursos de Microsoft FastTrack
+  description: Obtenga información sobre cómo Microsoft FastTrack puede ayudar a los clientes a implementar soluciones en la nube de Microsoft. Los clientes con suscripciones elegibles para Microsoft 365, Azure o Dynamics 365 pueden usar FastTrack sin costo adicional durante la vida de su suscripción.
+  ms.service: microsoft-365-enterprise
+  ms.topic: hub-page
+  audience: ITPro
+  author: samanro
+  ms.author: samanro
+  ms.date: 07/03/2019
+  localization_priority: Priority
+  ms.openlocfilehash: c890da55f729c321c506493ada7be8b11395e0e7
+  ms.sourcegitcommit: cf6fd5a133d007ea395318540471691860c33303
+  ms.translationtype: MT
+  ms.contentlocale: es-ES
+  ms.lasthandoff: 02/11/2020
+  ms.locfileid: "41891775"
+conceptualContent:
+  items:
+  - title: FastTrack para Microsoft 365
+    links:
+    - url: /fasttrack/m365-fasttrack-benefit-overview
+      itemType: overview
+      text: Información general
+    - url: /fasttrack/O365-fasttrack-benefit-for-office-365
+      itemType: concept
+      text: Office 365
+    - url: /enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program
+      itemType: concept
+      text: Enterprise Mobility + Security
+    - url: /fasttrack/win-10-fasttrack-benefit-for-windows-10
+      itemType: concept
+      text: Windows 10
+  - title: FastTrack para Azure
+    links:
+    - url: https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03
+      itemType: overview
+      text: Ventajas clave
+    - url: https://azure.microsoft.com/programs/azure-fasttrack/partners/
+      itemType: concept
+      text: FastTrack para Azure Partners
+  - title: FastTrack para Dynamics 365
+    links:
+    - url: /dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365
+      itemType: overview
+      text: Información general sobre el compromiso del cliente
+    - url: /dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview
+      itemType: concept
+      text: Operaciones de Dynamics para & financieras
