@@ -3,19 +3,19 @@ title: App Assure
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Las ventajas del centro FastTrack para Windows 10 proporcionan acceso a App Assure: un servicio diseñado para solucionar los problemas de compatibilidad con aplicaciones de Office 365 ProPlus y Windows 10.'
-ms.openlocfilehash: e27aa3e882dcd780880eea62c202d9dd2435d02c
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 5ecbbb7ef31b16e266ae4b4a614a424f62fa2007
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677216"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347604"
 ---
 # <a name="app-assure"></a>App Assure
 
