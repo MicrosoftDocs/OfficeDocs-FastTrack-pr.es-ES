@@ -3,19 +3,19 @@ title: Asistencia ofrecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10, los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y Office 365 ProPlus y mantenerse al día sin costo adicional (con una suscripción válida).
-ms.openlocfilehash: 088901d2508acd679e261f3870476f8e21e79cdf
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677204"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347688"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 
@@ -40,7 +40,9 @@ FastTrack ofrece asistencia para las aplicaciones implementadas en los siguiente
 
 - Si sus aplicaciones web o sitios funcionan en Internet Explorer 11, en versiones compatibles de Google Chrome o en cualquier versión de Microsoft Edge, también funcionarán con el nuevo Microsoft Edge.
 
-### <a name="windows-virtual-desktop"></a>Windows Virtual Desktop
+Para obtener instrucciones sobre la implementación de Microsoft Edge, vea [Información general sobre los canales de Microsoft Edge](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels). A medida que la web evoluciona, publicamos una lista de cambios conocidos para [Microsoft Edge que pueden afectar a la compatibilidad del sitio](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes).
+
+### <a name="windows-virtual-desktop"></a>Windows Virtual Desktop
 
 - Las aplicaciones virtualizadas que se ejecutan en el host de sesión de Escritorio remoto (RDSH) de Windows Server también se ejecutan en Windows 10 Enterprise multisesión como parte de Windows Virtual Desktop.
 - Las aplicaciones que se ejecutan en cualquier entorno de infraestructura de escritorio virtual (VDI) de Windows 7 o Windows 10 también se ejecutan en Windows 7 Enterprise y Windows 10 Enterprise como parte de Windows Virtual Desktop.*
@@ -58,7 +60,7 @@ Para obtener más información, vea [¿Qué es Windows Virtual Desktop?](https:/
 
 ## <a name="out-of-scope"></a>Fuera de ámbito
 
-FastTrack no proporciona asistencia para lo siguiente:
+Los servicios de FastTrack no incluyen:
 - Inventario y pruebas de aplicaciones para determinar lo que funciona y lo que no en Windows 10 y Office 365 ProPlus. Para obtener más información sobre este proceso, visite el [Centro de implementación de escritorios](https://go.microsoft.com/fwlink/?linkid=2080140). Si está interesado en una evaluación detallada de la preparación para la actualización, complete el formulario [Solicitud de cliente para la evaluación del escritorio moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Buscar instrucciones de compatibilidad y soporte técnico de Windows 10 en aplicaciones ISV de terceros. Para más información, vea [Análisis de escritorio](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Servicios de solo empaquetado de la aplicación. Sin embargo, el equipo de App Assure crea paquetes de aplicaciones que hemos corregido para Windows 10 para asegurarse de que se pueden implementar en el entorno del cliente.
