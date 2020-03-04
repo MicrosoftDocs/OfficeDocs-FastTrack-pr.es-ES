@@ -3,19 +3,19 @@ title: Fases de incorporación
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'La incorporación de Windows 10 consta de cuatro fases principales: inicio, evaluación, corrección y habilitación.'
-ms.openlocfilehash: f2fb6dea1cd54393fa71e2fc97eae667647893ec
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: e39e2fe56deba31188faf022c69b68ab0a6ab5a0
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677240"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347760"
 ---
 # <a name="onboarding-phases"></a>Fases de incorporación
 
@@ -27,7 +27,7 @@ Durante esta fase, analizaremos el proceso de incorporación, comprobaremos los 
 
 ## <a name="assess"></a>Evaluación
 
-Los especialistas FastTrack trabajan con usted para evaluar el entorno de origen y los requisitos. Asegúrese de que System Center Configuration Manager está actualizado al nivel necesario para admitir la implementación de Windows 10. 
+Los especialistas FastTrack trabajan con usted para evaluar el entorno de origen y los requisitos. Asegúrese de que Microsoft Endpoint Configuration Manager está actualizado al nivel necesario para admitir la implementación de Windows 10. 
 
 Le proporcionamos las opciones recomendadas para evaluar sus aplicaciones de Windows 10. FastTrack ofrece instrucciones para habilitar el uso de Desktop Analytics y lo guiará en la creación de un plan de implementación de Desktop Analytics.
 

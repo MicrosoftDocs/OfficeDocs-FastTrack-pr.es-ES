@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 02f5a1c0c2bbbe2526f0ee0fcea9da844dae1f6a
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 38d4c3c71c9127314f4453238a1b03a7b8945217
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676808"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347508"
 ---
 # <a name="onboarding-phases"></a>Fases de incorporación
 
@@ -32,25 +32,23 @@ La incorporación tiene cuatro fases principales:
 Después de adquirir el número de licencias adecuado, siga las instrucciones que se indican en el correo electrónico de confirmación de compra para asociar las licencias al espacio empresarial existente o nuevo. Luego, Microsoft comprueba que es apto para Ventajas del Centro de FastTrack e intenta ponerse en contacto con usted para ofrecer asistencia para la incorporación.
 
 > [!NOTE]
-> Si está listo para implementar estos servicios en la organización, también puede solicitar ayuda al [Centro de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+> También puede solicitar ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) si está listo para implementar estos servicios en la organización.
 
 ### <a name="to-request-assistance"></a>Solicitar asistencia
 
 1. Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
-2. Seleccione **FastTrack**.
-3. Haga clic en **Servicios**.
-4. Complete el **Formulario de solicitud de asistencia para Microsoft 365**.
+2. Seleccione **Solicitar asistencia para Microsoft 365** en **acciones rápidas**, situado en la parte superior de la página de aterrizaje, o bien seleccione **Solicitar asistencia para Microsoft 365** en la tarjeta de implementación.
+3. Complete el **formulario Solicitar asistencia para Microsoft 365**.
 
 Una vez iniciado el soporte técnico de incorporación, programaremos una serie de reuniones en línea.
 
 Los asociados de Microsoft también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para ello:
 
 1. Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
-2. Seleccione **FastTrack**.
-3. Haga clic en **Mis clientes**.
-4. Busque el cliente o selecciónelo en la lista de clientes.
-5. Haga clic en **Servicios**.
-6. Complete el **Formulario de solicitud de asistencia para Microsoft 365**.
+2. Haga clic en **Mis clientes**.
+3. Busque el cliente o selecciónelo en la lista de clientes.
+4. Haga clic en **Servicios**.
+5. Complete el **formulario Solicitar asistencia para Microsoft 365**.
 
 Una vez iniciado el soporte técnico de incorporación, FastTrack programa reuniones en línea con usted para analizar el proceso de incorporación, comprobar datos y programar una reunión de lanzamiento.
 
@@ -123,6 +121,10 @@ La configuración de Azure AD Premium incluye habilitar las características sig
 
 -   Revisiones de acceso de Azure Active Directory.
 
+-   Protección con contraseña de Azure Active Directory.
+
+-   Azure Active Directory B2B.
+
 ![Fase de habilitación de incorporación: Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
 ### <a name="enable-phase---intune"></a>Fase de habilitación: Intune
@@ -162,7 +164,7 @@ Para Intune, le guiaremos a través de la preparación para administrar disposit
 
             -   Solución de administración de gastos de telecomunicaciones (se requiere una suscripción a la solución de administración de gastos de telecomunicaciones).
 
-            -   Protección contra amenazas avanzada de Windows Defender (se requieren licencias de Windows E5 o de Microsoft 365 E5).
+            -   Protección contra amenazas avanzada de Microsoft Defender (se requieren licencias de Windows E5 o de Microsoft 365 E5).
 
     -   Inscribir dispositivos de cada [plataforma compatible](https://technet.microsoft.com/library/dn600287.aspx) en Intune.
 
@@ -242,7 +244,7 @@ FastTrack le guiará a través de la preparación para administrar simultáneame
 
 - Agregar usuarios a su suscripción de Intune, definir roles de administrador de TI y crear grupos de usuarios y dispositivos.
 
-- Proporcionar instrucciones sobre cómo moverse de Intune integrado con System Center Configuration Manager (híbrido) a la versión independiente de Intune.
+- Proporcionar instrucciones sobre cómo migrar de Intune integrado con Microsoft Endpoint Configuration Manager a la versión independiente de Intune.
 
 - Proporcionar instrucciones sobre cómo configurar Azure Active Directory para la inscripción automática de MDM.
 

@@ -3,18 +3,18 @@ title: Apéndice B Beneficio adicional del Centro de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Los clientes que compren al menos 20 000 licencias para un espacio empresarial de Exchange Online son elegibles para los servicios adicionales del Centro de FastTrack. Para más información, vea Servicios y planes elegibles.
-ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676652"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347616"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Apéndice B: Ventaja adicional del Centro de FastTrack
 
@@ -43,7 +43,7 @@ Para Skype Empresarial Online, proporcionamos instrucciones para la migración d
 Para Office 365 ProPlus, proporcionamos instrucciones para las siguientes opciones: 
 - Evaluación y planeación centradas en la preparación del entorno para la implementación inicial y la administración de actualizaciones de acuerdo con los procedimientos recomendados de Microsoft. 
 - Desarrollo de configuraciones de implementación y de actualización mediante la Herramienta de implementación de Office 365 y la Herramienta de personalización de Office. 
-- Empaquetado de implementación mediante el Administrador de configuración de System Center.  
+- Empaquetado de implementación con Microsoft Endpoint Configuration Manager  
 - Habilitar el uso del Kit de herramientas de preparación para Office para identificar posibles problemas de compatibilidad con las macros de Microsoft Visual Basics for Applications (VBA) y los complementos instalados que se usan junto con Office.
     
 ## <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack

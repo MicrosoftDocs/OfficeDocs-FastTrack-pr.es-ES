@@ -3,19 +3,19 @@ title: Proceso de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'El proceso de FastTrack presta servicios relacionados con la incorporación y aceptación por parte de los usuarios. '
-ms.openlocfilehash: a1c67af6c9bb19c967afcd32ba46ebc550068fd7
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677084"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347664"
 ---
 # <a name="the-fasttrack-process"></a>Proceso de FastTrack
 
@@ -43,7 +43,7 @@ Para obtener ayuda en el [Centro de administración de Office 365](https://go.mi
 
 Para obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Haga clic en **Servicios**.
+2.  Seleccione **Solicitar asistencia para Microsoft 365** en **acciones rápidas**, situado en la parte superior de la página de aterrizaje, o bien seleccione **Solicitar asistencia para Microsoft 365** en la tarjeta de implementación.
 3.  Complete el formulario **Solicitar asistencia para Microsoft 365**. 
   
  También puede solicitar ayuda del Centro FastTrack en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en la lista de servicios disponibles para su espacio empresarial. 

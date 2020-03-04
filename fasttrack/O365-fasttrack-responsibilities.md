@@ -3,19 +3,19 @@ title: Responsabilidades de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: c8bbd015252265f7742c071b04c79e3b9d2c884c
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677108"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347772"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
@@ -152,7 +152,7 @@ Proporcionar orientación acerca de:
 - Configurar las opciones de actualización mediante la Herramienta de implementación de Office 365.
 - Seleccionar y configurar una instalación local o en la nube.
 - Crear la configuración XML de la Herramienta de implementación de Office con la Herramienta de personalización de Office o XML nativo para configurar el paquete de implementación.
-- Implementar con System Center Configuration Manager, incluye la ayuda al crear el empaquetado de System Center Configuration Manager.
+- Implementar mediante Microsoft Endpoint Configuration Manager, incluida la ayuda con la creación del empaquetado de Microsoft Endpoint Configuration Manager.
     
 ## <a name="onedrive-for-business"></a>OneDrive para la Empresa
 
