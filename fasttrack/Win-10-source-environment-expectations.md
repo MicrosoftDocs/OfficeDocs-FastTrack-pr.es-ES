@@ -3,36 +3,36 @@ title: Expectativas del entorno de origen
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Las Ventajas del Centro FastTrack ofrecen una guía para configurar niveles de integración con el entorno de origen para la implementación de Windows 10.
-ms.openlocfilehash: 69f384261192a72775e4975b126f68ab7c19a942
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 6aa9b600ac68286cc788995f155f8c5ec63a84ad
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677318"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347640"
 ---
-# <a name="source-environment-expectations"></a><span data-ttu-id="56579-103">Expectativas del entorno de origen</span><span class="sxs-lookup"><span data-stu-id="56579-103">Source Environment Expectations</span></span>
+# <a name="source-environment-expectations"></a><span data-ttu-id="d92b2-103">Expectativas del entorno de origen</span><span class="sxs-lookup"><span data-stu-id="d92b2-103">Source Environment Expectations</span></span>
 
-<span data-ttu-id="56579-104">Las Ventajas del Centro FastTrack ofrecen una guía para configurar niveles de integración con el entorno de origen.</span><span class="sxs-lookup"><span data-stu-id="56579-104">The FastTrack Center Benefit provides guidance for you to set up levels of integration with your source environment.</span></span>
+<span data-ttu-id="d92b2-104">Las Ventajas del Centro FastTrack ofrecen una guía para configurar niveles de integración con el entorno de origen.</span><span class="sxs-lookup"><span data-stu-id="d92b2-104">The FastTrack Center Benefit provides guidance for you to set up levels of integration with your source environment.</span></span>
   
-<span data-ttu-id="56579-105">Para actualizar su PC, debe cumplir con estos requisitos:</span><span class="sxs-lookup"><span data-stu-id="56579-105">For PC upgrade, you must meet these requirements:</span></span>
+<span data-ttu-id="d92b2-105">Para actualizar su PC, debe cumplir con estos requisitos:</span><span class="sxs-lookup"><span data-stu-id="d92b2-105">For PC upgrade, you must meet these requirements:</span></span>
 
-- <span data-ttu-id="56579-106">SO de origen: Windows 7 Enterprise o Professional, Windows 8,1 Enterprise o Professional</span><span class="sxs-lookup"><span data-stu-id="56579-106">Source OS: Windows 7 Enterprise or Professional, Windows 8.1 Enterprise or Professional</span></span>
-- <span data-ttu-id="56579-107">Dispositivos: factor de forma de escritorio, portátil o tableta</span><span class="sxs-lookup"><span data-stu-id="56579-107">Devices: Desktop, notebook, or tablet form factor</span></span>
-- <span data-ttu-id="56579-108">SO de destino: Windows 10 Enterprise</span><span class="sxs-lookup"><span data-stu-id="56579-108">Target OS: Window 10 Enterprise</span></span>
+- <span data-ttu-id="d92b2-106">SO de origen: Windows 7 Enterprise o Professional, Windows 8,1 Enterprise o Professional</span><span class="sxs-lookup"><span data-stu-id="d92b2-106">Source OS: Windows 7 Enterprise or Professional, Windows 8.1 Enterprise or Professional</span></span>
+- <span data-ttu-id="d92b2-107">Dispositivos: factor de forma de escritorio, portátil o tableta</span><span class="sxs-lookup"><span data-stu-id="d92b2-107">Devices: Desktop, notebook, or tablet form factor</span></span>
+- <span data-ttu-id="d92b2-108">SO de destino: Windows 10 Enterprise</span><span class="sxs-lookup"><span data-stu-id="d92b2-108">Target OS: Window 10 Enterprise</span></span>
 
-<span data-ttu-id="56579-109">Para actualizar la infraestructura, debe cumplir con estos requisitos:</span><span class="sxs-lookup"><span data-stu-id="56579-109">For infrastructure upgrade, you must meet these requirements:</span></span>   
+<span data-ttu-id="d92b2-109">Para actualizar la infraestructura, debe cumplir con estos requisitos:</span><span class="sxs-lookup"><span data-stu-id="d92b2-109">For infrastructure upgrade, you must meet these requirements:</span></span>   
 
-- <span data-ttu-id="56579-110">System Center Configuration Manager (rama actual) versión 1902 o superior</span><span class="sxs-lookup"><span data-stu-id="56579-110">System Center Configuration Manager (Current Branch) version 1902 onward</span></span> 
-- <span data-ttu-id="56579-111">La versión de destino de Windows 10 debe admitir la versión de Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="56579-111">The Configuration Manager version must be supported by the Windows 10 target version</span></span>
+- <span data-ttu-id="d92b2-110">Microsoft Endpoint Configuration Manager</span><span class="sxs-lookup"><span data-stu-id="d92b2-110">Microsoft Endpoint Configuration Manager</span></span>  
+- <span data-ttu-id="d92b2-111">La versión de destino de Windows 10 debe admitir la versión de Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="d92b2-111">The Configuration Manager version must be supported by the Windows 10 target version</span></span>
 
-<span data-ttu-id="56579-112">Para obtener más información, vea la tabla de soporte técnico de Configuration Manager en [Soporte para Windows 10 en Configuration Manager](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).</span><span class="sxs-lookup"><span data-stu-id="56579-112">For more information, see the Configuration Manager support table at [Support for Windows 10 in Configuration Manager](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).</span></span>
+<span data-ttu-id="d92b2-112">Para obtener más información, vea la tabla de soporte técnico de Configuration Manager en [Soporte para Windows 10 en Configuration Manager](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).</span><span class="sxs-lookup"><span data-stu-id="d92b2-112">For more information, see the Configuration Manager support table at [Support for Windows 10 in Configuration Manager](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).</span></span>
   
 
  
