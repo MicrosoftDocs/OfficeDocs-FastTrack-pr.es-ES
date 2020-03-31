@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: El usuario tiene las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 9ef9df9c1430c73b8c8f9f93108555b16215bc0b
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 68023823f4bbc18618b922fd455f2f53834dcefc
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347628"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052637"
 ---
 # <a name="your-responsibilities"></a>Sus responsabilidades
 
@@ -102,4 +102,3 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.\*
     
 \*Para obtener información sobre sus responsabilidades con Office 365 Administración Pública, vea [Sus responsabilidades con Office 365 Administración Pública](US-Gov-appendix-your-responsibilities.md).
   
-

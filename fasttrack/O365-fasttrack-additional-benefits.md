@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Los clientes que compren al menos 20 000 licencias para un espacio empresarial de Exchange Online son elegibles para los servicios adicionales del Centro de FastTrack. Para más información, vea Servicios y planes elegibles.
-ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 2cb4a8e5ba7378b96833c89da88db963e271552b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347616"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052565"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Apéndice B: Ventaja adicional del Centro de FastTrack
 
@@ -143,7 +143,3 @@ El usuario tiene las siguientes responsabilidades durante la incorporación. Est
 - Asignar un líder o patrocinador operativo con autoridad para tomar decisiones para dirigir el comité directivo.  
 - Asignar un patrocinador ejecutivo para trabajar con el patrocinador ejecutivo de Microsoft.  
 - Establecer una reunión mensual del comité directivo.
-    
-
-  
-
