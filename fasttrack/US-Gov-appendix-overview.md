@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Con el beneficio del centro FastTrack para Office 365, trabaja de forma remota con los especialistas de FastTrack para obtener el entorno de Office 365 listo para su uso y planear la implementación y el uso en la organización.
-ms.openlocfilehash: a26f01aa7c12444c5e64ce1618e53360d9fbc5ff
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: fa44502e2697cd18e2e2e3c56d8c1f629ed60afc
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347376"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052817"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Apéndice D: Información general de las Ventajas del Centro de FastTrack para Office 365 Administración pública de EE. UU.
 
@@ -34,5 +34,3 @@ Tratamos los siguientes temas:
 - [Sus responsabilidades para Office 365 US Government](US-Gov-appendix-your-responsibilities.md) 
 - [Apéndice A: Migración de IBM Domino a Exchange Online](O365-from-ibm-domino-to-exchange-online.md)   
 - [Apéndice B: Beneficio adicional del Centro de FastTrack](O365-fasttrack-additional-benefits.md)
-
-

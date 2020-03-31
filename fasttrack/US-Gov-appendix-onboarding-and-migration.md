@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'La incorporación de Office 365 para Office 365 el gobierno de Estados Unidos tiene cuatro fases principales: Inicio, evaluación, corrección y habilitación. Puede seguir estas fases de una fase opcional de migración de datos, como se muestra en la figura siguiente.'
-ms.openlocfilehash: eac974f67137a327b873b911a8c9906859fd3597
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 73c2647a6b1c34d2396d19bedecb7ca1768aba6f
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347532"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052997"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de incorporación y migración de Office 365 US Government
 
@@ -34,18 +34,18 @@ Puede obtener ayuda a través del [Centro de administración de Office 365](http
 Para obtener ayuda en el [Centro de administración de Office 365](https://go.microsoft.com/fwlink/?linkid=2032704), el administrador necesita iniciar sesión y, después, hacer clic en el widget **¿Necesita ayuda?**. 
 
 Para obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Seleccione **solicitar asistencia para Microsoft 365** de las **acciones rápidas** en la parte superior de la página de aterrizaje o seleccionando **solicitar asistencia para Microsoft 365** en la tarjeta de implementación.
-3. Complete el formulario **solicitar asistencia para Microsoft 365** . 
+1.    Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Seleccione **solicitar asistencia para Microsoft 365** de las **acciones rápidas** en la parte superior de la página de aterrizaje o seleccionando **solicitar asistencia para Microsoft 365** en la tarjeta de implementación.
+3. Complete el formulario **Solicitar asistencia para Microsoft 365**. 
 
 Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para hacerlo:
-1.  Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Haga clic en **Mis clientes**.
-3.  Busque el cliente o selecciónelo en la lista de clientes.
-4.  Haga clic en **Servicios**.
-5.  Complete el formulario **solicitar asistencia para Microsoft 365** .   
+1.    Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Haga clic en **Mis clientes**.
+3.    Busque el cliente o selecciónelo en la lista de clientes.
+4.    Haga clic en **Servicios**.
+5.    Complete el formulario **Solicitar asistencia para Microsoft 365**.   
 
-También puede solicitar ayuda del Centro FastTrack en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en la lista de servicios disponibles para su cuenta empresarial. 
+También puede solicitar ayuda del Centro FastTrack en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en la lista de servicios disponibles para su espacio empresarial. 
     
 Durante esta fase, analizaremos el proceso de incorporación, comprobaremos los datos y estableceremos una reunión inicial.
   
@@ -57,7 +57,7 @@ Esto incluye trabajar con usted para comprender cómo quiere usar el servicio y 
 
 El administrador de FastTrack realiza con usted y con su equipo de adopción una llamada interactiva del plan de éxito. De este modo, tiene acceso a las funciones de los servicios pertinentes que adquirió, los puntos clave que necesita para lograr el éxito, la metodología para impulsar el uso del servicio y los escenarios que puede usar para aprovechar los servicios. Le ofrecemos asistencia para que diseñe un plan de éxito y le enviamos comentarios sobre las áreas fundamentales (según sea necesario).
   
-Los especialistas FastTrack trabajan con usted para evaluar el entorno de origen y los requisitos. Le proporcionamos herramientas para recopilar datos sobre su entorno y guiarle a través de la estimación de los requisitos de ancho de banda y la evaluación de los exploradores de Internet, los sistemas operativos de cliente, el sistema de nombres de dominio (DNS), la red, la infraestructura y el sistema de identidad para Determine si es necesario realizar cambios para la incorporación. 
+Los especialistas FastTrack trabajan con usted para evaluar el entorno de origen y los requisitos. Proporcionamos herramientas para recopilar datos sobre su entorno y guiarle a través de la estimación de los requisitos de ancho de banda y la evaluación de los exploradores de Internet, los sistemas operativos de cliente, el sistema de nombres de dominio (DNS), la red, la infraestructura y el sistema de identidad para determinar si es necesario realizar cambios para la incorporación. 
   
 Según la configuración actual, le ofrecemos un plan de corrección que lleva el entorno de origen a los requisitos mínimos para efectuar una incorporación correcta a Office 365 y, en caso necesario, para llevar a cabo una migración correcta del buzón de correo o de los datos. Le proporcionamos una serie de actividades sugeridas para aumentar el valor y la aceptación por parte de los usuarios finales. Asimismo, configuramos llamadas al punto de control para la fase de corrección.
   
@@ -184,11 +184,6 @@ En cuanto a Office 365 ProPlus, se ofrecen instrucciones para:
 - Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en sus dispositivos de iOS, Android, o Windows Mobile.   
 - Configurar las opciones de actualización mediante la Herramienta de implementación de Office 365.    
 - Configurar un servidor de distribución in situ único para Office 365 ProPlus, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office 365.    
-- Implementación con el administrador de configuración de Microsoft Endpoint, incluida la ayuda con la creación del empaquetado del administrador de configuración de Microsoft Endpoint.
+- Implementar mediante Microsoft Endpoint Configuration Manager, incluida la ayuda con la creación del empaquetado de Microsoft Endpoint Configuration Manager.
     
 ![Pasos de la incorporación de Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
-
-  
-
-  
-
