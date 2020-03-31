@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 4a4af4ed65ac5a0d8f2e6de8e9059b25213c8ba3
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 5e72a53a95ff0417dc78284a1d59d3edd4265de5
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347448"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052397"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Información general sobre las ventajas del Centro de FastTrack
 
@@ -57,3 +57,4 @@ El personal asignado de FastTrack proporciona todas las instrucciones de incorpo
 ## <a name="next-steps"></a>Pasos siguientes
 
 [Ventajas del Centro de FastTrack para EMS: expectativas del entorno de origen](EMS-source-environment-expectations.md)
+
