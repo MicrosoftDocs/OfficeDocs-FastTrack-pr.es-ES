@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 37fd12c6fd2b9fa09c27954f9119ad864983e691
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 72817a8fca704e480dd2e2b33287890b5e6450ea
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347472"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052337"
 ---
 # <a name="source-environment-expectations"></a>Expectativas del entorno de origen
 
@@ -34,7 +34,7 @@ En la siguiente tabla se muestran las expectativas del entorno de origen existen
 |Incorporación principal|Bosques de Active Directory con el nivel funcional de bosque establecido como Windows Server 2008 o superior, con la configuración del bosque siguiente:<br /><br />- Un solo bosque de Active Directory<br />- Varios bosques de Active Directory </br></br>**Nota**: para todas las opciones de configuración de varios bosques, la implementación de los Servicios de federación de Active Directory (AD FS) está fuera del ámbito de las ventajas del Centro de FastTrack.|
 |Incorporación de Azure AD Premium|Active Directory local y su entorno se han preparado para Azure AD Premium que incluye la corrección de problemas identificados que impiden la integración con las características de Azure AD y Azure AD Premium.|
 |Incorporación de Intune| Los administradores de TI deben disponer de infraestructuras de VPN, WiFi o una entidad de certificación que ya funcionan en sus entornos de producción al planear la implementación de perfiles WiFi y VPN con Intune.<br /><br /> **Nota**: la ventaja del servicio no incluye la asistencia para configurar entidades de certificación, WiFi, infraestructuras de VPN o certificados de inserción MDM de Apple para  |
-|Administración conjunta|Con la administración conjunta, los administradores de TI son responsables de la preparación del entorno local, lo que podría incluir la corrección de problemas que impiden la administración simultánea de dispositivos con Windows 10 mediante Configuration Manager e Intune.<br /><br />**Nota**: las ventajas del servicio de FastTrack no incluyen asistencia para configurar o actualizar el servidor de sitio de Configuration Manager o el cliente de Configuration Manager con los requisitos mínimos necesarios para admitir la administración conjunta en dispositivos con Windows 10. |
+|Conectar a la nube Configuration Manager con Microsoft Intune|Con la conexión a la nube, los administradores de TI son responsables de la preparación del entorno local, lo que podría incluir la corrección de problemas que impiden que se conecten a la nube sus entornos de Configuration Manager con Intune.<br /><br />**Nota**: las ventajas del servicio de FastTrack no incluyen asistencia para configurar o actualizar el servidor de sitio de Configuration Manager ni el cliente de Configuration Manager con los requisitos mínimos necesarios para admitir la conexión a la nube. |
 |Intune integrado con la Protección contra amenazas avanzada de Microsoft Defender (ATP)|**Nota**: las ventajas del servicio de FastTrack ofrecen asistencia para la integración de Intune con la ATP de Microsoft Defender y la creación de directivas de cumplimiento de dispositivos en función de la evaluación de nivel de riesgo de Windows 10. Las ventajas del servicio no ofrecen asistencia para la compra, la concesión de licencias o la activación. |
 |Windows Autopilot|Los administradores de TI son responsables del registro de sus dispositivos en la organización, haciendo que el proveedor de hardware cargue sus id. de hardware en su nombre o cargándolos ellos mismos en el servicio de Windows Autopilot. |
 |Implementar Outlook para iOS y Android de forma segura con Intune|<br /><br />- Identidades de usuario habilitadas en Azure AD para Office 365.<br />- Exchange Online o Exchange híbrido configurado con las licencias de usuario asignadas.<br />|
@@ -48,3 +48,4 @@ En la siguiente tabla se muestran las expectativas del entorno de origen existen
 ## <a name="next-steps"></a>Pasos siguientes
 
 [Fases de incorporación de las ventajas del Centro de FastTrack para EMS](EMS-onboarding-phases.md)
+

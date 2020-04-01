@@ -11,12 +11,12 @@ ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 7a441fcd3020e2d9194a72fd8d6f8c39c2cb7894
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637396"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052349"
 ---
 # <a name="onboarding-phases"></a>Fases de incorporación
 
@@ -232,33 +232,29 @@ Los pasos para implementar Outlook Mobile para iOS y Android con Intune de forma
     > [!IMPORTANT]
     > El equipo de FastTrack no es compatible con la protección de Outlook para iOS y Android con directivas de buzón de correo para dispositivos móviles de Exchange.
 
-#### <a name="co-management"></a>Administración conjunta
+#### <a name="cloud-attach"></a>Conexión a la nube
 
-FastTrack le guiará a través de la preparación para administrar simultáneamente dispositivos con Windows 10 con Configuration Manager e Intune. Los pasos detallados dependen del entorno de origen y pueden incluir:
+FastTrack le guiará por la preparación para conectar a la nube entornos de Configuration Manager existentes con Intune. Los pasos detallados dependen del entorno de origen. Los pasos pueden incluir:
 
-- Explicar las ventajas de la administración conjunta.
+- Explicar las ventajas de conectar Configuration Manager a la nube con Intune.
 
 - Conceder licencias a los usuarios finales. FastTrack también proporciona asistencia sobre cómo se activan las licencias por volumen para el espacio empresarial de servicio en la nube de Microsoft (según sea necesario).
 
-- Configurar las identidades que se usarán en Intune al usar las identidades de la nube o Active Directory local.
+- Configurar las identidades que se van a usar en Intune, al usar las identidades de la nube y Active Directory local.
 
 - Agregar usuarios a su suscripción de Intune, definir roles de administrador de TI y crear grupos de usuarios y dispositivos.
 
-- Proporcionar instrucciones sobre cómo migrar de Intune integrado con Microsoft Endpoint Configuration Manager a la versión independiente de Intune.
-
-- Proporcionar instrucciones sobre cómo configurar Azure Active Directory para la inscripción automática de MDM.
+- Habilitar la conexión a la nube en la consola de Configuration Manager.
 
 - Proporcionar instrucciones sobre cómo configurar la combinación híbrida de Azure Active Directory.
 
-- Proporcionar instrucciones sobre cómo configurar Cloud Management Gateway.
+- Proporcionar instrucciones sobre cómo configurar Azure Active Directory para la inscripción automática de MDM.
 
-- Habilitar la administración conjunta en la consola de Configuration Manager.
+- Proporcionar instrucciones sobre cómo configurar Cloud Management Gateway.
 
 - Configurar cargas de trabajo compatibles que quiera cambiar a Intune.
 
 - Instalar el cliente de Configuration Manager en dispositivos inscritos en Intune.
-
-- Proporcionar instrucciones sobre cómo se supervisa la actividad de administración conjunta de su entorno.
 
 FastTrack también proporciona información sobre cómo impulsar la adopción correcta de los servicios pertinentes.
 
@@ -266,7 +262,7 @@ FastTrack también proporciona información sobre cómo impulsar la adopción co
 
 ![Fase de habilitación de incorporación: Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![Fase de habilitación: administración conjunta](./media/ft-9-enable-phase-comanagement.png) 
+![Fase de habilitación: conectar a la nube](./media/cloud-attach-diagram.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>Fase de habilitación: Azure Information Protection
 
@@ -287,3 +283,4 @@ También se proporcionan instrucciones para los clientes que quieran aplicar la 
 ## <a name="next-steps"></a>Siguientes pasos
 
 [Ventajas de FastTrack para EMS: responsabilidades de Microsoft](EMS-fasttrack-responsibilities.md)
+
