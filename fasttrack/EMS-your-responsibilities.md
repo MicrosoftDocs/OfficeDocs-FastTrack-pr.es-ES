@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: bec4a709c6728803b383db40f53fc84826fa6b55
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347484"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052547"
 ---
 # <a name="your-responsibilities"></a>Sus responsabilidades
 
@@ -63,9 +63,9 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
 
 -   Proporcionar y configurar los certificados de Capa de sockets seguros (SSL) públicos.
 
--   Configurar o actualizar Configuration Manager con los requisitos mínimos para la integración de Microsoft Intune con Configuration Manager.
+-     Configurar o actualizar Configuration Manager con los requisitos mínimos para la integración de Microsoft Intune con Configuration Manager.
 
--   Si es necesario para implementar perfiles de Wi-Fi y VPN con Intune, proporcionar y configurar las infraestructuras de entidad de certificación, Wi-Fi y VPN necesarias.
+-     Si es necesario para implementar perfiles de Wi-Fi y VPN con Intune, proporcionar y configurar las infraestructuras de entidad de certificación, Wi-Fi y VPN necesarias.
 
 -   Escribir la declaración de Condiciones de uso (TOU) de la organización para configurarlas y mostrarlas en el portal de empresa de Microsoft Intune al que los usuarios finales puedan acceder.
 
@@ -127,5 +127,6 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
 ## <a name="see-also"></a>Vea también
 
 - [Ventaja de FastTrack para EMS](EMS-fasttrack-benefit-for-EMS.md)
+
 - [Ventaja de FastTrack para Office 365](O365-fasttrack-benefit-for-office-365.md)
 

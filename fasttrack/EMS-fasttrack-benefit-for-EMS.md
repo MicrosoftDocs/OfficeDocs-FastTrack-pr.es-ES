@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2a81deb376f9d25a9d998c7ba49ae9a26205d94d
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9788df4d240397f1373849d3e4a740a5b58d4cae
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347796"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052301"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>Ventajas del Centro de FastTrack para Enterprise Mobility + Security (EMS)
 
@@ -30,7 +30,7 @@ Puede usar las ventajas del Centro de FastTrack para Enterprise Mobility + Secur
 
 - Para obtener más información sobre los servicios y planes pertinentes, vea [Servicios y planes pertinentes](M365-eligible-services-and-plans.md).
 
-- Para obtener información sobre el proceso del Centro de FastTrack y los que están a cargo, vea [Proceso de ventajas del Centro de FastTrack para Enterprise Mobility + Security](EMS-fasttrack-process.md).
+- Para obtener información sobre el proceso del Centro de FastTrack y sus responsables, vea [Proceso de ventajas del Centro de FastTrack para Enterprise Mobility + Security](EMS-fasttrack-process.md).
 
     > [!TIP]
     > Si quiere descargar un archivo .zip que contenga **guías paso a paso** de Enterprise Mobility + Security y mensajes de correo electrónico que se pueden personalizar con el logotipo de su organización para promover la adopción de EMS en la misma, vea [Guías paso a paso de FastTrack para EMS y mensajes de correo electrónico para personalizar](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c).
@@ -38,5 +38,4 @@ Puede usar las ventajas del Centro de FastTrack para Enterprise Mobility + Secur
 ## <a name="next-steps"></a>Pasos siguientes
 
 [Planes y servicios pertinentes de las ventajas del Centro de FastTrack para EMS](M365-eligible-services-and-plans.md)
-
 
