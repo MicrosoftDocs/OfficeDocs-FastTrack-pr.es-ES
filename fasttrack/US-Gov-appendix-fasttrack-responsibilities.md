@@ -3,19 +3,19 @@ title: Responsabilidades de FastTrack para Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 03718f62f7ce28d9e3cbd2b586b64bc26b93e614
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 2a39c7fb74d0b8d9e369a0b61a7a97b892aa9e7a
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052793"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098258"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades de FastTrack para Office 365 US Government
 
@@ -36,7 +36,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
 
 - Mantener una llamada sobre la correcta planificación para ayudar a mejorar para la aceptación por parte de los usuarios.  
 - Proporcionar información general administrativa.  
-- Proporcionar orientación acerca de: 
+- Proporcionar instrucciones acerca de: 
   - Necesidades de sistema de nombres de dominio (DNS), red e infraestructura.  
   - Necesidades del cliente (explorador de Internet, sistema operativo de cliente, dispositivo móvil y necesidades de servicios).
   - Identidad y aprovisionamiento de usuarios. 
@@ -69,7 +69,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
     
 ## <a name="enable-phase"></a>Fase de habilitación
 
-Proporcionar orientación acerca de: 
+Proporcionar instrucciones acerca de: 
 - Evaluar el progreso del éxito de la planeación y averiguar si necesita más ayuda.    
 - Activar el espacio empresarial de Office 365.
 - Configurar los protocolos TCP/IP y puertos del firewall.   
@@ -95,7 +95,7 @@ Proporcionar orientación acerca de:
     
 ## <a name="exchange-online"></a>Exchange Online
 
-Proporcionar orientación acerca de: 
+Proporcionar instrucciones acerca de: 
 - Crear o actualizar los registros DNS.    
 - Habilitar el enrutamiento de correo electrónico entre el sistema de mensajería de origen y los entornos de Office 365.    
 - Configurar las características de Protección de Exchange Online (incluidas las características de Protección contra amenazas avanzada de Exchange Online si están disponibles en su suscripción) y comprobar que los registros MX se refieren a Office 365 para todos los dominios habilitados para correo que se han validado.   
@@ -106,7 +106,7 @@ Para obtener más información sobre las responsabilidades relativas a la migrac
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones acerca de:
 - Configurar el aprovisionamiento de usuarios, incluidas las licencias.   
 - Habilitar la creación de sitios para el administrador de SharePoint Online.   
 - Planificar las colecciones de sitios.   
@@ -139,7 +139,7 @@ Proporcionar orientación acerca de:
     
 ## <a name="skype-for-business-online"></a>Skype Empresarial Online
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones acerca de:
 - Aprovisionar identidades de Skype Empresarial para Office 365.   
 - Habilitar conferencias en línea, mensajería instantánea (MI) y características de presencia de Office 365.  
 - Creación de cuentas para asociar a los dispositivos de sistema de salas de reuniones compatibles (hasta 10 cuentas).    
@@ -158,7 +158,7 @@ Proporcionar orientación acerca de:
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones acerca de:
 - Confirmación de requisitos mínimos.   
 - Configuración de puertos del firewall.  
 - Configuración de DNS.  

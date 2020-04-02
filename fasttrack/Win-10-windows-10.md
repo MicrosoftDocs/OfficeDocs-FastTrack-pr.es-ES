@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack proporciona instrucciones de implementación para Windows 10 para ayudarle a actualizar de Windows 7 Professional y Windows 8,1 Professional a Windows 10 Enterprise.
-ms.openlocfilehash: 71abbc8958e462bef41aae4bbf9bdda9503ed50e
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: d9f2ea820828f91e6eb0ddc22e37c7f98dd8f71d
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052517"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098366"
 ---
 # <a name="windows-10"></a>Windows 10
 
