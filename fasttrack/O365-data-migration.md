@@ -3,19 +3,19 @@ title: Migración de datos
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Los especialistas de FastTrack ofrecen instrucciones sobre los pasos para la migración de datos a Office 365. Esto está disponible para todos los clientes aptos con servicios de Office 365 para Exchange Online, OneDrive para la Empresa y SharePoint Online.
-ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: d7fdf8a6f751e2443449c8ef29e33df2978695a5
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052577"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098142"
 ---
 # <a name="data-migration"></a>Migración de datos
 
@@ -50,12 +50,11 @@ En la siguiente tabla se describe lo que se espera para la migración en el ento
 |**Migración de OneDrive para la Empresa**  <br/> | Recursos compartidos de archivos (recursos compartidos de archivos de SMB en dispositivos compatibles a partir de SMB 2.0).  <br/>  Un solo entorno de G Suite (solo Google Drive).  <br/>  Box (Starter, Business, Enterprise). <br/> <br/> **Nota** *FastTrack solo migra a unidades de disco de Office 365 activas.*|
    
 ## <a name="migration-to-exchange-online"></a>Migración a Exchange Online
-
+''
 ### <a name="enable-to-migrate"></a>Habilitar la migración
   
 Si usa Microsoft para migrar su correo electrónico, le proporcionaremos ayuda para habilitar Exchange Online y el entorno de origen para la migración. Según el origen, podemos llevar a cabo varios pasos de habilitación. Proporcionamos ayuda mediante el uso de una combinación de herramientas y documentación y realizando tareas de configuración donde sea pertinente y viable. Según los parámetros aplicables, migramos los buzones, los trabajos de monitor y proporcionamos informes de estado.
-  
-Puede que Microsoft requiera el acceso y los permisos adecuados en su sistema de correo con el fin de realizar actividades de migración.
+'' Puede que Microsoft requiera el acceso y los permisos adecuados en su sistema de correo con el fin de realizar actividades de migración.
   
 ### <a name="migration-policy-and-steps"></a>Pasos y directiva de migración
   
@@ -225,7 +224,7 @@ Durante las migraciones, el usuario realiza las siguientes operaciones:
 - Planear e implementar la administración de cambios y las comunicaciones del usuario final (si es el caso).   
 - Administrar y configurar los cambios en el sistema de origen y los dispositivos necesarios para la correcta finalización de las actividades de evaluación y migración.
 - Proporcionar una programación en un método definido y una lista de datos de usuario específicos para migrar en cada evento de migración con al menos 3 días de antelación.
-- Quitar los datos de usuarios de la programación hasta 24 horas antes del lote de migración. Esto debe corresponderse con el lote de migración final.
+- Quitar los datos de usuario de la programación hasta 24 horas antes del lote de migración. Esto debe corresponderse con el lote de migración final.
 > [!NOTE]
 > Microsoft no garantiza la velocidad de la migración de archivos.
     

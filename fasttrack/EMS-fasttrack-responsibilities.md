@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: b87d85269cde92e90dd127bfa717d16ed9036484
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052265"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097722"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
@@ -267,19 +267,19 @@ Proporcionar instrucciones sobre :
 
 -   Agregar usuarios a su suscripción de Intune, definir roles de administrador de TI y crear grupos de usuarios y dispositivos.
 
--   Preparar el servicio Intune para la administración de dispositivos:
+-   Preparar el servicio Intune para la administración de dispositivos.
 
-    -   Establecer la entidad de administración de dispositivos móviles (MDM) en Intune.
+-   Establecer la entidad de administración de dispositivos móviles (MDM) en Intune.
 
-    -   Configurar los grupos de pruebas que se usarán para validar las directivas de administración de MDM.
+-   Configurar los grupos de pruebas que se usarán para validar las directivas de administración de MDM.
 
-    -   Navegar por el portal de administración de Intune para localizar información sobre usuarios y dispositivos.
+-   Navegar por el portal de administración de Intune para localizar información sobre usuarios y dispositivos.
 
-    -   Configurar los roles de Intune (operador de soporte técnico, administradores, etc.)
+-   Configurar los roles de Intune (operador de soporte técnico, administradores, etc.)
 
-    -   Inscribir dispositivos Windows 10 en Intune.
+-   Inscribir dispositivos Windows 10 en Intune.
 
-    -   Cambiar las cargas de trabajo para la administración de Intune según se prefiera.
+-   Cambiar las cargas de trabajo para la administración de Intune según se prefiera.
 
 ### <a name="enable-phase--azure-information-protection"></a>Fase de habilitación: Azure Information Protection
 
