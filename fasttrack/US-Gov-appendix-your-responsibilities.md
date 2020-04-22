@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: El usuario tiene las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 26432b8bc6228956012fc7708b6de95d2b8b69da
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 159f38e85340308bd97eaf31eb20f58fec1d0554
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098354"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665816"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Sus responsabilidades para Office 365 US Government
 
@@ -61,7 +61,7 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
 - Configurar el espacio de Microsoft Teams de colaboración para la asociación e invitar a los miembros del equipo del centro de FastTrack (no disponible en los planes de GCC o DoD).   
 - Trabajar con los especialistas de FastTrack para iniciar la incorporación de los servicios elegibles.    
 - Participar en la reunión de lanzamiento de la contratación, administrar y liderar a los participantes de la organización, y confirmar las escalas de tiempo de corrección.    
-- Indicar los objetivos en relación con los servicios de Office 365 (por ejemplo, SharePoint Online, Exchange Online, Microsoft Teams y Office 365 ProPlus) y las metas organizativas.
+- Proporcionar sus objetivos para los servicios de Office 365 (por ejemplo, SharePoint Online, Exchange Online, Microsoft Teams y aplicaciones de Microsoft 365) y los objetivos de la organización.
     
 ## <a name="assess-phase"></a>Fase de evaluación
 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'El proceso de FastTrack presta servicios relacionados con la incorporación y aceptación por parte de los usuarios. '
-ms.openlocfilehash: 98e4f944e54de52ebbdf1755c5ab185a80395b33
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 641637705a5a578b18f3ba06130d9477975b92f8
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097710"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666147"
 ---
 # <a name="the-fasttrack-process"></a>Proceso de FastTrack
 
@@ -35,7 +35,7 @@ Los servicios de aceptación por parte de los usuarios constan de tareas que le 
 
 En el siguiente diagrama se ilustra el proceso de incorporación.
   
-![Escala de tiempo para el uso de la ventaja de incorporación](media/O365-Onboarding-Timeline.png)
+![Escala de tiempo para el uso de la ventaja de incorporación](media/o365-onboarding-timeline-m365-apps.png)
   
 Puede obtener ayuda a través del [Centro de administración de Office 365](https://go.microsoft.com/fwlink/?linkid=2032704) o en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
