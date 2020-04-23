@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Los clientes que compren al menos 20 000 licencias para un espacio empresarial de Exchange Online son elegibles para los servicios adicionales del Centro de FastTrack. Para más información, vea Servicios y planes elegibles.
-ms.openlocfilehash: 1317992820ba385e70ccb5908c0eab3a2dd7c140
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 62d0f5cf99624fbfb69a3bcb950f4718e0372512
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098186"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666116"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Apéndice B: Ventaja adicional del Centro de FastTrack
 
@@ -38,9 +38,9 @@ Para Exchange Online, proporcionamos instrucciones de configuración para las si
 
 Para Skype Empresarial Online, proporcionamos instrucciones para la migración de usuarios de Lync y Skype Empresarial local a Skype Empresarial Online.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Aplicaciones de Microsoft 365
 
-Para Office 365 ProPlus, proporcionamos instrucciones para las siguientes opciones: 
+Para Aplicaciones de Microsoft 365, proporcionamos instrucciones para las siguientes opciones: 
 - Evaluación y planeación centradas en la preparación del entorno para la implementación inicial y la administración de actualizaciones de acuerdo con los procedimientos recomendados de Microsoft. 
 - Desarrollo de configuraciones de implementación y de actualización mediante la Herramienta de implementación de Office 365 y la Herramienta de personalización de Office. 
 - Empaquetado de implementación con Microsoft Endpoint Configuration Manager  
@@ -127,7 +127,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
 
 - Proporcionar instrucciones sobre la migración de usuarios en lotes en una implementación híbrida de Skype Empresarial (retener las listas de contactos de usuarios).
     
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Aplicaciones de Microsoft 365
 
 - Proporcionar instrucciones y asistencia para:  
   - Evaluación y planeación de acuerdo con los procedimientos recomendados de Microsoft para la implementación inicial y la administración de actualizaciones.

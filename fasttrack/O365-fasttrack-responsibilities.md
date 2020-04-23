@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098282"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666176"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
@@ -107,6 +107,18 @@ Proporcionar orientación acerca de:
     
 Para obtener más información sobre las responsabilidades relativas a la migración de datos, vea [Migración de datos](O365-data-migration.md).
   
+## <a name="microsoft-365-apps"></a>Aplicaciones de Microsoft 365
+
+Proporcionar instrucciones acerca de:
+- Solucionar los problemas de implementación.
+- Asignar licencias de usuario final y basadas en dispositivos mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.
+- Instalar Aplicaciones de Microsoft 365 desde el Portal de Office 365 con la opción Hacer clic y ejecutar.
+- Instalar aplicaciones de Office Mobile (como Outlook para iOS y Android, Word Mobile, Excel Mobile y PowerPoint Mobile) en los dispositivos iOS o Android. 
+- Configurar las opciones de actualización mediante la Herramienta de implementación de Office 365.
+- Seleccionar y configurar una instalación local o en la nube.
+- Crear la configuración XML de la Herramienta de implementación de Office con la Herramienta de personalización de Office o XML nativo para configurar el paquete de implementación.
+- Implementar mediante Microsoft Endpoint Configuration Manager, incluida la ayuda con la creación del empaquetado de Microsoft Endpoint Configuration Manager.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Proporcionar orientación acerca de:
@@ -141,18 +153,6 @@ Proporcionar orientación acerca de:
 - Configurar la automatización, la investigación y la respuesta.
 - Usar el Simulador de ataques.
 - Elaborar informes y análisis de amenazas.
-
-## <a name="office-365-proplus"></a>Office 365 ProPlus
-
-Proporcionar orientación acerca de:
-- Solucionar los problemas de implementación.
-- Asignar licencias de usuario final y basadas en dispositivos mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.
-- Instalar Office 365 ProPlus desde el Portal de Office 365 con la opción Hacer clic y ejecutar
-- Instalar aplicaciones de Office Mobile (como Outlook para iOS y Android, Word Mobile, Excel Mobile y PowerPoint Mobile) en los dispositivos iOS, Android o Windows Mobile. 
-- Configurar las opciones de actualización mediante la Herramienta de implementación de Office 365.
-- Seleccionar y configurar una instalación local o en la nube.
-- Crear la configuración XML de la Herramienta de implementación de Office con la Herramienta de personalización de Office o XML nativo para configurar el paquete de implementación.
-- Implementar mediante Microsoft Endpoint Configuration Manager, incluida la ayuda con la creación del empaquetado de Microsoft Endpoint Configuration Manager.
     
 ## <a name="onedrive-for-business"></a>OneDrive para la Empresa
 

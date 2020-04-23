@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: El usuario tiene las siguientes responsabilidades durante la incorporación a Windows 10.
-ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 75e9746d8e3ac9f4389cc26d2a89d6d3c8aa3294
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097794"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666092"
 ---
 # <a name="your-responsibilities"></a>Sus responsabilidades
 
@@ -55,6 +55,6 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
 
 - Compartir la pantalla con el equipo de FastTrack si se necesitan directrices cuando se ejecuten herramientas de evaluación en su entorno o suscripciones de servicio de nube individuales (si quiere).
 - Configurar elementos relacionados con la red según las instrucciones del equipo de FastTrack.
-- Realizar la preparación del directorio y configurar la sincronización de directorios según las instrucciones del equipo de FastTrack al implementar Office 365 ProPlus con Windows 10..
+- Realizar la preparación del directorio y configurar la sincronización de directorios según las instrucciones del equipo de FastTrack al implementar Aplicaciones de Microsoft 365 con Windows 10.
 - Configurar un método de autenticación, como administrado o federado.
 
