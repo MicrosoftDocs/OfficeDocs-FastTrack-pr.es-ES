@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'La incorporación de Windows 10 consta de cuatro fases principales: inicio, evaluación, corrección y habilitación.'
-ms.openlocfilehash: 814b59cebb7f129e9c01ecc205da72bb9029db3d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 06a975d5759fccabe638fc21d9042d95eb46bb07
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098402"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666128"
 ---
 # <a name="onboarding-phases"></a>Fases de incorporación
 
@@ -31,7 +31,7 @@ Los especialistas FastTrack trabajan con usted para evaluar el entorno de origen
 
 Le proporcionamos las opciones recomendadas para evaluar sus aplicaciones de Windows 10. FastTrack ofrece instrucciones para habilitar el uso de Desktop Analytics y lo guiará en la creación de un plan de implementación de Desktop Analytics.
 
-FastTrack también puede guiarle con la evaluación de la compatibilidad de Office 365 ProPlus aprovechando el panel de preparación de Office 365 de Configuration Manager o con el kit de Herramientas de preparación independiente para Office. Para obtener más información sobre los servicios disponibles, vea [Ventajas del Centro de FastTrack para Office 365](O365-fasttrack-benefit-for-office-365.md). 
+FastTrack también puede guiarle con la evaluación de la compatibilidad de Aplicaciones de Microsoft 365 aprovechando el panel de preparación de Office 365 de Configuration Manager o con el kit de Herramientas de preparación independiente para Office. Para obtener más información sobre los servicios disponibles, vea [Ventajas del Centro de FastTrack para Office 365](O365-fasttrack-benefit-for-office-365.md). 
 
 FastTrack también evalúa automáticamente diversas estrategias de administración modernas, como la conexión de Configuration Manager con Microsoft Intune en la nube o la implementación de Intune como única solución de administración en la nube.
 
@@ -43,9 +43,9 @@ Debe llevar a cabo las tareas de corrección en función del entorno de origen, 
 
 FastTrack ofrece instrucciones para actualizar sus dispositivos existentes a Windows 10 Enterprise siempre y cuando cumplan los requisitos de hardware de dispositivo necesarios. Se proporcionan instrucciones de actualización para dar soporte al proceso de implementación existente. FastTrack recomienda y proporciona instrucciones para una actualización local a Windows 10. Las instrucciones también están disponibles para la instalación de imágenes limpias y escenarios de implementación de [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot). 
 
-Proporcionamos instrucciones para implementar Office 365 ProPlus con Configuration Manager como parte de la implementación de Windows 10. Vea [Office 365 ProPlus](O365-onboarding-and-migration.md#office-365-proplus) para obtener más información sobre los servicios asociados.
+Proporcionamos instrucciones para implementar Aplicaciones de Microsoft 365 con Configuration Manager como parte de la implementación de Windows 10. Vea [Aplicaciones de Microsoft 365 ](O365-onboarding-and-migration.md#microsoft-365-apps) para obtener más información sobre los servicios asociados.
 
-Proporcionamos instrucciones para ayudar a su organización a mantenerse al día con Windows 10 Enterprise y Office 365 ProPlus mediante el entorno de Configuration Manager existente o Microsoft 365.
+Proporcionamos instrucciones para ayudar a su organización a mantenerse al día con Windows 10 Enterprise y Aplicaciones de Microsoft 365 mediante el entorno de Configuration Manager existente o Microsoft 365.
 
 Si es necesario, FastTrack puede orientar a los clientes para que habiliten estrategias de administración modernas conectando Configuration Manager con Microsoft Intune en la nube o implementando Intune de forma independiente. Vea [Proceso de las ventajas del Centro de FastTrack para Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md) para más información sobre los servicios asociados.
 
