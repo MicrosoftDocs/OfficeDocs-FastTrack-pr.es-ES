@@ -10,12 +10,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Cuando compre cualquier servicio de Office 365, los especialistas de FastTrack le ofrecerán instrucciones para que se incorpore a Microsoft 365 y comience a usarlo.
-ms.openlocfilehash: 3d91de034609cfe85833327c6d753f6a05525e5f
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 7b27f5c3c2e989e1dbe932346d013bd6e9fb1890
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098118"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666080"
 ---
 # <a name="eligible-services-and-plans"></a>Planes y servicios elegibles
 
@@ -52,19 +52,22 @@ El Centro de FastTrack ofrece asistencia para los servicios siguientes:
 - Azure Active Directory Premium
 - Azure Information Protection
 - Exchange Online 
+- Aplicaciones de Microsoft 365
 - Protección contra amenazas avanzada de Microsoft Defender
 - Microsoft Intune
 - Microsoft Teams
-- Protección contra amenazas avanzada de Office 365
-- Office 365 ProPlus
+- Protección contra amenazas avanzada de Office 365
 - OneDrive para la Empresa
 - Power BI
 - Project Online
 - SharePoint Online
 - Skype Empresarial Online
 - Windows 10
-- Yammer Enterprise 
-  
+- Yammer Enterprise 
+
+> [!NOTE]
+> Se ha cambiado el nombre de Office 365 ProPlus a Aplicaciones de Microsoft 365. En algunos casos, puede encontrar el uso del nombre heredado. Para obtener más información sobre cuándo entrará en vigor este cambio, vea [Cambio de nombre del Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change). 
+
 ## <a name="eligible-microsoft-365-plans"></a>Planes elegibles de Microsoft 365
   
  **Microsoft 365 Enterprise**
@@ -72,14 +75,23 @@ El Centro de FastTrack ofrece asistencia para los servicios siguientes:
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Seguridad de Microsoft 365 E5\*
-- Microsoft 365 F1*
+- Microsoft 365 F1\*
 - Microsoft 365 Empresa\*
+- Aplicaciones de Microsoft 365 para empresas\*
+- Aplicaciones de Microsoft 365 para empresas (dispositivo)\*
     
- **Microsoft 365 Educación**
+ **Microsoft 365 Empresa**
+
+ - Microsoft 365 Empresa Básico\*
+ - Microsoft 365 Empresa Estándar\*
+ - Aplicaciones de Microsoft 365 para negocios\*
+ 
+ **Microsoft 365 Educación**
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 Security\*
+- Aplicaciones de Microsoft 365 para el ámbito educativo (dispositivo)\*
  
 ## <a name="eligible-office-365-plans"></a>Planes elegibles de Office 365
 
@@ -95,13 +107,6 @@ El Centro de FastTrack ofrece asistencia para los servicios siguientes:
 - Office 365 para el gobierno de Estados Unidos G4\*\*
 - Office 365 para el gobierno de Estados Unidos G5\*\*
 - Office 365 para el gobierno de Estados Unidos F1\*\*
-- Office 365 ProPlus
-    
-**Office 365 Empresa**
-
-- Office 365 Empresa  
-- Office 365 Empresa Essentials  
-- Office 365 Empresa Premium
 
 **Office 365 Educación**
   
@@ -206,7 +211,7 @@ Para obtener más información, vea [Ventajas del Centro de FastTrack para Enter
 Para obtener más información, vea [Ventajas del Centro de FastTrack para Windows 10](https://go.microsoft.com/fwlink/?linkid=2044661).
 
 > [!NOTE]
-> No existe un requisito mínimo de licencia para los proveedores independientes de software (ISV) comerciales que crean aplicaciones para Windows 10. Todas las solicitudes de aplicación deben tener como objetivo una versión de Windows 10 o de Office 365 ProPlus que se encuentre actualmente en la ventana de servicio estándar.
+> No hay ningún requisito mínimo de licencia para los proveedores de software independientes (ISV) que compilan aplicaciones para Windows 10. Todas las solicitudes de aplicaciones deben tener como destino una versión de aplicaciones de Windows 10 o de Microsoft 365 que se encuentre actualmente en el período de servicio estándar.
 
 ## <a name="ineligible-plans"></a>Planes no elegibles
 

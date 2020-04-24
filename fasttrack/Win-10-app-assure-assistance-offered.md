@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10, los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y Office 365 ProPlus y mantenerse al día sin costo adicional (con una suscripción válida).
-ms.openlocfilehash: 0f5b8abfc30c63b1990e69004ba7bca7ee33aaec
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+description: Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10, los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y en las Aplicaciones de Microsoft 365 y mantenerse al día sin coste adicional (con una suscripción válida).
+ms.openlocfilehash: e7bc00346742f4a69865d6d111eea4187a861c40
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098390"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666056"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 
@@ -32,9 +32,9 @@ Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go
 
 FastTrack ofrece asistencia para las aplicaciones implementadas en los siguientes productos de Microsoft:
 
-### <a name="windows-10-and-office-365-proplus"></a>Windows 10 y Office 365 ProPlus
+### <a name="windows-10-and-microsoft-365-apps"></a>Windows 10 y las Aplicaciones de Microsoft 365
 
-- Las aplicaciones que funcionaban en Windows 7, Windows 8.1, Office 2010 y Office 2013 también funcionan en Windows 10 y Office 365 ProPlus.
+- Las aplicaciones que funcionaban en Windows 7, Windows 8.1, Office 2010 y Office 2013 también funcionan en Windows 10 y en las Aplicaciones de Microsoft 365.
 
 ### <a name="the-new-microsoft-edge"></a>El nuevo Microsoft Edge
 
@@ -61,13 +61,13 @@ Para obtener más información, vea [¿Qué es Windows Virtual Desktop?](https:/
 ## <a name="out-of-scope"></a>Fuera de ámbito
 
 Los servicios de FastTrack no incluyen:
-- Inventario y pruebas de aplicaciones para determinar lo que funciona y lo que no en Windows 10 y Office 365 ProPlus. Para obtener más información sobre este proceso, visite el [Centro de implementación de escritorios](https://go.microsoft.com/fwlink/?linkid=2080140). Si está interesado en una evaluación detallada de la preparación para la actualización, complete el formulario [Solicitud de cliente para la evaluación del escritorio moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
+- Inventario y pruebas de aplicaciones para determinar lo que funciona y lo que no en Windows 10 y en las Aplicaciones de Microsoft 365. Para obtener más información sobre este proceso, visite el [Centro de implementación de escritorios](https://go.microsoft.com/fwlink/?linkid=2080140). Si está interesado en una evaluación detallada de la preparación para la actualización, complete el formulario [Solicitud de cliente para la evaluación del escritorio moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Buscar instrucciones de compatibilidad y soporte técnico de Windows 10 en aplicaciones ISV de terceros. Para más información, vea [Análisis de escritorio](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Servicios de solo empaquetado de la aplicación. Sin embargo, el equipo de App Assure crea paquetes de aplicaciones que hemos corregido para Windows 10 para asegurarse de que se pueden implementar en el entorno del cliente.
 
 Las responsabilidades del cliente son:
 - Creación de un inventario de aplicaciones.
-- Validación de esas aplicaciones en Windows 10 y Office 365 ProPlus.
+- Validación de esas aplicaciones en Windows 10 y en las Aplicaciones de Microsoft 365.
 
 > [!NOTE]
 > Microsoft no puede hacer cambios en el código fuente. Sin embargo, el equipo de App Assure puede proporcionar instrucciones a los desarrolladores de aplicaciones si el código fuente está disponible para sus aplicaciones.
