@@ -3,19 +3,19 @@ title: Fases de incorporación y migración de Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'La incorporación de Office 365 para Office 365 el gobierno de Estados Unidos tiene cuatro fases principales: Inicio, evaluación, corrección y habilitación. Puede seguir estas fases de una fase opcional de migración de datos, como se muestra en la figura siguiente.'
-ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 8725265751740495e1264945c3472f6ee233b1c5
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665924"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999800"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de incorporación y migración de Office 365 US Government
 
@@ -177,10 +177,10 @@ En cuanto a Yammer, se ofrecen instrucciones para habilitar el servicio de Yamme
   
 ## <a name="microsoft-365-apps"></a>Aplicaciones de Microsoft 365
 
-Para las aplicaciones de Microsoft 365, proporcionamos instrucciones para: 
+Para Aplicaciones de Microsoft 365, proporcionamos instrucciones para: 
 - Solucionar los problemas de implementación.    
 - Asignar licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.    
-- Instalación de aplicaciones de Microsoft 365 desde el portal de Office 365 mediante hacer clic y ejecutar.    
+- Instalar Aplicaciones de Microsoft 365 desde el Portal de Office 365 con la opción Hacer clic y ejecutar.    
 - Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en los dispositivos iOS o Android.   
 - Configurar las opciones de actualización mediante la Herramienta de implementación de Office 365.    
 - Configurar un servidor de distribución in situ único para aplicaciones de Microsoft 365, incluida la ayuda para crear un archivo Configuration. XML para usarlo con la herramienta de implementación de Office 365.    

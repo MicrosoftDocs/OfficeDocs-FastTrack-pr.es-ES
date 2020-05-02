@@ -3,19 +3,19 @@ title: Responsabilidades de FastTrack para Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: f0f52400b0400267d00d2033ea2431277f4e2f33
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: d223176bbfd856048604a1c1dfd5f12c72dce1bf
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665864"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999788"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades de FastTrack para Office 365 US Government
 
@@ -36,7 +36,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
 
 - Mantener una llamada sobre la correcta planificación para ayudar a mejorar para la aceptación por parte de los usuarios.  
 - Proporcionar información general administrativa.  
-- Proporcionar instrucciones acerca de: 
+- Proporcionar orientación acerca de: 
   - Necesidades de sistema de nombres de dominio (DNS), red e infraestructura.  
   - Necesidades del cliente (explorador de Internet, sistema operativo de cliente, dispositivo móvil y necesidades de servicios).
   - Identidad y aprovisionamiento de usuarios. 
@@ -69,7 +69,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
     
 ## <a name="enable-phase"></a>Fase de habilitación
 
-Proporcionar instrucciones acerca de: 
+Proporcionar orientación acerca de: 
 - Evaluar el progreso del éxito de la planeación y averiguar si necesita más ayuda.    
 - Activar el espacio empresarial de Office 365.
 - Configurar los protocolos TCP/IP y puertos del firewall.   
@@ -95,7 +95,7 @@ Proporcionar instrucciones acerca de:
     
 ## <a name="exchange-online"></a>Exchange Online
 
-Proporcionar instrucciones acerca de: 
+Proporcionar orientación acerca de: 
 - Crear o actualizar los registros DNS.    
 - Habilitar el enrutamiento de correo electrónico entre el sistema de mensajería de origen y los entornos de Office 365.    
 - Configurar las características de Protección de Exchange Online (incluidas las características de Protección contra amenazas avanzada de Exchange Online si están disponibles en su suscripción) y comprobar que los registros MX se refieren a Office 365 para todos los dominios habilitados para correo que se han validado.   
@@ -106,7 +106,7 @@ Para obtener más información sobre las responsabilidades relativas a la migrac
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
-Proporcionar instrucciones acerca de:
+Proporcionar orientación acerca de:
 - Configurar el aprovisionamiento de usuarios, incluidas las licencias.   
 - Habilitar la creación de sitios para el administrador de SharePoint Online.   
 - Planificar las colecciones de sitios.   
@@ -139,7 +139,7 @@ Proporcionar orientación acerca de:
     
 ## <a name="skype-for-business-online"></a>Skype Empresarial Online
 
-Proporcionar instrucciones acerca de:
+Proporcionar orientación acerca de:
 - Aprovisionar identidades de Skype Empresarial para Office 365.   
 - Habilitar conferencias en línea, mensajería instantánea (MI) y características de presencia de Office 365.  
 - Creación de cuentas para asociar a los dispositivos de sistema de salas de reuniones compatibles (hasta 10 cuentas).    
@@ -158,7 +158,7 @@ Proporcionar instrucciones acerca de:
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Proporcionar instrucciones acerca de:
+Proporcionar orientación acerca de:
 - Confirmación de requisitos mínimos.   
 - Configuración de puertos del firewall.  
 - Configuración de DNS.  
@@ -194,10 +194,10 @@ Proporcionar instrucciones sobre cómo convertir la red única de Yammer Basic e
   
 ## <a name="microsoft-365-apps"></a>Aplicaciones de Microsoft 365
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones acerca de:
 - Solucionar los problemas de implementación.   
 - Asignar licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.  
-- Instalación de aplicaciones de Microsoft 365 desde el portal de Office 365 mediante hacer clic y ejecutar.   
+- Instalar Aplicaciones de Microsoft 365 desde el Portal de Office 365 con la opción Hacer clic y ejecutar.   
 - Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en sus dispositivos de iOS, Android, o Windows Mobile.   
 - Configurar las opciones de actualización mediante la Herramienta de implementación de Office 2016 o las plantillas de directiva de grupo.   
 - Configurar un servidor de distribución in situ único para aplicaciones de Microsoft 365, incluida la ayuda para crear un archivo Configuration. XML para usarlo con la herramienta de implementación de Office 365.   
