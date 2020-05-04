@@ -3,19 +3,19 @@ title: Planes y servicios elegibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Cuando compre cualquier servicio de Office 365, los especialistas de FastTrack le ofrecerán instrucciones para que se incorpore a Microsoft 365 y comience a usarlo.
-ms.openlocfilehash: 7b27f5c3c2e989e1dbe932346d013bd6e9fb1890
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 9b6c7272d1b8083acd3d5765687ce841e08d086a
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666080"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999836"
 ---
 # <a name="eligible-services-and-plans"></a>Planes y servicios elegibles
 
