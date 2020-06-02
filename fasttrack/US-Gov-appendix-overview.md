@@ -1,22 +1,22 @@
 ---
-title: 'Apéndice D: Información general de las Ventajas del Centro de FastTrack para Office 365 Administración pública de EE. UU.'
+title: 'Apéndice C: información general sobre los beneficios del centro de FastTrack para Office 365 US Government'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Con el beneficio del centro FastTrack para Office 365, trabaja de forma remota con los especialistas de FastTrack para obtener el entorno de Office 365 listo para su uso y planear la implementación y el uso en la organización.
-ms.openlocfilehash: 5d500872832232fd8fd85de227f9cda85f0d1ef4
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: e302819d456ba6ff9582a5e9f5330554bd139979
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999776"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472157"
 ---
-# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Apéndice D: Información general de las Ventajas del Centro de FastTrack para Office 365 Administración pública de EE. UU.
+# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Apéndice C: información general sobre los beneficios del centro de FastTrack para Office 365 US Government
 
 Con el beneficio del centro FastTrack para Office 365, trabaja de forma remota con los especialistas de FastTrack para obtener el entorno de Office 365 listo para su uso y planear la implementación y el uso en la organización. 
   
@@ -31,6 +31,5 @@ Tratamos los siguientes temas:
 - [Fases de incorporación y migración de Office 365 US Government](US-Gov-appendix-onboarding-and-migration.md)
 - [Migración de datos](O365-data-migration.md)    
 - [Responsabilidades de FastTrack para Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [Sus responsabilidades para Office 365 US Government](US-Gov-appendix-your-responsibilities.md) 
-- [Apéndice A: Migración de IBM Domino a Exchange Online](O365-from-ibm-domino-to-exchange-online.md)   
-- [Apéndice B: Beneficio adicional del Centro de FastTrack](O365-fasttrack-additional-benefits.md)
+- [Sus responsabilidades para Office 365 US Government](US-Gov-appendix-your-responsibilities.md)    
+- [Apéndice A: beneficio adicional del centro de FastTrack](O365-fasttrack-additional-benefits.md)
