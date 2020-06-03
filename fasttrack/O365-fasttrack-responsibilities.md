@@ -3,19 +3,19 @@ title: Responsabilidades de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 78abfd26506f457858bc2e56f3ccfd1407c4cbdf
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999824"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472205"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
@@ -119,6 +119,41 @@ Proporcionar instrucciones acerca de:
 - Crear la configuración XML de la Herramienta de implementación de Office con la Herramienta de personalización de Office o XML nativo para configurar el paquete de implementación.
 - Implementar mediante Microsoft Endpoint Configuration Manager, incluida la ayuda con la creación del empaquetado de Microsoft Endpoint Configuration Manager.
 
+## <a name="microsoft-information-governance"></a>Gobierno de información de Microsoft 
+
+Proporcionar orientación acerca de:
+- Administración de registros
+  - Aplicar permisos para la administración de registros.
+  - Guía para la conversión de planes de archivos y programaciones de retención en etiquetas y directivas.
+  - Crear etiquetas de retención y directivas.
+  - Establecer directivas de eliminación.
+  - Revisión de elementos para disposición.
+- Administración de riesgos de Insider.
+  - Habilitación de los registros de auditoría de Office 365.
+  - Configurar las opciones de administración de riesgos de Insider.
+  - Crear directivas de riesgos de Insider mediante las guías integradas.
+  - Configuración de permisos para el cumplimiento de la comunicación.
+  - Crear directivas de cumplimiento de comunicaciones mediante plantillas personalizables.
+  - Supervisión y revisión de alertas.
+- Gobierno de la información.
+  - Aplicación de permisos para el gobierno de la información.
+  - Crear etiquetas de retención.
+  - Publishing Retention Labels (manual and auto).
+  - Creación de trabajos de importación.
+
+## <a name="microsoft-information-protection"></a>Protección de la información de Microsoft
+
+Proporcionar instrucciones acerca de:
+- Clasificación de datos.
+- Tipos de información confidencial.
+- Crear etiquetas de confidencialidad.
+- Aplicar etiquetas de confidencialidad. 
+- Etiquetado unificado.
+- Clasificadores que se capacitan.
+- Conocer los datos con el explorador de contenido y el explorador de actividades.
+- Publicar etiquetas usando directivas (manuales y automáticas).
+- Crear directivas de prevención de pérdida de datos (DLP) para los canales y chats de Microsoft Teams.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Proporcionar orientación acerca de:
@@ -195,7 +230,7 @@ Proporcionar orientación acerca de:
     
 ## <a name="project-online-professional-and-project-online-premium"></a>Project Online Professional y Project Online Premium
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones acerca de:
 - Solucionar los problemas de implementación.
 - Asignar licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.
 - Descargar e instalar el Cliente de escritorio de Project Online desde el portal.   
@@ -205,7 +240,7 @@ Proporcionar orientación acerca de:
 
 ## <a name="sharepoint-online"></a>SharePoint Online
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones acerca de:
 - Configurar el aprovisionamiento de usuarios, incluidas las licencias.
 - Habilitar la creación de sitios para el administrador de SharePoint Online.    
 - Planificar las colecciones de sitios. 

@@ -3,19 +3,19 @@ title: Asistencia ofrecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Si adquiere alguno de los servicios de Windows 10 o de Microsoft 365 (tal y como se detalla en Servicios y planes elegibles), los especialistas de FastTrack le proporcionarán de forma remota instrucciones de implementación y asistencia sobre la compatibilidad si tiene una aplicación o un sitio web que funcione con Internet Explorer o Google Chrome.
-ms.openlocfilehash: 2de928647dff3b08b3e080d8e106552d8b9a8d76
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: b72be35d0f7842aed62c3a60a85d9c7892235f6c
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999634"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472036"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida
 
