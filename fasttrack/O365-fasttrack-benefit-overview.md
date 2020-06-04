@@ -3,7 +3,7 @@ title: Información general sobre las ventajas del Centro de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Con Ventajas del Centro de FastTrack para Office 365, puede trabajar de forma remota con especialistas de FastTrack para dejar el entorno de Office 365 listo para su uso, así como para planear el lanzamiento y el uso en la organización. Para más información sobre la elegibilidad, vea Ventajas del Centro de FastTrack para Office 365.
-ms.openlocfilehash: f3dd071707d469041900f9bab86c07489ffcb4d0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: a403178c2e94cd3415fa04bc9c2ecc68514557ec
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999896"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471717"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Información general sobre las ventajas del Centro de FastTrack
 
@@ -30,10 +30,9 @@ Tratamos los siguientes temas:
 - [Migración de datos](O365-data-migration.md)
 - [Responsabilidades de FastTrack](O365-fasttrack-responsibilities.md)
 - [Sus responsabilidades](O365-your-responsibilities.md) 
-- [Apéndice A: Migración de IBM Domino a Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
-- [Apéndice B: Beneficio adicional del Centro de FastTrack](O365-fasttrack-additional-benefits.md)
-- [Apéndice C: Contrato de asociación comercial según las normas HIPAA del Centro de FastTrack](O365-hipaa-business-associate-agreement.md)
-- [Apéndice D: Información general de las Ventajas del Centro de FastTrack para Office 365 Administración pública de EE. UU.](US-Gov-appendix-overview.md)
+- [Apéndice A: Beneficio adicional del Centro de FastTrack](O365-fasttrack-additional-benefits.md)
+- [Apéndice B: Contrato de asociación comercial según las normas HIPAA del Centro de FastTrack](O365-hipaa-business-associate-agreement.md)
+- [Apéndice C: Información general de las Ventajas del Centro de FastTrack para Office 365 Administración pública de EE. UU.](US-Gov-appendix-overview.md)
     
 El espacio empresarial de Office 365 se crea cuando se completa la incorporación. Los usuarios con licencia pueden acceder a Office 365 mediante una de las siguientes opciones de identidad:
 - Identidades de nube con cuentas de Office 365 únicas.
