@@ -3,19 +3,19 @@ title: Asistencia ofrecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10, los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y en las Aplicaciones de Microsoft 365 y mantenerse al día sin coste adicional (con una suscripción válida).
-ms.openlocfilehash: 8b006493a46108791031ac1baa9bdd501278414f
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: bebe49e4fe8808192265bc1573ea410b0e63cdc2
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472061"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011038"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 
@@ -61,7 +61,7 @@ Para obtener más información, vea [¿Qué es Windows Virtual Desktop?](https:/
 ## <a name="out-of-scope"></a>Fuera de ámbito
 
 Los servicios de FastTrack no incluyen:
-- Inventario y pruebas de aplicaciones para determinar lo que funciona y lo que no en Windows 10 y en las Aplicaciones de Microsoft 365. Para obtener más información sobre este proceso, visite el [Centro de implementación de escritorios](https://go.microsoft.com/fwlink/?linkid=2080140). Si está interesado en una evaluación detallada de la preparación para la actualización, complete el formulario [Solicitud de cliente para la evaluación del escritorio moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
+- App inventory and testing to determine what does and doesn't work on Windows 10 and Microsoft 365 Apps. For more guidance on this process, visit the [Desktop Deployment Center](https://go.microsoft.com/fwlink/?linkid=2080140). If you're interested in an in-depth upgrade readiness assessment, complete the [Customer Request for Modern Desktop Assessment](https://go.microsoft.com/fwlink/?linkid=2053818) form.
 - Buscar instrucciones de compatibilidad y soporte técnico de Windows 10 en aplicaciones ISV de terceros. Para más información, vea [Análisis de escritorio](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Servicios de solo empaquetado de la aplicación. Sin embargo, el equipo de App Assure crea paquetes de aplicaciones que hemos corregido para Windows 10 para asegurarse de que se pueden implementar en el entorno del cliente.
 

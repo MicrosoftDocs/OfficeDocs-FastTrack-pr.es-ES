@@ -3,19 +3,19 @@ title: Asistencia ofrecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al adquirir uno de los servicios de Windows 10 o de Microsoft 365, los especialistas de FastTrack proporcionan instrucciones remotas de implementación para proteger los puntos de conexión. Nuestro servicio se adapta al entorno y a las necesidades de cada cliente.
-ms.openlocfilehash: 3cbfd8a00ebb829394d617be0d22867828c86c79
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: ec29f863b01ffb312b7b8b299580e5e38f60fa9d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472013"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011530"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 
@@ -37,7 +37,7 @@ FastTrack proporciona guía remota para lo siguiente:
     - Investigación y corrección automatizadas.
     - Puntuación de seguridad.
 - Revisar simulaciones y tutoriales (como escenarios prácticos, malware falso e investigaciones automatizadas).
-- Profundizar en los informes y análisis de amenazas.
+- Información general sobre las características de informes y de análisis de amenazas.
 - Integrar Protección contra amenazas avanzadas de Office 365 con Protección contra amenazas avanzada de Microsoft Defender.
 - Realizar tutoriales sobre el portal del Centro de seguridad de Microsoft Defender.
 
@@ -51,6 +51,7 @@ Los servicios de FastTrack no incluyen:
    - Windows Server
    - macOS
    - Linux
+   - Dispositivos móviles (Android e iOS)
 - Configuración de las siguientes funcionalidades de reducción de la superficie de ataque:
     - Aislamiento basado en hardware.
     - Control de aplicaciones.
@@ -60,3 +61,4 @@ Los servicios de FastTrack no incluyen:
 - Configuración o aprendizaje de revisión de las API o las conexiones de administración de eventos e información de seguridad (SIEM).
 - Inscripción o configuración de Protección contra amenazas de Microsoft (MTP).
 - Aprendizaje o instrucciones sobre la búsqueda avanzada.
+- Formación o orientación sobre el uso o la creación de consultas Kusto.

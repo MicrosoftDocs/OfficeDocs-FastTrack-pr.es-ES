@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack proporciona instrucciones de implementación para Windows 10 para ayudarle a actualizar de Windows 7 Professional y Windows 8,1 Professional a Windows 10 Enterprise.
-ms.openlocfilehash: 472a5efb28a269ecdd262ed9c31cf4cceaa06ddf
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 0aa98b787af20c12f851033b0524d450fd0fcb87
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472097"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011518"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -44,7 +44,7 @@ Para obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/f
 2.    Seleccione **Solicitar asistencia para Microsoft 365** en **acciones rápidas**, situado en la parte superior de la página de aterrizaje, o bien seleccione **Solicitar asistencia para Microsoft 365** en la tarjeta de implementación.
 3.    Complete el formulario **Solicitar asistencia para Microsoft 365**.
   
-Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para hacerlo:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Haga clic en **Mis clientes**.
 3.    Busque el cliente o selecciónelo en la lista de clientes.

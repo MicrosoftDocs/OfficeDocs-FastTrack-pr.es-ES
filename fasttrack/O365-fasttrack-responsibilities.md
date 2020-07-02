@@ -3,19 +3,19 @@ title: Responsabilidades de FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: f7a519e0f5fd6b5b8d458fd326826e5a16797a67
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472205"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011434"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
@@ -82,7 +82,7 @@ Proporcionar orientación acerca de:
       - Configurar la autenticación de paso a través de Azure Active Directory, si es necesario.\*\*
       - Configurar el inicio de sesión único de conexión directa (SSO) de Azure Active Directory, si es necesario.\*\*\*
     > [!NOTE]
-    > La autenticación de paso a través de Azure Active Directory para entornos de varios bosques se admite si hay confianzas entre sus bosques de Active Directory y si el enrutamiento de sufijo de nombre se ha configurado correctamente. Con el objetivo de poder proporcionar una disponibilidad alta para las solicitudes de inicio de sesión, pueden instalarse agentes adicionales en varios servidores locales. Para obtener más información, vea [Autenticación de paso a través de Azure Active Directory: inicio rápido](https://go.microsoft.com/fwlink/?linkid=860094) y [Inicio de sesión único de conexión directa de Azure Active Directory: Guía de inicio rápido](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
 - Para un único bosque cuando las identidades federadas son el destino: 
   - Instalar y configurar AD FS para la autenticación de dominios local con Office 365 en una configuración de sitio único y tolerante a errores, si es necesario.
   - Instalar y configurar WAP para publicar la infraestructura de AD FS en Internet, cuando sea necesario.
@@ -140,6 +140,15 @@ Proporcionar orientación acerca de:
   - Crear etiquetas de retención.
   - Publishing Retention Labels (manual and auto).
   - Creación de trabajos de importación.
+- Exhibición avanzada de documentos electrónicos.
+  - Datos que no son de Office 365.
+  - Establecimiento de permisos.
+  - Crear casos.
+  - Adición de custodios. 
+  - Suspensiones legales.
+  - Realiza.
+  - Revisar conjuntos.
+  - Exportar contenido.
 
 ## <a name="microsoft-information-protection"></a>Protección de la información de Microsoft
 
@@ -156,7 +165,7 @@ Proporcionar instrucciones acerca de:
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones acerca de:
 - Confirmación de requisitos mínimos.
 - Configuración de puertos del firewall.
 - Configuración de DNS.  
@@ -191,7 +200,7 @@ Proporcionar orientación acerca de:
     
 ## <a name="onedrive-for-business"></a>OneDrive para la Empresa
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones acerca de:
 - Identificar la versión de SharePoint local y las opciones de integración. 
 - Identificar las opciones de sincronización y de identidad.
 - Seleccionar una opción de lanzamiento:   
@@ -230,7 +239,7 @@ Proporcionar orientación acerca de:
     
 ## <a name="project-online-professional-and-project-online-premium"></a>Project Online Professional y Project Online Premium
 
-Proporcionar instrucciones acerca de:
+Proporcionar orientación acerca de:
 - Solucionar los problemas de implementación.
 - Asignar licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.
 - Descargar e instalar el Cliente de escritorio de Project Online desde el portal.   
@@ -256,7 +265,7 @@ Proporcionar instrucciones acerca de:
     
 ## <a name="skype-for-business-online"></a>Skype Empresarial Online
 
-Proporcionar orientación acerca de:
+Proporcionar instrucciones acerca de:
 - Aprovisionar identidades de Skype Empresarial para Office 365. 
 - Habilitar conferencias en línea, mensajería instantánea (MI) y características de presencia de Office 365. 
 - Creación de cuentas para asociar a los dispositivos de sistema de salas de reuniones compatibles (hasta 10 cuentas). 
