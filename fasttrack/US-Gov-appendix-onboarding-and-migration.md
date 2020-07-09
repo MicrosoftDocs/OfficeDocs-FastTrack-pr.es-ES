@@ -3,23 +3,23 @@ title: Fases de incorporación y migración de Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'La incorporación de Office 365 para Office 365 el gobierno de Estados Unidos tiene cuatro fases principales: Inicio, evaluación, corrección y habilitación. Puede seguir estas fases de una fase opcional de migración de datos, como se muestra en la figura siguiente.'
-ms.openlocfilehash: 6ab44c470bdec34aeab2ae3514e479007f6df394
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 8d4e396694af010f4233a3aeb8cedd6237baf203
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472193"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011278"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de incorporación y migración de Office 365 US Government
 
-La incorporación de Office 365 consta de cuatro fases principales: inicio, evaluación, corrección y habilitación. Puede seguir estas fases con una fase opcional de migración de datos, tal como se muestra en la figura siguiente.
+Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase as shown in the following figure.
   
 ![Fases de la ventaja de incorporación](media/O365-Onboarding-Phases.png)
   
@@ -38,7 +38,7 @@ Para obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/f
 2.    Seleccione **solicitar asistencia para Microsoft 365** de las **acciones rápidas** en la parte superior de la página de aterrizaje o seleccionando **solicitar asistencia para Microsoft 365** en la tarjeta de implementación.
 3. Complete el formulario **Solicitar asistencia para Microsoft 365**. 
 
-Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para hacerlo:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Haga clic en **Mis clientes**.
 3.    Busque el cliente o selecciónelo en la lista de clientes.
@@ -55,11 +55,11 @@ Esto incluye trabajar con usted para comprender cómo quiere usar el servicio y 
   
 ## <a name="assess-phase"></a>Fase de evaluación
 
-El administrador de FastTrack realiza con usted y con su equipo de adopción una llamada interactiva del plan de éxito. De este modo, tiene acceso a las funciones de los servicios pertinentes que adquirió, los puntos clave que necesita para lograr el éxito, la metodología para impulsar el uso del servicio y los escenarios que puede usar para aprovechar los servicios. Le ofrecemos asistencia para que diseñe un plan de éxito y le enviamos comentarios sobre las áreas fundamentales (según sea necesario).
+Your FastTrack Manager conducts an interactive success planning call with you and your adoption team. This introduces you to the capabilities of the eligible services you purchased, the key foundations you need for success, the methodology for driving usage of the service, and scenarios you can use to get value from the services. We assist you in success planning and provide feedback on key areas (as needed).
   
 Los especialistas FastTrack trabajan con usted para evaluar el entorno de origen y los requisitos. Proporcionamos herramientas para recopilar datos sobre su entorno y guiarle a través de la estimación de los requisitos de ancho de banda y la evaluación de los exploradores de Internet, los sistemas operativos de cliente, el sistema de nombres de dominio (DNS), la red, la infraestructura y el sistema de identidad para determinar si es necesario realizar cambios para la incorporación. 
   
-Según la configuración actual, le ofrecemos un plan de corrección que lleva el entorno de origen a los requisitos mínimos para efectuar una incorporación correcta a Office 365 y, en caso necesario, para llevar a cabo una migración correcta del buzón de correo o de los datos. Le proporcionamos una serie de actividades sugeridas para aumentar el valor y la aceptación por parte de los usuarios finales. Asimismo, configuramos llamadas al punto de control para la fase de corrección.
+Based on your current setup, we provide a remediation plan that brings your source environment up to the minimum requirements for successful onboarding to Office 365 and, if needed, for successful mailbox and/or data migration. We provide a set of suggested activities to increase end user value and adoption. We also set up appropriate checkpoint calls for the Remediate phase.
   
 ![Pasos de la incorporación para la fase de evaluación](media/O365.png)
   
@@ -69,7 +69,7 @@ Debe llevar a cabo las tareas de corrección en función del entorno de origen, 
   
 ![Pasos de la incorporación durante la fase de corrección](media/O365-Onboarding-Remediate.png)
   
-También ofrecemos una serie de actividades sugeridas para aumentar el valor y la aceptación por parte de los usuarios finales. Antes de iniciar la fase de habilitación, comprobamos conjuntamente los resultados de las actividades de corrección para garantizar que está listo para continuar. 
+We also provide a set of suggested activities to increase end user value and adoption. Before beginning the Enable phase, we jointly verify the outcomes of the remediation activities to make sure you're ready to proceed. 
   
 Durante esta fase, el administrador de FastTrack trabaja con usted para diseñar un plan de éxito y le indica cuáles son los recursos adecuados y los procedimientos recomendados para poner el servicio a disposición de la organización y a impulsar su uso en todos los servicios.
   
@@ -79,25 +79,25 @@ Una vez concluidas todas las actividades de corrección, nos centramos en config
   
 ## <a name="core"></a>Incorporación principal
 
-La incorporación principal implica el aprovisionamiento de servicios y la integración de espacios empresariales e identidades. También incluye pasos para proporcionar las bases para la incorporación de servicios como Exchange Online, SharePoint Online y Skype Empresarial Online. Usted y el administrador de FastTrack seguirán celebrando las reuniones de los puntos de control del plan de éxito para evaluar el progreso en relación con los objetivos y determinar qué asistencia adicional necesita.
+Core onboarding involves service provisioning and tenant and identity integration. It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Skype for Business Online. You and your FastTrack Manager continue to have success planning checkpoint meetings to evaluate progress against your goals and determine what further assistance you need.
   
 ![Pasos de la incorporación principal durante la fase 1 de habilitación](media/O365-Onboarding-Enable-Core.png)
   
 ![Pasos de la incorporación principal durante la fase 2 de habilitación](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP son las siglas de Proxy de aplicación web. SSL son las siglas de Capa de sockets seguros. SDS son las siglas de School Data Sync Para obtener más información sobre SDS, consulte [Le damos la bienvenida a School Data Sync de Microsoft](https://go.microsoft.com/fwlink/?linkid=871480). 
+> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
   
 La incorporación de uno o más servicios elegibles puede empezar al finalizar la incorporación principal.
   
 ## <a name="exchange-online"></a>Exchange Online
 
-En cuanto a Exchange Online, le guiamos a lo largo del proceso para preparar la organización para usar el correo electrónico. Los pasos exactos dependen del entorno de origen y de sus planes de migración de correo electrónico. Pueden incluir instrucciones para:
+For Exchange Online, we guide you through the process to get your organization ready to use email. The exact steps, depending on your source environment and your email migration plans, can include providing guidance for:
   
 - Configuración de las características de Exchange Online Protection (EOP) para todos los dominios habilitados para correo que se han validado en Office 365.   
     > [!NOTE]
     > Sus registros de correo Exchange (MX) deben referirse a Office 365.   
-- Configuración de la característica de Protección contra amenazas avanzada de Exchange Online (ATP) si forma parte de su servicio de suscripción una vez que sus registros MX apunten a Office 365. Esta característica está configurada como parte de la configuración antimalware de Protección de Exchange Online.   
+- Setting up the Exchange Online Advanced Threat Protection (ATP) feature if it's part of your subscription service once your MX records point to Office 365. This feature is configured as part of the Exchange Online Protection antimalware settings.   
 - Configurar puertos del firewall.   
 - Configuración de DNS, incluida la detección automática necesaria, el marco de directivas de remitente (SPF) y los registros MX (si procede).     
 - Configuración del flujo de correo electrónico entre su entorno de mensajería de origen y Exchange Online (si procede).   
@@ -183,7 +183,7 @@ Para Aplicaciones de Microsoft 365, proporcionamos instrucciones para:
 - Instalar Aplicaciones de Microsoft 365 desde el Portal de Office 365 con la opción Hacer clic y ejecutar.    
 - Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en los dispositivos iOS o Android.   
 - Configurar las opciones de actualización mediante la Herramienta de implementación de Office 365.    
-- Configurar un servidor de distribución in situ único para aplicaciones de Microsoft 365, incluida la ayuda para crear un archivo Configuration. XML para usarlo con la herramienta de implementación de Office 365.    
+- Configurar un servidor de distribución in situ único para aplicaciones de Microsoft 365, incluida la ayuda con la creación de un archivo de configuration.xml para usarlo con la herramienta de implementación de Office 365.    
 - Implementar mediante Microsoft Endpoint Configuration Manager, incluida la ayuda con la creación del empaquetado de Microsoft Endpoint Configuration Manager.
     
 ![Pasos de la incorporación de Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)
