@@ -3,19 +3,19 @@ title: Planes y servicios elegibles
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Cuando compre cualquier servicio de Office 365, los especialistas de FastTrack le ofrecerán instrucciones para que se incorpore a Microsoft 365 y comience a usarlo.
-ms.openlocfilehash: 9b6c7272d1b8083acd3d5765687ce841e08d086a
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999836"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011230"
 ---
 # <a name="eligible-services-and-plans"></a>Planes y servicios elegibles
 
@@ -33,7 +33,7 @@ Para obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/f
 2.    Seleccione **Solicitar asistencia para Microsoft 365** en **acciones rápidas**, situado en la parte superior de la página de aterrizaje, o bien seleccione **Solicitar asistencia para Microsoft 365** en la tarjeta de implementación.
 3.    Complete el formulario **Solicitar asistencia para Microsoft 365**.
   
-Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para hacerlo:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Haga clic en **Mis clientes**.
 3.    Busque el cliente o selecciónelo en la lista de clientes.
@@ -53,8 +53,10 @@ El Centro de FastTrack ofrece asistencia para los servicios siguientes:
 - Azure Information Protection
 - Exchange Online 
 - Aplicaciones de Microsoft 365
-- Protección contra amenazas avanzada de Microsoft Defender
-- Microsoft Intune
+- Protección contra amenazas avanzada de Microsoft Defender
+- Gobierno de información de Microsoft
+- Protección de la información de Microsoft
+- Microsoft Intune
 - Microsoft Teams
 - Protección contra amenazas avanzada de Office 365
 - OneDrive para la Empresa
@@ -75,6 +77,10 @@ El Centro de FastTrack ofrece asistencia para los servicios siguientes:
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Seguridad de Microsoft 365 E5\*
+- Cumplimiento de Microsoft 365 E5\*
+- eDiscovery y Auditoría de Microsoft 365 E5\*
+- Gobierno y protección de la información de Microsoft 365 E5\*
+- Administración de riesgos internos de Microsoft 365 E5\*
 - Microsoft 365 F1\*
 - Microsoft 365 Empresa\*
 - Aplicaciones de Microsoft 365 para empresas\*
@@ -91,6 +97,10 @@ El Centro de FastTrack ofrece asistencia para los servicios siguientes:
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 Security\*
+- Cumplimiento de Microsoft 365 A5\*
+- eDiscovery y Auditoría de Microsoft 365 A5\*
+- Gobierno y protección de la información de Microsoft 365 A5\*
+- Administración de riesgos internos de Microsoft 365 A5\*
 - Aplicaciones de Microsoft 365 para el ámbito educativo (dispositivo)\*
  
 ## <a name="eligible-office-365-plans"></a>Planes elegibles de Office 365
@@ -227,5 +237,5 @@ Los planes no elegibles para los servicios de FastTrack son, entre otros, los si
   
 ## <a name="fasttrack-center-additional-benefit-eligibility"></a>Elegibilidad para ventajas adicionales del Centro de FastTrack
 
-Los clientes que compren al menos 20 000 licencias para un espacio empresarial de Office 365 son elegibles para otros servicios en el Centro de FastTrack. Para más información, vea [Apéndice B: Ventaja adicional del Centro de FastTrack](O365-fasttrack-additional-benefits.md).
+Los clientes que compren al menos 20 000 licencias para un espacio empresarial de Office 365 pueden optar a disfrutar de servicios adicionales del Centro de FastTrack. Para más información, consulte el [Apéndice A: Beneficio adicional del Centro de FastTrack](O365-fasttrack-additional-benefits.md).
   
