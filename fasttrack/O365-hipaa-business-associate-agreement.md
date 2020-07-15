@@ -1,5 +1,5 @@
 ---
-title: 'Apéndice B: acuerdos de asociación empresarial de HIPAA del centro FastTrack'
+title: 'Apéndice B: Contrato de socio empresarial para HIPAA del Centro de FastTrack'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -16,8 +16,8 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 07/01/2020
 ms.locfileid: "45011422"
 ---
-# <a name="appendix-b---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="bd9fc-103">Apéndice B: acuerdos de asociación empresarial de HIPAA del centro FastTrack</span><span class="sxs-lookup"><span data-stu-id="bd9fc-103">Appendix B - FastTrack Center HIPAA Business Associate Agreement</span></span>
+# <a name="appendix-b---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="97348-103">Apéndice B: Contrato de socio empresarial para HIPAA del Centro de FastTrack</span><span class="sxs-lookup"><span data-stu-id="97348-103">Appendix B - FastTrack Center HIPAA Business Associate Agreement</span></span>
 
-<span data-ttu-id="bd9fc-104">Si tiene un Contrato de asociación comercial (BAA) según las normas HIPAA con Microsoft, todos los servicios que aparecen en [Ventajas del Centro de FastTrack para Office 365](O365-fasttrack-benefit-for-office-365.md) se ofrecen de conformidad con dicho BAA:</span><span class="sxs-lookup"><span data-stu-id="bd9fc-104">If you have a HIPAA Business Associate Agreement (BAA) agreed with Microsoft, all services listed in the [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md) are performed in accordance with that BAA.</span></span>
+<span data-ttu-id="97348-104">Si tiene un Contrato de asociación comercial (BAA) según las normas HIPAA con Microsoft, todos los servicios que aparecen en [Ventajas del Centro de FastTrack para Office 365](O365-fasttrack-benefit-for-office-365.md) se ofrecen de conformidad con dicho BAA:</span><span class="sxs-lookup"><span data-stu-id="97348-104">If you have a HIPAA Business Associate Agreement (BAA) agreed with Microsoft, all services listed in the [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md) are performed in accordance with that BAA.</span></span>
 
 
