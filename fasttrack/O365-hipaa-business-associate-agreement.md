@@ -1,5 +1,5 @@
 ---
-title: 'Apéndice B: acuerdos de asociación empresarial de HIPAA del centro FastTrack'
+title: 'Apéndice B: Contrato de socio empresarial para HIPAA del Centro de FastTrack'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -16,7 +16,7 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 07/01/2020
 ms.locfileid: "45011422"
 ---
-# <a name="appendix-b---fasttrack-center-hipaa-business-associate-agreement"></a>Apéndice B: acuerdos de asociación empresarial de HIPAA del centro FastTrack
+# <a name="appendix-b---fasttrack-center-hipaa-business-associate-agreement"></a>Apéndice B: Contrato de socio empresarial para HIPAA del Centro de FastTrack
 
 Si tiene un Contrato de asociación comercial (BAA) según las normas HIPAA con Microsoft, todos los servicios que aparecen en [Ventajas del Centro de FastTrack para Office 365](O365-fasttrack-benefit-for-office-365.md) se ofrecen de conformidad con dicho BAA:
 

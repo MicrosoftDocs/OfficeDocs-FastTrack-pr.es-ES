@@ -142,27 +142,27 @@ Para la ATP de Office 365, proporcionamos instrucciones para:
 
 ![Diagrama de ATP de Office 365 (incorporación)](media/Office-365-Advanced-Threat-Protector-orange-3.png)
 
-## <a name="microsoft-information-governance"></a>Gobierno de Información de Microsoft
+## <a name="microsoft-information-governance"></a>Gobernanza de información de Microsoft
 
-Para la gobernanza de Información de Microsoft, proporcionamos instrucciones para:
+Para la Gobernanza de información de Microsoft, proporcionamos instrucciones para:
 
-- Gobernanza de la información.
-- Etiquetas de retención y directivas.
+- Gobernanza de la información
+- Etiquetas y directivas de retención
 - Administración de registros
-- Directiva de eliminación
+- Directivas de eliminación
 - Cumplimiento de comunicaciones
 - Administración de riesgos internos 
-- eDiscovery avanzado.
+- eDiscovery avanzado
 
-## <a name="microsoft-information-protection"></a>Protección de Información de Microsoft
+## <a name="microsoft-information-protection"></a>Protección de la información de Microsoft
 
-Para la protección de la Información de Microsoft, proporcionamos instrucciones para:
-- Averigüe los datos en el explorador de contenido y en el explorador de actividades.
-- Etiquetas de sensibilidad.
+Para la Protección de la información de Microsoft, proporcionamos instrucciones para:
+- Conozca sus datos en el explorador de contenido y en el explorador de actividades.
+- Etiquetas de sensibilidad
 - Clasificación de los datos
 - Las directivas de protección de pérdida de datos (DLP) de las charlas y canales de Microsoft Teams.
-- Protección de la información.
-- Etiquetado unificado.
+- Protección de la información
+- Etiquetado unificado
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
