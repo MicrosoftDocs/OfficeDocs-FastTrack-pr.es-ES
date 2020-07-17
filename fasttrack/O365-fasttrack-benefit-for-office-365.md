@@ -11,7 +11,7 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: You use the FastTrack Center Benefit for Office 365 when you purchase at least 150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.
+description: Puede usar Ventajas del Centro de FastTrack para Office 365 si adquiere al menos 150 licencias de un plan o servicio elegible para el espacio empresarial de Office 365. Luego trabajará con especialistas de FastTrack para evaluar, corregir, habilitar e impulsar el uso de esos servicios. Estos especialistas también ofrecen orientación sobre la migración.
 ms.openlocfilehash: 0054d89adf0948dafd62748e1653c4e6e6f91a67
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -21,12 +21,12 @@ ms.locfileid: "45011350"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Ventajas del Centro de FastTrack para Office 365
 
-You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance. 
+Puede usar Ventajas del Centro de FastTrack para Office 365 si adquiere *al menos* 150 licencias de un plan o servicio elegible para el espacio empresarial de Office 365. Luego trabajará con especialistas de FastTrack para evaluar, corregir, habilitar e impulsar el uso de esos servicios. Estos especialistas también ofrecen orientación sobre la migración. 
   
 > [!NOTE]
 > A efectos de este documento, los especialistas de FastTrack pueden incluir a los empleados de Microsoft, así como a los proveedores y partners aprobados por Microsoft. 
   
-To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).
+Para poder optar a los servicios de migración de Centro FastTrack, su espacio empresarial de Office 365 debe contar al menos con 500 licencias. Para obtener más información, vea [Migración de datos](O365-data-migration.md).
   
 Para obtener más información sobre los servicios y planes elegibles, vea [Servicios y planes elegibles](M365-eligible-services-and-plans.md).
   
@@ -49,7 +49,7 @@ Para obtener información sobre las ventajas por servicio que proporciona FastTr
 - [Skype Empresarial Online](O365-fasttrack-responsibilities.md#skype-for-business-online)
 - [Yammer Enterprise](O365-fasttrack-responsibilities.md#yammer-enterprise)
   
-Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? It includes information about:
+¿Busca [Beneficio de incorporación y migración a Microsoft FastTrack para Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? Incluye información sobre:
   
 - Microsoft Intune
 - Azure Active Directory Premium 

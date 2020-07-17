@@ -61,7 +61,7 @@ Para obtener más información, vea [¿Qué es Windows Virtual Desktop?](https:/
 ## <a name="out-of-scope"></a>Fuera de ámbito
 
 Los servicios de FastTrack no incluyen:
-- App inventory and testing to determine what does and doesn't work on Windows 10 and Microsoft 365 Apps. For more guidance on this process, visit the [Desktop Deployment Center](https://go.microsoft.com/fwlink/?linkid=2080140). If you're interested in an in-depth upgrade readiness assessment, complete the [Customer Request for Modern Desktop Assessment](https://go.microsoft.com/fwlink/?linkid=2053818) form.
+- Inventario y pruebas de aplicaciones para determinar lo que funciona y lo que no en Windows 10 y en las Aplicaciones de Microsoft 365. Para obtener más información sobre este proceso, visite el [Centro de implementación de escritorios](https://go.microsoft.com/fwlink/?linkid=2080140). Si está interesado en una evaluación detallada de la preparación para la actualización, complete el formulario [Solicitud de cliente para la evaluación del escritorio moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Buscar instrucciones de compatibilidad y soporte técnico de Windows 10 en aplicaciones ISV de terceros. Para más información, vea [Análisis de escritorio](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Servicios de solo empaquetado de la aplicación. Sin embargo, el equipo de App Assure crea paquetes de aplicaciones que hemos corregido para Windows 10 para asegurarse de que se pueden implementar en el entorno del cliente.
 

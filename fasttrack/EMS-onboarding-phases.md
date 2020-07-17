@@ -82,7 +82,7 @@ La incorporación principal implica el aprovisionamiento de servicios y la integ
 
 ![Fase de habilitación de incorporación: capacidades principales](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
+> WAP son las siglas de Proxy de aplicación web. SSL son las siglas de Capa de sockets seguros. SDS son las siglas de School Data Sync Para obtener más información sobre SDS, consulte [Le damos la bienvenida a School Data Sync de Microsoft](https://go.microsoft.com/fwlink/?linkid=871480).
 
 > [!NOTE]
 > Un método de autenticación administrado incluye, entre otras cosas, la sincronización de hash de contraseña. La integración de identidad es una actividad de una sola vez y no incluye la migración o el retiro de los métodos de autenticación existentes, como, por ejemplo, administrado o federado.
