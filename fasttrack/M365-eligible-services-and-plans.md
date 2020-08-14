@@ -10,12 +10,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Cuando compre cualquier servicio de Office 365, los especialistas de FastTrack le ofrecerán instrucciones para que se incorpore a Microsoft 365 y comience a usarlo.
-ms.openlocfilehash: bdd1ce3f98a807d6c07002741b5092390463bf86
-ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
+ms.openlocfilehash: af2b1b5cf45866889e17e8b5616ae98da9ef4173
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46534041"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634198"
 ---
 # <a name="eligible-services-and-plans"></a>Planes y servicios elegibles
 
@@ -30,15 +30,15 @@ Para obtener ayuda en el [Centro de administración de Office 365](https://go.mi
 
 Para obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Seleccione **Solicitar asistencia para Microsoft 365** en **acciones rápidas**, situado en la parte superior de la página de aterrizaje, o bien seleccione **Solicitar asistencia para Microsoft 365** en la tarjeta de implementación.
-3.    Complete el formulario **Solicitar asistencia para Microsoft 365**.
+2.    Seleccione **Solicitar asistencia con Microsoft 365** en las **acciones rápidas** en la parte superior de la página de aterrizaje.
+3.    Complete el formulario **Solicitar asistencia con Microsoft 365**.
   
 Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para hacerlo:
 1.    Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Haga clic en **Mis clientes**.
-3.    Busque el cliente o selecciónelo en la lista de clientes.
-4.    Haga clic en **Servicios**.
-5.    Complete el formulario **Solicitar asistencia para Microsoft 365**.
+2.    Seleccione **Solicitar asistencia con Microsoft 365** en las **acciones rápidas** en la parte superior de la página de aterrizaje.
+3.    Para buscar el cliente, escriba el nombre del cliente, dominio o TPID.
+4.    Seleccione el cliente en los resultados de la búsqueda.
+5.    Complete el formulario **Solicitar asistencia con Microsoft 365**.
 
 También puede solicitar ayuda del Centro FastTrack en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en la lista de servicios disponibles para su espacio empresarial. 
 

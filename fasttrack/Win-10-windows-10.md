@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack proporciona instrucciones de implementación para Windows 10 para ayudarle a actualizar de Windows 7 Professional y Windows 8,1 Professional a Windows 10 Enterprise.
-ms.openlocfilehash: 0aa98b787af20c12f851033b0524d450fd0fcb87
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
-ms.translationtype: MT
+ms.openlocfilehash: da069420434a8087c661f77400edd9239f56c366
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011518"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634174"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -41,14 +41,13 @@ Puede obtener ayuda mediante el [Centro de administración de Microsoft 365](htt
 
 Para obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Seleccione **Solicitar asistencia para Microsoft 365** en **acciones rápidas**, situado en la parte superior de la página de aterrizaje, o bien seleccione **Solicitar asistencia para Microsoft 365** en la tarjeta de implementación.
-3.    Complete el formulario **Solicitar asistencia para Microsoft 365**.
+2.    Seleccione **Solicitar asistencia con Microsoft 365** en las **acciones rápidas** en la parte superior de la página de aterrizaje.
+3.    Complete el formulario **Solicitar asistencia con Microsoft 365**.
   
 Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para hacerlo:
 1.    Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Haga clic en **Mis clientes**.
-3.    Busque el cliente o selecciónelo en la lista de clientes.
-4.    Haga clic en **Servicios**.
-5.    Seleccione el formulario **Solicitar asistencia para Microsoft 365**.
-6.    Seleccione la opción producto de Windows 10 y complete el formulario.
+2.    Seleccione **Solicitar asistencia con Microsoft 365** en las **acciones rápidas** en la parte superior de la página de aterrizaje.
+3.    Para buscar el cliente, escriba el nombre del cliente, dominio o TPID.
+4.    Seleccione el cliente en los resultados de la búsqueda.
+5.    Complete el formulario **Solicitar asistencia con Microsoft 365**.
  
