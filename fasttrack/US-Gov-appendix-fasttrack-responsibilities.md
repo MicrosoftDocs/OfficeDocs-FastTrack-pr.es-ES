@@ -3,19 +3,19 @@ title: Responsabilidades de FastTrack para Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: fdd8970a88b70a8746200a8dc66e20562c9b9b19
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bc8c0e76a11f9e159303b7f4140e3f9fd9144ce2
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011626"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776482"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades de FastTrack para Office 365 US Government
 
@@ -36,7 +36,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
 
 - Mantener una llamada sobre la correcta planificación para ayudar a mejorar para la aceptación por parte de los usuarios.  
 - Proporcionar información general administrativa.  
-- Proporcionar instrucciones acerca de: 
+- Proporcionar orientación acerca de: 
   - Necesidades de sistema de nombres de dominio (DNS), red e infraestructura.  
   - Necesidades del cliente (explorador de Internet, sistema operativo de cliente, dispositivo móvil y necesidades de servicios).
   - Identidad y aprovisionamiento de usuarios. 
@@ -69,7 +69,7 @@ Los especialistas de FastTrack tienen las siguientes responsabilidades durante l
     
 ## <a name="enable-phase"></a>Fase de habilitación
 
-Proporcionar instrucciones acerca de: 
+Proporcionar orientación acerca de: 
 - Evaluar el progreso del éxito de la planeación y averiguar si necesita más ayuda.    
 - Activar el espacio empresarial de Office 365.
 - Configurar los protocolos TCP/IP y puertos del firewall.   
@@ -95,18 +95,18 @@ Proporcionar instrucciones acerca de:
     
 ## <a name="exchange-online"></a>Exchange Online
 
-Proporcionar instrucciones acerca de: 
+Proporcionar orientación acerca de: 
 - Crear o actualizar los registros DNS.    
 - Habilitar el enrutamiento de correo electrónico entre el sistema de mensajería de origen y los entornos de Office 365.    
 - Configurar las características de Protección de Exchange Online (incluidas las características de Protección contra amenazas avanzada de Exchange Online si están disponibles en su suscripción) y comprobar que los registros MX se refieren a Office 365 para todos los dominios habilitados para correo que se han validado.   
 - Configurar una instalación híbrida entre una sola organización de Exchange local y Office 365 *o* entre varias organizaciones de Exchange local y Office 365. 
 - Configuración de la mensajería unificada (UM) con Exchange Online (la mensajería unificada no está disponible en los planes DoD de GCC). 
     
-Para obtener más información sobre las responsabilidades relativas a la migración de datos, vea [Migración de datos](O365-data-migration.md).
+Para obtener más información sobre las responsabilidades relativas a la migración de datos, vea [Migración de datos](data-migration.md).
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
-Proporcionar instrucciones acerca de:
+Proporcionar orientación acerca de:
 - Configurar el aprovisionamiento de usuarios, incluidas las licencias.   
 - Habilitar la creación de sitios para el administrador de SharePoint Online.   
 - Planificar las colecciones de sitios.   
@@ -139,7 +139,7 @@ Proporcionar orientación acerca de:
     
 ## <a name="skype-for-business-online"></a>Skype Empresarial Online
 
-Proporcionar instrucciones acerca de:
+Proporcionar orientación acerca de:
 - Aprovisionar identidades de Skype Empresarial para Office 365.   
 - Habilitar conferencias en línea, mensajería instantánea (MI) y características de presencia de Office 365.  
 - Creación de cuentas para asociar a los dispositivos de sistema de salas de reuniones compatibles (hasta 10 cuentas).    
@@ -158,7 +158,7 @@ Proporcionar instrucciones acerca de:
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Proporcionar instrucciones acerca de:
+Proporcionar orientación acerca de:
 - Confirmación de requisitos mínimos.   
 - Configuración de puertos del firewall.  
 - Configuración de DNS.  

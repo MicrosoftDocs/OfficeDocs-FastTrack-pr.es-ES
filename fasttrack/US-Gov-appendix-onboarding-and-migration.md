@@ -3,19 +3,19 @@ title: Fases de incorporación y migración de Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'La incorporación de Office 365 para Office 365 el gobierno de Estados Unidos tiene cuatro fases principales: Inicio, evaluación, corrección y habilitación. Puede seguir estas fases de una fase opcional de migración de datos, como se muestra en la figura siguiente.'
-ms.openlocfilehash: a1c18b08e1be0cbb0afc26e9736d9b13c027de8f
-ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.openlocfilehash: bc7f6040e6e7be01395e13f4b6af6d46074fa987
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634222"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776494"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de incorporación y migración de Office 365 US Government
 
@@ -35,17 +35,17 @@ Para obtener ayuda en el [Centro de administración de Office 365](https://go.mi
 
 Para obtener ayuda a través del [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Seleccione **solicitar asistencia con Microsoft 365** de las **acciones rápidas** en la parte superior de la página de aterrizaje.
-3.    Complete el formulario de **solicitud de asistencia con Microsoft 365** .
+2.    Seleccione **Solicitar asistencia con Microsoft 365** en las **acciones rápidas** en la parte superior de la página de aterrizaje.
+3.    Complete el formulario **Solicitar asistencia con Microsoft 365**.
   
 Los partners también pueden obtener ayuda en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en nombre de un cliente. Para hacerlo:
 1.    Inicie sesión en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Seleccione **solicitar asistencia con Microsoft 365** de las **acciones rápidas** en la parte superior de la página de aterrizaje.
-3.    Para buscar el cliente, escriba el nombre del cliente, el dominio o TPID.
-4.    Seleccione cliente en los resultados de la búsqueda.
-5.    Complete el formulario de **solicitud de asistencia con Microsoft 365** .
+2.    Seleccione **Solicitar asistencia con Microsoft 365** en las **acciones rápidas** en la parte superior de la página de aterrizaje.
+3.    Para buscar el cliente, escriba el nombre del cliente, dominio o TPID.
+4.    Seleccione el cliente en los resultados de la búsqueda.
+5.    Complete el formulario **Solicitar asistencia con Microsoft 365**.
 
-También puede solicitar ayuda del Centro FastTrack en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en la lista de servicios disponibles para su cuenta empresarial. 
+También puede solicitar ayuda del Centro FastTrack en el [sitio de FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) en la lista de servicios disponibles para su espacio empresarial. 
     
 Durante esta fase, analizaremos el proceso de incorporación, comprobaremos los datos y estableceremos una reunión inicial.
   
@@ -103,7 +103,7 @@ En cuanto a Exchange Online, le guiamos a lo largo del proceso para preparar la 
 - Configuración del flujo de correo electrónico entre su entorno de mensajería de origen y Exchange Online (si procede).   
 - Operación de migración de correo desde el entorno de mensajería de origen a Office 365.   
     > [!NOTE]
-    > Para obtener más información sobre la migración de datos y correo, vea [Migración de datos](O365-data-migration.md). 
+    > Para obtener más información sobre la migración de datos y correo, vea [Migración de datos](data-migration.md). 
   
 ![Pasos de la incorporación de Exchange durante la fase de habilitación](media/O365-Onboarding-Enable-Exchange.png)
   
