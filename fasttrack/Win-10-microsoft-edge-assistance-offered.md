@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Si adquiere alguno de los servicios de Windows 10 o de Microsoft 365 (tal y como se detalla en Servicios y planes elegibles), los especialistas de FastTrack le proporcionarán de forma remota instrucciones de implementación y asistencia sobre la compatibilidad si tiene una aplicación o un sitio web que funcione con Internet Explorer o Google Chrome.
-ms.openlocfilehash: 23cd4ea46bb13255acf975ee2ee727dd307a59b0
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 7dbbe81784e208898ee35e8036a7ac7403cfe5c3
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800708"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817633"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida
 

@@ -7,15 +7,15 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explican los requisitos de elegibilidad para recibir asistencia interactiva y a distancia de especialistas de FastTrack incluidos en la compra de licencias de Microsoft 365 y detalles sobre los productos y características específicos que se tratan.
-ms.openlocfilehash: f89c4f090ca08795d7ba7bc311e7f218e004da9f
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46777159"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817573"
 ---
 # <a name="eligibility"></a>Requisitos de idoneidad
 

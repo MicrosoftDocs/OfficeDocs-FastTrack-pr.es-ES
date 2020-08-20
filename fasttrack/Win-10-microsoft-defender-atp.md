@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: La ventaja Centro de FastTrack de Windows 10 ofrece acceso a la protección contra amenazas avanzada de Microsoft Defender (ATP), un nuevo servicio concebido para ayudar a las redes empresariales a impedir, detectar e investigar amenazas avanzadas y actuar ante ellas.
-ms.openlocfilehash: 124f0d85888114d5c9d22f25302d61c157599866
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 98a1978d5f1585613d6e24f28bb6bc54e608c76c
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800732"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817645"
 ---
 # <a name="microsoft-defender-advanced-threat-protection"></a>Protección contra amenazas avanzada de Microsoft Defender
 

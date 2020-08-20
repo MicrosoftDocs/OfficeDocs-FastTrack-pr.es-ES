@@ -7,14 +7,14 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 description: Los clientes que compren al menos 20 000 licencias para un espacio empresarial de Exchange Online son elegibles para los servicios adicionales del Centro de FastTrack. Para más información, vea Servicios y planes elegibles.
-ms.openlocfilehash: 833d53b2b3e27aff99bf9b329d68b53804f9f27a
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 48559090e5fe55cf0001a5e11793dec75a12dfaf
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800924"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817549"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>Apéndice A - Beneficio adicional del Centro de FastTrack
 

@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Al adquirir uno de los servicios de Windows 10 o de Microsoft 365, los especialistas de FastTrack proporcionan instrucciones remotas de implementación para proteger los puntos de conexión. Nuestro servicio se adapta al entorno y a las necesidades de cada cliente.
-ms.openlocfilehash: 05b466e1136344294da3e277c9a0e60370e42588
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: bf488a2cbe1c61083425171de6942b5db59e58ad
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800720"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817657"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 

@@ -7,15 +7,15 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Este tema incluye detalles sobre los escenarios de carga de trabajo compatibles con FastTrack y las expectativas del entorno de origen necesarias antes de que podamos comenzar. En función de la configuración actual, trabajamos con usted para crear un plan de corrección que incorpore el entorno de origen a los requisitos mínimos para la incorporación correcta.
-ms.openlocfilehash: 1b1ffa5812905630723b5d8a23196fbbc18a9c32
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: d25c1df8e628f14487952cacc86ccf8fb9dad8c1
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800972"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817705"
 ---
 # <a name="products-and-capabilities"></a>Productos y capacidades
 
@@ -605,7 +605,7 @@ Ya debe:
 </tbody>
 </table>
 
-## <a name="windows-10"></a>Windows 10
+## <a name="windows-10"></a>Windows 10
 
 <table>
 <thead>
@@ -660,7 +660,7 @@ Para actualizar la infraestructura, debe cumplir con estos requisitos:
 </ul>
 
 <tr class="odd">
-<td><strong>Protección contra amenazas avanzada de Microsoft defender (ATP)</strong></td>
+<td><strong>Protección contra amenazas avanzada de Microsoft Defender (ATP).</strong></td>
 <td>  La Protección contra amenazas avanzada de Microsoft Defender (ATP) es una plataforma concebida para ayudar a las redes empresariales a impedir, detectar e investigar amenazas avanzadas y actuar ante ellas.  
   Proporcionamos instrucciones remotas para:
 <ul>
