@@ -14,7 +14,7 @@ ms.collection: FastTrack
 description: FastTrack de Microsoft 365 proporciona orientación para la planeación, implementación y adopción, incluyendo el acceso remoto a los conocimientos de ingeniería de Microsoft, procedimientos recomendados, herramientas y recursos. FastTrack de Microsoft 365 ayuda a las organizaciones y sus partners a acelerar la implementación y obtener la adopción del usuario final de Office 365, Windows 10 y Enterprise Mobility + Security.
 ms.openlocfilehash: 2e0c429de0a3557260e9c9689514d8f1728e639e
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800948"
@@ -22,7 +22,7 @@ ms.locfileid: "46800948"
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Ventajas del Centro de FastTrack para Microsoft 365
 
 > [!CAUTION]
-> Este contenido ya no está actualizado y está programado para su eliminación. Use la tabla de contenido en el panel de navegación izquierdo para el contenido actual.
+> Este contenido ya no es actual y está programado para su eliminación. Use la tabla de contenido en el panel de navegación de la parte izquierda para el contenido actual.
 
 Las ventajas del centro FastTrack de Microsoft 365 proporcionan orientación para la planeación, implementación y adopción, incluyendo el acceso remoto a los conocimientos de ingeniería de Microsoft, procedimientos recomendados, herramientas y recursos. FastTrack de Microsoft 365 ayuda a las organizaciones y sus partners a acelerar la implementación y obtener la adopción del usuario final de Office 365, Windows 10 y Enterprise Mobility + Security. FastTrack está incluido en su suscripción de Microsoft 365 válida y sin coste adicional, y puede ayudarle a incorporar los servicios de Microsoft 365, migrar datos, proteger la organización contra amenazas de ciberseguridad, habilitar trabajo en equipo eficaz y mantener los dispositivos y aplicaciones actualizados. Esto incluye:
 

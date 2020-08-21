@@ -12,7 +12,7 @@ ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
 ms.openlocfilehash: c881976636243b258623c61ca1406a179177a063
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800864"
@@ -20,7 +20,7 @@ ms.locfileid: "46800864"
 # <a name="fasttrack-responsibilities"></a>Responsabilidades de FastTrack
 
 > [!CAUTION]
-> Este contenido ya no está actualizado y está programado para su eliminación. Use la tabla de contenido en el panel de navegación izquierdo para el contenido actual.
+> Este contenido ya no es actual y está programado para su eliminación. Use la tabla de contenido en el panel de navegación de la parte izquierda para el contenido actual.
 
 Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.\*
   
@@ -126,32 +126,32 @@ Proporcionar instrucciones acerca de:
 
 Proporcionar orientación acerca de:
 - Administración de registros
-  - Aplicar permisos para la administración de registros.
-  - Guía para la conversión de planes de archivos y programaciones de retención en etiquetas y directivas.
-  - Crear etiquetas de retención y directivas.
+  - Aplicar permisos para la administración de registros
+  - Instrucciones para transformar los planes de archivo y programaciones de retención en etiquetas y directivas.
+  - Creación de directivas y etiquetas de retención.
   - Establecer directivas de eliminación.
-  - Revisión de elementos para disposición.
-- Administración de riesgos de Insider.
-  - Habilitación de los registros de auditoría de Office 365.
-  - Configurar las opciones de administración de riesgos de Insider.
-  - Crear directivas de riesgos de Insider mediante las guías integradas.
-  - Configuración de permisos para el cumplimiento de la comunicación.
-  - Crear directivas de cumplimiento de comunicaciones mediante plantillas personalizables.
-  - Supervisión y revisión de alertas.
+  - Revisar elementos para su eliminación.
+- Administración de riesgos internos.
+  - Habilitar los registros de auditoría de Office 365.
+  - Establecer la configuración de administración de riesgos internos.
+  - Crear directivas de riesgo interno con las guías integradas.
+  - Configuración de permisos para el cumplimiento de las comunicaciones.
+  - Creación de directivas de cumplimiento de comunicación mediante plantillas personalizables.
+  - Supervisar y revisar las alertas.
 - Gobernanza de la información
-  - Aplicación de permisos para el gobierno de la información.
-  - Crear etiquetas de retención.
-  - Publishing Retention Labels (manual and auto).
+  - Aplicar permisos para la gobernanza de la información.
+  - Creación de etiquetas de retención.
+  - Publicar etiquetas de retención (manual y automáticamente).
   - Creación de trabajos de importación.
 - eDiscovery avanzado
-  - Datos que no son de Office 365.
-  - Establecimiento de permisos.
-  - Crear casos.
-  - Adición de custodios. 
+  - Datos que no son de Office 365
+  - Establecer permisos.
+  - Creación de casos.
+  - Agregar custodios. 
   - Suspensiones legales.
-  - Realiza.
-  - Revisar conjuntos.
-  - Exportar contenido.
+  - Búsqueda.
+  - Conjuntos de reseñas.
+  - Exportación de contenido.
 
 ## <a name="microsoft-information-protection"></a>Protección de la información de Microsoft
 
@@ -161,10 +161,10 @@ Proporcionar orientación acerca de:
 - Crear etiquetas de confidencialidad.
 - Aplicar etiquetas de confidencialidad. 
 - Etiquetado unificado
-- Clasificadores que se capacitan.
-- Conocer los datos con el explorador de contenido y el explorador de actividades.
-- Publicar etiquetas usando directivas (manuales y automáticas).
-- Crear directivas de prevención de pérdida de datos (DLP) para los canales y chats de Microsoft Teams.
+- Clasificadores que se pueden entrenar.
+- Conocer sus datos con el explorador de contenido y el explorador de actividades.
+- Publicar etiquetas mediante las directivas (manual y automático).
+- Crear directivas de protección de pérdida de datos (DLP) de los chats y canales de Microsoft Teams.
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 

@@ -12,7 +12,7 @@ ms.collection: FastTrack
 description: Cuando compre cualquier servicio de Office 365, los especialistas de FastTrack le ofrecerán instrucciones para que se incorpore a Microsoft 365 y comience a usarlo.
 ms.openlocfilehash: 8b538abb0ffd5efc6ca2fbc6813c6535cae39ff8
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: es-ES
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800960"
@@ -20,7 +20,7 @@ ms.locfileid: "46800960"
 # <a name="eligible-services-and-plans"></a>Planes y servicios elegibles
 
 > [!CAUTION]
-> Este contenido ya no está actualizado y está programado para su eliminación. Use la tabla de contenido en el panel de navegación izquierdo para el contenido actual.
+> Este contenido ya no es actual y está programado para su eliminación. Use la tabla de contenido en el panel de navegación de la parte izquierda para el contenido actual.
 
 Cuando compre cualquier servicio de Office 365, los especialistas de FastTrack le ofrecerán instrucciones para que se incorpore a Microsoft 365 y comience a usarlo.
 
