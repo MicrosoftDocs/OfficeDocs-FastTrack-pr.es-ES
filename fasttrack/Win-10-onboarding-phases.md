@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: 'La incorporación de Windows 10 consta de cuatro fases principales: inicio, evaluación, corrección y habilitación.'
-ms.openlocfilehash: a7047bbec148fa6bbe49d8bb84f8a73f2a132e0d
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 02067415d8fa34d353a96d811c18fde30d18e8ab
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817561"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338478"
 ---
 # <a name="onboarding-phases"></a>Fases de incorporación
 
 > [!CAUTION]
-> Este contenido ya no está actualizado y está programado para su eliminación. Use la tabla de contenido en el panel de navegación izquierdo para el contenido actual.
+> Este contenido ya no es actual y está programado para su eliminación. Use la tabla de contenido en el panel de navegación de la parte izquierda para el contenido actual.
 
 La incorporación de Windows 10 consta de cuatro fases principales: inicio, evaluación, corrección y habilitación.
 

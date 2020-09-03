@@ -9,22 +9,22 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0623391ccd8d5125c1a8dfeed798b174718f6a7f
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 7a5b82c1bd819a403050821c3c560ef6e78349f0
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817249"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338574"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Información general sobre las ventajas del Centro de FastTrack
 
 > [!CAUTION]
-> Este contenido ya no está actualizado y está programado para su eliminación. Use la tabla de contenido en el panel de navegación izquierdo para el contenido actual.
+> Este contenido ya no es actual y está programado para su eliminación. Use la tabla de contenido en el panel de navegación de la parte izquierda para el contenido actual.
 
 Con las ventajas del Centro de FastTrack para Microsoft Azure Active Directory Premium, Microsoft Intune y Azure Information Protection, trabajará de forma remota con especialistas de FastTrack para preparar su entorno y planear su implementación y uso en la organización. Para obtener más información sobre la idoneidad, vea el [Proceso de las ventajas del Centro de FastTrack para Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
 
