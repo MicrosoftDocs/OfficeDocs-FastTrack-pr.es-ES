@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10, los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y en las Aplicaciones de Microsoft 365 y mantenerse al día sin coste adicional (con una suscripción válida).
-ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
+ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817693"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48206257"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 
@@ -36,6 +36,13 @@ FastTrack ofrece asistencia para las aplicaciones implementadas en los siguiente
 
 - Las aplicaciones que funcionaban en Windows 7, Windows 8.1, Office 2010 y Office 2013 también funcionan en Windows 10 y en las Aplicaciones de Microsoft 365.
 
+### <a name="windows-10-on-arm"></a>Windows 10 en ARM
+
+- Las aplicaciones que funcionaban en Windows 7, Office 2010 o versiones posteriores funcionan en aplicaciones de Windows 10 y Microsoft 365 en dispositivos ARM64.
+
+> [!NOTE]
+> Las exclusiones y limitaciones de Windows 10 en ARM incluyen aplicaciones que se basan en controladores de software que no son compatibles con ARM, usan OpenGL o OpenCL, o solo están disponibles en 64 bits (x64).
+
 ### <a name="the-new-microsoft-edge"></a>El nuevo Microsoft Edge
 
 - Si sus aplicaciones web o sitios funcionan en Internet Explorer 11, en versiones compatibles de Google Chrome o en cualquier versión de Microsoft Edge, también funcionarán con el nuevo Microsoft Edge.
@@ -45,13 +52,14 @@ Para obtener instrucciones sobre la implementación de Microsoft Edge, vea [Info
 ### <a name="windows-virtual-desktop"></a>Windows Virtual Desktop
 
 - Las aplicaciones virtualizadas que se ejecutan en el host de sesión de Escritorio remoto (RDSH) de Windows Server también se ejecutan en Windows 10 Enterprise multisesión como parte de Windows Virtual Desktop.
-- Las aplicaciones que se ejecutan en cualquier entorno de infraestructura de escritorio virtual (VDI) de Windows 7 o Windows 10 también se ejecutan en Windows 7 Enterprise y Windows 10 Enterprise como parte de Windows Virtual Desktop.*
-- Las aplicaciones que se ejecutan en dispositivos cliente con Windows 7 o Windows 10 también se ejecutan en Windows 7 Enterprise y Windows 10 Enterprise como parte de Windows Virtual Desktop.\*
+- Las aplicaciones que se ejecutan en cualquier entorno de infraestructura de escritorio virtual (VDI) de Windows 7 o Windows 10 también se ejecutan en Windows 7 Enterprise y Windows 10 Enterprise como parte del escritorio virtual de Windows.
+- Las aplicaciones que se ejecutan en dispositivos cliente con Windows 7 o Windows 10 también se ejecutan en Windows 7 Enterprise y Windows 10 Enterprise como parte de Windows Virtual Desktop.
 
-\*Las limitaciones y exclusiones de compatibilidad multisesión de Windows 10 Enterprise incluyen lo siguiente:
-- Redirección limitada del hardware.
-- Las aplicaciones que hacen un uso intensivo de A/V pueden tener una capacidad reducida.
-- Las aplicaciones de 16 bits no son compatibles con Windows Virtual Desktop de 64 bits.
+> [!NOTE]
+> Las limitaciones y exclusiones de compatibilidad multisesión de Windows 10 Enterprise incluyen lo siguiente: 
+> - Redirección limitada del hardware.
+> - Las aplicaciones que hacen un uso intensivo de A/V pueden tener una capacidad reducida.
+> - Las aplicaciones de 16 bits no son compatibles con Windows Virtual Desktop de 64 bits.
 
 Para obtener más información, vea [¿Qué es Windows Virtual Desktop?](https://docs.microsoft.com/azure/virtual-desktop/overview) y [Preguntas más frecuentes sobre Windows 10 Enterprise multisesión](https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq).
 
