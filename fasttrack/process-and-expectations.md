@@ -3,19 +3,19 @@ title: Procesos y expectativas
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explica cómo participar en la asistencia de FastTrack, cómo se proporciona la asistencia, cómo sugerir sugerencias para tener éxito y cómo entender las responsabilidades clave de FastTrack y su empresa.
-ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817585"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319940"
 ---
 # <a name="process-and-expectations"></a>Procesos y expectativas
 
@@ -43,6 +43,8 @@ Para que el Partner solicite asistencia en su nombre a través del sitio de Fast
 3.  Para buscar el cliente, escriba el nombre del cliente, dominio o TPID.
 4.  Seleccione el cliente en los resultados de la búsqueda.
 5.  Complete el formulario **Solicitar asistencia con Microsoft 365**.
+
+Para solicitar asistencia para el aseguramiento de la aplicación, complete la [solicitud de servicio de aseguramiento](https://go.microsoft.com/fwlink/?linkid=2022721)de la aplicación.
 
 ## <a name="fasttrack-expectations"></a>Expectativas de FastTrack
 

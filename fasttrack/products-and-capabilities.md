@@ -3,19 +3,19 @@ title: Productos y capacidades
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Este tema incluye detalles sobre los escenarios de carga de trabajo compatibles con FastTrack y las expectativas del entorno de origen necesarias antes de que podamos comenzar. En función de la configuración actual, trabajamos con usted para crear un plan de corrección que incorpore el entorno de origen a los requisitos mínimos para la incorporación correcta.
-ms.openlocfilehash: d25c1df8e628f14487952cacc86ccf8fb9dad8c1
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: a3477be6958dea88874bbc042445bbc693c10ffb
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817705"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320036"
 ---
 # <a name="products-and-capabilities"></a>Productos y capacidades
 
@@ -29,8 +29,9 @@ FastTrack proporciona instrucciones para ayudarle primero con las capacidades pr
   - [Office 365](#office-365)
   - [Seguridad de Enterprise Mobility &](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
-  - [App Assure](Win-10-app-assure.md)
-  - [El nuevo Microsoft Edge](Win-10-microsoft-edge.md)
+  - [Windows Virtual Desktop](#windows-virtual-desktop)
+  - [Asesoría de aplicaciones](#app-assure)
+  - [El nuevo Microsoft Edge](#the-new-microsoft-edge)
 
 > [!NOTE]
 > Para obtener información sobre las expectativas del entorno de origen para Office 365 US Government, vea [expectativas del entorno de origen para office 365 US Government](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).
@@ -167,7 +168,7 @@ El software cliente en línea, como Project para Office 365, Outlook para Window
 <li>  Administración de registros  </li>
 <li>  Directivas de eliminación  </li>
 <li>  Cumplimiento de comunicaciones  </li>
-<li>  Administración de riesgos de Insider.  </li>
+<li>  Administración de riesgos internos.  </li>
 <li>  eDiscovery avanzado  </li>
 </ul></td>
 <td>Aparte de la parte de <strong>incorporación principal</strong> en <a href="#general">General</a>, no hay requisitos mínimos del sistema.</td>
@@ -181,10 +182,10 @@ El software cliente en línea, como Project para Office 365, Outlook para Window
 <li>  Crear etiquetas de confidencialidad.  </li>
 <li>  Aplicar etiquetas de confidencialidad.  </li>
 <li>  Etiquetado unificado  </li>
-<li>  Clasificadores que se capacitan.  </li>
-<li>  Conocer los datos con el explorador de contenido y el explorador de actividades.  </li>
-<li>  Publicar etiquetas usando directivas (manuales y automáticas).  </li>
-<li>  Crear directivas de prevención de pérdida de datos (DLP) para los canales y chats de Microsoft Teams.  </li>
+<li>  Clasificadores que se pueden entrenar.  </li>
+<li>  Conocer sus datos con el explorador de contenido y el explorador de actividades.  </li>
+<li>  Publicar etiquetas mediante las directivas (manual y automático).  </li>
+<li>  Crear directivas de protección de pérdida de datos (DLP) de los chats y canales de Microsoft Teams.  </li>
 </ul></td>
 <td>Aparte de la parte de <strong>incorporación principal</strong> en <a href="#general">General</a>, no hay requisitos mínimos del sistema.</td>
 </tr>
@@ -209,18 +210,13 @@ El software cliente en línea, como Project para Office 365, Outlook para Window
 Si procede, también se proporcionan instrucciones para:
 <ul>
 <li>  Dispositivos de Microsoft Teams Room:  </li>
-</ul>
 <ul>
 <li>  Creación de cuentas en línea necesarias para la telefonía admitida y los dispositivos de salas de conferencias que aparecen en el catálogo de dispositivos de Microsoft <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams</a>.  </li>
-</ul>
-<ul>
+<li>  Asistencia remota con la configuración del servicio de dispositivos certificados de salas de Microsoft Teams.  </li>
 <li>  Habilitar audioconferencia:  </li>
-</ul>
-<ul>
-<li>  Configuración de la organización para los parámetros predeterminados de puente de conferencia.  </li>
+<li>  Parámetros predeterminados de la configuración de la organización para puente de conferencia.  </li>
 <li>  Asignación de un puente de conferencia a usuarios con licencia.  </li>
 </ul>
-<ul>
 <li>  Sistema telefónico:
 <ul>
 <li>  Configuración de la organización para los parámetros predeterminados de voz en la nube.  </li>
@@ -232,11 +228,20 @@ Si procede, también se proporcionan instrucciones para:
 </ul></li>
 <li>  Guía de enrutamiento directo:
 <ul>
-<li>  Guía de configuración de organización para el diseño de enrutamiento directo de escenarios hospedados por partners o escenarios implementados por clientes para un único sitio.  </li>
+<li>  Guía de configuración de la organización para el diseño de enrutamiento directo de escenarios hospedados por asociados o escenarios implementados por el cliente para un máximo de 10 sitios.  </li>
+<li> Revisión de la configuración del controlador de borde de sesión (SBC). </li>
+
+<li> Asistencia remota con la configuración del plan de marcado. </li>
+
+<li> Configuración de la ruta de voz.</li>
+
+<li> Omisión de medios y optimización de medios locales. </li>
+
 </ul></li>
 </ul></li>
 <li>  Habilitar eventos en directo en Teams  </li>
 <li>  Configuración e integración de la organización en Microsoft Stream.  </li>
+<li>  Guía para la transición de Skype empresarial a teams.  </li>
 </ul></td>
 <td><ul>
 <li>  Identidades habilitadas en Azure AD para Office 365.  </li>
@@ -341,62 +346,6 @@ Para obtener información sobre cómo usar el beneficio de FastTrack para la mig
 </ul>
   <strong>Nota:</strong> La actualización de entornos de SharePoint local a SharePoint Server no se encuentra en el ámbito. Póngase en contacto con un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">socio de Microsoft</a> para obtener ayuda. Para obtener más información, vea <a href="https://go.microsoft.com/fwlink/?linkid=853548">niveles mínimos de actualización pública para las características híbridas de SharePoint</a><em>.</em>  <br>
   <strong>Nota:</strong> Para obtener información sobre las funciones multigeográficas, consulte <a href="https://go.microsoft.com/fwlink/?linkid=831056">multigeográfico Capabilities in OneDrive and SharePoint Online in Office 365</a><em>.</em>  </td>
-</tr>
-<tr class="odd">
-<td><strong>Skype Empresarial Online</strong></td>
-<td>  Proporcionamos instrucciones remotas para:
-<ul>
-<li>  Configuración de puertos del firewall.  </li>
-
-<li>  Configuración de DNS.  </li>
-<li>  Evaluación de la red:
-<ul>
-<li>  Comprobaciones de puertos y puntos de conexión.  </li>
-<li>  Comprobaciones de calidad de la conexión.  </li>
-<li>  Estimaciones de ancho de banda.  </li>
-</ul></li>
-<li>  Creación de cuentas para cualquier dispositivo del sistema de la sala.  </li>
-<li>  Implementación de un cliente de Skype Empresarial Online compatible.  </li>
-<li>  Establecimiento de una configuración de servidores de dominio dividido entre el entorno de servidor local de Lync 2010, Lync 2013 o Skype Empresarial 2015 y un espacio empresarial de Skype Empresarial Online (si procede), planes de llamada, Difusión de reunión de Skype y sistema telefónico y planes de llamada (en los mercados disponibles).  
-  Si procede, FastTrack también le guiará a lo siguiente:  </li>
-<li>  Configurar el dispositivo del sistema Room:
-<ul>
-<li>  Creación de cuentas en línea necesarias para los dispositivos de sala de conferencias admitidos que aparecen en la pestaña sistemas de salas de reuniones en el <a href="https://go.microsoft.com/fwlink/?LinkId=615775">Catálogo de soluciones de Skype empresarial</a>.  </li>
-</ul></li>
-<li>  Configuración de servidores de dominios divididos y híbridos.  </li>
-<li>  Configuración de audioconferencia:
-<ul>
-<li>  Configuración de la organización para los parámetros predeterminados de puente de conferencia.  </li>
-<li>  Asignación de un puente de conferencia a usuarios con licencia.  </li>
-</ul></li>
-<li>  Configuración de las opciones predeterminadas del sistema telefónico:
-<ul>
-<li>  Planes de llamada:
-<ul>
-<li>  Asignación de números a usuarios de licencias.  </li>
-<li>  Guía de portabilidad de números locales a través de la interfaz de usuario hasta 99  </li>
-<li>  Soporte de solicitud de servicio de portabilidad de número local sobre 999  </li>
-</ul></li>
-</ul></li>
-<li>  Configurar la difusión de reunión de Skype empresarial:
-<ul>
-<li>  Configuración de la organización para los parámetros predeterminados de federación con el servicio de difusión de reunión.  </li>
-</ul></li>
-</ul></td>
-<td>  <strong>Para Lync Hybrid:</strong>  
-<ul>
-<li>  Un solo bosque de Active Directory local.  </li>
-<li>  Un entorno de Lync 2010 Server con las herramientas de administración de Lync 2013 o las herramientas de administración de Skype Empresarial 2015 y un rol de servidor perimetral de Lync 2010.  </li>
-<li>  Un entorno de Lync 2013 Server y un rol de servidor perimetral de Lync 2013.  </li>
-</ul>
-  <strong>Para Skype empresarial híbrido:</strong>  
-<ul>
-<li>  Un solo bosque de Active Directory local.  </li>
-<li>  Un solo bosque de cuentas de Active Directory o superior y topologías de bosques de recursos (Exchange o Skype Empresarial).  </li>
-<li>  Varios bosques de cuentas de Active Directory donde uno de ellos es un bosque de cuentas de Active Directory centralizado con Exchange y/o Skype Empresarial en él.  </li>
-<li>  Un entorno de Skype Empresarial Server 2015 que incluya un rol de servidor perimetral de Skype Empresarial.  </li>
-</ul>
-  <strong>Nota:</strong> Este servicio adicional es para configurar y validar las tareas de dominio dividido (híbrido) y no incluye la introducción de componentes locales (por ejemplo, herramientas de administración de Lync 2013 o de Lync 2013/Skype empresarial online, o Lync 2010, Lync 2013 o servidores perimetrales de Skype empresarial).  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
@@ -524,7 +473,6 @@ Ya debe:
 <li>  Implementación de aplicaciones para cada plataforma admitida a través de vínculos Web o vínculos profundos.  </li>
 <li>  Directivas de acceso condicional.  </li>
 <li>  Implementación de los perfiles de correo electrónico, redes inalámbricas y VPN) si tiene una entidad de certificación, una red inalámbrica o una infraestructura de VPN en su organización.  </li>
-<li>  La configuración de Microsoft Intune Exchange Connector (si es necesario).  </li>
 <li>  Conexión al almacén de datos de Intune.  </li>
 <li>  Integrar Intune con:
 <ul>
@@ -553,11 +501,9 @@ Ya debe:
 
   Le guiamos a través de la preparación para hospedar en la nube entornos de Configuration Manager existentes con Intune. Los pasos detallados dependen del entorno de origen. Los pasos pueden incluir:  
 <ul>
-<li>  Explicar las ventajas de conectar Configuration Manager a la nube con Intune.  </li>
 <li>  Conceder licencias a los usuarios finales.  </li>
 <li>  Configurar las identidades que se van a usar en Intune, al usar las identidades de la nube y Active Directory local.  </li>
 <li>  Agregar usuarios a su suscripción de Intune, definir roles de administrador de TI y crear grupos de usuarios y dispositivos.  </li>
-<li>  Habilitar la conexión a la nube en la consola de Configuration Manager.  </li>
 <li>  Proporciona instrucciones sobre cómo configurar la Unión híbrida de Azure AD.  </li>
 <li>  Proporciona instrucciones sobre cómo configurar Azure AD para la inscripción automática de MDM.  </li>
 <li>  Proporcionar instrucciones sobre cómo configurar Cloud Management Gateway.  </li>
@@ -582,10 +528,7 @@ Ya debe:
   </td>
 <td>  Los administradores de TI deben contar con una entidad de certificación, una red inalámbrica y unas infraestructuras VPN existentes en sus entornos de producción al planear la implementación de perfiles de red inalámbrica y VPN con Intune.  
   <strong>Nota</strong>: el beneficio del servicio FastTrack no incluye asistencia para configurar o configurar entidades de certificación, redes inalámbricas, infraestructuras VPN o certificados push de Apple para Intune.  
-
-<strong>Conectar a la nube Configuration Manager con Microsoft Intune</strong>  
-
- Con la conexión a la nube, los administradores de TI son responsables de preparar el entorno local. Esto puede incluir la corrección de problemas que le impiden asociar en la nube sus entornos de Configuration Manager con Intune.  
+ 
   <strong>Nota</strong>: las ventajas del servicio de FastTrack no incluyen asistencia para configurar o actualizar el servidor de sitio de Configuration Manager ni el cliente de Configuration Manager con los requisitos mínimos necesarios para admitir la conexión a la nube. Póngase en contacto con un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">socio de Microsoft</a> para obtener ayuda.
 
   <strong>Intune integrado con la Protección contra amenazas avanzada de Microsoft Defender (ATP)</strong> 
@@ -618,7 +561,7 @@ Ya debe:
 <tbody>
 <tr class="odd">
 <td><strong>Windows 10</strong></td>
-<td>  Le proporcionamos instrucciones para ayudarle a actualizar de Windows 7 Professional y Windows 8,1 Professional a Windows 10 Enterprise.  
+<td>  Proporcionamos instrucciones para la actualización de Windows 7 Professional y Windows 8,1 Professional a Windows 10 Enterprise.  
   Proporcionamos instrucciones remotas para:
 <ul>
 <li>  Comprender su intención de Windows 10.  </li>
@@ -627,13 +570,11 @@ Ya debe:
 <li>  Recomendar opciones para evaluar las aplicaciones de Windows 10.  </li>
 <li>  Habilitación del uso de análisis de escritorio y orientación mediante la creación de un plan de implementación de análisis de escritorio.  </li>
 <li>  Evaluación de la compatibilidad de las aplicaciones de Microsoft 365 aprovechando el panel de preparación de Office 365 en Configuration Manager o con el kit de herramientas de preparación independiente para Office más asistencia para la implementación de aplicaciones de Microsoft 365.  </li>
-<li>  Evaluar las estrategias de administración modernas, incluido el administrador de configuración con conexión a la nube con Microsoft Intune o la implementación de Intune como la única solución de administración de nube.  </li>
 <li>  Crear una lista de comprobación de corrección sobre lo que debe hacer para llevar el entorno de origen a los requisitos mínimos para una implementación correcta.  </li>
 <li>  Proporciona instrucciones de actualización para los dispositivos existentes a Windows 10 Enterprise si cumplen los requisitos de hardware del dispositivo necesario.  </li>
 <li>  Proporcionar instrucciones de actualización para apoyar el movimiento de implementación existente. FastTrack recomienda y proporciona instrucciones para una actualización local a Windows 10. Las instrucciones también están disponibles para la instalación de imágenes limpias y escenarios de implementación de Windows Autopilot.  </li>
 <li>  Implementación de aplicaciones de Microsoft 365 con Configuration Manager como parte de la implementación de Windows 10.   </li>
 <li>  Proporcionan instrucciones para ayudar a su organización a mantenerse al día con las aplicaciones de Windows 10 Enterprise y Microsoft 365 usando su entorno de Configuration Manager existente o Microsoft 365.  </li>
-<li>  Proporciona instrucciones para habilitar la administración moderna mediante el administrador de configuración con conexión a la nube para Intune o mediante la implementación de Intune Standalone (donde sea necesario).  </li>
 </ul>
   <strong>Lo siguiente está fuera del ámbito </strong>  
 <ul>
@@ -799,5 +740,212 @@ Póngase en contacto con un <a href="https://go.microsoft.com/fwlink/?linkid=208
 </ul></td>
 <td></td>
 
+</tbody>
+</table>
+
+## <a name="windows-virtual-desktop"></a>Windows Virtual Desktop
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Servicio</strong></th>
+<th><strong>Detalles de la guía de FastTrack</strong></th>
+<th><strong>Expectativas del entorno de origen</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Windows Virtual Desktop</strong></td>
+<td><p>Proporcionamos una guía de implementación para la incorporación a escritorio virtual de Windows (un servicio de virtualización de aplicaciones y de escritorio). El escritorio virtual de Windows aprovecha la experiencia de varias sesiones de Windows 10 y está optimizado para Microsoft 365 apps for Enterprise con Integrated Security and Management for Microsoft 365.</p>
+<p>Proporcionamos instrucciones remotas para:</p>
+<ul>
+<li>Implementar el entorno de escritorio virtual de Windows con la sesión múltiple de Windows 10 Enterprise y las aplicaciones de Microsoft 365 para empresas mediante lo siguiente:
+<ul>
+<li>Imagen de Azure Marketplace.</li>
+<li>Imagen compartida.</li>
+<li>Office Deployment Toolkit (ODT).</li>
+</ul></li>
+<li>Configuración de FSLogix:
+<ul>
+<li>Implementación del agente de FSLogix con el contenedor de perfiles.</li>
+<li>Implementación del agente de FSLogix con el contenedor de Office.</li>
+<li>Configuración de la carpeta FSLogix con exclusiones de contenido.</li>
+</ul></li>
+<li>Implementación de Microsoft Edge.</li>
+<li>Implementación de Microsoft Teams.</li>
+<li>Conexión mediante los clientes de escritorio virtuales de Windows.</li>
+</ul>
+
+<strong>Lo siguiente está fuera del ámbito</strong>
+<ul>
+<li>Administración de proyectos de la implementación de escritorio virtual de Windows del cliente.</li>
+<li>Soporte técnico en las instalaciones.</li>
+<li>Virtualización e implementación de aplicaciones de terceros.</li>
+<li>Imágenes personalizadas.</li>
+<li>Migraciones y escenarios que implican VMware y Citrix.</li>
+<li>Escenarios de Linux.</li>
+<li>Conversión o migraciones de perfiles de usuario.</li>
+</ul>
+Póngase en contacto con un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">socio de Microsoft</a>   para obtener ayuda con estos servicios.</td>
+<td>Ya debe tener lo siguiente:
+<ul>
+<li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Requisitos de licencia de escritorio virtual de Windows</a>.</li>
+<li>Redes de Azure:
+<ul>
+<li>Creación y subredes de la red virtual (VNET).</li>
+<li>Grupos de seguridad de red y firewall.</li>
+<li>VPN y ExpressRoute.</li>
+<li>Enrutamiento a Azure desde el sistema local.</li>
+<li>Reglas de Firewall para permitir la conectividad con el escritorio virtual de Windows.
+</ul>
+Para obtener más información, consulte <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients"> clientes de escritorio remoto compatibles</a>.
+</ul>
+<ul><li>Configuración general de Azure AD:
+<ul>
+<li>Estrategia <i>de identidad (solo puede usar una de las tres opciones siguientes):</i>
+<ul>
+<li>Active Directory con Azure AD Connect en Azure.</li>
+<li>Active Directory con Azure AD Connect local a través de VPN o ExpressRoute.</li>
+<li>Servicios de dominio de Active Directory (AD DS).</li>
+</ul></li>
+</ul></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## <a name="app-assure"></a>App Assure
+
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Servicio</strong></th>
+<th><strong>Detalles de la guía de FastTrack</strong></th>
+<th><strong>Productos admitidos</strong></th>
+</tr>
+</thead>
+<tbody>
+</tr>
+<tr class="even">
+<td><strong>Asesoría de aplicaciones</strong></td>
+<td>  La aplicación garantiza un servicio diseñado para solucionar problemas con Windows 10 y la compatibilidad de aplicaciones de Microsoft 365. Cuando solicite a la aplicación garantizar el servicio, trabajamos con usted para solucionar problemas de aplicación válidos sin costo adicional para usted con una suscripción elegible. También ofrecemos orientación a los clientes que se enfrentan a problemas de compatibilidad al implementar el escritorio virtual de Windows y el nuevo Microsoft Edge, y hacer cada uno de los esfuerzos razonables para resolver problemas de compatibilidad. Proporcionamos asistencia de corrección para las aplicaciones implementadas en los siguientes productos de Microsoft:
+<ul>
+<li>  <strong>Windows 10 </strong> (incluidos los dispositivos ARM64)</li>
+<li> <strong>Aplicaciones de Microsoft 365</strong>  </li>
+<li>  <strong>El nuevo Microsoft Edge-</strong> Para obtener instrucciones de implementación, vea <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">información general de los canales de Microsoft Edge</a>.  </li>
+<li>  Escritorio virtual de <strong>Windows</strong> - Para obtener más información, vea <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">¿Qué es el escritorio virtual de Windows?</a> y <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">preguntas más frecuentes sobre la sesión múltiple de Windows 10 Enterprise</a>.  </li>
+</ul>
+
+<strong>Lo siguiente está fuera del ámbito </strong>  
+<ul>
+<li>  Inventario y pruebas de aplicaciones para determinar lo que funciona y lo que no en Windows 10 y en las Aplicaciones de Microsoft 365. Para obtener más información sobre este proceso, visite el <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Centro de implementación de escritorios</a>. Si está interesado en una evaluación detallada de la preparación para la actualización, complete el formulario <a href="https://go.microsoft.com/fwlink/?linkid=2053818">Solicitud de cliente para la evaluación del escritorio moderno</a>.</li>
+<li>  Buscar instrucciones de compatibilidad y soporte técnico de Windows 10 en aplicaciones ISV de terceros. Para más información, vea <a href="https://docs.microsoft.com/sccm/desktop-analytics/overview">Análisis de escritorio</a>.</li>
+<li>Servicios de solo empaquetado de la aplicación. Sin embargo, el equipo de App Assure crea paquetes de aplicaciones que hemos corregido para Windows 10 para asegurarse de que se pueden implementar en el entorno del cliente.</li>
+</ul>
+
+<strong>Las responsabilidades del cliente incluyen</strong>  
+<ul>
+<li>  Creación de un inventario de aplicaciones.</li>
+<li>  Validación de esas aplicaciones en Windows 10 y en las Aplicaciones de Microsoft 365.</li>
+</ul>
+<strong>Nota:</strong>  Microsoft no puede realizar cambios en el código fuente. Sin embargo, el equipo de App Assure puede proporcionar instrucciones a los desarrolladores de aplicaciones si el código fuente está disponible para sus aplicaciones. 
+
+
+  Póngase en contacto con un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">socio de Microsoft</a> para obtener ayuda con estos servicios.  </td>
+
+</td>
+<td><strong>Aplicaciones de Windows 10 y Microsoft 365</strong>
+<ul>
+<li>  
+  Las aplicaciones que funcionaban en Windows 7, Windows 8.1, Office 2010 y Office 2013 también funcionan en Windows 10 y en las Aplicaciones de Microsoft 365.  
+  </li>
+</ul>
+<strong>Windows 10 en ARM</strong>
+<ul>
+<li>  
+Las aplicaciones que funcionaban en Windows 7, Office 2010 o versiones posteriores funcionan en aplicaciones de Windows 10 y Microsoft 365 en dispositivos ARM64. 
+  </li>
+</ul>
+  <strong>Nota:</strong> Las exclusiones y limitaciones de Windows 10 en ARM incluyen:
+<ul>
+<li>  
+ Aplicaciones que se basan en controladores de software que no son compatibles con ARM.  
+  </li>
+<li>  
+  Aplicaciones que usan OpenGL o OpenCL.   
+  </li>
+<li>  
+  Aplicaciones disponibles solo en 64 bits (x64).  
+  </li>
+</ul>
+<strong>El nuevo Microsoft Edge</strong>
+<ul>
+<li>  
+  Si sus aplicaciones web o sitios funcionan en Internet Explorer 11, en versiones compatibles de Google Chrome o en cualquier versión de Microsoft Edge, también funcionarán con el nuevo Microsoft Edge.  
+  </li>
+<li>  
+  A medida que la web evolucione en todo momento, asegúrese de revisar esta lista publicada de <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">los cambios que afectan a la compatibilidad de sitios conocidos para Microsoft Edge</a>.  
+  </li>
+</ul>
+  <strong>Escritorio virtual de Windows </strong>  
+<ul>
+<li>  
+  Las aplicaciones virtualizadas que se ejecutan en el host de sesión de Escritorio remoto (RDSH) de Windows Server también se ejecutan en Windows 10 Enterprise multisesión como parte de Windows Virtual Desktop.  
+  </li>
+<li>  
+  Las aplicaciones que se ejecutan en cualquier entorno de infraestructura de escritorio virtual (VDI) de Windows 7 o Windows 10 también se ejecutan en Windows 7 Enterprise y Windows 10 Enterprise como parte del escritorio virtual de Windows.  
+  </li>
+<li>  
+  Las aplicaciones que se ejecutan en dispositivos cliente con Windows 7 o Windows 10 también se ejecutan en Windows 7 Enterprise y Windows 10 Enterprise como parte de Windows Virtual Desktop.  
+  </li>
+</ul>
+  <strong>Nota:</strong> Las exclusiones y limitaciones de compatibilidad de varias sesiones de Windows 10 Enterprise incluyen:
+<ul>
+<li>  
+  Redirección limitada del hardware.  
+  </li>
+<li>  
+  Las aplicaciones que hacen un uso intensivo de A/V pueden tener una capacidad reducida.  
+  </li>
+<li>  
+  Las aplicaciones de 16 bits no son compatibles con Windows Virtual Desktop de 64 bits.  
+  </li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## <a name="the-new-microsoft-edge"></a>El nuevo Microsoft Edge
+
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Servicio</strong></th>
+<th><strong>Detalles de la guía de FastTrack</strong></th>
+<th><strong>Expectativas del entorno de origen</strong></th>
+</tr>
+</thead>
+<tbody>
+</tr>
+<tr class="even">
+<td><strong>Microsoft Edge</strong> (para clientes de Windows 10 Enterprise)</td>
+<td><ul>
+<li>  Proporcionamos una guía de implementación remota y asistencia de compatibilidad para: implementar el nuevo Microsoft Edge en Windows 10 Enterprise con Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager o Intune).  </li>
+<li>  Configuración de Microsoft Edge (usando directivas de grupo o directivas de aplicación y configuración de aplicaciones de Intune).  </li>
+<li>  Inventario la lista de sitios que pueden requerir uso en el modo de Internet Explorer.  </li>
+<li>  Habilitación del modo de Internet Explorer con la lista de sitios de empresa existente.  
+  Además, si tiene una aplicación web o un sitio que funciona con Internet Explorer o Google Chrome y experimenta problemas de compatibilidad, le proporcionamos instrucciones para resolver el problema sin coste adicional. Consulte <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#app-assure">sure</a> de la aplicación para obtener más información.  </li>
+</ul>
+
+<strong>Lo siguiente está fuera del ámbito </strong>  
+<ul>
+<li>Administración de proyectos de la implementación de Microsoft Edge del cliente.</li>
+<li>  Soporte técnico en las instalaciones.</li>
+
+</td>
+<td></td>
+</tr>
 </tbody>
 </table>

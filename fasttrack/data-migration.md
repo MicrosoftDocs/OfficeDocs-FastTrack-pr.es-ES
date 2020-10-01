@@ -3,19 +3,19 @@ title: Migración de datos
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack puede ayudarle a migrar datos de correo y archivos en los entornos de origen a Office 365 (Exchange Online, SharePoint Online y OneDrive para la Empresa). El tipo de asistencia que proporcionamos depende del número de licencias de Office 365.
-ms.openlocfilehash: 6b2c9cc3afba415c200b14fe34e65f1c3286e450
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817717"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319952"
 ---
 # <a name="data-migration"></a>Migración de datos
 
@@ -281,6 +281,7 @@ En la siguiente tabla se muestran los detalles de la migración específicos par
 <li> Contenido que no es propiedad de la cuenta de Google Drive que se migra </li>
 <li> Permisos y metadatos básicos de usuarios externos (<strong>Nota</strong>: Use los informes de administrador de Google Drive para identificar el contenido compartido con usuarios externos. Indique a los usuarios finales que deben volver a compartir el contenido con los usuarios externos después de la migración). </li>
 <li> Permisos de suscripción a una unidad compartida (<strong>Nota</strong>: Use los informes de administrador de Google Drive para identificar las suscripciones a las unidades compartidas. Indique a los usuarios finales que configuren estas opciones de suscripción en el destino antes de la migración). </li>
+<li> Archivos marcados como restringidos o no copiables </li>
 <li> Archivos o carpetas que superen las actuales  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">Restricciones y limitaciones de SharePoint Online</span></a> </li>
 </ul></td>
 </tr>

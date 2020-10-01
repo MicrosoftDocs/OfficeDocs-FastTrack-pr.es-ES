@@ -3,19 +3,19 @@ title: Requisitos de idoneidad
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explican los requisitos de elegibilidad para recibir asistencia interactiva y a distancia de especialistas de FastTrack incluidos en la compra de licencias de Microsoft 365 y detalles sobre los productos y características específicos que se tratan.
-ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817573"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320024"
 ---
 # <a name="eligibility"></a>Requisitos de idoneidad
 
@@ -46,8 +46,8 @@ Los especialistas de FastTrack pueden proporcionarle asistencia remota guiada pa
   - Power BI
   - Project Online
   - SharePoint Online
-  - Skype Empresarial Online
   - Windows 10
+  - Windows Virtual Desktop
   - Yammer Enterprise
 
 ## <a name="eligible-plans"></a>Planes válidos
@@ -65,6 +65,7 @@ Debe comprar al menos 150 licencias por espacio empresarial en uno de los planes
   - eDiscovery y Auditoría de Microsoft 365 E5\*
   - Gobierno y protección de la información de Microsoft 365 E5\*
   - Administración de riesgos internos de Microsoft 365 E5\*
+  - Microsoft 365 F1\*
   - Microsoft 365 F3\*
   - Microsoft 365 Empresa\*
   - Aplicaciones de Microsoft 365 para empresas\*
@@ -115,6 +116,19 @@ Debe comprar al menos 150 licencias por espacio empresarial en uno de los planes
   - Exchange Online Protection
   - Protección contra amenazas avanzada de Office 365
 
+#### <a name="microsoft-teams"></a>Microsoft Teams
+
+  - Sistema telefónico
+  - Plan de llamadas
+  - Audioconferencia
+  - Salón de Microsoft Teams
+
+#### <a name="onedrive-for-business"></a>OneDrive para la Empresa
+
+  - OneDrive para la Empresa con Office
+  - OneDrive para la Empresa Plan 1
+  - OneDrive para la Empresa Plan 2
+
 #### <a name="project-online"></a>Project Online
 
   - Project Online Essentials
@@ -126,32 +140,16 @@ Debe comprar al menos 150 licencias por espacio empresarial en uno de los planes
   - SharePoint Online Plan 1
   - SharePoint Online Plan 2
 
-#### <a name="onedrive-for-business"></a>OneDrive para la Empresa
-
-  - OneDrive para la Empresa con Office
-  - OneDrive para la Empresa Plan 1
-  - OneDrive para la Empresa Plan 2
-
-#### <a name="skype-for-business-online"></a>Skype Empresarial Online
-
-  - Sistema telefónico\*\*\*
-  - Plan de llamadas\*\*\*
-  - Audioconferencia\*\*\*
-  - Skype Empresarial Online plan 1
-  - Skype Empresarial Online Plan 2
-
 #### <a name="yammer"></a>Yammer
 
   - Yammer Enterprise
-
 
 <br>
 
 \*Disponible solo para las características y los servicios en la nube elegibles para FastTrack descritos en esta descripción de ventajas.  
       
 \*\*Para más información sobre las Ventajas de FastTrack para el Gobierno de Estados Unidos, vea [Office 365 para el gobierno de Estados Unidos](https://aka.ms/aboutgovcloud).  
-      
-\*\*\*Puede usarse para usuarios con licencia de Skype Empresarial Online y de Teams. Requiere la compra de Skype Empresarial o Teams.  
+       
       
 ### <a name="enterprise-mobility--security-plans"></a>Planes de Enterprise Mobility + Security  
       
