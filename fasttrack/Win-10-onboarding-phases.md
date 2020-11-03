@@ -1,7 +1,7 @@
 ---
 title: Fases de incorporación
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'La incorporación de Windows 10 consta de cuatro fases principales: inicio, evaluación, corrección y habilitación.'
-ms.openlocfilehash: 02067415d8fa34d353a96d811c18fde30d18e8ab
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 0b55a2f8c9972bf2a3e89a3e219f1653a9189f34
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338478"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827602"
 ---
 # <a name="onboarding-phases"></a>Fases de incorporación
 

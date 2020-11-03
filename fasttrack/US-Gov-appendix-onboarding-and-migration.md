@@ -1,21 +1,21 @@
 ---
 title: Fases de incorporación y migración de Office 365 US Government
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'La incorporación de Office 365 para Office 365 el gobierno de Estados Unidos tiene cuatro fases principales: Inicio, evaluación, corrección y habilitación. Puede seguir estas fases de una fase opcional de migración de datos, como se muestra en la figura siguiente.'
-ms.openlocfilehash: c35f5d9338e649c0dc8cf4a5e579132ea601f85a
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: f7e8545d34b0f9df72e9f518983975d825ffbfb7
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48320000"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827542"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de incorporación y migración de Office 365 US Government
 

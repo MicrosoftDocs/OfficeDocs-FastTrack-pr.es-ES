@@ -1,21 +1,21 @@
 ---
 title: Responsabilidades de FastTrack para Office 365 US Government
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: e11ce3ce5bbfd04a1f821425364ba86964e8690f
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 1f381e6b7ee58316c952362c7b7f85cc2ebcda02
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319976"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827182"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades de FastTrack para Office 365 US Government
 
@@ -80,7 +80,7 @@ Proporcionar orientación acerca de:
   - Configurar la sincronización de contraseña (hash de contraseña) a Office 365 (Azure Active Directory) con la herramienta Azure Active Directory Connect, si es necesario.  
   - Para los entornos de uno y varios bosques:
       - Configuración de la autenticación de paso a través de Azure Active Directory, si es necesario (no disponible en los planes de GCC High o DoD).
-      - Configurar el inicio de sesión único (SSO) de Azure Active Directory, si es necesario (no está disponible en los planes de GCC High o DoD).
+      - Configuración de la Sign-On única transparente (SSO) de Azure Active Directory, si es necesario (no disponible en los planes de GCC High o DoD).
     > [!NOTE]
     > La autenticación de paso a través de Azure Active Directory para entornos de varios bosques se admite si hay confianzas entre sus bosques de Active Directory y si el enrutamiento de sufijo de nombre se ha configurado correctamente. Con el objetivo de poder proporcionar una disponibilidad alta para las solicitudes de inicio de sesión, pueden instalarse agentes adicionales en varios servidores locales. Para obtener más información, vea [Autenticación de paso a través de Azure Active Directory: inicio rápido](https://go.microsoft.com/fwlink/?linkid=860094) y [Inicio de sesión único de conexión directa de Azure Active Directory: Guía de inicio rápido](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
     > Para más información sobre los límites de la autenticación de paso a través, vea [Autenticación de paso a través de Azure Active Directory: Limitaciones actuales](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]

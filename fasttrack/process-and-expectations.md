@@ -1,21 +1,21 @@
 ---
 title: Procesos y expectativas
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explica cómo participar en la asistencia de FastTrack, cómo se proporciona la asistencia, cómo sugerir sugerencias para tener éxito y cómo entender las responsabilidades clave de FastTrack y su empresa.
-ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319940"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827656"
 ---
 # <a name="process-and-expectations"></a>Procesos y expectativas
 
@@ -55,7 +55,7 @@ FastTrack ofrece instrucciones de un extremo a otro sobre cómo mover y usar Mic
 Trabaja de forma remota con especialistas de FastTrack a través de conversaciones técnicas, talleres y reuniones de puntos de control, entre las que se incluyen:
 
   - **Las conversaciones y talleres técnicos:** proporcionan una profunda profundizada en la materia y prácticas recomendadas para acelerar la implementación de los servicios de Microsoft 365. A menudo, estas reuniones proporcionan información general sobre la documentación, las herramientas de software y las consolas de administración disponibles. Duración estándar: 60 minutos.
-  - **Reuniones de punto de comprobación:** semanal o bisemanal para asegurarse de que se progresa la implementación. Duración estándar: 30 minutos.
+  - **Reuniones de punto de comprobación:** Semanal o quincenal Touchpoints para asegurarse de que la implementación progresa. Duración estándar: 30 minutos.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Resultados esperados e hitos clave 
 

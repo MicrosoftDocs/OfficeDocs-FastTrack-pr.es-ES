@@ -1,7 +1,7 @@
 ---
 title: Proceso de FastTrack
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com-msft
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'El proceso de FastTrack presta servicios relacionados con la incorporación y aceptación por parte de los usuarios. '
-ms.openlocfilehash: 48469fb79fd093b1b9a9a299cd807b8dfa440843
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 6d13e6fc9247196c9a2e6cf7692abf3fa75152dc
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338550"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827050"
 ---
 # <a name="the-fasttrack-process"></a>Proceso de FastTrack
 
@@ -26,8 +26,8 @@ El proceso de FastTrack presta servicios relacionados con la incorporación y ac
   
 La incorporación consiste en lo siguiente:
   
-- *Incorporación principal*: se trata de las tareas necesarias para la configuración de espacios empresariales y la integración con Azure Active Directory (Azure AD) si es necesario. La incorporación principal ofrece también la base de referencia para la incorporación de otros servicios elegibles. 
-- *Incorporación y migración de servicios*: las tareas de incorporación de servicios habilitan escenarios en el espacio empresarial. Hablamos sobre la migración de datos (como archivos y correo electrónico) en [Migración de datos](O365-data-migration.md). 
+- *Incorporación principal* : se trata de las tareas necesarias para la configuración de espacios empresariales y la integración con Azure Active Directory (Azure AD) si es necesario. La incorporación principal ofrece también la base de referencia para la incorporación de otros servicios elegibles. 
+- *Incorporación y migración de servicios* : las tareas de incorporación de servicios habilitan escenarios en el espacio empresarial. Hablamos sobre la migración de datos (como archivos y correo electrónico) en [Migración de datos](O365-data-migration.md). 
     
 Los servicios de aceptación por parte de los usuarios constan de tareas que le ayudarán a garantizar que los usuarios conozcan los servicios elegibles y puedan usarlos para impulsar el valor empresarial. Esta asistencia se presta en paralelo a las actividades de incorporación.
   

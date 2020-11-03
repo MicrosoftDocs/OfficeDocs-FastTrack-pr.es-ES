@@ -1,7 +1,7 @@
 ---
 title: Asistencia ofrecida
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Al comprar cualquiera de los servicios de Microsoft 365 o de Windows 10, los especialistas de FastTrack le proporcionarán ayuda con el asesoramiento y la corrección para implementar en Windows 10 y en las Aplicaciones de Microsoft 365 y mantenerse al día sin coste adicional (con una suscripción válida).
-ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
-ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
+ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48206257"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827422"
 ---
 # <a name="assistance-offered"></a>Asistencia ofrecida  
 
