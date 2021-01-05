@@ -3,19 +3,19 @@ title: Requisitos de idoneidad
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explican los requisitos de elegibilidad para recibir asistencia interactiva y a distancia de especialistas de FastTrack incluidos en la compra de licencias de Microsoft 365 y detalles sobre los productos y características específicos que se tratan.
-ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525393"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750023"
 ---
 # <a name="eligibility"></a>Requisitos de idoneidad
 
@@ -35,7 +35,10 @@ Los especialistas de FastTrack pueden proporcionarle asistencia remota guiada pa
 > [!NOTE]
 > Se ha cambiado el nombre de Office 365 ProPlus a Aplicaciones de Microsoft 365. En algunos casos, puede encontrar el uso del nombre heredado. Para más información sobre cuándo entrará en vigor este cambio, vea [Cambio de nombre de Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
 
+  - Microsoft 365 Defender
+  - Microsoft Cloud App Security
   - Protección contra amenazas avanzada de Microsoft Defender (ATP).
+  - Microsoft Defender for Identity 
   - Microsoft Edge
   - Gobernanza de información de Microsoft
   - Protección de la información de Microsoft
@@ -46,7 +49,7 @@ Los especialistas de FastTrack pueden proporcionarle asistencia remota guiada pa
   - Power BI
   - Project Online
   - SharePoint Online
-  - Windows 10
+  - Windows 10
   - Windows Virtual Desktop
   - Yammer Enterprise
 
