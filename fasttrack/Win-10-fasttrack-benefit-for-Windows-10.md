@@ -10,19 +10,19 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Puede usar las ventajas del Centro de FastTrack para Windows 10 si adquiere *al menos* 150 licencias para un plan o un servicio elegible.
-ms.openlocfilehash: 851f774dda5d6ea93890f7eb3e6d85f766d9fdd8
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: d60c422ae958ffe70e92979b74ae8eed8e736034
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827350"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016440"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Ventajas del Centro de FastTrack para Windows 10
 
 > [!CAUTION]
 > Este contenido ya no es actual y está programado para su eliminación. Use la tabla de contenido en el panel de navegación de la parte izquierda para el contenido actual.
 
-Puede usar las ventajas del centro de FastTrack para Windows 10 si adquiere al menos 150 licencias para un servicio o un plan apto. Después, trabajará con los especialistas de FastTrack para evaluar, corregir e implementar Windows 10, el nuevo Microsoft Edge o la Protección contra amenazas avanzada de Microsoft Defender y coordinar las ventajas del centro de FastTrack para Aplicaciones de Microsoft 365. 
+Puede usar las ventajas del centro de FastTrack para Windows 10 si adquiere al menos 150 licencias para un servicio o un plan apto. A continuación, trabajará con especialistas de FastTrack para evaluar, corregir e implementar Windows 10, Microsoft Edge o Protección avanzada de subprocesos de Microsoft Defender y coordinar las ventajas del Centro de FastTrack para aplicaciones de Microsoft 365. 
 
 Ventajas del centro de FastTrack para Windows 10 también ofrece el servicio de asesoría de aplicaciones. El servicio de asesoría de aplicaciones pone a su disposición un especialista de FastTrack que le proporcionará instrucciones de corrección y asesoría si se encuentra con problemas de compatibilidad de las aplicaciones. 
 

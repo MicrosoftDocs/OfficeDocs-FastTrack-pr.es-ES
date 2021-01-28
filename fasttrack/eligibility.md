@@ -3,19 +3,19 @@ title: Requisitos de idoneidad
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explican los requisitos de elegibilidad para recibir asistencia interactiva y a distancia de especialistas de FastTrack incluidos en la compra de licencias de Microsoft 365 y detalles sobre los productos y características específicos que se tratan.
-ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750023"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016464"
 ---
 # <a name="eligibility"></a>Requisitos de idoneidad
 
@@ -124,7 +124,7 @@ Debe comprar al menos 150 licencias por espacio empresarial en uno de los planes
   - Sistema telefónico
   - Plan de llamadas
   - Audioconferencia
-  - Salón de Microsoft Teams
+  - Sala de Microsoft Teams
 
 #### <a name="onedrive-for-business"></a>OneDrive para la Empresa
 
@@ -168,7 +168,7 @@ Debe comprar al menos 150 licencias por espacio empresarial en uno de los planes
 
 #### <a name="azure-information-protection"></a>Azure Information Protection
 
-  - Azure Information Protection Plan 2\*\*\*\*\*
+  - Azure Information Protection
 
 #### <a name="microsoft-intune"></a>Microsoft Intune
 
@@ -184,10 +184,7 @@ Debe comprar al menos 150 licencias por espacio empresarial en uno de los planes
       
 <br>
 
-\*\*\*\*Disponible para los servicios en la nube que cumplan los requisitos de las ventajas de FastTrack. En caso contrario, este se enruta a un especialista de FastTrack o a la referencia de un socio.  
-      
-\*\*\*\*\*Disponible para P2, como parte de E5 o como plan independiente. Disponible para los servicios en la nube que cumplan los requisitos de las ventajas de FastTrack. Para los servicios en la nube P1, FastTrack comparte la guía de implementación automática.  
-      
+\*\*\*\*Disponible para los servicios en la nube que cumplan los requisitos de las ventajas de FastTrack. En caso contrario, este se enruta a un especialista de FastTrack o a la referencia de un socio.    
 
 ### <a name="windows-10-plans"></a>Planes de Windows 10
 

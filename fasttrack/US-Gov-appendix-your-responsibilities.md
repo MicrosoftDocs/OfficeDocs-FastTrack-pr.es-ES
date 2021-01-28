@@ -1,23 +1,23 @@
 ---
-title: Sus responsabilidades para Office 365 US Government
+title: Sus responsabilidades con Office 365 Administración Local
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: El usuario tiene las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 541e26088bac9c13679a78906b9abac23077c36c
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: b2889b0b589c6bdb470dedc81f50e428143edc0c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750119"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016644"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Sus responsabilidades para Office 365 US Government
+# <a name="your-responsibilities-for-office-365-us-government"></a>Sus responsabilidades con Office 365 Administración Local
 
 El usuario tiene las siguientes responsabilidades durante la incorporación.
   
@@ -41,7 +41,7 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
 - Administrar, configurar y aplicar directivas de seguridad.    
 - Activar dispositivos móviles.    
 - Proporcionar configuración, análisis, validación del ancho de banda, pruebas y supervisión de redes. 
-- Modifique las reglas de Firewall para admitir los intervalos de direcciones IP y URL específicas que usan los servicios de Office 365 (si es necesario).
+- Modifique las reglas de firewall para admitir las direcciones URL e intervalos de direcciones IP específicos que usan los servicios de Office 365 (si es necesario).
 - Proporcionar extremos de proxy inverso local a Microsoft (si es necesario).     
 - Modificar la red para proporcionar el ancho de banda necesario para los servicios de Skype Empresarial Online.   
 - Administrar un proceso de aprobación de la administración de cambios técnicos y crear la documentación de soporte técnico.    
@@ -58,7 +58,7 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
     
 ## <a name="initiate-phase"></a>Fase de inicio
 
-- Configurar el espacio de Microsoft Teams de colaboración para la asociación e invitar a los miembros del equipo del centro de FastTrack (no disponible en los planes de GCC o DoD).   
+- Configurar el espacio de colaboración de Microsoft Teams para la incorporación de la asociación e invitar a los miembros del equipo del Centro de FastTrack (no disponible en los planes GCC High o DoD).   
 - Trabajar con los especialistas de FastTrack para iniciar la incorporación de los servicios elegibles.    
 - Participar en la reunión de lanzamiento de la contratación, administrar y liderar a los participantes de la organización, y confirmar las escalas de tiempo de corrección.    
 - Indicar los objetivos en relación con los servicios de Office 365 (por ejemplo, SharePoint Online, Exchange Online, Microsoft Teams y Aplicaciones de Microsoft 365) y las metas organizativas.

@@ -3,7 +3,7 @@ title: Ventajas del Centro de FastTrack para Microsoft 365
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack es un beneficio (incluido en las suscripciones elegibles) diseñado para facilitarle la implementación de Microsoft 365 sin coste adicional. Puede usar los servicios de FastTrack con una suscripción nueva o existente.
-ms.openlocfilehash: 58de2974475829100adbc2b9546c8d437279c094
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 9bd0a852147432bebc8e98a30f5924d9260d3041
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49749999"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016674"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Ventajas del Centro de FastTrack para Microsoft 365
 

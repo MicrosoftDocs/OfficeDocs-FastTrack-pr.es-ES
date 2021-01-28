@@ -3,19 +3,19 @@ title: Procesos y expectativas
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explica cómo participar en la asistencia de FastTrack, cómo se proporciona la asistencia, cómo sugerir sugerencias para tener éxito y cómo entender las responsabilidades clave de FastTrack y su empresa.
-ms.openlocfilehash: 8bf3ffc97a08f4a89807e6d7dcedbeacc148db60
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: bfbe95787d598dc229a03ee643f5e37e6b6f224c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49749989"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016512"
 ---
 # <a name="process-and-expectations"></a>Procesos y expectativas
 
@@ -44,7 +44,7 @@ Para que el Partner solicite asistencia en su nombre a través del sitio de Fast
 4.  Seleccione el cliente en los resultados de la búsqueda.
 5.  Complete el formulario **Solicitar asistencia con Microsoft 365**.
 
-Para solicitar asistencia para el aseguramiento de la aplicación, complete la [solicitud de servicio de aseguramiento](https://go.microsoft.com/fwlink/?linkid=2022721)de la aplicación.
+Para solicitar asistencia para App Assure, complete la [solicitud de servicio de App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 
 ## <a name="fasttrack-expectations"></a>Expectativas de FastTrack
 
@@ -55,7 +55,7 @@ FastTrack ofrece instrucciones de un extremo a otro sobre cómo mover y usar Mic
 Trabaja de forma remota con especialistas de FastTrack a través de conversaciones técnicas, talleres y reuniones de puntos de control, entre las que se incluyen:
 
   - **Las conversaciones y talleres técnicos:** proporcionan una profunda profundizada en la materia y prácticas recomendadas para acelerar la implementación de los servicios de Microsoft 365. A menudo, estas reuniones proporcionan información general sobre la documentación, las herramientas de software y las consolas de administración disponibles. Duración estándar: 60 minutos.
-  - **Reuniones de punto de comprobación:** Semanal o quincenal Touchpoints para asegurarse de que la implementación progresa. Duración estándar: 30 minutos.
+  - **Reuniones de punto de control:** Puntos táctiles semanales o bisemanos para garantizar que la implementación está progresando. Duración estándar: 30 minutos.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Resultados esperados e hitos clave 
 
