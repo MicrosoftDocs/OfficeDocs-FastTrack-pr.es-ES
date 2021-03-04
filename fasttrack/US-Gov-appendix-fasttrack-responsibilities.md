@@ -1,23 +1,23 @@
 ---
-title: Responsabilidades de FastTrack para Office 365 Administración Local
+title: Responsabilidades de FastTrack para Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: a7860d56652de3aba80e77b7f9b054e8a80be6f4
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: d75d5f7c541d0800e82d08f1b060b89bfa82ee88
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016680"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416536"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades de FastTrack para Office 365 Administración Local
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades de FastTrack para Office 365 US Government
 
 Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.  
   
@@ -80,7 +80,7 @@ Proporcionar orientación acerca de:
   - Configurar la sincronización de contraseña (hash de contraseña) a Office 365 (Azure Active Directory) con la herramienta Azure Active Directory Connect, si es necesario.  
   - Para los entornos de uno y varios bosques:
       - Configurar la autenticación de paso a través de Azure Active Directory, si es necesario (no disponible en los planes GCC High o DoD).
-      - Configurar el inicio de sesión único de conexión Sign-On directa (SSO) de Azure Active Directory, si es necesario (no disponible en los planes GCC High o DoD).
+      - Configuración de Azure Active Directory Seamless Single Sign-On (SSO), si es necesario (no disponible en los planes GCC High o DoD).
     > [!NOTE]
     > La autenticación de paso a través de Azure Active Directory para entornos de varios bosques se admite si hay confianzas entre sus bosques de Active Directory y si el enrutamiento de sufijo de nombre se ha configurado correctamente. Con el objetivo de poder proporcionar una disponibilidad alta para las solicitudes de inicio de sesión, pueden instalarse agentes adicionales en varios servidores locales. Para obtener más información, vea [Autenticación de paso a través de Azure Active Directory: inicio rápido](https://go.microsoft.com/fwlink/?linkid=860094) y [Inicio de sesión único de conexión directa de Azure Active Directory: Guía de inicio rápido](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
     > Para más información sobre los límites de la autenticación de paso a través, vea [Autenticación de paso a través de Azure Active Directory: Limitaciones actuales](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
@@ -96,7 +96,7 @@ Proporcionar orientación acerca de:
 ## <a name="compliance"></a>Cumplimiento
 
 Proporcionar orientación acerca de:
-- Asistencia remota con **Microsoft Information Governance** (vea Seguridad y [cumplimiento).](products-and-capabilities.md#security-and-compliance)
+- Asistencia remota con **Microsoft Information Governance** (vea Security and [Compliance](products-and-capabilities.md#security-and-compliance)).
 - Asistencia remota con **Microsoft Information Protection** (vea Seguridad y [cumplimiento).](products-and-capabilities.md#security-and-compliance)
 - Asistencia remota con **Azure Information Protection** (vea Seguridad y [cumplimiento).](products-and-capabilities.md#security-and-compliance)
 
@@ -107,7 +107,7 @@ Proporcionar orientación acerca de:
 - Habilitar el enrutamiento de correo electrónico entre el sistema de mensajería de origen y los entornos de Office 365.    
 - Configurar las características de Protección de Exchange Online (incluidas las características de Protección contra amenazas avanzada de Exchange Online si están disponibles en su suscripción) y comprobar que los registros MX se refieren a Office 365 para todos los dominios habilitados para correo que se han validado.   
 - Configurar una instalación híbrida entre una sola organización de Exchange local y Office 365 *o* entre varias organizaciones de Exchange local y Office 365. 
-- Configurar la mensajería unificada (UM) con Exchange Online (la mensajería unificada no está disponible en los planes GCC DoD). 
+- Configurar la mensajería unificada (UM) con Exchange Online (la mensajería unificada no está disponible en los planes de GCC DoD). 
     
 Para obtener más información sobre las responsabilidades relativas a la migración de datos, vea [Migración de datos](data-migration.md).
   
@@ -154,12 +154,12 @@ Proporcionar orientación acerca de:
 - Habilitar audioconferencia:   
   - Parámetros predeterminados de la configuración de la organización para puente de conferencia.   
   - Asignación de puente de conferencia a usuarios con licencia. 
-- Habilitación del sistema telefónico (no disponible en los planes GCC High o DoD):  
+- Habilitar el sistema telefónico (no disponible en los planes GCC High o DoD):  
   - Habilitar la incorporación de sistema telefónico y planes de llamada (en los mercados disponibles). 
   - Asignación de números a usuarios con licencia.  
   - Instrucciones para la migración de números locales a través de la interfaz de usuario hasta 999.  
   - Soporte técnico de solicitudes de servicio de migración de números locales a partir de 999.  
-- Habilitar difusión de reunión de Skype Empresarial (no disponible en los planes GCC High o DoD):  
+- Habilitar la difusión de reuniones de Skype Empresarial (no disponible en los planes GCC High o DoD):  
   - Incorporación de instrucciones para la habilitación de la Difusión de reunión de Skype Empresarial.  
   - Configuración de la organización para los parámetros predeterminados de federación con el servicio de difusión de reunión.
     
@@ -197,7 +197,7 @@ Proporcionar orientación acerca de:
 Proporcionar instrucciones sobre cómo convertir la red única de Yammer Basic en una red única de Yammer Enterprise.
 
 > [!NOTE]
-> Yammer Enterprise no es un componente de Office 365 Administración Pública, pero se puede adquirir de forma gratuita como una oferta independiente para cada usuario con licencia para Office 365 en GCC. Actualmente, esta oferta está limitada a los clientes que compran Office 365 GCC en virtud de contratos Enterprise y contratos de suscripción Enterprise. Yammer no está disponible en los planes GCC High o DoD.
+> Yammer Enterprise no es un componente de Office 365 US Government, pero se puede adquirir sin costo como una oferta independiente para cada usuario con licencia para Office 365 en GCC. Actualmente, esta oferta está limitada a los clientes que adquieran GCC de Office 365 en contratos de empresa y contratos de suscripción empresarial. Yammer no está disponible en los planes GCC High o DoD.
   
 ## <a name="microsoft-365-apps"></a>Aplicaciones de Microsoft 365
 
@@ -207,5 +207,5 @@ Proporcionar instrucciones acerca de:
 - Instalar Aplicaciones de Microsoft 365 desde el Portal de Office 365 con la opción Hacer clic y ejecutar.   
 - Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en sus dispositivos de iOS, Android, o Windows Mobile.   
 - Configurar las opciones de actualización mediante la Herramienta de implementación de Office 2016 o las plantillas de directiva de grupo.   
-- Configurar un único servidor de distribución en el sitio para Aplicaciones de Microsoft 365, incluida la asistencia para la creación de un archivo configuration.xml para su uso con la Herramienta de implementación de Office 365.   
+- Configurar un único servidor de distribución local para Aplicaciones de Microsoft 365, incluida la asistencia con la creación de un archivo configuration.xml para su uso con la Herramienta de implementación de Office 365.   
 - Implementar mediante Microsoft Endpoint Configuration Manager, incluida la ayuda con la creación del empaquetado de Microsoft Endpoint Configuration Manager.

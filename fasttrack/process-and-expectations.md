@@ -3,19 +3,19 @@ title: Procesos y expectativas
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explica cómo participar en la asistencia de FastTrack, cómo se proporciona la asistencia, cómo sugerir sugerencias para tener éxito y cómo entender las responsabilidades clave de FastTrack y su empresa.
-ms.openlocfilehash: bfbe95787d598dc229a03ee643f5e37e6b6f224c
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: 99b21f0fa76cf5c392d47dcb53d78710130327bd
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016512"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416593"
 ---
 # <a name="process-and-expectations"></a>Procesos y expectativas
 
@@ -55,7 +55,7 @@ FastTrack ofrece instrucciones de un extremo a otro sobre cómo mover y usar Mic
 Trabaja de forma remota con especialistas de FastTrack a través de conversaciones técnicas, talleres y reuniones de puntos de control, entre las que se incluyen:
 
   - **Las conversaciones y talleres técnicos:** proporcionan una profunda profundizada en la materia y prácticas recomendadas para acelerar la implementación de los servicios de Microsoft 365. A menudo, estas reuniones proporcionan información general sobre la documentación, las herramientas de software y las consolas de administración disponibles. Duración estándar: 60 minutos.
-  - **Reuniones de punto de control:** Puntos táctiles semanales o bisemanos para garantizar que la implementación está progresando. Duración estándar: 30 minutos.
+  - **Reuniones de punto de control:** Puntos de contacto semanales o quincenales para garantizar que la implementación está progresando. Duración estándar: 30 minutos.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Resultados esperados e hitos clave 
 
