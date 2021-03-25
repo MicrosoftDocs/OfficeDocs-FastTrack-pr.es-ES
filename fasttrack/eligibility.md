@@ -3,19 +3,19 @@ title: Requisitos de idoneidad
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explican los requisitos de elegibilidad para recibir asistencia interactiva y a distancia de especialistas de FastTrack incluidos en la compra de licencias de Microsoft 365 y detalles sobre los productos y características específicos que se tratan.
-ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416429"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187989"
 ---
 # <a name="eligibility"></a>Requisitos de idoneidad
 
@@ -37,14 +37,14 @@ Los especialistas de FastTrack pueden proporcionarle asistencia remota guiada pa
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security
-  - Protección contra amenazas avanzada de Microsoft Defender (ATP).
+  - Microsoft Defender para punto de conexión
   - Microsoft Defender for Identity 
+  - Microsoft Defender para Office 365
   - Microsoft Edge
   - Gobernanza de información de Microsoft
   - Protección de la información de Microsoft
   - Microsoft Intune
   - Microsoft Teams
-  - Protección contra amenazas avanzada de Office 365 (ATP)
   - OneDrive para la Empresa
   - Power BI
   - Project Online
@@ -117,7 +117,7 @@ Debe comprar al menos 150 licencias por espacio empresarial en uno de los planes
   - Plan 2 de Exchange Online
   - Quiosco de Exchange Online
   - Exchange Online Protection
-  - Protección contra amenazas avanzada de Office 365
+  - Microsoft Defender para Office 365
 
 #### <a name="microsoft-teams"></a>Microsoft Teams
 
