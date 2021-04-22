@@ -3,19 +3,19 @@ title: Responsabilidades de FastTrack para Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: dde74c9880072ad8e5ff6386d09f88967af0ab16
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+ms.openlocfilehash: adac2fee65878f2d593d3c249f4b7231cb7eb967
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51188073"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51926951"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades de FastTrack para Office 365 US Government
 
