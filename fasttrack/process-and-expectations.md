@@ -4,18 +4,17 @@ ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
 ms.date: 4/21/2021
-ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explica cómo participar en la asistencia de FastTrack, cómo se proporciona la asistencia, cómo sugerir sugerencias para tener éxito y cómo entender las responsabilidades clave de FastTrack y su empresa.
-ms.openlocfilehash: 793fd84b5a998804b8e84feac1ad7eb248cd9a7b
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 5b7fa5016ef3a8b4ba3f298bd515e19952df7f82
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926990"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996270"
 ---
 # <a name="process-and-expectations"></a>Procesos y expectativas
 

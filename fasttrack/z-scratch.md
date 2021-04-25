@@ -1,4 +1,23 @@
-## <a name="security-and-compliance"></a>Seguridad y cumplimiento
+---
+title: Seguridad y cumplimiento
+ms.author: v-bermic
+author: rberg-steyer
+manager: jimmuir
+ms.date: 7/01/2020
+audience: ITPro
+ms.topic: overview
+ms.service: O365-seccomp
+localization_priority: None
+ms.collection: FastTrack
+description: Detalles de instrucciones de FastTrack para los servicios de Microsoft.
+ms.openlocfilehash: 000a81c51729deba8d3f5c4d88a0baa918dcd048
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996249"
+---
+# <a name="security-and-compliance"></a>Seguridad y cumplimiento
 
 <table>
 <thead>
@@ -320,7 +339,7 @@ Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto c
 <li> Desarrollo de la arquitectura de la información en SharePoint.</li>
 <li> Scripting y codificación personalizados.</li>
 </td>
-<td>Aparte de la <strong>parte de incorporación</strong> principal en <a href="#general">General,</a>no hay requisitos mínimos del sistema.</td>
+<td>Aparte de la <strong>parte de incorporación</strong> principal en <a href="products-and-capabilities.md#general">General,</a>no hay requisitos mínimos del sistema.</td>
 </tr>
 <tr class="odd">
 <td><strong>Protección de la información de Microsoft</strong></td>
@@ -345,11 +364,11 @@ Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto c
 <li>Creación o modificación de diccionarios de palabras clave.</li>
 <li>Scripting y codificación personalizados.</li>
 </ul>
-<strong>Nota:</strong> Para obtener más información, <strong> vea Azure Information Protection </strong> in Enterprise Mobility + <a href="#enterprise-mobility--security">Security</a>.
+<strong>Nota:</strong> Para obtener más información, <strong>vea Azure Information Protection</strong> in Enterprise Mobility + <a href="products-and-capabilities.md#enterprise-mobility--security">Security</a>.
 <ul>
 
 </td>
-<td>Aparte de la <strong>parte de incorporación</strong> principal en <a href="#general">General,</a>no hay requisitos mínimos del sistema.</td>
+<td>Aparte de la <strong>parte de incorporación</strong> principal en <a href="products-and-capabilities.md#general">General,</a>no hay requisitos mínimos del sistema.</td>
 </tr>
 
 <tr class="odd">
@@ -361,7 +380,7 @@ Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto c
 <li>  Usar el Simulador de ataques.  </li>
 <li>  Elaborar informes y análisis de amenazas.  </li>
 </ul></td>
-<td>Aparte de la <strong>parte de incorporación</strong> principal en <a href="#general">General,</a>no hay requisitos mínimos del sistema.</td>
+<td>Aparte de la <strong>parte de incorporación</strong> principal en <a href="products-and-capabilities.md#general">General,</a>no hay requisitos mínimos del sistema.</td>
 </tr>
 
 
@@ -410,7 +429,7 @@ Proporcionamos instrucciones remotas para:
 <li> Implementación práctica de acciones de mejora recomendadas para evaluaciones en el Administrador de cumplimiento.</li>
 </ul>
 </td>
-<td>Aparte de la <strong>parte de incorporación</strong> principal en <a href="#general">General,</a>no hay requisitos mínimos del sistema.</td>
+<td>Aparte de la <strong>parte de incorporación</strong> principal en <a href="products-and-capabilities.md#general">General,</a>no hay requisitos mínimos del sistema.</td>
 </tr>
 <tr class="odd">
 <td><strong>Administración de amenazas de Insider</strong></td>
@@ -455,7 +474,7 @@ Proporcionamos instrucciones remotas para:
 <li> Cumplimiento de las normativas y requisitos regionales y del sector.</li>
 <li> Implementación práctica de acciones de mejora recomendadas para evaluaciones en el Administrador de cumplimiento.</li>
 </ul></td>
-<td>Aparte de la <strong>parte de incorporación</strong> principal en <a href="#general">General,</a>no hay requisitos mínimos del sistema.</td>
+<td>Aparte de la <strong>parte de incorporación</strong> principal en <a href="products-and-capabilities.md#general">General,</a>no hay requisitos mínimos del sistema.</td>
 </tr>
 
 
