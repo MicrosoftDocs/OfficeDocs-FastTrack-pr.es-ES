@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explican los requisitos de elegibilidad para recibir asistencia interactiva y a distancia de especialistas de FastTrack incluidos en la compra de licencias de Microsoft 365 y detalles sobre los productos y características específicos que se tratan.
-ms.openlocfilehash: 03d2b9f607ad72cc59a1d0c16c12401e8a437fe1
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: b4a7af935ee8223f94ac60eca2d18a0b6e53ace7
+ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51927014"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52283452"
 ---
 # <a name="eligibility"></a>Requisitos de idoneidad
 
@@ -124,7 +124,7 @@ Debe comprar al menos 150 licencias por espacio empresarial en uno de los planes
   - Sistema telefónico
   - Plan de llamadas
   - Audioconferencia
-  - Sala de Microsoft Teams
+  - Microsoft Teams Sala
 
 #### <a name="onedrive-for-business"></a>OneDrive para la Empresa
 
@@ -202,6 +202,9 @@ Debe comprar al menos 150 licencias por espacio empresarial en uno de los planes
       
 > [!NOTE]
 > No hay ningún requisito mínimo de licencia para los proveedores de software independientes (ISV) que compilan aplicaciones para Windows 10. Todas las solicitudes de aplicaciones deben tener como destino una versión de Aplicaciones de Microsoft 365 o de Windows 10 que se encuentre actualmente en el período de servicio estándar.
+
+> [!NOTE]
+> La elegibilidad para Ventajas del Centro de FastTrack se basa en la compra de licencias pagadas para los planes elegibles mencionados anteriormente. Como excepción, FastTrack está ayudando con la incorporación de licencias de prueba de E1 de Office 365 de mayo de 2021 al 30 de junio de 2021 para que los clientes elegibles de India y Brasil puedan responder al aumento actual de COVID-19. 
 
 ### <a name="ineligible-plans"></a>Planes no elegibles 
  Los planes no elegibles para los servicios de FastTrack son, entre otros, los siguientes:
