@@ -1,29 +1,29 @@
 ---
-title: Fases de incorporación y migración para Office 365 US Government
+title: Fases de incorporación y migración para Office 365 Gobierno de EE. UU.
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: 'La incorporación de Office 365 para Office 365 US Government tiene cuatro fases principales: Iniciar, evaluar, corregir y habilitar. Puede seguir estas fases de una fase opcional de migración de datos, como se muestra en la figura siguiente.'
-ms.openlocfilehash: 6b371c2f66f811ba8997c6380f23b2b6e0b24945
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+description: 'Office 365 incorporación para Office 365 Us Government tiene cuatro fases principales: Iniciar, Evaluar, Corregir y Habilitar. Puede seguir estas fases de una fase opcional de migración de datos, como se muestra en la figura siguiente.'
+ms.openlocfilehash: 7c6684323498ee1d7d71cc7c15e3f9c6797e3e1c
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926978"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570570"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de incorporación y migración para Office 365 US Government
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de incorporación y migración para Office 365 Gobierno de EE. UU.
 
 La incorporación de Office 365 consta de cuatro fases principales: inicio, evaluación, corrección y habilitación. Puede seguir estas fases con una fase opcional de migración de datos, tal como se muestra en la figura siguiente.
   
 ![Fases de la ventaja de incorporación](media/O365-Onboarding-Phases.png)
   
-Para obtener tareas detalladas para cada fase, vea [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) and [Your Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
+Para obtener tareas detalladas para cada fase, vea [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) y Your [Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Fase de inicio
 
@@ -133,7 +133,7 @@ En cuanto a Skype Empresarial Online, se ofrecen instrucciones para:
 - Creación de cuentas para cualquier dispositivo del sistema de la sala.    
 - Implementación de un cliente de Skype Empresarial Online compatible.   
 - Establecer la configuración del servidor de dominio dividido entre el entorno de servidor local de Lync 2010, Lync 2013 o Skype Empresarial 2015 y el inquilino de Skype Empresarial Online (si procede).
-- Habilitar planes de llamadas, difusión de reuniones de Skype y sistemas telefónicos y planes de llamadas (en mercados disponibles, no disponibles en los planes GCC High o DoD). 
+- Habilitar planes de llamadas, Skype difusión de reuniones y planes de Sistema telefónico y de llamadas (en mercados disponibles, no están disponibles en GCC planes de alto o doD). 
     
 ![Pasos de la incorporación de Lync durante la fase 1 de habilitación](media/O365-Onboarding-Enable-Lync.png)
   
@@ -173,7 +173,7 @@ En cuanto a Project Online, se ofrecen instrucciones para:
 En cuanto a Yammer, se ofrecen instrucciones para habilitar el servicio de Yammer Enterprise.
 
 > [!NOTE]
-> Yammer Enterprise no es un componente de Office 365 US Government, pero se puede adquirir sin costo como una oferta independiente para cada usuario con licencia para Office 365 en GCC. Actualmente, esta oferta está limitada a los clientes que adquieran GCC de Office 365 en contratos de empresa y contratos de suscripción empresarial. Yammer no está disponible en los planes GCC High o DoD. 
+> Yammer Enterprise no es un componente de Office 365 gobierno de estados unidos, pero se puede adquirir sin costo como una oferta independiente para cada usuario con licencia para Office 365 en GCC. Actualmente, esta oferta está limitada a los clientes que compren Office 365 GCC contratos Enterprise contratos y Enterprise de suscripción. Yammer no está disponible en los planes GCC High o DoD. 
   
 ## <a name="microsoft-365-apps"></a>Aplicaciones de Microsoft 365
 
@@ -183,7 +183,7 @@ Para Aplicaciones de Microsoft 365, proporcionamos instrucciones para:
 - Instalar Aplicaciones de Microsoft 365 desde el Portal de Office 365 con la opción Hacer clic y ejecutar.    
 - Instalar aplicaciones de Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile y PowerPoint Mobile) en los dispositivos iOS o Android.   
 - Configurar las opciones de actualización mediante la Herramienta de implementación de Office 365.    
-- Configurar un único servidor de distribución local para Aplicaciones de Microsoft 365, incluida la asistencia con la creación de un archivo configuration.xml para su uso con la Herramienta de implementación de Office 365.    
+- Configurar un único servidor de distribución en el sitio para Aplicaciones Microsoft 365, incluida la asistencia con la creación de un archivo configuration.xml para su uso con la herramienta de Office 365 implementación.    
 - Implementar mediante Microsoft Endpoint Configuration Manager, incluida la ayuda con la creación del empaquetado de Microsoft Endpoint Configuration Manager.
     
 ![Pasos de la incorporación de Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)
