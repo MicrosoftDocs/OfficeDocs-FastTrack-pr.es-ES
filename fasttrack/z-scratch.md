@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: O365-seccomp
 localization_priority: None
 ms.collection: FastTrack
-description: Detalles de instrucciones de FastTrack para los servicios de Microsoft.
-ms.openlocfilehash: 000a81c51729deba8d3f5c4d88a0baa918dcd048
-ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+description: Detalles de instrucciones de FastTrack para servicios Microsoft.
+ms.openlocfilehash: 67dd428de8a8f48e0d52e4f6c6daf85cbd27ec76
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51996249"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592408"
 ---
 # <a name="security-and-compliance"></a>Seguridad y cumplimiento
 
@@ -33,9 +33,9 @@ ms.locfileid: "51996249"
 
 <td> <p> Microsoft 365 Defender es un conjunto unificado de defensa empresarial anterior y posterior a la infracción que coordina de forma nativa la detección, prevención, investigación y respuesta entre puntos de conexión, identidades, correo electrónico y aplicaciones para proporcionar protección integrada contra ataques sofisticados. Proporcionamos instrucciones remotas para: </p> 
 <ul>
-<li>  Proporcionar información general sobre el Centro de seguridad de Microsoft 365.  </li>
+<li>  Proporciona información general sobre el centro Microsoft 365 seguridad.  </li>
 <li>  Revisión de incidentes entre productos, incluido el centrarse en lo que es fundamental al garantizar el ámbito de ataque completo, los activos afectados y las acciones de corrección automatizadas que se agrupan.  </li>
-<li>  Demostración de cómo Microsoft 365 Defender puede orquestar la investigación de activos, usuarios, dispositivos y buzones de correo que podrían haber sido comprometidos a través de la recuperación automática. </li>
+<li>  Demostración de cómo Microsoft 365 Defender puede organizar la investigación de activos, usuarios, dispositivos y buzones que podrían haber sido comprometidos a través de la recuperación automática. </li>
 <li>  Explicar y proporcionar ejemplos de cómo los clientes pueden buscar proactivamente intentos de intrusión y actividad de infracción que afecten al correo electrónico, los datos, los dispositivos y las cuentas en varios conjuntos de datos.   </li>
 <li> Mostrar a los clientes cómo pueden revisar y mejorar su posición de seguridad de forma holística con Microsoft Secure Score.</li>
 </ul>
@@ -55,7 +55,7 @@ ms.locfileid: "51996249"
 </tr>
 <tr class="even">
 <td><strong>Microsoft Cloud App Security</strong></td>
-<td>  Microsoft Cloud App Security es un agente de seguridad de acceso a la nube (CASB) que proporciona una amplia visibilidad, control sobre el desplazamiento de datos y análisis sofisticados para identificar y combatir las amenazas cibernéticas en todos los servicios en la nube de Microsoft y de terceros. Proporcionamos instrucciones remotas para:
+<td>  Microsoft Cloud App Security es un agente de seguridad de acceso a la nube (CASB) que proporciona una amplia visibilidad, control sobre el viaje de datos y análisis sofisticados para identificar y combatir las amenazas cibernéticas en todos los servicios en la nube de Microsoft y de terceros. Proporcionamos instrucciones remotas para:
 <ul>
 <li>  Configurar el portal, incluidos:  </li>
 <ul>
@@ -71,15 +71,15 @@ ms.locfileid: "51996249"
 <li> Zscaler.</li>
 <li> iboss.</li>
 </ul>
-<li> Conectar <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-gove">aplicaciones características con</a> conectores de aplicaciones.</li>
-<li> Configurar el control de aplicaciones de acceso condicional en los portales de Acceso condicional y Seguridad de aplicaciones en la nube para aplicar controles de sesión en tiempo real.</li>
-<li> Implementación de los paneles Cloud App Security y Cloud Discovery.</li>
+<li> Conectar [aplicaciones características con](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) conectores de aplicaciones.</li>
+<li> Configurar el control de aplicaciones de acceso condicional en los portales de acceso condicional y Cloud App Security para aplicar controles de sesión en tiempo real.</li>
+<li> Implementar los paneles Cloud App Security y Cloud Discovery.</li>
 <li> Personalizar las puntuaciones de riesgo de la aplicación en función de las prioridades de la organización.</li>
 <li> Crear etiquetas y categorías de aplicaciones.</li>
 <li> Sancionar y deshacer la autorización de aplicaciones.</li>
 <li> Uso de la actividad y los registros de archivos.</li>
 <li> Administrar aplicaciones de OAuth.</li>
-<li> Descripción de la correlación de incidentes en el portal de Microsoft 365 Defender.</li>
+<li> Descripción de la correlación de incidentes en el portal Microsoft 365 Defender.</li>
 <li> Proporcionar asistencia de configuración con los <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20 casos</a> de uso principales para CASB (incluida la creación o actualización de hasta seis (6) directivas), excepto: </li>
 <ul>
 <li> Auditar la configuración de internet como entornos de servicio (IaaS) (#18).</li>
@@ -96,9 +96,9 @@ ms.locfileid: "51996249"
 <li> Conexión de aplicaciones personalizadas.</li>
 <li> Integración con proveedores de identidades de terceros (ISP) y proveedores de prevención de pérdida de datos (DLP).</li>
 <li> Aprendizaje o instrucciones sobre la búsqueda avanzada.</li>
-<li> Investigación y corrección automatizadas, incluidos los libros de juegos de Microsoft Power Automate.</li>
+<li> Investigación y corrección automatizadas, incluidos los libros Power Automate Microsoft.</li>
 <li> Información de seguridad y administración de eventos (SIEM) o integración de API (incluido Azure Sentinel).</li>
-<li> Implementación de Cloud App Security como una prueba de concepto.</li>
+<li> La implementación Cloud App Security como una prueba de concepto.</li>
 </ul></td>
 </tr>
 
@@ -111,10 +111,10 @@ ms.locfileid: "51996249"
 <ul>
 <li>  Implementar las tecnologías para proteger los puntos de conexión.  </li>
 <li>  Configuración de perfiles de restricción de dispositivos y protección de puntos de conexión.  </li>
-<li>  Evaluación de la versión del sistema operativo y la administración de dispositivos (incluidos Intune, Microsoft Endpoint Configuration Manager, objetos de directiva de grupo (GPO) y configuraciones de terceros), así como el estado de los servicios antivirus de Windows Defender u otro software de seguridad de puntos de conexión.  </li>
-<li>  Evaluar el estado de los servicios antivirus de Windows u otro software de seguridad de puntos de conexión.  </li>
+<li>  Evaluar la versión del sistema operativo y la administración de dispositivos (incluidos Intune, Microsoft Endpoint Configuration Manager, objetos de directiva de grupo (GPO) y configuraciones de terceros), así como el estado de los servicios antivirus de Windows Defender u otro software de seguridad de puntos de conexión.  </li>
+<li>  Evaluar el estado de su Windows antivirus u otro software de seguridad de extremo.  </li>
 <li>  Evaluación de servidores proxy y firewalls que restringen el tráfico de red.  </li>
-<li>  Para habilitar el servicio ATP de Microsoft Defender, explique cómo implementar un perfil de agente de ATP con un punto de conexión integrado.  </li>
+<li>  Para habilitar el ATP de Microsoft Defender, explique cómo implementar un perfil de agente de ATP con un extremo integrado.  </li>
 <li>  Instrucciones de implementación, asistencia de configuración y educación sobre:
 <ul>
 <li>  
@@ -163,7 +163,7 @@ ms.locfileid: "51996249"
 </ul>
 </li>
 </ul>
-<strong>Nota:</strong> Todas las versiones de Windows Server deben administrarse mediante la versión más reciente de System Center Configuration Manager 2012 (versiones 1012 R2, 1511 o 1602) o Microsoft Endpoint Configuration Manager (versión 2002 o posterior). 
+<strong>Nota:</strong> Todas las versiones de Windows Server deben administrarse mediante la última versión de System Center Configuration Manager 2012 (versiones 1012 R2, 1511 o 1602) o Microsoft Endpoint Configuration Manager (versión 2002 o posterior). 
 
 </li>
 </ul>
@@ -255,14 +255,14 @@ Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto c
 <li>  Ejecución de la herramienta de tamaño para la planeación de capacidad de recursos. </li>
 <li>  Ejecutar la herramienta de auditoría para evaluar la compatibilidad de los controladores de dominio con el sensor. </li>
 </ul>
-<li>  Implementar el sensor para capturar y analizar el tráfico de red y los eventos de Windows directamente desde los controladores de dominio, incluidos: </li>
+<li>  Implementar el sensor para capturar y analizar el tráfico de red y Windows eventos directamente desde los controladores de dominio, incluidos: </li>
 <ul> 
 <li>  Descargar el paquete del sensor. </li>
 <li>  Configuración del sensor. </li>
 <li>  Instalar el sensor en el controlador de dominio de forma silenciosa. </li>
 <li>  Implementar el sensor en el entorno de varios bosques. </li>
 </ul>
-<li>  Integración de Defender para la identidad con Microsoft Cloud App Security (no se requieren licencias de Cloud App Security). </li>
+<li>  Integración de Defender for Identity con Microsoft Cloud App Security (Cloud App Security no es necesaria la licencia). </li>
 <li>  Proporcionar instrucciones de implementación, asistencia de configuración y educación sobre: </li>
 <ul>
 <li> Ajustar el entorno para reducir el "ruido".  </li>
@@ -313,7 +313,7 @@ Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto c
 <li> Windows Server 2012.</li>
 <li> Windows Server 2012 R2.</li>
 <li> Windows Server 2016.</li>
-<li> Windows Server 2019 con KB4487044 (compilación del sistema operativo 17763.316).</li>
+<li> Windows Servidor 2019 con KB4487044 (compilación del sistema operativo 17763.316).</li>
 </ul>
 </ul></td>
 </tr>
@@ -354,7 +354,7 @@ Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto c
 <li>  Conocer sus datos con el explorador de contenido y el explorador de actividades.  </li>
 <li>  Publicar etiquetas mediante las directivas (manual y automático).  </li>
 <li>  Crear directivas de protección de pérdida de datos (DLP) de los chats y canales de Microsoft Teams.  </li>
-<li>  Crear directivas dlp de extremo para dispositivos Windows 10.  </li>
+<li>  Crear directivas DLP de extremo para Windows 10 dispositivos.  </li>
 </ul>
 
 <strong>Lo siguiente está fuera del ámbito </strong>  
@@ -364,7 +364,7 @@ Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto c
 <li>Creación o modificación de diccionarios de palabras clave.</li>
 <li>Scripting y codificación personalizados.</li>
 </ul>
-<strong>Nota:</strong> Para obtener más información, <strong>vea Azure Information Protection</strong> in Enterprise Mobility + <a href="products-and-capabilities.md#enterprise-mobility--security">Security</a>.
+<strong>Nota:</strong> Para obtener más información, <strong>vea Azure Information Protection</strong> en <a href="products-and-capabilities.md#enterprise-mobility--security">Enterprise Mobility + Security</a>.
 <ul>
 
 </td>
@@ -388,7 +388,7 @@ Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto c
 <td><strong>Respuesta & de detección</strong></td>
 <td>  
 
-<strong>Exhibición de documentos electrónicos avanzada</strong>
+<strong>Advanced eDiscovery</strong>
   
 <ul>
 <li>  Habilitar vínculos seguros, datos adjuntos seguros y protección contra suplantación de identidad (anti-phishing).  </li>
@@ -465,7 +465,7 @@ Proporcionamos instrucciones remotas para:
 
 <strong>Lo siguiente está fuera del ámbito </strong> 
 <ul>
-<li> Creación y administración de flujos de Power Automate.</li>
+<li> Creación y administración de Power Automate flujos.</li>
 <li> Conectores de datos (más allá del conector de RECURSOS HUMANOS). </li>
 <li> Configuraciones de expresiones regulares personalizadas (RegEx).</li>
 <li> Diseño, arquitecto y revisión de documentos de terceros.</li>

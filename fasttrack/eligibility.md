@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explican los requisitos de elegibilidad para recibir asistencia interactiva y a distancia de especialistas de FastTrack incluidos en la compra de licencias de Microsoft 365 y detalles sobre los productos y características específicos que se tratan.
-ms.openlocfilehash: eb3a73f7c1c58fe84cdc92d4ccd625330b4dcc82
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570498"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592406"
 ---
 # <a name="eligibility"></a>Requisitos de idoneidad
 
@@ -33,7 +33,7 @@ Los especialistas de FastTrack pueden proporcionarle asistencia remota guiada pa
   - Aplicaciones de Microsoft 365
 
 > [!NOTE]
-> Se ha cambiado el nombre de Office 365 ProPlus a Aplicaciones de Microsoft 365. En algunos casos, puede encontrar el uso del nombre heredado. Para más información sobre cuándo entrará en vigor este cambio, vea [Cambio de nombre de Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
+> Se ha cambiado el nombre de Office 365 ProPlus a Aplicaciones de Microsoft 365. En algunos casos, puede encontrar el uso del nombre heredado. Para más información sobre cuándo entrará en vigor este cambio, vea [Cambio de nombre de Office 365 ProPlus](/deployoffice/name-change).
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security
