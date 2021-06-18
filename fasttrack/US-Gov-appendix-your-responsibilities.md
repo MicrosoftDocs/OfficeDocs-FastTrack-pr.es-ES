@@ -3,19 +3,19 @@ title: Sus responsabilidades para Office 365 us government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: El usuario tiene las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 771a28beda75e9d086d0627828a926c573472e94
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: b6ab10d86248252d38e60b038241f7e7ec5d08e0
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570582"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994893"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Sus responsabilidades para Office 365 us government
 
@@ -58,7 +58,7 @@ El usuario tiene las siguientes responsabilidades durante la incorporación.
     
 ## <a name="initiate-phase"></a>Fase de inicio
 
-- Configure el espacio de colaboración Microsoft Teams para la asociación de incorporación e invite a los miembros del equipo del Centro FastTrack (no disponible en GCC planes De alto o DoD).   
+- Configure el espacio Microsoft Teams colaboración para la asociación de incorporación e invite FastTrack miembros del equipo del Centro (no disponible en GCC planes de alto o doD).   
 - Trabajar con los especialistas de FastTrack para iniciar la incorporación de los servicios elegibles.    
 - Participar en la reunión de lanzamiento de la contratación, administrar y liderar a los participantes de la organización, y confirmar las escalas de tiempo de corrección.    
 - Indicar los objetivos en relación con los servicios de Office 365 (por ejemplo, SharePoint Online, Exchange Online, Microsoft Teams y Aplicaciones de Microsoft 365) y las metas organizativas.

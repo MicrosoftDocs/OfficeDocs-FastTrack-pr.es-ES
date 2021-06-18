@@ -3,19 +3,19 @@ title: Fases de incorporación y migración para Office 365 Gobierno de EE. UU.
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 incorporación para Office 365 Us Government tiene cuatro fases principales: Iniciar, Evaluar, Corregir y Habilitar. Puede seguir estas fases de una fase opcional de migración de datos, como se muestra en la figura siguiente.'
-ms.openlocfilehash: 7c6684323498ee1d7d71cc7c15e3f9c6797e3e1c
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570570"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994965"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de incorporación y migración para Office 365 Gobierno de EE. UU.
 
@@ -133,7 +133,7 @@ En cuanto a Skype Empresarial Online, se ofrecen instrucciones para:
 - Creación de cuentas para cualquier dispositivo del sistema de la sala.    
 - Implementación de un cliente de Skype Empresarial Online compatible.   
 - Establecer la configuración del servidor de dominio dividido entre el entorno de servidor local de Lync 2010, Lync 2013 o Skype Empresarial 2015 y el inquilino de Skype Empresarial Online (si procede).
-- Habilitar planes de llamadas, Skype difusión de reuniones y planes de Sistema telefónico y de llamadas (en mercados disponibles, no están disponibles en GCC planes de alto o doD). 
+- Habilitar planes de llamadas, Reunión de Skype difusión y Sistema telefónico y planes de llamadas (en los mercados disponibles, no están disponibles en GCC planes De alto o DoD). 
     
 ![Pasos de la incorporación de Lync durante la fase 1 de habilitación](media/O365-Onboarding-Enable-Lync.png)
   

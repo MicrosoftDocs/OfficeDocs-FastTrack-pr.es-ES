@@ -3,19 +3,19 @@ title: Requisitos de idoneidad
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema, se explican los requisitos de elegibilidad para recibir asistencia interactiva y a distancia de especialistas de FastTrack incluidos en la compra de licencias de Microsoft 365 y detalles sobre los productos y características específicos que se tratan.
-ms.openlocfilehash: 54eb2d4156c1b74a63944942ff79de89d84bfe91
-ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
+ms.openlocfilehash: 28f1c2e8907e62b3431d759ed90307d7d4dfb527
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626701"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994881"
 ---
 # <a name="eligibility"></a>Requisitos de idoneidad
 
@@ -39,7 +39,7 @@ Los especialistas de FastTrack pueden proporcionarle asistencia remota guiada pa
   - Microsoft Cloud App Security
   - Microsoft Defender para punto de conexión
   - Microsoft Defender for Identity 
-  - Microsoft Defender para Office 365
+  - Microsoft Defender para Office 365
   - Microsoft Edge
   - Gobernanza de información de Microsoft
   - Protección de la información de Microsoft
@@ -55,7 +55,7 @@ Los especialistas de FastTrack pueden proporcionarle asistencia remota guiada pa
 
 ## <a name="eligible-plans"></a>Planes válidos
 
-Debe comprar al menos 150 licencias por espacio empresarial en uno de los planes siguientes para ser elegible para FastTrack. La lista está agrupada por familia de productos para que le resulte más fácil encontrar los planes específicos que ha comprado su empresa: Microsoft 365, Office 365, Enterprise Mobility & Security y Windows 10.
+Debe comprar al menos 150 licencias de uno de los planes siguientes para poder optar a FastTrack. La lista está agrupada por familia de productos para que le resulte más fácil encontrar los planes específicos que ha comprado su empresa: Microsoft 365, Office 365, Enterprise Mobility & Security y Windows 10.
 
 ### <a name="microsoft-365-plans"></a>Planes de Microsoft 365
 
@@ -117,7 +117,7 @@ Debe comprar al menos 150 licencias por espacio empresarial en uno de los planes
   - Plan 2 de Exchange Online
   - Quiosco de Exchange Online
   - Exchange Online Protection
-  - Microsoft Defender para Office 365
+  - Microsoft Defender para Office 365
 
 #### <a name="microsoft-teams"></a>Microsoft Teams
 
@@ -204,7 +204,7 @@ Debe comprar al menos 150 licencias por espacio empresarial en uno de los planes
 > No hay ningún requisito mínimo de licencia para los proveedores de software independientes (ISV) que compilan aplicaciones para Windows 10. Todas las solicitudes de aplicaciones deben tener como destino una versión de Aplicaciones de Microsoft 365 o de Windows 10 que se encuentre actualmente en el período de servicio estándar.
 
 > [!NOTE]
-> La elegibilidad para Ventajas del Centro de FastTrack se basa en la compra de licencias pagadas para los planes elegibles mencionados anteriormente. Como excepción, FastTrack está ayudando con la incorporación de licencias de prueba de E1 de Office 365 de mayo de 2021 al 30 de junio de 2021 para que los clientes elegibles de India y Brasil puedan responder al aumento actual de COVID-19. 
+> La elegibilidad para Ventajas del Centro de FastTrack se basa en la compra de licencias pagadas para los planes elegibles mencionados anteriormente. Como excepción, FastTrack está ayudando con la incorporación de licencias de prueba de Office 365 E1 de mayo de 2021 al 30 de junio de 2021 para que los clientes elegibles de India y Brasil ayuden a responder al aumento actual de COVID-19. 
 
 ### <a name="ineligible-plans"></a>Planes no elegibles 
  Los planes no elegibles para los servicios de FastTrack son, entre otros, los siguientes:

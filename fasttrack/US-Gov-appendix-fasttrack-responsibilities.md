@@ -1,23 +1,23 @@
 ---
-title: Responsabilidades de FastTrack para Office 365 Gobierno de EE. UU.
+title: FastTrack Responsabilidades de Office 365 Gobierno de EE. UU.
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.
-ms.openlocfilehash: 10b0895536be5d4ddd0026baa6f5e3e939a52fb5
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 57e1ba446304fba42e3c1b815351d3942c6b4e39
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570522"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994917"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades de FastTrack para Office 365 Gobierno de EE. UU.
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack Responsabilidades de Office 365 Gobierno de EE. UU.
 
 Los especialistas de FastTrack tienen las siguientes responsabilidades durante la incorporación.  
   
@@ -97,7 +97,7 @@ Proporcionar orientación acerca de:
 
 Proporcionar orientación acerca de:
 - Asistencia remota con **Microsoft Information Governance** (vea Security and [Compliance](products-and-capabilities.md#security-and-compliance)).
-- Asistencia remota con **Microsoft Information Protection** (vea Seguridad y [cumplimiento).](products-and-capabilities.md#security-and-compliance)
+- Asistencia remota con **Microsoft Information Protection** (vea [Seguridad y cumplimiento](products-and-capabilities.md#security-and-compliance)).
 - Asistencia remota con **Azure Information Protection** (vea Seguridad y [cumplimiento).](products-and-capabilities.md#security-and-compliance)
 
 ## <a name="exchange-online"></a>Exchange Online
