@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 incorporación para Office 365 Us Government tiene cuatro fases principales: Iniciar, Evaluar, Corregir y Habilitar. Puede seguir estas fases de una fase opcional de migración de datos, como se muestra en la figura siguiente.'
-ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+ms.openlocfilehash: 99bc16e1939bbc13a06aa7a93cd735918c652865
+ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994965"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255533"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de incorporación y migración para Office 365 Gobierno de EE. UU.
 
@@ -92,7 +92,7 @@ La incorporación de uno o más servicios elegibles puede empezar al finalizar l
   
 ## <a name="exchange-online"></a>Exchange Online
 
-En cuanto a Exchange Online, le guiamos a lo largo del proceso para preparar la organización para usar el correo electrónico. Los pasos exactos dependen del entorno de origen y de sus planes de migración de correo electrónico. Pueden incluir instrucciones para:
+Por Exchange Online, le guiaremos de forma remota a través del proceso para que su organización esté lista para usar el correo electrónico. Los pasos exactos, según el entorno de origen y los planes de migración de correo electrónico, pueden incluir proporcionar instrucciones para:
   
 - Configuración de las características de Exchange Online Protection (EOP) para todos los dominios habilitados para correo que se han validado en Office 365.   
     > [!NOTE]
@@ -109,7 +109,7 @@ En cuanto a Exchange Online, le guiamos a lo largo del proceso para preparar la 
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online y OneDrive para la Empresa
 
-En cuanto a SharePoint Online y OneDrive para la Empresa, se ofrecen instrucciones para: 
+Para SharePoint Online y OneDrive para la Empresa, proporcionamos instrucciones remotas para: 
 - Configuración de DNS.   
 - Configuración de puertos del firewall.   
 - Aprovisionamiento de usuarios y licencias.   
@@ -127,13 +127,13 @@ En cuanto a OneDrive para la Empresa, los pasos dependen de si actualmente usa S
   
 ## <a name="skype-for-business-online"></a>Skype Empresarial Online
 
-En cuanto a Skype Empresarial Online, se ofrecen instrucciones para: 
+Para Skype Empresarial Online, proporcionamos instrucciones remotas para: 
 - Configuración de puertos del firewall.    
 - Configuración de DNS.    
 - Creación de cuentas para cualquier dispositivo del sistema de la sala.    
 - Implementación de un cliente de Skype Empresarial Online compatible.   
 - Establecer la configuración del servidor de dominio dividido entre el entorno de servidor local de Lync 2010, Lync 2013 o Skype Empresarial 2015 y el inquilino de Skype Empresarial Online (si procede).
-- Habilitar planes de llamadas, Reunión de Skype difusión y Sistema telefónico y planes de llamadas (en los mercados disponibles, no están disponibles en GCC planes De alto o DoD). 
+- Habilitar planes de llamadas, Skype difusión de reuniones y planes de Sistema telefónico y de llamadas (en mercados disponibles, no están disponibles en GCC planes de alto o doD). 
     
 ![Pasos de la incorporación de Lync durante la fase 1 de habilitación](media/O365-Onboarding-Enable-Lync.png)
   
@@ -142,20 +142,48 @@ En cuanto a Skype Empresarial Online, se ofrecen instrucciones para:
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Lo siguiente no está disponible en los planes GCC High o DoD.
+> FastTrack ayuda con el ámbito en función de la disponibilidad de las características en cada entorno respectivo. Para obtener una lista de las características disponibles actualmente en cada entorno, vea <a href="/office365/servicedescriptions/teams-service-description#feature-availability">Feature availability</a>.
 
-En cuanto a Microsoft Teams, se ofrecen instrucciones para: 
-- Confirmación de requisitos mínimos.   
+Por Microsoft Teams, proporcionamos instrucciones remotas para: 
+- Confirmar los requisitos mínimos en Exchange Online, SharePoint Online, Office 365 Groups y Azure Active Directory (Azure AD) para admitir Teams.
 - Configuración de puertos del firewall.   
 - Configuración de DNS.  
 - Confirmando que se ha habilitado Microsoft Teams en su espacio empresarial de Office 365.    
 - Habilitar o deshabilitar licencias de usuario.
+- Evaluación de red para Teams:
+    - Comprobaciones de puertos y puntos de conexión.
+    - Comprobaciones de calidad de la conexión.
+    - Estimaciones de ancho de banda.
+    - Configuración de Teams de aplicaciones (Teams web, Teams de escritorio y Teams para iOS y android app).
+ 
+<br> Si procede, proporcionamos instrucciones para: </br>
+- Microsoft Teams Dispositivos de sala:
+    - Creación de cuentas en línea necesarias para los dispositivos de telefonía y salas de conferencias compatibles que aparecen en el <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Catálogo de dispositivos de Teams</a>.
+    - Asistencia remota con la configuración del lado de servicio de dispositivos Salas de Microsoft Teams certificados.
+- Habilitar audioconferencia:
+    - Parámetros predeterminados de la configuración de la organización para puente de conferencia.
+    - Asignación de un puente de conferencia a usuarios con licencia.
+- Sistema telefónico:
+    - Configuración de la organización para los parámetros predeterminados de voz en la nube.
+    - Instrucciones de planes de llamada (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">mercados disponibles</a>):  
+        - Asignación de números a usuarios con licencia.
+        - Instrucciones para la migración de números locales a través de la interfaz de usuario hasta 999.
+        - Soporte técnico de solicitudes de servicio de migración de números locales a partir de 999.
+        - Guía de enrutamiento directo:
+            - Guía de configuración de la organización para el diseño de enrutamiento directo de escenarios hospedados por asociados o escenarios implementados por el cliente para hasta 10 sitios.
+            - Revisión de configuración del controlador de borde de sesión (SBC).
+            - Asistencia remota con la configuración del plan de marcado.
+            - Configuración de ruta de voz.
+            - Desvío de medios y optimización de medios locales.
+- Habilitar eventos en directo en Teams
+- Configuración e integración de la organización en Microsoft Stream.
+- Instrucciones para Skype Empresarial para Teams transición. 
     
-![Diagrama de Microsoft Teams de FastTrack (fase de habilitación)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![Diagrama de equipos de Microsoft FastTrack (fase de habilitación)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-En cuanto a Power BI, se ofrecen instrucciones para:  
+Por Power BI, proporcionamos instrucciones remotas para:  
 - Asignación de licencias de Power BI.    
 - Implementación de la aplicación Power BI Desktop.   
 ## <a name="project-online"></a>Project Online
@@ -170,14 +198,14 @@ En cuanto a Project Online, se ofrecen instrucciones para:
   
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
-En cuanto a Yammer, se ofrecen instrucciones para habilitar el servicio de Yammer Enterprise.
+Por Yammer, proporcionamos instrucciones remotas para habilitar el Yammer Enterprise servicio.
 
 > [!NOTE]
 > Yammer Enterprise no es un componente de Office 365 gobierno de estados unidos, pero se puede adquirir sin costo como una oferta independiente para cada usuario con licencia para Office 365 en GCC. Actualmente, esta oferta está limitada a los clientes que compren Office 365 GCC contratos Enterprise contratos y Enterprise de suscripción. Yammer no está disponible en los planes GCC High o DoD. 
   
 ## <a name="microsoft-365-apps"></a>Aplicaciones de Microsoft 365
 
-Para Aplicaciones de Microsoft 365, proporcionamos instrucciones para: 
+Por Aplicaciones Microsoft 365, proporcionamos instrucciones remotas para: 
 - Solucionar los problemas de implementación.    
 - Asignar licencias de usuario final mediante el [Centro de administración de Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) y Windows PowerShell.    
 - Instalar Aplicaciones de Microsoft 365 desde el Portal de Office 365 con la opción Hacer clic y ejecutar.    

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: En este tema se incluyen detalles sobre los escenarios de carga de trabajo admitidos por FastTrack y las expectativas del entorno de origen necesarias antes de poder comenzar. En función de la configuración actual, trabajamos con usted para crear un plan de corrección que haga que el entorno de origen se ajuste a los requisitos mínimos para una incorporación correcta.
-ms.openlocfilehash: 0d5272079471b7dafe40e45f6c72189f1dad4c12
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+ms.openlocfilehash: 43c8edc915d45c1af84155d82d995860cd966950
+ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994873"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255509"
 ---
 # <a name="products-and-capabilities"></a>Productos y capacidades
 
@@ -40,11 +40,17 @@ FastTrack proporciona instrucciones para ayudarle primero con las funcionalidade
 ## <a name="general"></a>General
 
 <table>
+<table style="width: 100%">
+<colgroup>
+<col span="1" style="width: 15%;">
+<col span="1" style="width: 45%;">
+<col span="1" style="width: 40%;">
+</colgroup>
 <thead>
 <tr class="header">
-<th><strong>Servicio</strong></th>
-<th><strong>FastTrack de instrucciones</strong></th>
-<th><strong>Expectativas del entorno de origen</strong></th>
+<th>Servicio</th>
+<th>Detalles de instrucciones de FastTrack</th>
+<th>Expectativas del entorno de origen</th>
 </tr>
 </thead>
 <tbody>
@@ -73,7 +79,7 @@ Proporcionamos instrucciones remotas para:
 </td>
 
 <td>  <strong>Habilitación de red </strong>  
-  <br>Como parte de la FastTrack, le recomendamos los procedimientos recomendados para conectarse a servicios en la nube para garantizar los niveles más altos de rendimiento de Microsoft 365.  
+  <br>Como parte de las ventajas de FastTrack, le recomendamos que se informe de los procedimientos recomendados para conectarse a los servicios en la nube para garantizar los niveles más altos de rendimiento de Microsoft 365.  
   
 <strong>Bosques de Active Directory</strong> Tienen el nivel de bosque funcional establecido en Windows Server 2003 en adelante, con la siguiente configuración de bosque:
 <ul>
@@ -125,11 +131,16 @@ Proporcionamos instrucciones remotas para:
 ## <a name="security-and-compliance"></a>Seguridad y cumplimiento
 
 <table>
+<colgroup>
+<col span="1" style="width: 15%;">
+<col span="1" style="width: 45%;">
+<col span="1" style="width: 40%;">
+</colgroup>
 <thead>
 <tr class="header">
-<th><strong>Servicio</strong></th>
-<th><strong>FastTrack de instrucciones</strong></th>
-<th><strong>Expectativas del entorno de origen</strong></th>
+<th>Servicio</th>
+<th>Detalles de instrucciones de FastTrack</th>
+<th>Expectativas del entorno de origen</th>
 </tr>
 </thead>
 <tbody>
@@ -175,7 +186,7 @@ Proporcionamos instrucciones remotas para:
   Revisión de los Términos de uso de Azure AD.  
   </li>
 <li>  
-  Administrar y controlar el acceso a cuentas de administrador con privilegios con Azure AD Administración de identidades con privilegios.  
+  Administrar y controlar el acceso a cuentas de administrador con privilegios con Azure AD Privileged Identity Management.  
   </li>
 </ul>
   
@@ -352,9 +363,9 @@ Proporcionamos instrucciones remotas para:
 <li> Crear etiquetas y categorías de aplicaciones.</li>
 <li> Personalizar las puntuaciones de riesgo de la aplicación en función de las prioridades de la organización.</li>
 <li> Sancionar y deshacer la autorización de aplicaciones.</li>
-<li> Revisión de los paneles Cloud App Security y Cloud Discovery.</li>
+<li> Revisar los paneles Cloud App Security y Cloud Discovery.</li>
 <li> Conectar <a href="/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps"> aplicaciones características con</a> conectores de aplicaciones.</li>
-<li> Protección de aplicaciones con control de aplicaciones de acceso condicional en el acceso condicional dentro de los portales de Azure AD y Cloud App Security.</li>
+<li> Protección de aplicaciones con control de aplicaciones de acceso condicional en el acceso condicional dentro de Azure AD y Cloud App Security portales.</li>
 <li> Implementación del control de aplicaciones de acceso condicional para aplicaciones características.</li>
 <li> Uso de la actividad y los registros de archivos.</li>
 <li> Administrar aplicaciones de OAuth.</li>
@@ -364,7 +375,7 @@ Proporcionamos instrucciones remotas para:
 <li> Auditar la configuración de internet como entornos de servicio (IaaS) (#18).</li>
 <li> Supervisar las actividades de los usuarios para protegerse contra amenazas en los entornos de IaaS (#19).</li>
 </ul>
-<li> Descripción de la correlación de incidentes en el portal de Microsoft 365 Defender.</li>
+<li> Descripción de la correlación de incidentes en Microsoft 365 Defender portal.</li>
 </ul>
 <p><strong>Lo siguiente está fuera del ámbito</strong></p>
 <ul>
@@ -374,7 +385,7 @@ Proporcionamos instrucciones remotas para:
 <li> Configuración de Cloud App Security para cumplir requisitos normativos o de cumplimiento específicos.</li>
 <li> Implementar el servicio en un entorno de producción que no es de prueba.</li>
 <li> Implementar la detección de aplicaciones en la nube como una prueba de concepto.</li>
-<li> Compatibilidad con <a href=" /fasttrack/us-gov-appendix-overview">GCC-High o GCC-DoD (Office 365 US Government).</a></li>
+<li> Admitir GCC-High <a href=" /fasttrack/us-gov-appendix-overview">o GCC-DoD (Office 365 Us Government)</a>.</li>
 <li> Configurar la infraestructura, la instalación o la implementación de cargas automáticas de registros para informes continuos con Docker o un recopilador de registros. </li>
 <li> Creación de un informe de instantáneas de detección de nube.</li>
 <li> Bloquear el uso de la aplicación mediante scripts de bloqueo.</li>
@@ -382,7 +393,7 @@ Proporcionamos instrucciones remotas para:
 <li> Incorporación e implementación de Control de aplicaciones de acceso condicional para aplicaciones no características.</li>
 <li> Integración con proveedores de identidades de terceros (ISP) y proveedores de prevención de pérdida de datos (DLP).</li>
 <li> Aprendizaje o instrucciones sobre la búsqueda avanzada.</li>
-<li> Investigación y corrección automatizadas, incluidos los libros de juegos de Microsoft Power Automate.</li>
+<li> Investigación y corrección automatizadas, incluidos los libros Power Automate Microsoft.</li>
 <li> Información de seguridad y administración de eventos (SIEM) o integración de API (incluido Azure Sentinel).</li>
 
 </ul></td>
@@ -397,8 +408,8 @@ Proporcionamos instrucciones remotas para:
 <ul>
 <li>  Implementar las tecnologías para proteger los puntos de conexión.  </li>
 <li>  Configuración de perfiles de restricción de dispositivos y protección de puntos de conexión.  </li>
-<li>  Evaluación de la versión del sistema operativo y la administración de dispositivos (incluidos Intune, Microsoft Endpoint Configuration Manager, objetos de directiva de grupo (GPO) y configuraciones de terceros), así como el estado de los servicios antivirus de Windows Defender u otro software de seguridad de puntos de conexión.  </li>
-<li>  Evaluar el estado de los servicios antivirus de Windows u otro software de seguridad de puntos de conexión.  </li>
+<li>  Evaluar la versión del sistema operativo y la administración de dispositivos (incluidos Intune, Microsoft Endpoint Configuration Manager, objetos de directiva de grupo (GPO) y configuraciones de terceros), así como el estado de los servicios antivirus de Windows Defender u otro software de seguridad de puntos de conexión.  </li>
+<li>  Evaluar el estado de su Windows antivirus u otro software de seguridad de extremo.  </li>
 <li>  Evaluación de servidores proxy y firewalls que restringen el tráfico de red.  </li>
 <li>  Para habilitar el servicio microsoft defender para puntos de conexión, se explica cómo implementar un perfil de agente de Defender for Endpoint mediante un extremo integrado.  </li>
 <li>  Instrucciones de implementación, asistencia de configuración y educación sobre:
@@ -421,7 +432,7 @@ Proporcionamos instrucciones remotas para:
 <li>  
   Puntuación segura para dispositivos.  
   </li>
-<li> Configuración de SmartScreen de Microsoft Defender con Microsoft Endpoint Manager.</li>
+<li> SmartScreen de Microsoft Defender configuración mediante Microsoft Endpoint Manager.</li>
 
 </ul></li>
 <li>  Revisión de simulaciones y tutoriales (como escenarios de práctica, malware falso e investigaciones automatizadas).  </li>
@@ -451,7 +462,7 @@ Proporcionamos instrucciones remotas para:
 </ul>
 </li>
 </ul>
-<strong>Nota:</strong> Todas las versiones de Windows Server deben administrarse mediante la versión más reciente de System Center Configuration Manager 2012 (versiones 1012 R2, 1511 o 1602) o Microsoft Endpoint Configuration Manager (versión 2002 o posterior). 
+<strong>Nota:</strong> Todas las versiones de Windows Server deben administrarse mediante la última versión de System Center Configuration Manager 2012 (versiones 1012 R2, 1511 o 1602) o Microsoft Endpoint Configuration Manager (versión 2002 o posterior). 
 
 </li>
 </ul>
@@ -459,7 +470,7 @@ Proporcionamos instrucciones remotas para:
 <strong>Lo siguiente está fuera del ámbito </strong>  
 <ul>
 <li>  Administración de proyectos de las actividades de corrección de los clientes.  </li>
-<li> Compatibilidad con <a href=" /fasttrack/us-gov-appendix-overview">GCC-High o GCC-DoD (Office 365 US Government).</a></li>
+<li> Admitir GCC-High <a href=" /fasttrack/us-gov-appendix-overview">o GCC-DoD (Office 365 Us Government)</a>.</li>
 <li>  Soporte técnico en las instalaciones.  </li>
 <li>  Administración continua y respuesta ante amenazas.  </li>
 <li>  Incorporación o configuración de los siguientes agentes de Microsoft Defender para endpoints:
@@ -718,8 +729,8 @@ Proporcionamos instrucciones remotas para:
 <li>  Clasificadores entrenables (admitidos en E5).  </li>
 <li>  Conocer los datos con el explorador de contenido y el explorador de actividades (compatible con E5).  </li>
 <li>  Publicar etiquetas con directivas (manual y automática) (admitidas en E5).  </li>
-<li>  Crear directivas de prevención de pérdida de datos de extremo (DLP) para dispositivos Con Windows 10 (compatible con E5).  </li>
-<li>  Crear directivas DLP para chats y canales de Microsoft Teams.  </li>
+<li>  Crear directivas de prevención de pérdida de datos de extremo (DLP) para Windows 10 dispositivos (compatibles con E5).  </li>
+<li>  Crear directivas DLP para Microsoft Teams chats y canales.  </li>
 </ul>
 
 <strong> Administrador de cumplimiento</strong>
@@ -745,7 +756,7 @@ Proporcionamos instrucciones remotas para:
 <li>  Supervisar mensajes de correo electrónico en tránsito con reglas de flujo de correo de Exchange Online.  </li>
 </ul>
 
-  También proporcionamos instrucciones si desea aplicar protección con Microsoft Azure Rights Management Services (Azure RMS), cifrado de mensajes de Office 365 (OME) y prevención de pérdida de datos (DLP).
+  También proporcionamos instrucciones si desea aplicar protección mediante Microsoft Azure Rights Management Services (Azure RMS), Cifrado de mensajes de Office 365 (OME) y prevención de pérdida de datos (DLP).
 
 <strong>Lo siguiente está fuera del ámbito </strong>  
 <ul>
@@ -845,13 +856,13 @@ Las responsabilidades de requisitos previos del cliente incluyen:
 <li>  Instalar el cliente de Configuration Manager en dispositivos inscritos en Intune.  </li>
 </ul> 
 
-<strong>Implementar Outlook mobile para iOS y Android de forma segura</strong> Podemos proporcionar instrucciones para ayudarle a implementar Outlook mobile para iOS y Android de forma segura en su organización para garantizar que los usuarios tengan instaladas todas las aplicaciones necesarias.  
-  Los pasos para implementar Outlook mobile para iOS y Android de forma segura con Intune dependen del entorno de origen. Puede incluir:
+<strong>Implementar Outlook móvil para iOS y Android de forma segura</strong> Podemos proporcionar instrucciones para ayudarte a implementar Outlook móvil para iOS y Android de forma segura en tu organización para garantizar que los usuarios tengan instaladas todas las aplicaciones necesarias.  
+  Los pasos para implementar de forma segura Outlook móvil para iOS y Android con Intune dependen del entorno de origen. Puede incluir:
 <ul>
-<li>  Descargar las aplicaciones outlook para iOS y Android, Microsoft Authenticator e Intune Company Portal a través de la Tienda de aplicaciones de Apple o Google Play Store.  </li>
+<li>  Descargar el Outlook para iOS y Android, Microsoft Authenticator y Portal de empresa de Intune aplicaciones a través de la Tienda de aplicaciones de Apple o Google Play Store.  </li>
 <li>  Proporcionar instrucciones sobre cómo configurar:
 <ul>
-<li>  La implementación de aplicaciones de Outlook para iOS y Android, Microsoft Authenticator e Intune Company Portal con Intune.  </li>
+<li>  El Outlook para iOS y Android, Microsoft Authenticator y Portal de empresa de Intune de aplicaciones con Intune.  </li>
 <li>  Directivas de protección de aplicaciones.  </li>
 <li>  Directivas de acceso condicional.  </li>
 <li>  Directivas de configuración de aplicaciones.  </li>
@@ -865,7 +876,7 @@ Las responsabilidades de requisitos previos del cliente incluyen:
 
   <strong>Intune integrado con Microsoft Defender para endpoint</strong> 
  
-  <strong>Nota:</strong>Proporcionamos asistencia para integrar Intune con Microsoft Defender para endpoint y crear directivas de cumplimiento de dispositivos en función de su evaluación del nivel de riesgo de Windows 10. No proporcionamos asistencia en compras, licencias o activación. Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto con un partner de Microsoft</a> para obtener ayuda con esto.  
+  <strong>Nota:</strong>Proporcionamos asistencia para integrar Intune con Microsoft Defender para Endpoint y crear directivas de cumplimiento de dispositivos en función de su Windows 10 nivel de riesgo. No proporcionamos asistencia en compras, licencias o activación. Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto con un partner de Microsoft</a> para obtener ayuda con esto.  
   
 <strong>Windows Autopilot</strong> 
  
@@ -881,26 +892,31 @@ Las responsabilidades de requisitos previos del cliente incluyen:
 ## <a name="office-365"></a>Office 365
 
 <table>
+<colgroup>
+<col span="1" style="width: 15%;">
+<col span="1" style="width: 45%;">
+<col span="1" style="width: 40%;">
+</colgroup>
 <thead>
 <tr class="header">
-<th><strong>Servicio</strong></th>
-<th><strong>Detalles de instrucciones de FastTrack</strong></th>
-<th><strong>Expectativas del entorno de origen</strong></th>
+<th>Servicio</th>
+<th>Detalles de instrucciones de FastTrack</th>
+<th>Expectativas del entorno de origen</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><strong>Exchange Online</strong></td>
-<td>  Para Exchange Online, le guiaremos a través del proceso para que su organización esté lista para usar el correo electrónico. Los pasos exactos dependen del entorno de origen y de los planes de migración de correo electrónico.  
+<td>  Por Exchange Online, le guiaremos a través del proceso para que su organización esté lista para usar el correo electrónico. Los pasos exactos dependen del entorno de origen y de los planes de migración de correo electrónico.  
   Proporcionamos instrucciones remotas para:
 <ul>
 <li>  Configuración de las características de Exchange Online Protection (EOP) para todos los dominios habilitados para correo que se han validado en Office 365.  </li>
 <li>  Apuntar los registros de intercambio de correo (MX) a Office 365.  </li>
-<li>  Configurar la característica de Microsoft Defender para Office 365 si forma parte del servicio de suscripción. Para obtener más información, vea la parte <strong>de Microsoft Defender para Office 365</strong> de esta tabla.  </li>
+<li>  Configurar la característica de Microsoft Defender para Office 365 si forma parte del servicio de suscripción. Para obtener más información, consulte <strong>microsoft defender para obtener Office 365</strong> parte de esta tabla.  </li>
 <li>  Configuración de la característica de prevención de pérdida de datos (DLP) para todos los dominios habilitados para correo validados en Office 365 como parte de su servicio de suscripción. Esto se realiza una vez que los registros MX apunten a Office 365.</li>
 <li>  Configuración del cifrado de mensajes de Office 365 (OME) para todos los dominios habilitados para correo validados en Office 365 como parte de su servicio de suscripción. Esto se realiza una vez que los registros MX apunten a Office 365.</li>
 </ul>
-  <strong>Nota:</strong> El servicio de replicación de buzones (MRS) intenta migrar correos electrónicos de Information Rights Managed (IRM) desde su buzón local al buzón de Exchange Online correspondiente. La capacidad de leer el contenido protegido posterior a la migración dependerá de la asignación de clientes y la copia de las plantillas de Active Directory Rights Management Services (AD RMS) en el servicio Azure Rights Management (Azure RMS).  
+  <strong>Nota:</strong> El servicio de replicación de buzones de correo (MRS) intenta migrar correos electrónicos de Information Rights Managed (IRM) desde su buzón local al buzón de correo Exchange Online buzón de correo. La capacidad de leer el contenido protegido posterior a la migración dependerá de la asignación de clientes y la copia de las plantillas de Active Directory Rights Management Services (AD RMS) en el servicio Azure Rights Management (Azure RMS).  
 <ul>
 <li>  Configurar puertos del firewall.  </li>
 <li>  Configuración de DNS, incluida la detección automática, el marco de directivas de remitente (SPF), el correo identificado de domainkeys (DKIM), la autenticación de mensajes basada en dominio, la creación de informes y la conformidad (DMARC) y los registros MX (según sea necesario).  </li>
@@ -917,11 +933,11 @@ Para obtener información sobre cómo usar la ventaja de FastTrack para la migra
 <li>  Un solo entorno de G Suite (solo Gmail, Contactos y Calendario).  </li>
 <li>  Para obtener información sobre las capacidades multige geográficas, vea <a href="https://go.microsoft.com/fwlink/?linkid=872776">Multi-Geo Capabilities in Exchange Online</a>.  </li>
 </ul>
-El software cliente en línea como Project para Office 365, Outlook para Windows, Outlook para iOS y Android, el cliente de sincronización de OneDrive para la Empresa, Power BI Desktop y Skype Empresarial deben estar en un nivel mínimo como se define en Requisitos del sistema <a href="https://go.microsoft.com/fwlink/?LinkID=723597">para Microsoft 365 Office</a>.  </td>
+El software cliente en línea como Project para Office 365, Outlook para Windows, Outlook para iOS y Android, cliente de sincronización de OneDrive para la Empresa, Power BI Desktop y Skype Empresarial deben estar en un nivel mínimo según se define en <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Requisitos</a>del sistema para Microsoft 365 Office .  </td>
 </tr>
 
 <td><strong>Microsoft Defender para Office 365</strong></td>
-<td>  Para obtener más información, vea <strong>Microsoft Defender para Office 365 en</strong> Seguridad y <a href="/fasttrack/products-and-capabilities#security-and-compliance">cumplimiento</a>.  
+<td>  Para obtener más información, vea <strong>Microsoft Defender for Office 365</strong> en Security and <a href="/fasttrack/products-and-capabilities#security-and-compliance">Compliance</a>.  
 </td>
 <td></td>
 </tr>
@@ -937,7 +953,7 @@ El software cliente en línea como Project para Office 365, Outlook para Windows
 <tr class="odd">
 <td><strong>Protección de la información de Microsoft</strong></td>
 <td>  
-Para obtener más información, vea <strong>Microsoft Information Protection </strong> in Security and <a href="/fasttrack/products-and-capabilities#security-and-compliance">Compliance</a>.
+Para obtener más información, <strong>vea Microsoft Information Protection</strong> en Seguridad <a href="/fasttrack/products-and-capabilities#security-and-compliance">y cumplimiento</a>.
 
 </td>
 <td>
@@ -948,7 +964,7 @@ Para obtener más información, vea <strong>Microsoft Information Protection </s
 <td><strong>Microsoft Teams</strong></td>
 <td>  Proporcionamos instrucciones remotas para:
 <ul>
-<li>  Confirmar los requisitos mínimos en Exchange Online, SharePoint Online, Grupos de Office 365 y Azure AD para admitir Teams.  </li>
+<li>  Confirmar los requisitos mínimos en Exchange Online, SharePoint Online, Office 365 Grupos y Azure AD para admitir Teams.  </li>
 <li>  Configuración de puertos del firewall.  </li>
 <li>  Configuración de DNS.  </li>
 <li>  Confirmar que se ha habilitado Teams en su espacio empresarial de Office 365.  </li>
@@ -960,15 +976,16 @@ Para obtener más información, vea <strong>Microsoft Information Protection </s
 <li>  Estimaciones de ancho de banda.  </li>
 </ul>
 <ul>
-<li>  Configuración de la directiva de aplicación de Teams (aplicación web de Teams, aplicación de escritorio de Teams y Teams para iOS y aplicación Android).  </li>
+<li>  Configuración de Teams de aplicaciones (Teams web, Teams de escritorio y Teams para iOS y android app).  </li>
 </ul>
 Si procede, también proporcionamos instrucciones para:
 <ul>
-<li>  Dispositivos de sala de Microsoft Teams:  </li>
+<li>  Microsoft Teams Dispositivos de sala:  </li>
 <ul>
 <li>  Creación de cuentas en línea necesarias para los dispositivos de telefonía y salas de conferencias compatibles que aparecen en el <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Catálogo de dispositivos de Teams</a>.  </li>
-<li>  Asistencia remota con configuración del lado del servicio de dispositivos Microsoft Teams Rooms certificados.  </li>
+<li>  Asistencia remota con la configuración del lado de servicio de dispositivos Salas de Microsoft Teams certificados.  </li>
 <li>  Habilitar audioconferencia:  </li>
+<ul>
 <li>  Parámetros predeterminados de la configuración de la organización para puente de conferencia.  </li>
 <li>  Asignación de un puente de conferencia a usuarios con licencia.  </li>
 </ul>
@@ -996,16 +1013,16 @@ Si procede, también proporcionamos instrucciones para:
 </ul></li>
 <li>  Habilitar eventos en directo en Teams  </li>
 <li>  Configuración e integración de la organización en Microsoft Stream.  </li>
-<li>  Instrucciones para la transición de Skype Empresarial a Teams.  </li>
+<li>  Instrucciones para Skype Empresarial para Teams transición.  </li>
 </ul></td>
 <td><ul>
 <li>  Identidades habilitadas en Azure AD para Office 365.  </li>
 <li>  Usuarios habilitados para SharePoint Online.  </li>
-<li>  Los buzones de Exchange están presentes (en línea y local en una configuración híbrida de Exchange).  </li>
+<li>  Exchange buzones de correo están presentes (en línea y local en una Exchange de configuración híbrida).  </li>
 <li>  Habilitado para Grupos de Office 365.  </li>
 </ul>
-  <strong>Nota:</strong> Si los usuarios no están asignados y habilitados con licencias de SharePoint Online, no tendrán almacenamiento de OneDrive para la Empresa en Office 365. El uso compartido de archivos sigue funcionando en canales, pero los usuarios no pueden compartir archivos en chats sin el almacenamiento de OneDrive para la Empresa en Office 365. Teams no admite SharePoint localmente.  <br>
-  <strong>Nota:</strong> El estado ideal es que todos los usuarios tengan sus buzones en Exchange Online. Los usuarios con buzones de correo locales deben tener sus identidades sincronizadas con el directorio de Office 365 a través de Azure AD Connect. Para estos clientes híbridos de Exchange, si el buzón del usuario es local, el usuario no puede agregar ni configurar conectores.  
+  <strong>Nota:</strong> Si los usuarios no están asignados y habilitados con SharePoint online, no tendrán OneDrive para la Empresa almacenamiento en Office 365. El uso compartido de archivos sigue funcionando en canales, pero los usuarios no pueden compartir archivos en chats sin OneDrive para la Empresa almacenamiento en Office 365. Teams no admite SharePoint local.  <br>
+  <strong>Nota:</strong> El estado ideal es que todos los usuarios tengan sus buzones en Exchange Online. Los usuarios con buzones de correo locales deben tener sus identidades sincronizadas con el directorio Office 365 a través de Azure AD Conectar. Para estos Exchange híbridos, si el buzón del usuario es local, el usuario no puede agregar ni configurar conectores.  
   Los instaladores para los clientes de escritorio de Mac y Windows en Microsoft Teams se pueden descargar de <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a>.  </td>
 </tr>
 
@@ -1015,7 +1032,7 @@ Si procede, también proporcionamos instrucciones para:
 <ul>
 <li>  Descargar Outlook para iOS y Android desde la App Store de Apple y Google Play.  </li>
 <li>  Configurar cuentas y acceder al buzón de Exchange Online.  </li>
-<li>  Protección de Outlook mobile (vea <a href="/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">Securing Outlook for iOS and Android in Exchange Online</a> para obtener más información).  </li>
+<li>  Proteger Outlook móvil (consulte <a href="/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">Securing Outlook for iOS and Android in Exchange Online</a> para obtener más información).  </li>
 </ul></td>
 <td><ul>
 <li>  Identidades habilitadas en Azure AD para Office 365.  </li>
@@ -1029,7 +1046,7 @@ Si procede, también proporcionamos instrucciones para:
 <li>  Asignación de licencias de Power BI.  </li>
 <li>  Implementación de la aplicación Power BI Desktop.  </li>
 </ul></td>
-<td>El software cliente en línea como Power BI Desktop debe estar en un nivel mínimo según se define en los requisitos del sistema <a href="https://go.microsoft.com/fwlink/?LinkID=723597">para Microsoft 365 y Office</a>.</td>
+<td>El software cliente en línea como Power BI Desktop debe estar en un nivel mínimo según se define en los requisitos del sistema para Microsoft 365 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">y Office</a>.</td>
 </tr>
 <tr class="even">
 <td><strong>Project Online</strong></td>
@@ -1040,7 +1057,7 @@ Si procede, también proporcionamos instrucciones para:
 <li>  Configuración del grupo de recursos de empresa (ERP).  </li>
 <li>  Creación del primer proyecto.  </li>
 </ul></td>
-<td>El software cliente en línea como Project para Office 365 debe estar en un nivel mínimo según se define en los requisitos del sistema <a href="https://go.microsoft.com/fwlink/?LinkID=723597">para Microsoft 365 y Office</a>.</td>
+<td>El software cliente en línea como Project para Office 365 debe estar en un nivel mínimo según se define en los requisitos del sistema para Microsoft 365 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">y Office</a>.</td>
 </tr>
 <tr class="odd">
 <td><strong>Project Online Professional y Premium</strong></td>
@@ -1053,7 +1070,7 @@ Si procede, también proporcionamos instrucciones para:
 <li>  Configurar un servidor de distribución in situ único para Cliente de escritorio de Project Online, incluida la ayuda para crear un archivo configuration.xml para usarlo con la Herramienta de implementación de Office 365.  </li>
 <li>  Conectar Cliente de escritorio de Project Online a Project Online Professional o Project Online Premium.  </li>
 </ul></td>
-<td>El software cliente en línea como Project para Office 365 debe estar en un nivel mínimo según se define en los requisitos del sistema <a href="https://go.microsoft.com/fwlink/?LinkID=723597">para Microsoft 365 y Office</a>.</td>
+<td>El software cliente en línea como Project para Office 365 debe estar en un nivel mínimo según se define en los requisitos del sistema para Microsoft 365 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">y Office</a>.</td>
 </tr>
 <tr class="even">
 <td><strong>SharePoint Online y OneDrive para la Empresa</strong></td>
@@ -1069,35 +1086,35 @@ Si procede, también proporcionamos instrucciones para:
 <li>  Configuración de las características de Entorno híbrido de SharePoint, como la búsqueda híbrida, los sitios híbridos, la taxonomía híbrida, los tipos de contenido, la creación híbrida de sitios sin intervención del administrador (solo SharePoint Server 2013), el iniciador de aplicaciones extendido, OneDrive para la Empresa híbrido y los sitios de extranet.  </li>
 <li>  Su enfoque de migración.  </li>
 </ul>
-Se proporcionan instrucciones adicionales para OneDrive para la Empresa en función de la versión de SharePoint, como:
+Se proporcionan instrucciones adicionales para OneDrive para la Empresa según la versión SharePoint, como:
 <ul>
 <li>  Identificar las opciones de integración y revisar el ancho de banda y la infraestructura de red local y en línea.  </li>
-<li>  Instalación de SharePoint Online 2013 SP1 (si corresponde), planeación e implementación de requisitos de sincronización e identidad, e identificación del cliente de sincronización de OneDrive para la Empresa.  </li>
+<li>  Instalar SharePoint Online 2013 SP1 (si corresponde), planear e implementar requisitos de sincronización e identidad, e identificar el OneDrive para la Empresa de sincronización.  </li>
 <li>  Planeación e implementación de un solo lanzamiento para todos los usuarios (o un lanzamiento por fases).  </li>
 <li>  Asignar licencias, redirigir Mis sitios y bibliotecas de documentos personales a Office 365 (aplicable a SharePoint Online 2013), configurar audiencias para controlar el acceso a OneDrive (aplicable a SharePoint Online 2013).  </li>
 <li>Redirigir o mover carpetas conocidas a OneDrive.</li>
-<li>  Implementación de la sincronización de cliente de OneDrive para la Empresa.  </li>
+<li>  Implementar la sincronización OneDrive para la Empresa cliente.  </li>
 </ul>
   <strong>Migración de datos</strong>  <br>
 Para obtener información sobre cómo usar la ventaja de FastTrack para la migración de datos a Office 365, vea <a href="/fasttrack/data-migration">Data Migration</a>.
 </ul></td>
 <td><br><strong>Para SharePoint híbrido:</strong>  
 <ul>
-<li>  La configuración híbrida de SharePoint incluye la configuración de búsqueda híbrida, sitios, taxonomía, tipos de contenido, OneDrive para la Empresa, un iniciador de aplicaciones extendido, sitios de extranet y creación de sitios de autoservicio conectados desde local a un único entorno de SharePoint Online de destino.  </li>
+<li>  SharePoint configuración híbrida incluye la configuración de búsqueda híbrida, sitios, taxonomía, tipos de contenido, OneDrive para la Empresa, un iniciador de aplicaciones extendido, sitios de extranet y creación de sitios de autoservicio conectados desde local a un único entorno de SharePoint Online de destino.  </li>
 </ul>
-  <strong>Nota:</strong> La creación de sitios sin servicio no está en el ámbito con servidores locales que ejecutan SharePoint 2013.  
+  <strong>Nota:</strong> La creación de sitios sin servicio no está en el ámbito con servidores locales que se ejecutan SharePoint 2013.  
 <ul>
-<li>  Para habilitar SharePoint híbrido, debe tener uno de los siguientes entornos locales de SharePoint Server: 2013, 2016 o 2019.  </li>
+<li>  Para habilitar SharePoint híbrido, debe tener uno de los siguientes entornos de servidor SharePoint locales: 2013, 2016 o 2019.  </li>
 </ul>
-  <strong>Nota:</strong> La actualización de entornos locales de SharePoint a SharePoint Server no está en el ámbito. Póngase en contacto <a href="https://go.microsoft.com/fwlink/?linkid=2080150">con un partner de Microsoft</a> para obtener ayuda. Para obtener más información, vea <a href="https://go.microsoft.com/fwlink/?linkid=853548">Minimum public update levels for SharePoint hybrid features</a><em>.</em>  <br>
-  <strong>Nota:</strong> Para obtener información sobre las capacidades multigeós, vea <a href="https://go.microsoft.com/fwlink/?linkid=831056">Multi-Geo Capabilities in OneDrive and SharePoint Online in Office 365</a><em>.</em>  </td>
+  <strong>Nota:</strong> La actualización de entornos SharePoint locales a SharePoint server no está en el ámbito. Póngase en contacto <a href="https://go.microsoft.com/fwlink/?linkid=2080150">con un partner de Microsoft</a> para obtener ayuda. Para obtener más información, vea <a href="https://go.microsoft.com/fwlink/?linkid=853548">Minimum public update levels for SharePoint hybrid features</a><em>.</em>  <br>
+  <strong>Nota:</strong> Para obtener información sobre las capacidades multigeo, vea <a href="https://go.microsoft.com/fwlink/?linkid=831056">Multi-Geo Capabilities in OneDrive and SharePoint Online in Office 365</a><em>.</em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
 <td>
-Proporcionamos instrucciones remotas para habilitar el servicio Yammer Enterprise.  
+Proporcionamos instrucciones remotas para habilitar el Yammer Enterprise servicio.  
 </td>
-<td>El software cliente en línea debe estar en un nivel mínimo tal como se define en los requisitos del sistema <a href="https://go.microsoft.com/fwlink/?LinkID=723597">para Microsoft 365 y Office</a>.</td>
+<td>El software cliente en línea debe estar en un nivel mínimo según se define en los requisitos del sistema para Microsoft 365 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">y Office</a>.</td>
 </tr>
 </tbody>
 </table>
@@ -1105,29 +1122,34 @@ Proporcionamos instrucciones remotas para habilitar el servicio Yammer Enterpris
 ## <a name="enterprise-mobility--security"></a>Enterprise Mobility + Security 
 
 <table>
+<colgroup>
+<col span="1" style="width: 15%;">
+<col span="1" style="width: 45%;">
+<col span="1" style="width: 40%;">
+</colgroup>
 <thead>
 <tr class="header">
-<th><strong>Servicio</strong></th>
-<th><strong>Detalles de instrucciones de FastTrack</strong></th>
-<th><strong>Expectativas del entorno de origen</strong></th>
+<th>Servicio</th>
+<th>Detalles de instrucciones de FastTrack</th>
+<th>Expectativas del entorno de origen</th>
 </tr>
 </thead>
 <tbody>
 <tr class="even">
 <td><strong>Azure Active Directory (Azure AD) y Azure AD Premium</strong></td>
-<td>  Para obtener más información, vea <strong> Azure Active Directory (Azure AD) y Azure AD Premium</strong> en Seguridad y <a href="/fasttrack/products-and-capabilities#security-and-compliance">cumplimiento</a>.</td>
+<td>  Para obtener más información, <strong>vea Azure Active Directory (Azure AD) y Azure AD Premium</strong> en Seguridad y <a href="/fasttrack/products-and-capabilities#security-and-compliance">cumplimiento</a>.</td>
 <td></td>
 </tr>
-<tr class="odd">#seguridad y cumplimiento
+<tr class="odd">
 <td><strong>Azure Information Protection </strong></td>
-<td>  Para obtener más información sobre Azure Information Protection, vea <strong>Microsoft Information Protection</strong> in Security and <a href="/fasttrack/products-and-capabilities#security-and-compliance">Compliance</a>.  </td>
+<td>  Para obtener más información sobre Azure Information Protection, consulte <strong>Microsoft Information Protection</strong> <a href="/fasttrack/products-and-capabilities#security-and-compliance">en Security and Compliance</a>.  </td>
 <td>  
   
 </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  Para obtener más información, vea <strong> Microsoft Intune</strong> in Security <a href="/fasttrack/products-and-capabilities#security-and-compliance">and Compliance</a>.
+<td>  Para obtener más información, <strong>vea Microsoft Intune</strong> en Seguridad <a href="/fasttrack/products-and-capabilities#security-and-compliance">y cumplimiento</a>.
   </td>
 <td>  
   
@@ -1139,11 +1161,16 @@ Proporcionamos instrucciones remotas para habilitar el servicio Yammer Enterpris
 ## <a name="windows-10"></a>Windows 10
 
 <table>
+<colgroup>
+<col span="1" style="width: 15%;">
+<col span="1" style="width: 45%;">
+<col span="1" style="width: 40%;">
+</colgroup>
 <thead>
 <tr class="header">
-<th><strong>Servicio</strong></th>
-<th><strong>Detalles de instrucciones de FastTrack</strong></th>
-<th><strong>Expectativas del entorno de origen</strong></th>
+<th>Servicio</th>
+<th>Detalles de instrucciones de FastTrack</th>
+<th>Expectativas del entorno de origen</th>
 </tr>
 </thead>
 <tbody>
@@ -1152,17 +1179,17 @@ Proporcionamos instrucciones remotas para habilitar el servicio Yammer Enterpris
 <td>  Proporcionamos instrucciones para actualizar de Windows 7 Professional y Windows 8.1 Professional a Windows 10 Enterprise.  
   Proporcionamos instrucciones remotas para:
 <ul>
-<li>  Comprender la intención de Windows 10.  </li>
-<li>  Evaluar el entorno de origen y los requisitos (asegúrese de que Microsoft Endpoint Configuration Manager se actualice al nivel requerido para admitir la implementación de Windows 10).  </li>
-<li>  Implementación de Aplicaciones de Windows 10 Enterprise y Microsoft 365 con Microsoft Endpoint Configuration Manager o Microsoft 365.  </li>
-<li>  Te recomendamos opciones para evaluar tus aplicaciones de Windows 10.  </li>
+<li>  Comprender su Windows 10 intenciones.  </li>
+<li>  Evaluar el entorno de origen y los requisitos (asegúrese de que Microsoft Endpoint Configuration Manager se actualice al nivel requerido para admitir la Windows 10 implementación).  </li>
+<li>  Implementar Windows 10 Enterprise y Aplicaciones Microsoft 365 mediante Microsoft Endpoint Configuration Manager o Microsoft 365.  </li>
+<li>  Te recomendamos opciones para que evalúes tus Windows 10 aplicaciones.  </li>
 <li>  Habilitar el uso de Análisis de escritorio y la guía mediante la creación de un plan de implementación de Desktop Analytics.  </li>
-<li>  Evaluación de compatibilidad de Aplicaciones de Microsoft 365 aprovechando el panel de preparación de Office 365 en Configuration Manager o con readiness toolkit independiente para Office, además de asistencia para implementar Aplicaciones de Microsoft 365.  </li>
+<li>  Aplicaciones Microsoft 365 de compatibilidad aprovechando el panel de preparación de Office 365 en Configuration Manager o con el Toolkit de preparación independiente para Office además de la asistencia para implementar Aplicaciones Microsoft 365.  </li>
 <li>  Crear una lista de comprobación de corrección sobre lo que necesita hacer para que el entorno de origen se asemeja a los requisitos mínimos para una implementación correcta.  </li>
-<li>  Proporcionar instrucciones de actualización para los dispositivos existentes a Windows 10 Enterprise si cumplen los requisitos de hardware del dispositivo necesarios.  </li>
+<li>  Proporcionar instrucciones de actualización para que los dispositivos existentes Windows 10 Enterprise si cumplen los requisitos de hardware del dispositivo necesarios.  </li>
 <li>  Proporcionar instrucciones de actualización para admitir el movimiento de implementación existente. FastTrack recomienda y proporciona instrucciones para una actualización local a Windows 10. Las instrucciones también están disponibles para la instalación de imágenes limpias y escenarios de implementación de Windows Autopilot.  </li>
-<li>  Implementar aplicaciones de Microsoft 365 con Configuration Manager como parte de la implementación de Windows 10.   </li>
-<li>  Proporcionar instrucciones para ayudar a su organización a mantenerse al día con Las aplicaciones de Windows 10 Enterprise y Microsoft 365 con su entorno de Configuration Manager existente o Microsoft 365.  </li>
+<li>  Implementar Aplicaciones Microsoft 365 con Configuration Manager como parte de la Windows 10 implementación.   </li>
+<li>  Proporcionar instrucciones para ayudar a su organización a mantenerse al día con Windows 10 Enterprise y Aplicaciones Microsoft 365 el entorno de Configuration Manager existente o Microsoft 365.  </li> 
 </ul>
   
 <strong>Lo siguiente está fuera del ámbito </strong>  
@@ -1181,12 +1208,12 @@ Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto c
 <ul>
 <li>  Sistema operativo de origen: Windows 7 Enterprise o Professional, Windows 8.1 Enterprise o Professional.  </li>
 <li>  Dispositivos: factor de forma de escritorio, bloc de notas o tableta.  </li>
-<li>  Sistema operativo de destino: Ventana 10 Enterprise.  </li>
+<li>  Sistema operativo de destino: ventana 10 Enterprise.  </li>
 </ul>
 Para actualizar la infraestructura, debe cumplir con estos requisitos:
 <ul>
 <li>  Microsoft Endpoint Configuration Manager.  </li>
-<li>  La versión de Configuration Manager debe ser compatible con la versión de destino de Windows 10. Para obtener más información, vea la tabla de soporte técnico de Configuration Manager en <a href="/sccm/core/plan-design/configs/support-for-windows-10">Soporte para Windows 10 en Configuration Manager</a>.  </li>
+<li>  La versión de Configuration Manager debe ser compatible con la Windows 10 de destino. Para obtener más información, vea la tabla de soporte técnico de Configuration Manager en <a href="/sccm/core/plan-design/configs/support-for-windows-10">Soporte para Windows 10 en Configuration Manager</a>.  </li>
 </ul>
 
 <tr class="odd">
@@ -1200,30 +1227,35 @@ Para actualizar la infraestructura, debe cumplir con estos requisitos:
 ## <a name="windows-virtual-desktop"></a>Windows Virtual Desktop
 
 <table>
+<colgroup>
+<col span="1" style="width: 15%;">
+<col span="1" style="width: 45%;">
+<col span="1" style="width: 40%;">
+</colgroup>
 <thead>
 <tr class="header">
-<th><strong>Servicio</strong></th>
-<th><strong>Detalles de instrucciones de FastTrack</strong></th>
-<th><strong>Expectativas del entorno de origen</strong></th>
+<th>Servicio</th>
+<th>Detalles de instrucciones de FastTrack</th>
+<th>Expectativas del entorno de origen</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><strong>Windows Virtual Desktop</strong></td>
-<td><p>Proporcionamos instrucciones de implementación para la incorporación a Windows Virtual Desktop (un servicio de virtualización de aplicaciones y escritorio). Windows Virtual Desktop aprovecha la experiencia de varias sesiones de Windows 10 y está optimizado para Aplicaciones de Microsoft 365 para empresas con seguridad y administración integradas para Microsoft 365.</p>
+<td><p>Proporcionamos instrucciones de implementación para la incorporación Windows Virtual Desktop (un servicio de virtualización de aplicaciones y escritorio). Windows Virtual Desktop aprovecha la Windows 10 de varias sesiones y está optimizado para Aplicaciones Microsoft 365 para Enterprise con seguridad y administración integradas para Microsoft 365.</p>
 <p>Proporcionamos instrucciones remotas para:</p>
 <ul>
-<li>Implementación de windows 10 Enterprise multi-sesión y aplicaciones de Microsoft 365 para empresas con lo siguiente:
+<li>La implementación Windows 10 Enterprise varias sesiones y Aplicaciones Microsoft 365 para Enterprise mediante lo siguiente:
 <ul>
 <li>Imagen de Azure Marketplace.</li>
 <li>Imagen compartida.</li>
-<li>Office Deployment Toolkit (ODT).</li>
+<li>Office Implementación Toolkit (ODT).</li>
 </ul></li>
-<li>Configuración de aplicaciones de Microsoft 365 para FSLogix en un escritorio virtual nativo de Windows. Para FSLogix:
+<li>Configuración de Aplicaciones Microsoft 365 FSLogix en un escritorio Windows Virtual Desktop. Para FSLogix:
 <ul>
 <li>Implementación del agente.</li>
-<li>Configuración de contenedores de Perfil y Office.</li>
-<li>Configuración de exclusiones de contenido y redireccionamientos de carpetas para aplicaciones de Microsoft 365.</li>
+<li>Configuración de contenedores de Office perfil.</li>
+<li>Configuración de exclusiones de contenido y redireccionamientos de carpetas para Aplicaciones Microsoft 365.</li>
 </ul></li>
 <li>Implementación de Microsoft Edge.</li>
 <li>Implementación de Microsoft Teams con optimización.</li>
@@ -1231,22 +1263,22 @@ Para actualizar la infraestructura, debe cumplir con estos requisitos:
 
 <strong>Lo siguiente está fuera del ámbito</strong>
 <ul>
-<li>Administración de proyectos de la implementación de la infraestructura de Windows Virtual Desktop del cliente.</li>
+<li>Project administración de la implementación de la infraestructura de Escritorio virtual Windows cliente.</li>
 <li>Implementación y virtualización de aplicaciones de terceros.</li>
 <li>Creación de imágenes personalizadas para Windows Virtual Desktop.</li>
 <li>Migraciones y escenarios en los que participan VMware y Citrix.</li>
 <li>Escenarios de Linux.</li>
 <li>Conversión o migraciones de perfiles de usuario.</li>
-<li>Configuración de Microsoft Endpoint Configuration Manager y Microsoft Endpoint Manager para Windows Virtual Desktop (incluidas las revisiones y la administración). </li>
-<li>Microsoft 365 Defender con Windows 10 multi-sesión.</li>
+<li>Microsoft Endpoint Configuration Manager y Microsoft Endpoint Manager configuración para Windows Virtual Desktop (incluida la aplicación de revisiones y la administración). </li>
+<li>Microsoft 365 Defender con Windows 10 sesión múltiple.</li>
 </ul>
 Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto con un partner de Microsoft</a> para obtener ayuda con estos servicios.</td>
 <td>Ya debería tener lo siguiente:
 <ul>
-<li><a href="/azure/virtual-desktop/overview#requirements">Requisitos de licencias de Windows Virtual Desktop</a>.</li>
-<li> La <a href="/azure/virtual-desktop/overview"> infraestructura necesaria para admitir Windows Virtual Deskstop</a>. </li>
+<li><a href="/azure/virtual-desktop/overview#requirements">Windows de licencias de Escritorio virtual</a>.</li>
+<li> La <a href="/azure/virtual-desktop/overview">infraestructura necesaria para admitir Windows Virtual Deskstop</a>. </li>
 <ul>
-<li><a href="/azure/virtual-desktop/store-fslogix-profile"> Almacenamiento para contenedores de perfil FSLogix en Windows Virtual Deskstop</a>. </li>
+<li><a href="/azure/virtual-desktop/store-fslogix-profile">Storage contenedores de perfil FSLogix en Windows Virtual Deskstop</a>. </li>
 </ul>
 <li>Redes de Azure:
 <ul>
@@ -1254,7 +1286,7 @@ Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto c
 <li>Firewall y grupos de seguridad de red.</li>
 <li>VPN y ExpressRoute.</li>
 <li>Enrutamiento a Azure desde local.</li>
-<li>Reglas de firewall para permitir la conectividad a Windows Virtual Desktop.
+<li>Reglas de firewall para permitir la conectividad Windows Escritorio virtual.
 </ul>
 Para obtener más información, vea <a href="/azure/virtual-desktop/overview#supported-remote-desktop-clients">Supported Remote Desktop clients</a>.
 </ul>
@@ -1262,8 +1294,8 @@ Para obtener más información, vea <a href="/azure/virtual-desktop/overview#sup
 <ul>
 <li>Estrategia de <i>identidad (solo puede usar una de las tres opciones siguientes):</i>
 <ul>
-<li>Active Directory con Azure AD Connect en Azure.</li>
-<li>Active Directory con Azure AD Connect local a través de VPN o ExpressRoute.</li>
+<li>Active Directory con Azure AD Conectar azure.</li>
+<li>Active Directory con Azure AD Conectar local a través de VPN o ExpressRoute.</li>
 <li>Servicios de dominio de Active Directory (AD DS).</li>
 </ul></li>
 </ul></li>
@@ -1276,22 +1308,27 @@ Para obtener más información, vea <a href="/azure/virtual-desktop/overview#sup
 
 
 <table>
+<colgroup>
+<col span="1" style="width: 15%;">
+<col span="1" style="width: 45%;">
+<col span="1" style="width: 40%;">
+</colgroup>
 <thead>
 <tr class="header">
-<th><strong>Servicio</strong></th>
-<th><strong>Detalles de instrucciones de FastTrack</strong></th>
-<th><strong>Expectativas del entorno de origen</strong></th>
+<th>Servicio</th>
+<th>Detalles de instrucciones de FastTrack</th>
+<th>Expectativas del entorno de origen</th>
 </tr>
 </thead>
 <tbody>
 <tr class="even">
 <td><strong>Asesoría de aplicaciones</strong></td>
-<td>  App Assure es un servicio diseñado para solucionar problemas relacionados con la compatibilidad de aplicaciones de Windows 10 y Aplicaciones de Microsoft 365. Cuando solicitas el servicio App Assure, trabajamos contigo para solucionar problemas válidos de la aplicación sin ningún costo adicional para ti con una suscripción elegible. También proporcionamos instrucciones a los clientes que se enfrentan a problemas de compatibilidad al implementar Windows Virtual Desktop y Microsoft Edge y hacemos todos los esfuerzos razonables para resolver problemas de compatibilidad. Proporcionamos asistencia de corrección para las aplicaciones implementadas en los siguientes productos de Microsoft:
+<td>  App Assure es un servicio diseñado para solucionar problemas con Windows 10 y Aplicaciones Microsoft 365 de aplicaciones. Cuando solicitas el servicio App Assure, trabajamos contigo para solucionar problemas válidos de la aplicación sin ningún costo adicional para ti con una suscripción elegible. También proporcionamos instrucciones a los clientes que se enfrentan a problemas de compatibilidad al implementar Windows Escritorio virtual y Microsoft Edge y hacemos todos los esfuerzos razonables para resolver problemas de compatibilidad. Proporcionamos asistencia de corrección para las aplicaciones implementadas en los siguientes productos de Microsoft:
 <ul>
-<li>  <strong>Windows 10 </strong> (incluidos los dispositivos ARM64)</li>
-<li> <strong>Aplicaciones de Microsoft 365</strong>  </li>
-<li>  <strong>Microsoft Edge :</strong> Para obtener instrucciones de implementación, vea <a href="/DeployEdge/microsoft-edge-channels">Overview of the Microsoft Edge channels</a>.  </li>
-<li>  <strong>Escritorio virtual de</strong> - Windows Para obtener más información, consulta <a href="/azure/virtual-desktop/overview">¿Qué es Windows Virtual Desktop?</a> y Preguntas más frecuentes sobre <a href="/azure/virtual-desktop/windows-10-multisession-faq">las múltiples sesiones de Windows 10 Enterprise</a>.  </li>
+<li>  <strong>Windows 10</strong> (incluidos los dispositivos ARM64)</li>
+<li> <strong>Aplicaciones Microsoft 365</strong>  </li>
+<li>  <strong>Microsoft Edge -</strong> Para obtener instrucciones de implementación, vea <a href="/DeployEdge/microsoft-edge-channels">Overview of the Microsoft Edge channels</a>.  </li>
+<li>  <strong>Windows Virtual Desktop</strong> - Para obtener más información, vea <a href="/azure/virtual-desktop/overview">What is Windows Virtual Desktop?</a> y Windows 10 Enterprise preguntas más frecuentes de varias <a href="/azure/virtual-desktop/windows-10-multisession-faq">sesiones.</a>  </li>
 </ul>
 
 <strong>Lo siguiente está fuera del ámbito </strong>  
@@ -1312,7 +1349,7 @@ Para obtener más información, vea <a href="/azure/virtual-desktop/overview#sup
   Póngase en <a href="https://go.microsoft.com/fwlink/?linkid=2080150">contacto con un partner de Microsoft</a> para obtener ayuda con estos servicios.  </td>
 
 </td>
-<td><strong>Aplicaciones de Windows 10 y Microsoft 365</strong>
+<td><strong>Windows 10 y Aplicaciones Microsoft 365</strong>
 <ul>
 <li>  
   Las aplicaciones que funcionaban en Windows 7, Windows 8.1, Office 2010 y Office 2013 también funcionan en Windows 10 y en las Aplicaciones de Microsoft 365.  
@@ -1321,17 +1358,17 @@ Para obtener más información, vea <a href="/azure/virtual-desktop/overview#sup
 <strong>Windows 10 en ARM</strong>
 <ul>
 <li>  
-Las aplicaciones que funcionaron en Windows 7, Office 2010 o versiones posteriores también funcionan en Aplicaciones de Windows 10 y Microsoft 365 en dispositivos ARM64. 
+Las aplicaciones que funcionaban Windows 7, Office 2010 o versiones posteriores también funcionan en Windows 10 y Aplicaciones Microsoft 365 dispositivos ARM64. 
   </li>
 </ul>
   <strong>Nota:</strong> 
 <ul>
-<li> La emulación de x64 (64 bits) está disponible en versión preliminar para los clientes que participan en <a href="https://insider.windows.com/">el Programa Windows Insider</a>.  </li>
+<li> La emulación x64 (64 bits) está disponible en versión preliminar para los clientes que participan en el <a href="https://insider.windows.com/">Windows Insider Program</a>.  </li>
 <li>  
- Para clientes que no son de Windows Insider en Windows 10 versión 2004 (o posterior), ARM64 Photoshop es compatible con OpenCL y <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenGL Compatibility Pack.</a> 
+ Para clientes no Windows Insider en Windows 10 versión 2004 (o posterior), ARM64 Photoshop es compatible con OpenCL y <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenGL Compatibility Pack</a>. 
   </li>
 <li>  
-  Los clientes del Programa Windows Insider pueden descargar una versión insider del OpenCL y el Paquete de compatibilidad de OpenGL para usarlo con aplicaciones adicionales.    
+  Los clientes del programa Windows Insider pueden descargar una versión insider del Paquete de compatibilidad de OpenCL y OpenGL para usarla con aplicaciones adicionales.    
   </li>
 </ul>
 <strong>Microsoft Edge</strong>
@@ -1340,22 +1377,22 @@ Las aplicaciones que funcionaron en Windows 7, Office 2010 o versiones posterior
   Si las aplicaciones web o los sitios funcionan en Internet Explorer 11, las versiones compatibles de Google Chrome o cualquier versión de Microsoft Edge, también funcionarán con Microsoft Edge.  
   </li>
 <li>  
-  A medida que la web está en constante evolución, asegúrese de revisar esta lista publicada de cambios que afectan a la compatibilidad de sitios <a href="/microsoft-edge/web-platform/site-impacting-changes">conocidos para Microsoft Edge.</a>  
+  A medida que la web está en constante evolución, asegúrese de revisar esta lista publicada de cambios conocidos que afectan a la compatibilidad de sitios para <a href="/microsoft-edge/web-platform/site-impacting-changes">Microsoft Edge</a>.  
   </li>
 </ul>
-  <strong>Escritorio virtual de Windows </strong>  
+  <strong>Windows Escritorio virtual</strong>  
 <ul>
 <li>  
   Las aplicaciones virtualizadas que se ejecutan en el host de sesión de Escritorio remoto (RDSH) de Windows Server también se ejecutan en Windows 10 Enterprise multisesión como parte de Windows Virtual Desktop.  
   </li>
 <li>  
-  Las aplicaciones que se ejecutan en cualquier entorno de infraestructura de escritorio virtual (VDI) de Windows 7 o Windows 10 también se ejecutan en Windows 7 Enterprise y Windows 10 Enterprise como parte de Windows Virtual Desktop.  
+  Las aplicaciones que se ejecutan en cualquier entorno de infraestructura de escritorio virtual (VDI) Windows 7 o Windows 10 también se ejecutan en Windows 7 Enterprise y Windows 10 Enterprise como parte de Windows Virtual Desktop.  
   </li>
 <li>  
   Las aplicaciones que se ejecutan en dispositivos cliente con Windows 7 o Windows 10 también se ejecutan en Windows 7 Enterprise y Windows 10 Enterprise como parte de Windows Virtual Desktop.  
   </li>
 </ul>
-  <strong>Nota:</strong> Las exclusiones y limitaciones de compatibilidad de varias sesiones de Windows 10 Enterprise incluyen:
+  <strong>Nota: Windows 10 Enterprise</strong> exclusiones y limitaciones de compatibilidad de varias sesiones incluyen:
 <ul>
 <li>  
   Redirección limitada del hardware.  
@@ -1375,11 +1412,16 @@ Las aplicaciones que funcionaron en Windows 7, Office 2010 o versiones posterior
 
 
 <table>
+<colgroup>
+<col span="1" style="width: 15%;">
+<col span="1" style="width: 45%;">
+<col span="1" style="width: 40%;">
+</colgroup>
 <thead>
 <tr class="header">
-<th><strong>Servicio</strong></th>
-<th><strong>FastTrack de instrucciones</strong></th>
-<th><strong>Expectativas del entorno de origen</strong></th>
+<th>Servicio</th>
+<th>Detalles de instrucciones de FastTrack</th>
+<th>Expectativas del entorno de origen</th>
 </tr>
 </thead>
 <tbody>
@@ -1389,7 +1431,7 @@ Las aplicaciones que funcionaron en Windows 7, Office 2010 o versiones posterior
 Proporcionamos ayuda para la compatibilidad y la implementación remota y la adopción para: <ul> <li>Implementación de Microsoft Edge en Windows 10 con Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager o Intune).  </li>
 <li>  Configuración de Microsoft Edge (mediante directivas de grupo o configuración de aplicaciones de Intune y directivas de aplicaciones).  </li>
 <li>  Inventario de la lista de sitios que pueden requerir su uso en modo Internet Explorer.  </li>
-<li>  Habilitar el modo de Internet Explorer con la lista Enterprise sitio existente. (Para obtener más información, vea <a href="/fasttrack/process-and-expectations#engaging-fasttrack">Engaging FastTrack</a>. Además, si tienes una aplicación web o un sitio que funciona con Internet Explorer o Google Chrome y tienes problemas de compatibilidad, te ofrecemos instrucciones para resolver el problema sin costo adicional. Para solicitar compatibilidad con App Assure, inicie sesión en el <a href="https://fasttrack.microsoft.com/portal#/signin">portal de FastTrack para</a> iniciar una interacción.  </li>
+<li>  Habilitar el modo de Internet Explorer con la lista Enterprise sitio existente. (Para obtener más información, vea <a href="/fasttrack/process-and-expectations#engaging-fasttrack">Engaging FastTrack</a>. Además, si tienes una aplicación web o un sitio que funciona con Internet Explorer o Google Chrome y tienes problemas de compatibilidad, te ofrecemos instrucciones para resolver el problema sin costo adicional. Para solicitar compatibilidad con App Assure, inicie sesión en el <a href="https://fasttrack.microsoft.com/portal#/signin">portal de FastTrack</a> para iniciar una interacción.  </li>
 <li> Instrucciones de planeación para la adopción y configuración perimetrales para Búsqueda de Microsoft marcadores.</li>
 </ul>
 
